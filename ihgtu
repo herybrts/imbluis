@@ -1,7 +1,10 @@
 #EXTM3U
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
 
-
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/05/film-stockholm-bloodbath-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",FIREFLY (2024) 
+https://stream.hownetwork.xyz/xxx/firefly-2024-webdl_X_3400e79b/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/05/film-bungalow-section-12-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",BUNGALOW SECTION 12 (2024)
+https://stream.hownetwork.xyz/xxx/bungalow-section-12-2024-webdl_X_8921061c/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/05/film-stockholm-bloodbath-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",STOCKHOLM BLOODBATH (2024) 
 https://stream.hownetwork.xyz/xxx/stockholm-bloodbath-2024-webdl_X_aed1bb57/10/480.m3u8
 #EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2024/04/film-siren-2024-lk21-d21.jpg" group-title="HOLLYWOOD CINEMA",SIREN (2024)
