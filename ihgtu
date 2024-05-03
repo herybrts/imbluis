@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
 
-#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/05/film-stockholm-bloodbath-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",FIREFLY (2024) 
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/05/film-firefly-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",FIREFLY (2024) 
 https://stream.hownetwork.xyz/xxx/firefly-2024-webdl_X_3400e79b/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/05/film-bungalow-section-12-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",BUNGALOW SECTION 12 (2024)
 https://stream.hownetwork.xyz/xxx/bungalow-section-12-2024-webdl_X_8921061c/22/480.m3u8
@@ -3798,6 +3798,616 @@ https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.m
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
 
+
+#EXTM3U
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="RTHK32"  group-title="WANJIA TV",RTHK32
+http://wanjiatv.net/smartv.php?id=rhk32_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="RTHK31"  group-title="WANJIA TV",RTHK31
+http://wanjiatv.net/smartv.php?id=rhk31_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="PHOENIX TV"  group-title="WANJIA TV",PHOENIX TV
+http://wanjiatv.net/smartv.php?id=phoenixtv_hd
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="WIRELESS FINANCIAL INFORMATION"  group-title="WANJIA TV",WIRELESS FINANCIAL INFORMATION
+http://wanjiatv.net/smartv.php?id=tvbcaijing_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="VIUTV1"  group-title="WANJIA TV",VIUTV1
+http://wanjiatv.net/smartv.php?id=viu1_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="WIRELESS NEWS"  group-title="WANJIA TV",WIRELESS NEWS
+http://wanjiatv.net/smartv.php?id=inews_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="LONGHUA DRAMA"  group-title="WANJIA TV",LONGHUA DRAMA
+http://wanjiatv.net/smartv.php?id=lunghuaxiju_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="LONGHUA IDOL"  group-title="WANJIA TV",LONGHUA IDOL
+http://wanjiatv.net/smartv.php?id=lunghuaidol_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="LONGHUA CARTOON"  group-title="WANJIA TV",LONGHUA CARTOON
+http://wanjiatv.net/smartv.php?id=jingtiancartoon_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="FEIFAN NEWS"  group-title="WANJIA TV",FEIFAN NEWS
+http://wanjiatv.net/smartv.php?id=feifannews_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="MEIYA MOVIE"  group-title="WANJIA TV",MEIYA MOVIE
+http://wanjiatv.net/smartv.php?id=meiyamovie_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ARIRANG"  group-title="WANJIA TV",ARIRANG
+http://wanjiatv.net/smartv.php?id=arirang_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="HOLLYWOOD MOVIES"  group-title="WANJIA TV",HOLLYWOOD MOVIES
+http://wanjiatv.net/smartv.php?id=hollywoodmovies_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ELTASPORT2"  group-title="WANJIA TV",ELTASPORT2
+http://wanjiatv.net/smartv.php?id=eltasport2_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ELTASPORT 1"  group-title="WANJIA TV",ELTASPORT 1
+http://wanjiatv.net/smartv.php?id=eltasport_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="FTV NEWS"  group-title="WANJIA TV",FTV NEWS
+http://wanjiatv.net/smartv.php?id=ftvnew_taiwan
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="FTV TAIWAN"  group-title="WANJIA TV",FTV TAIWAN
+http://wanjiatv.net/smartv.php?id=ftvtaiwan_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="FTV"  group-title="WANJIA TV",FTV
+http://wanjiatv.net/smartv.php?id=ftvhd_taiwan
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="NEWS OF THE TIMES"  group-title="WANJIA TV",NEWS OF THE TIMES
+http://wanjiatv.net/smartv.php?id=niandainews_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DAAI 1"  group-title="WANJIA TV",DAAI 1
+http://wanjiatv.net/smartv.php?id=daai_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BOSIGOLF2"  group-title="WANJIA TV",BOSIGOLF2
+http://wanjiatv.net/smartv.php?id=bosigolf2_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BOSISPORT2"  group-title="WANJIA TV",BOSISPORT2
+http://wanjiatv.net/smartv.php?id=bosisport2_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BOSISPORT1"  group-title="WANJIA TV",BOSISPORT1
+http://wanjiatv.net/smartv.php?id=bosisport1_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BOSITENNIS"  group-title="WANJIA TV",BOSITENNIS
+http://wanjiatv.net/smartv.php?id=bositennis_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CHINA TELEVISION"  group-title="WANJIA TV",CHINA TELEVISION
+http://wanjiatv.net/smartv.php?id=ctshd_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="PUBLIC TELEVISION"  group-title="WANJIA TV",PUBLIC TELEVISION
+http://wanjiatv.net/smartv.php?id=ctv_taiwan
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="EIGHT COMPREHENSIVE"  group-title="WANJIA TV",EIGHT COMPREHENSIVE
+http://wanjiatv.net/smartv.php?id=badazhonghe
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ZHONGSHI NEWS"  group-title="WANJIA TV",ZHONGSHI NEWS
+http://wanjiatv.net/smartv.php?id=zhongshinews_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CHINA TELEVISION"  group-title="WANJIA TV",CHINA TELEVISION
+http://wanjiatv.net/smartv.php?id=zhongshihd_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ZHONGTIAN ENTERTAINMENT"  group-title="WANJIA TV",ZHONGTIAN ENTERTAINMENT
+http://wanjiatv.net/smartv.php?id=ctient
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ZHONGTIAN ASIA"  group-title="WANJIA TV",ZHONGTIAN ASIA
+http://wanjiatv.net/smartv.php?id=ctiasia_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DONGSEN SUPER VISION"  group-title="WANJIA TV",DONGSEN SUPER VISION
+http://wanjiatv.net/smartv.php?id=ettvsuper
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DONGSEN DRAMA"  group-title="WANJIA TV",DONGSEN DRAMA
+http://wanjiatv.net/smartv.php?id=ettvdrama
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SANLI COMPREHENSIVE"  group-title="WANJIA TV",SANLI COMPREHENSIVE
+http://wanjiatv.net/smartv.php?id=sanlizhonghe
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SANLI DRAMA"  group-title="WANJIA TV",SANLI DRAMA
+http://wanjiatv.net/smartv.php?id=sanlixiju_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DONGSEN MOVIE"  group-title="WANJIA TV",DONGSEN MOVIE
+http://wanjiatv.net/smartv.php?id=ettvmovie
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DONGSEN COMPREHENSIVE"  group-title="WANJIA TV",DONGSEN COMPREHENSIVE
+http://wanjiatv.net/smartv.php?id=ettvzhonghe
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ZHONGTIAN COMPREHENSIVE"  group-title="WANJIA TV",ZHONGTIAN COMPREHENSIVE
+http://wanjiatv.net/smartv.php?id=ctizhonghe
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="EIGHT COMPREHENSIVE"  group-title="WANJIA TV",EIGHT COMPREHENSIVE
+http://wanjiatv.net/smartv.php?id=badazhonghe
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="EIGHT DRAMAS"  group-title="WANJIA TV",EIGHT DRAMAS
+http://wanjiatv.net/smartv.php?id=badadrama
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="EIGHT FIRST PLACES"  group-title="WANJIA TV",EIGHT FIRST PLACES
+http://wanjiatv.net/smartv.php?id=badafirst
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="LITTLE SUN"  group-title="WANJIA TV",LITTLE SUN
+http://wanjiatv.net/smartv.php?id=Xiaotaiyang
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="JINGTIAN CARTOON"  group-title="WANJIA TV",JINGTIAN CARTOON
+http://wanjiatv.net/smartv.php?id=jingtiancartoon_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="JINGTIAN INTERNATIONAL"  group-title="WANJIA TV",JINGTIAN INTERNATIONAL
+http://wanjiatv.net/smartv.php?id=jingtianintl_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TVBS NEWS"  group-title="WANJIA TV",TVBS NEWS
+http://wanjiatv.net/smartv.php?id=tvbs_n
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TVBS"  group-title="WANJIA TV",TVBS
+http://wanjiatv.net/smartv.php?id=tvbs
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="EYETV DRAMA"  group-title="WANJIA TV",EYETV DRAMA
+http://wanjiatv.net/smartv.php?id=eyetvxiju_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="EYETV TRAVEL"  group-title="WANJIA TV",EYETV TRAVEL
+http://wanjiatv.net/smartv.php?id=eyetvtravel_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TVBS JOY"  group-title="WANJIA TV",TVBS JOY
+http://wanjiatv.net/smartv.php?id=tvbshuanle_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ZEE TV HD"  group-title="WANJIA TV",ZEE TV HD
+http://wanjiatv.net/smartv.php?id=Zeetvhd
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="WARNER TV"  group-title="WANJIA TV",WARNER TV
+http://wanjiatv.net/smartv.php?id=WarnerTV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="VIU6"  group-title="WANJIA TV",VIU6
+http://wanjiatv.net/smartv.php?id=viusix_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="VASANTHAM"  group-title="WANJIA TV",VASANTHAM
+http://wanjiatv.net/smartv.php?id=Vasantham
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TVN"  group-title="WANJIA TV",TVN
+http://wanjiatv.net/smartv.php?id=TVN
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TRUE PREMIUM 2 HD"  group-title="WANJIA TV",TRUE PREMIUM 2 HD
+http://wanjiatv.net/smartv.php?id=truepre2_pat
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TRUE PREMIUM 1 HD"  group-title="WANJIA TV",TRUE PREMIUM 1 HD
+http://wanjiatv.net/smartv.php?id=truepre1_pat
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TRANSTV"  group-title="WANJIA TV",TRANSTV
+http://wanjiatv.net/smartv.php?id=Transtv
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TRANS 7"  group-title="WANJIA TV",TRANS 7
+http://wanjiatv.net/smartv.php?id=Trans7_eko
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TNN24"  group-title="WANJIA TV",TNN24
+http://wanjiatv.net/smartv.php?id=tnn24_pat
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="THRILL"  group-title="WANJIA TV",THRILL
+http://wanjiatv.net/smartv.php?id=Thrill
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TAWAF TV"  group-title="WANJIA TV",TAWAF TV
+http://wanjiatv.net/smartv.php?id=TawafTV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TVRI NATIONAL"  group-title="WANJIA TV",TVRI NATIONAL
+http://wanjiatv.net/smartv.php?id=TVRI
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TVMU"  group-title="WANJIA TV",TVMU
+http://wanjiatv.net/smartv.php?id=TVMU_eko
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TV9"  group-title="WANJIA TV",TV9
+http://wanjiatv.net/smartv.php?id=TV9
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TV9 INDONESIA"  group-title="WANJIA TV",TV9 INDONESIA
+http://wanjiatv.net/smartv.php?id=TV9_eko
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TV8"  group-title="WANJIA TV",TV8
+http://wanjiatv.net/smartv.php?id=TV8
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TV3"  group-title="WANJIA TV",TV3
+http://wanjiatv.net/smartv.php?id=TV3
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TV3 BACKUP"  group-title="WANJIA TV",TV3 BACKUP
+http://wanjiatv.net/smartv.php?id=TV3_backup
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TV2"  group-title="WANJIA TV",TV2
+http://wanjiatv.net/smartv.php?id=TV2
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TV1"  group-title="WANJIA TV",TV1
+http://wanjiatv.net/smartv.php?id=TV1
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TPTV"  group-title="WANJIA TV",TPTV
+http://wanjiatv.net/smartv.php?id=tptv_pat
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TLC"  group-title="WANJIA TV",TLC
+http://wanjiatv.net/smartv.php?id=Tlc
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SURIA"  group-title="WANJIA TV",SURIA
+http://wanjiatv.net/smartv.php?id=Suria
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SPORTS 3"  group-title="WANJIA TV",SPORTS 3
+http://wanjiatv.net/smartv.php?id=Assp3
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SPORTS 2"  group-title="WANJIA TV",SPORTS 2
+http://wanjiatv.net/smartv.php?id=Assp2
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SUNNAH HD"  group-title="WANJIA TV",SUNNAH HD
+http://wanjiatv.net/smartv.php?id=sunnah_mido
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SUN MUSIC"  group-title="WANJIA TV",SUN MUSIC
+http://wanjiatv.net/smartv.php?id=sunmusic_raj
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="STAR VIJAY"  group-title="WANJIA TV",STAR VIJAY
+http://wanjiatv.net/smartv.php?id=Starvijay
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="STAR VIJAY INDIA"  group-title="WANJIA TV",STAR VIJAY INDIA
+http://wanjiatv.net/smartv.php?id=starvijay_raj
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SONY SIX HD"  group-title="WANJIA TV",SONY SIX HD
+http://wanjiatv.net/smartv.php?id=sonysix_raj
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SONY HD"  group-title="WANJIA TV",SONY HD
+http://wanjiatv.net/smartv.php?id=SetOne
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SKYNEWS"  group-title="WANJIA TV",SKYNEWS
+http://wanjiatv.net/smartv.php?id=skynews_antik
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SCTV"  group-title="WANJIA TV",SCTV
+http://wanjiatv.net/smartv.php?id=Sctv
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SCM"  group-title="WANJIA TV",SCM
+http://wanjiatv.net/smartv.php?id=Weishimovie
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="RTM SPORTS HD"  group-title="WANJIA TV",RTM SPORTS HD
+http://wanjiatv.net/smartv.php?id=Rtmsport
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="RCTI"  group-title="WANJIA TV",RCTI
+http://wanjiatv.net/smartv.php?id=Rcti
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="QURAN HD"  group-title="WANJIA TV",QURAN HD
+http://wanjiatv.net/smartv.php?id=quran_mido
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="PRIMA"  group-title="WANJIA TV",PRIMA
+http://wanjiatv.net/smartv.php?id=Prima
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="PICK TV"  group-title="WANJIA TV",PICK TV
+http://wanjiatv.net/smartv.php?id=picktv_antik
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="PPTV THAILAND1"  group-title="WANJIA TV",PPTV THAILAND1
+http://wanjiatv.net/smartv.php?id=pptv_pat
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ONE"  group-title="WANJIA TV",ONE
+http://wanjiatv.net/smartv.php?id=One
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="OASIS"  group-title="WANJIA TV",OASIS
+http://wanjiatv.net/smartv.php?id=Oasis
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="NICKELODEON"  group-title="WANJIA TV",NICKELODEON
+http://wanjiatv.net/smartv.php?id=Nickelodeon
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="NICK JR"  group-title="WANJIA TV",NICK JR
+http://wanjiatv.net/smartv.php?id=Nickjr
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="NEWS 18 TAMIL"  group-title="WANJIA TV",NEWS 18 TAMIL
+http://wanjiatv.net/smartv.php?id=news18tamil_raj
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="NEW"  group-title="WANJIA TV",NEW
+http://wanjiatv.net/smartv.php?id=new_pat
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="NET TV"  group-title="WANJIA TV",NET TV
+http://wanjiatv.net/smartv.php?id=NetTV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="NATION"  group-title="WANJIA TV",NATION
+http://wanjiatv.net/smartv.php?id=nation_pat
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="NATIONAL GEOGRAPHIC"  group-title="WANJIA TV",NATIONAL GEOGRAPHIC
+http://wanjiatv.net/smartv.php?id=natgeohd_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="GEOGRAPHIC WILDLIFE"  group-title="WANJIA TV",GEOGRAPHIC WILDLIFE
+http://wanjiatv.net/smartv.php?id=natgeowildtamil_raj
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="WILD ANIMALS"  group-title="WANJIA TV",WILD ANIMALS
+http://wanjiatv.net/smartv.php?id=natgeowild_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="GEOGRAPHIC WILDLIFE"  group-title="WANJIA TV",GEOGRAPHIC WILDLIFE
+http://wanjiatv.net/smartv.php?id=Natgeowild
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="NATGEO TAMIL"  group-title="WANJIA TV",NATGEO TAMIL
+http://wanjiatv.net/smartv.php?id=natgeotamil_raj
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="NATIONAL GEOGRAPHIC"  group-title="WANJIA TV",NATIONAL GEOGRAPHIC
+http://wanjiatv.net/smartv.php?id=Natgeo
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="MORE4"  group-title="WANJIA TV",MORE4
+http://wanjiatv.net/smartv.php?id=more4_antik
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="MOMO TV"  group-title="WANJIA TV",MOMO TV
+http://wanjiatv.net/smartv.php?id=momo1_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="MIAOMI"  group-title="WANJIA TV",MIAOMI
+http://wanjiatv.net/smartv.php?id=MiaoMi
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="METRO TV"  group-title="WANJIA TV",METRO TV
+http://wanjiatv.net/smartv.php?id=metrotv_eko
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="MAKKAL TV"  group-title="WANJIA TV",MAKKAL TV
+http://wanjiatv.net/smartv.php?id=Makkatv
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="AXNTAIWAN"  group-title="WANJIA TV",AXNTAIWAN
+http://wanjiatv.net/smartv.php?id=axn_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ANIMAL PLANET"  group-title="WANJIA TV",ANIMAL PLANET
+http://wanjiatv.net/smartv.php?id=AnimalPlanet
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ANIMAL PLANET 1"  group-title="WANJIA TV",ANIMAL PLANET 1
+http://wanjiatv.net/smartv.php?id=animalplanet_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ASIANET"  group-title="WANJIA TV",ASIANET
+http://wanjiatv.net/smartv.php?id=asianet_raj
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="AWANI"  group-title="WANJIA TV",AWANI
+http://wanjiatv.net/smartv.php?id=Awani
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="AXNHD"  group-title="WANJIA TV",AXNHD
+http://wanjiatv.net/smartv.php?id=Axn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CINEMAX"  group-title="WANJIA TV",CINEMAX
+http://wanjiatv.net/smartv.php?id=cinemax_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CNBC"  group-title="WANJIA TV",CNBC
+http://wanjiatv.net/smartv.php?id=cnbc_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CELESTIALMOVIESHD"  group-title="WANJIA TV",CELESTIALMOVIESHD
+http://wanjiatv.net/smartv.php?id=Celestialindo
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CHANNEL3THAILAND"  group-title="WANJIA TV",CHANNEL3THAILAND
+http://wanjiatv.net/smartv.php?id=ch3_pat
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DISCOVERYASIA"  group-title="WANJIA TV",DISCOVERYASIA
+http://wanjiatv.net/smartv.php?id=discoverytwn_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DISCOVERYHD"  group-title="WANJIA TV",DISCOVERYHD
+http://wanjiatv.net/smartv.php?id=discoveryhd_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DISCOVERYKIDSTAMIL"  group-title="WANJIA TV",DISCOVERYKIDSTAMIL
+http://wanjiatv.net/smartv.php?id=discoverykidtamil_raj
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DISCOVERYTURBO"  group-title="WANJIA TV",DISCOVERYTURBO
+http://wanjiatv.net/smartv.php?id=discoveryturbo_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DISCOVERYWORLDTAMIL"  group-title="WANJIA TV",DISCOVERYWORLDTAMIL
+http://wanjiatv.net/smartv.php?id=discoveryworldtam_raj
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BBC1"  group-title="WANJIA TV",BBC1
+http://wanjiatv.net/smartv.php?id=bbc1_antik
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BBC2"  group-title="WANJIA TV",BBC2
+http://wanjiatv.net/smartv.php?id=bbc2_antik
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BBCEARTHHD"  group-title="WANJIA TV",BBCEARTHHD
+http://wanjiatv.net/smartv.php?id=bbcearth_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BBCEARTHTAMIL"  group-title="WANJIA TV",BBCEARTHTAMIL
+http://wanjiatv.net/smartv.php?id=bbcearthtam_raj
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BBCWORLDNEWS"  group-title="WANJIA TV",BBCWORLDNEWS
+http://wanjiatv.net/smartv.php?id=bbcnews_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BTESPN"  group-title="WANJIA TV",BTESPN
+http://wanjiatv.net/smartv.php?id=btespn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BTSPORTS1"  group-title="WANJIA TV",BTSPORTS1
+http://wanjiatv.net/smartv.php?id=beeone
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BTSPORTS3"  group-title="WANJIA TV",BTSPORTS3
+http://wanjiatv.net/smartv.php?id=beethree
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BLOOMBERGNEWS"  group-title="WANJIA TV",BLOOMBERGNEWS
+http://wanjiatv.net/smartv.php?id=bloomberg_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BOOMERANG"  group-title="WANJIA TV",BOOMERANG
+http://wanjiatv.net/smartv.php?id=Boomerang
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CBBC"  group-title="WANJIA TV",CBBC
+http://wanjiatv.net/smartv.php?id=cbbc_antik
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CBSHD"  group-title="WANJIA TV",CBSHD
+http://wanjiatv.net/smartv.php?id=cbshd_glo
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CBSNHD"  group-title="WANJIA TV",CBSNHD
+http://wanjiatv.net/smartv.php?id=cbsn_glo
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="MUSLIM TV"  group-title="WANJIA TV",MUSLIM TV
+http://wanjiatv.net/smartv.php?id=MuslimTV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ITV1"  group-title="WANJIA TV",ITV1
+http://wanjiatv.net/smartv.php?id=itv1_antik
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TVNMOVIE"  group-title="WANJIA TV",TVNMOVIE
+http://wanjiatv.net/smartv.php?id=Tvnmovie
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TVN"  group-title="WANJIA TV",TVN
+http://wanjiatv.net/smartv.php?id=TVN
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="RTHK32"  group-title="WANJIA TV",RTHK32
+http://wanjiatv.net/smartv.php?id=rhk32_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="RTHK31"  group-title="WANJIA TV",RTHK31
+http://wanjiatv.net/smartv.php?id=rhk31_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="J2"  group-title="WANJIA TV",J2
+http://wanjiatv.net/smartv.php?id=j2_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="WIRELESS FINANCIAL INFORMATION"  group-title="WANJIA TV",WIRELESS FINANCIAL INFORMATION
+http://wanjiatv.net/smartv.php?id=tvbcaijing_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="FTV NO. 1"  group-title="WANJIA TV",FTV NO. 1
+http://wanjiatv.net/smartv.php?id=lunghuajingdian_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="LONGHUA IDOL"  group-title="WANJIA TV",LONGHUA IDOL
+http://wanjiatv.net/smartv.php?id=lunghuaidol_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="LONGHUA CARTOON"  group-title="WANJIA TV",LONGHUA CARTOON
+http://wanjiatv.net/smartv.php?id=jingtiancartoon_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="FEIFAN NEWS"  group-title="WANJIA TV",FEIFAN NEWS
+http://wanjiatv.net/smartv.php?id=feifannews_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="FOOD PLANET"  group-title="WANJIA TV",FOOD PLANET
+http://wanjiatv.net/smartv.php?id=foodplanet_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ARIRANG"  group-title="WANJIA TV",ARIRANG
+http://wanjiatv.net/smartv.php?id=arirang_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ELTASPORT2"  group-title="WANJIA TV",ELTASPORT2
+http://wanjiatv.net/smartv.php?id=eltasport2_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ELTASPORT 1"  group-title="WANJIA TV",ELTASPORT 1
+http://wanjiatv.net/smartv.php?id=eltasport_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="FTV NEWS"  group-title="WANJIA TV",FTV NEWS
+http://wanjiatv.net/smartv.php?id=ftvnew_taiwan
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="FTV TAIWAN"  group-title="WANJIA TV",FTV TAIWAN
+http://wanjiatv.net/smartv.php?id=ftvtaiwan_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="FTV"  group-title="WANJIA TV",FTV
+http://wanjiatv.net/smartv.php?id=ftvhd_taiwan
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="NEWS OF THE TIMES"  group-title="WANJIA TV",NEWS OF THE TIMES
+http://wanjiatv.net/smartv.php?id=niandainews_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="GOOD NEWS 2"  group-title="WANJIA TV",GOOD NEWS 2
+http://wanjiatv.net/smartv.php?id=good2_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DAAI 1"  group-title="WANJIA TV",DAAI 1
+http://wanjiatv.net/smartv.php?id=daai_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BOSIGOLF2"  group-title="WANJIA TV",BOSIGOLF2
+http://wanjiatv.net/smartv.php?id=bosigolf2_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BOSISPORT2"  group-title="WANJIA TV",BOSISPORT2
+http://wanjiatv.net/smartv.php?id=bosisport2_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BOSISPORT 1"  group-title="WANJIA TV",BOSISPORT 1
+http://wanjiatv.net/smartv.php?id=bosisport1_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BOSITENNIS"  group-title="WANJIA TV",BOSITENNIS
+http://wanjiatv.net/smartv.php?id=bositennis_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CHINA TELEVISION"  group-title="WANJIA TV",CHINA TELEVISION
+http://wanjiatv.net/smartv.php?id=ctshd_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="PUBLIC TELEVISION"  group-title="WANJIA TV",PUBLIC TELEVISION
+http://wanjiatv.net/smartv.php?id=ctv_taiwan
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="EIGHT COMPREHENSIVE"  group-title="WANJIA TV",EIGHT COMPREHENSIVE
+http://wanjiatv.net/smartv.php?id=badazhonghe
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ZHONGSHI NEWS"  group-title="WANJIA TV",ZHONGSHI NEWS
+http://wanjiatv.net/smartv.php?id=zhongshinews_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CHINA TELEVISION"  group-title="WANJIA TV",CHINA TELEVISION
+http://wanjiatv.net/smartv.php?id=zhongshihd_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ZHONGTIAN NEWS"  group-title="WANJIA TV",ZHONGTIAN NEWS
+http://wanjiatv.net/smartv.php?id=ctinews
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ZHONGTIAN ENTERTAINMENT"  group-title="WANJIA TV",ZHONGTIAN ENTERTAINMENT
+http://wanjiatv.net/smartv.php?id=ctient
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ZHONGTIAN ASIA"  group-title="WANJIA TV",ZHONGTIAN ASIA
+http://wanjiatv.net/smartv.php?id=ctiasia_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DONGSEN SUPER VISION"  group-title="WANJIA TV",DONGSEN SUPER VISION
+http://wanjiatv.net/smartv.php?id=ettvsuper
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DONGSEN FINANCIAL NEWS"  group-title="WANJIA TV",DONGSEN FINANCIAL NEWS
+http://wanjiatv.net/smartv.php?id=ettvcaijing_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DONGSEN DRAMA"  group-title="WANJIA TV",DONGSEN DRAMA
+http://wanjiatv.net/smartv.php?id=ettvdrama
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SANLI COMPREHENSIVE"  group-title="WANJIA TV",SANLI COMPREHENSIVE
+http://wanjiatv.net/smartv.php?id=sanlizhonghe
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SANLI DRAMA"  group-title="WANJIA TV",SANLI DRAMA
+http://wanjiatv.net/smartv.php?id=sanlixiju_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DONGSEN COMPREHENSIVE"  group-title="WANJIA TV",DONGSEN COMPREHENSIVE
+http://wanjiatv.net/smartv.php?id=ettvzhonghe
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="EIGHT DRAMAS"  group-title="WANJIA TV",EIGHT DRAMAS
+http://wanjiatv.net/smartv.php?id=badadrama
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="EIGHT FIRST PLACES"  group-title="WANJIA TV",EIGHT FIRST PLACES
+http://wanjiatv.net/smartv.php?id=badafirst
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="JINGTIAN INTERNATIONAL"  group-title="WANJIA TV",JINGTIAN INTERNATIONAL
+http://wanjiatv.net/smartv.php?id=jingtianintl_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TVBS NEWS"  group-title="WANJIA TV",TVBS NEWS
+http://wanjiatv.net/smartv.php?id=tvbs_n
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TVBS HD"  group-title="WANJIA TV",TVBS HD
+http://wanjiatv.net/smartv.php?id=tvbs
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="EYETV DRAMA"  group-title="WANJIA TV",EYETV DRAMA
+http://wanjiatv.net/smartv.php?id=eyetvxiju_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="EYETV TRAVEL"  group-title="WANJIA TV",EYETV TRAVEL
+http://wanjiatv.net/smartv.php?id=eyetvtravel_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TVBS JOY"  group-title="WANJIA TV",TVBS JOY
+http://wanjiatv.net/smartv.php?id=tvbshuanle_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="VIU6"  group-title="WANJIA TV",VIU6
+http://wanjiatv.net/smartv.php?id=viusix_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="NATIONAL GEOGRAPHIC"  group-title="WANJIA TV",NATIONAL GEOGRAPHIC
+http://wanjiatv.net/smartv.php?id=natgeohd_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="WILD ANIMALS"  group-title="WANJIA TV",WILD ANIMALS
+http://wanjiatv.net/smartv.php?id=natgeowild_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="MOMO TV"  group-title="WANJIA TV",MOMO TV
+http://wanjiatv.net/smartv.php?id=momo1_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ASIA TRAVEL"  group-title="WANJIA TV",ASIA TRAVEL
+http://wanjiatv.net/smartv.php?id=asiatravel_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="AXNTAIWAN"  group-title="WANJIA TV",AXNTAIWAN
+http://wanjiatv.net/smartv.php?id=axn_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ANIMAL PLANET 1"  group-title="WANJIA TV",ANIMAL PLANET 1
+http://wanjiatv.net/smartv.php?id=animalplanet_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CINEMAX"  group-title="WANJIA TV",CINEMAX
+http://wanjiatv.net/smartv.php?id=cinemax_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CNBC"  group-title="WANJIA TV",CNBC
+http://wanjiatv.net/smartv.php?id=cnbc_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DISCOVERYASIA"  group-title="WANJIA TV",DISCOVERYASIA
+http://wanjiatv.net/smartv.php?id=discoverytwn_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DISCOVERYHD"  group-title="WANJIA TV",DISCOVERYHD
+http://wanjiatv.net/smartv.php?id=discoveryhd_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DISCOVERYTURBO"  group-title="WANJIA TV",DISCOVERYTURBO
+http://wanjiatv.net/smartv.php?id=discoveryturbo_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BBCEARTHHD"  group-title="WANJIA TV",BBCEARTHHD
+http://wanjiatv.net/smartv.php?id=bbcearth_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BBCWORLDNEWS"  group-title="WANJIA TV",BBCWORLDNEWS
+http://wanjiatv.net/smartv.php?id=bbcnews_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BLOOMBERGNEWS"  group-title="WANJIA TV",BLOOMBERGNEWS
+http://wanjiatv.net/smartv.php?id=bloomberg_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CBSHD"  group-title="WANJIA TV",CBSHD
+http://wanjiatv.net/smartv.php?id=cbshd_glo
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CBSNHD"  group-title="WANJIA TV",CBSNHD
+http://wanjiatv.net/smartv.php?id=cbsn_glo
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ABCNEWS"  group-title="WANJIA TV",ABCNEWS
+http://wanjiatv.net/smartv.php?id=abcnews_glo
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ABCNEWS"  group-title="WANJIA TV",ABCNEWS
+http://wanjiatv.net/smartv.php?id=abcnews_glo
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BABYTV"  group-title="WANJIA TV",BABYTV
+http://wanjiatv.net/smartv.php?id=babytv_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BABYTV"  group-title="WANJIA TV",BABYTV
+http://wanjiatv.net/smartv.php?id=babytv_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CBSNEWS"  group-title="WANJIA TV",CBSNEWS
+http://wanjiatv.net/smartv.php?id=cbsn_glo
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CBSNEWS"  group-title="WANJIA TV",CBSNEWS
+http://wanjiatv.net/smartv.php?id=cbsn_glo
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CNN"  group-title="WANJIA TV",CNN
+http://wanjiatv.net/smartv.php?id=cnn_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CNN"  group-title="WANJIA TV",CNN
+http://wanjiatv.net/smartv.php?id=cnn_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DISCOVERYASIA"  group-title="WANJIA TV",DISCOVERYASIA
+http://wanjiatv.net/smartv.php?id=discoverytwn_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ELEVEN SPORTS 1"  group-title="WANJIA TV",ELEVEN SPORTS 1
+http://wanjiatv.net/smartv.php?id=golfchannel_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ELEVEN SPORTS 1"  group-title="WANJIA TV",ELEVEN SPORTS 1
+http://wanjiatv.net/smartv.php?id=golfchannel_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="EYETV DRAMA"  group-title="WANJIA TV",EYETV DRAMA
+http://wanjiatv.net/smartv.php?id=eyetvxiju_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="FOXNEWS"  group-title="WANJIA TV",FOXNEWS
+http://wanjiatv.net/smartv.php?id=foxnews_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="FOXNEWS"  group-title="WANJIA TV",FOXNEWS
+http://wanjiatv.net/smartv.php?id=foxnews_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="GOODTV TRUTH"  group-title="WANJIA TV",GOODTV TRUTH
+http://wanjiatv.net/smartv.php?id=good2_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="HBO FAMILY"  group-title="WANJIA TV",HBO FAMILY
+http://wanjiatv.net/smartv.php?id=fyi_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="HBO FAMILY"  group-title="WANJIA TV",HBO FAMILY
+http://wanjiatv.net/smartv.php?id=fyi_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="RTHK32"  group-title="WANJIA TV",RTHK32
+http://wanjiatv.net/smartv.php?id=rhk32_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TVBS NEWS"  group-title="WANJIA TV",TVBS NEWS
+http://wanjiatv.net/smartv.php?id=tvbs_n
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TVBS JOY"  group-title="WANJIA TV",TVBS JOY
+http://wanjiatv.net/smartv.php?id=tvbshuanle_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TVBS JOY"  group-title="WANJIA TV",TVBS JOY
+http://wanjiatv.net/smartv.php?id=tvbshuanle_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TVBS JOY"  group-title="WANJIA TV",TVBS JOY
+http://wanjiatv.net/smartv.php?id=tvbshuanle_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="WWE"  group-title="WANJIA TV",WWE
+http://wanjiatv.net/smartv.php?id=wwe_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="WWE"  group-title="WANJIA TV",WWE
+http://wanjiatv.net/smartv.php?id=wwe_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SANLITAIWAN"  group-title="WANJIA TV",SANLITAIWAN
+http://wanjiatv.net/smartv.php?id=sanlitaiwan
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SANLITAIWAN"  group-title="WANJIA TV",SANLITAIWAN
+http://wanjiatv.net/smartv.php?id=sanlitaiwan
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SANLI DRAMA"  group-title="WANJIA TV",SANLI DRAMA
+http://wanjiatv.net/smartv.php?id=sanlixiju_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SANLI DRAMA"  group-title="WANJIA TV",SANLI DRAMA
+http://wanjiatv.net/smartv.php?id=sanlixiju_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SANLI DRAMA"  group-title="WANJIA TV",SANLI DRAMA
+http://wanjiatv.net/smartv.php?id=sanlixiju_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SANLI COMPREHENSIVE"  group-title="WANJIA TV",SANLI COMPREHENSIVE
+http://wanjiatv.net/smartv.php?id=sanlizhonghe
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ZHONGTIAN ASIA"  group-title="WANJIA TV",ZHONGTIAN ASIA
+http://wanjiatv.net/smartv.php?id=ctiasia_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ZHONGTIAN ENTERTAINMENT"  group-title="WANJIA TV",ZHONGTIAN ENTERTAINMENT
+http://wanjiatv.net/smartv.php?id=ctient
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ZHONGTIAN ENTERTAINMENT"  group-title="WANJIA TV",ZHONGTIAN ENTERTAINMENT
+http://wanjiatv.net/smartv.php?id=ctient
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ZHONGTIAN ENTERTAINMENT"  group-title="WANJIA TV",ZHONGTIAN ENTERTAINMENT
+http://wanjiatv.net/smartv.php?id=ctient
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CTV NEWS"  group-title="WANJIA TV",CTV NEWS
+http://wanjiatv.net/smartv.php?id=ca73a13c37
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ZHONGSHI NEWS"  group-title="WANJIA TV",ZHONGSHI NEWS
+http://wanjiatv.net/smartv.php?id=zhongshinews_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CTV NEWS"  group-title="WANJIA TV",CTV NEWS
+http://wanjiatv.net/smartv.php?id=ca73a13c37
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ZHONGSHI NEWS"  group-title="WANJIA TV",ZHONGSHI NEWS
+http://wanjiatv.net/smartv.php?id=zhongshinews_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CTV CLASSIC"  group-title="WANJIA TV",CTV CLASSIC
+http://wanjiatv.net/smartv.php?id=zhongshi_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ASIA TRAVEL"  group-title="WANJIA TV",ASIA TRAVEL
+http://wanjiatv.net/smartv.php?id=asiatravel_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ASIA TRAVEL"  group-title="WANJIA TV",ASIA TRAVEL
+http://wanjiatv.net/smartv.php?id=asiatravel_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="EIGHT DRAMAS"  group-title="WANJIA TV",EIGHT DRAMAS
+http://wanjiatv.net/smartv.php?id=badadrama
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="EIGHT DRAMAS"  group-title="WANJIA TV",EIGHT DRAMAS
+http://wanjiatv.net/smartv.php?id=badadrama
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="EIGHT FIRST PLACES"  group-title="WANJIA TV",EIGHT FIRST PLACES
+http://wanjiatv.net/smartv.php?id=badafirst
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="EIGHT FIRST PLACES"  group-title="WANJIA TV",EIGHT FIRST PLACES
+http://wanjiatv.net/smartv.php?id=badafirst
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="EIGHT FIRST PLACES"  group-title="WANJIA TV",EIGHT FIRST PLACES
+http://wanjiatv.net/smartv.php?id=badafirst
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="EIGHT FIRST PLACES"  group-title="WANJIA TV",EIGHT FIRST PLACES
+http://wanjiatv.net/smartv.php?id=badafirst
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="EIGHT COMPREHENSIVE"  group-title="WANJIA TV",EIGHT COMPREHENSIVE
+http://wanjiatv.net/smartv.php?id=badazhonghe
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="EIGHT COMPREHENSIVE"  group-title="WANJIA TV",EIGHT COMPREHENSIVE
+http://wanjiatv.net/smartv.php?id=badazhonghe
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="PUBLIC TELEVISION"  group-title="WANJIA TV",PUBLIC TELEVISION
+http://wanjiatv.net/smartv.php?id=ctv_taiwan
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="PUBLIC TELEVISION"  group-title="WANJIA TV",PUBLIC TELEVISION
+http://wanjiatv.net/smartv.php?id=ctv_taiwan
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ANIMAL PLANET"  group-title="WANJIA TV",ANIMAL PLANET
+http://wanjiatv.net/smartv.php?id=animalplanet_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ANIMAL PLANET"  group-title="WANJIA TV",ANIMAL PLANET
+http://wanjiatv.net/smartv.php?id=animalplanet_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ANIMAL PLANET"  group-title="WANJIA TV",ANIMAL PLANET
+http://wanjiatv.net/smartv.php?id=animalplanet_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BOSITENNIS"  group-title="WANJIA TV",BOSITENNIS
+http://wanjiatv.net/smartv.php?id=bositennis_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BOSITENNIS"  group-title="WANJIA TV",BOSITENNIS
+http://wanjiatv.net/smartv.php?id=bositennis_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BOSISPORT2"  group-title="WANJIA TV",BOSISPORT2
+http://wanjiatv.net/smartv.php?id=bosisport2_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BOSIGOLF1"  group-title="WANJIA TV",BOSIGOLF1
+http://wanjiatv.net/smartv.php?id=bosigolf1_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BOSIGOLF1"  group-title="WANJIA TV",BOSIGOLF1
+http://wanjiatv.net/smartv.php?id=bosigolf1_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BOSIGOLF1"  group-title="WANJIA TV",BOSIGOLF1
+http://wanjiatv.net/smartv.php?id=bosigolf1_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BOSIGOLF1"  group-title="WANJIA TV",BOSIGOLF1
+http://wanjiatv.net/smartv.php?id=bosigolf1_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="HOLLYWOOD MOVIES"  group-title="WANJIA TV",HOLLYWOOD MOVIES
+http://wanjiatv.net/smartv.php?id=hollywoodmovies_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="HOLLYWOOD MOVIES"  group-title="WANJIA TV",HOLLYWOOD MOVIES
+http://wanjiatv.net/smartv.php?id=hollywoodmovies_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ELTASPORT1"  group-title="WANJIA TV",ELTASPORT1
+http://wanjiatv.net/smartv.php?id=eltasport2_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ELTASPORT1"  group-title="WANJIA TV",ELTASPORT1
+http://wanjiatv.net/smartv.php?id=eltasport2_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="ELTASPORT2"  group-title="WANJIA TV",ELTASPORT2
+http://wanjiatv.net/smartv.php?id=eltasport2_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DISCOVER ASIA"  group-title="WANJIA TV",DISCOVER ASIA
+http://wanjiatv.net/smartv.php?id=discoverytwn_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DISCOVERY POWER"  group-title="WANJIA TV",DISCOVERY POWER
+http://wanjiatv.net/smartv.php?id=discoveryturbo_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DISCOVERY POWER"  group-title="WANJIA TV",DISCOVERY POWER
+http://wanjiatv.net/smartv.php?id=discoveryturbo_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DISCOVERY POWER"  group-title="WANJIA TV",DISCOVERY POWER
+http://wanjiatv.net/smartv.php?id=discoveryturbo_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DISCOVERY POWER"  group-title="WANJIA TV",DISCOVERY POWER
+http://wanjiatv.net/smartv.php?id=discoveryturbo_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="STAR TV MOVIE"  group-title="WANJIA TV",STAR TV MOVIE
+http://wanjiatv.net/smartv.php?id=xingwei_movie
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="STAR TV MOVIE"  group-title="WANJIA TV",STAR TV MOVIE
+http://wanjiatv.net/smartv.php?id=xingwei_movie
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="FASHION"  group-title="WANJIA TV",FASHION
+http://wanjiatv.net/smartv.php?id=fashiontv_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="FASHION FTV"  group-title="WANJIA TV",FASHION FTV
+http://wanjiatv.net/smartv.php?id=fashiontv_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DONGSEN FINANCE"  group-title="WANJIA TV",DONGSEN FINANCE
+http://wanjiatv.net/smartv.php?id=ettvcaijing_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DONGSEN FINANCE"  group-title="WANJIA TV",DONGSEN FINANCE
+http://wanjiatv.net/smartv.php?id=ettvcaijing_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DONGSEN SUPER VISION"  group-title="WANJIA TV",DONGSEN SUPER VISION
+http://wanjiatv.net/smartv.php?id=ettvsuper
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="DONGSEN MOVIE"  group-title="WANJIA TV",DONGSEN MOVIE
+http://wanjiatv.net/smartv.php?id=ettvmovie
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="FTV NEWS"  group-title="WANJIA TV",FTV NEWS
+http://wanjiatv.net/smartv.php?id=ftvnew_taiwan
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="MEIYA MOVIE"  group-title="WANJIA TV",MEIYA MOVIE
+http://wanjiatv.net/smartv.php?id=meiyamovie_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="MEIYA MOVIE"  group-title="WANJIA TV",MEIYA MOVIE
+http://wanjiatv.net/smartv.php?id=meiyamovie_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="JINGTIAN CARTOON"  group-title="WANJIA TV",JINGTIAN CARTOON
+http://wanjiatv.net/smartv.php?id=jingtiancartoon_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="JINGTIAN INTERNATIONAL"  group-title="WANJIA TV",JINGTIAN INTERNATIONAL
+http://wanjiatv.net/smartv.php?id=jingtianintl_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="FEIFAN NEWS"  group-title="WANJIA TV",FEIFAN NEWS
+http://wanjiatv.net/smartv.php?id=feifannews_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="FEIFAN NEWS"  group-title="WANJIA TV",FEIFAN NEWS
+http://wanjiatv.net/smartv.php?id=feifannews_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="LONGHUA DRAMA"  group-title="WANJIA TV",LONGHUA DRAMA
+http://wanjiatv.net/smartv.php?id=lunghuaxiju_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="LONGHUA DRAMA"  group-title="WANJIA TV",LONGHUA DRAMA
+http://wanjiatv.net/smartv.php?id=lunghuaxiju_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="LONGHUA DRAMA"  group-title="WANJIA TV",LONGHUA DRAMA
+http://wanjiatv.net/smartv.php?id=lunghuaxiju_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="LONGHUA DRAMA"  group-title="WANJIA TV",LONGHUA DRAMA
+http://wanjiatv.net/smartv.php?id=lunghuaxiju_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="AWANI"  group-title="WANJIA TV",AWANI
+http://wanjiatv.net/smartv.php?id=Awani
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BBC"  group-title="WANJIA TV",BBC
+http://wanjiatv.net/smartv.php?id=bbc1_antik
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BBC1"  group-title="WANJIA TV",BBC1
+http://wanjiatv.net/smartv.php?id=bbc1_antik
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BBC2"  group-title="WANJIA TV",BBC2
+http://wanjiatv.net/smartv.php?id=bbc2_antik
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BBC WORLD NEWS"  group-title="WANJIA TV",BBC WORLD NEWS
+http://wanjiatv.net/smartv.php?id=bbcnews_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="BTSPORTS4"  group-title="WANJIA TV",BTSPORTS4
+http://wanjiatv.net/smartv.php?id=btespn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="CNA ASIA NEWS"  group-title="WANJIA TV",CNA ASIA NEWS
+http://wanjiatv.net/smartv.php?id=cna
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="EURONEWS"  group-title="WANJIA TV",EURONEWS
+http://wanjiatv.net/smartv.php?id=euronews_antik
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="TLC TRAVEL LIFE"  group-title="WANJIA TV",TLC TRAVEL LIFE
+http://wanjiatv.net/smartv.php?id=tlc_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="SINGAPORE 8"  group-title="WANJIA TV",SINGAPORE 8
+http://wanjiatv.net/smartv.php?id=TV8
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="JADE"  group-title="WANJIA TV",JADE
+http://wanjiatv.net/smartv.php?id=jade_twn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="JADE"  group-title="WANJIA TV",JADE
+http://wanjiatv.net/smartv.php?id=Wlt
 
 #EXTM3U
 #EXTINF:-1 group-title="PRIME HOME TV" tvg-id="JOAYDTV.jp",ABC
