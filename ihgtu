@@ -4219,7 +4219,28 @@ http://atcs.banyumaskab.go.id:80/camera/karanglo.m3u8
 #EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",AJIBARANG
 http://atcs.banyumaskab.go.id:80/camera/ajibarang.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANTUL",Makam Kotagede - Bangsal Dudo
+https://stream.bantulkab.go.id/39144c71-b7e0-42f9-8362-a33c669ee3f1.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANTUL",Makam Kotagede - Halaman Masjid Selatan
+https://stream.bantulkab.go.id/d3b48e44-5438-4d8e-88b1-cbaa094e7a26.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANTUL",Makam Kotagede - Kelurahan Jagalan
+https://stream.bantulkab.go.id/fabc5c97-17be-4c1b-93a2-fdf5b3bc03e1.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANTUL",Makam Kotagede - Sendang
+https://stream.bantulkab.go.id/e09992bf-ce95-4fbf-baba-95a79dd722f2.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANTUL",Masjid Pajimatan Imogiri
+https://stream.bantulkab.go.id/78665eea-5656-40bf-ac5f-d7c50fe52628.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANTUL",Pasar Bantul
+https://stream.bantulkab.go.id/memfs/2acc430a-a201-43a4-bc2c-a98eef05f786.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANTUL",Tangga Makam Pajimatan Imogiri 01
+https://stream.bantulkab.go.id/20870ab0-03fa-49f3-b499-382acc94a676.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANTUL",Tangga Makam Pajimatan Imogiri 02
+https://stream.bantulkab.go.id/d1c5cf69-703a-4db0-8bf1-bed3a6f144b2.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANTUL",Terminal Makam Pajimatan Imogiri 01
+https://stream.bantulkab.go.id/a12fbc24-afe0-4845-a773-7e4543953306.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANTUL",Terminal Makam Pajimatan Imogiri 02
+https://stream.bantulkab.go.id/96cf71a7-c6d6-4634-acf3-43dbc47ce84e.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANTUL",TPR Parangtritis
+https://stream.bantulkab.go.id/dcc608ab-01cc-43b6-83fb-a97628a357f7.m3u8
 
 
 
