@@ -3643,7 +3643,237 @@ https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
+###########TVRI##########
 
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI DKI
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI WORLD
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI SPIRT HD
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI AMBON
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI BALI
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI BABEL
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI BENGKULU
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI GORONTALO
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI JABAR
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI JAMBI
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI JATENG
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI JATIM
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI KALBAR
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI KALSEL
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI KALTENG
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI KALTIM
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI LAMPUNG
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI ACEH
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI NTB
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI NTT
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI PAPUA
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI RIAU
+https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI SULBAR
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI SULSEL
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI SULTENG
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI SULTRA
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI SULUT
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI SUMBAR
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI SUMSEL
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI SUMUT
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI JOGJAKARTA
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i-burger.bunkr.ru/20231022_181203-AyMdmF2x.png?download=true" group-title="TVRI",TVRI PABAR
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
+
+##########DAERAH#########
+
+#EXTINF:-1 group-title="DAERAH" tvg-id="Balitv" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",Bali TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
+
+#EXTINF:-1 group-title="DAERAH" tvg-id="kawanuatv.id" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",Kawanua TV
+https://63b2dc7196c38.streamlock.net:1937/ch18/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true/revision/latest",PonTV
+https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",SMTV
+https://63b2dc7196c38.streamlock.net:1937/ch25/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-id="batamtv.id" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",Batam TV
+https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-id="jpmtv.id" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",JPMTV
+https://63b2dc7196c38.streamlock.net:1937/ch6/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",Bungo TV
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-id="ugtv.id" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-id="jogjaistimewatv.id" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",JITV
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-id="sangajitv.id" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",Sangaji TV
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",Kilisuci TV
+https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-id="tv9nusantara.id" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true/revision/latest",TV9 Nusantara
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-id="betv.id" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",BETV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+https://h1.intechmedia.net/intech/ch58.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",Jambi TV
+https://63b2dc7196c38.streamlock.net:1937/ch23/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-id="tegartvlampung.id" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",Tegar TV
+https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",Simpang5 TV
+https://63b2dc7196c38.streamlock.net:1937/ch4/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",Semarang TV
+http://116.254.112.74/hls/cakralive.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-id="jektv.id" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true/revision/latest",Jek TV
+https://63b2dc7196c38.streamlock.net:1937/ch14/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",Dhamma TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true" group-title="DAERAH",Arek tv
+https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true" group-title="DAERAH",Lingkar tv
+https://lingkartv.my.id/hls/lingkartv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true" group-title="DAERAH",Madu tv
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true" group-title="DAERAH",Padang tv
+https://63b2dc7196c38.streamlock.net:1937/ch16/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true" group-title="DAERAH",Prima tv
+https://primatv.siar.us/primatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true" group-title="DAERAH",Rctv
+https://v10.siar.us/rctv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true" group-title="DAERAH",Simpang 5
+https://63b2dc7196c38.streamlock.net:1937/ch4/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true" group-title="DAERAH",SmTV
+https://63b2dc7196c38.streamlock.net:1937/ch25/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true" group-title="DAERAH",Surabaya tv
+https://e.siar.us/live/surabayatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true" group-title="DAERAH",TATV
+https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true" group-title="DAERAH",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",SAMPIT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://h1.intechmedia.net/intech/ch56.m3u8
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",DMTV MALANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://h1.intechmedia.net/intech/ch51.m3u8
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",RBTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://h1.intechmedia.net/intech/ch59.m3u8
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",GGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://h1.intechmedia.net/intech/ch55.m3u8
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",AFB TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://h1.intechmedia.net/intech/ch54.m3u8
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",PAL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://h1.intechmedia.net/intech/ch18.m3u8
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",JAYA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://h1.intechmedia.net/intech/ch29.m3u8
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",BETV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://h1.intechmedia.net/intech/ch58.m3u8
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true",JITV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://h1.intechmedia.net/intech/ch65.m3u8
 
 
 #EXTM3U
