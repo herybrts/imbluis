@@ -4242,7 +4242,42 @@ https://stream.bantulkab.go.id/96cf71a7-c6d6-4634-acf3-43dbc47ce84e.m3u8
 #EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANTUL",TPR Parangtritis
 https://stream.bantulkab.go.id/dcc608ab-01cc-43b6-83fb-a97628a357f7.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV KOTA WARINGIN",Bundaran Pramuka
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv14/a14.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV KOTA WARINGIN",Simpang 3 City Mall
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv13/a13.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV KOTA WARINGIN",Bundaran Pancasila
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv9/a9.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV KOTA WARINGIN",Simpang 3 Bank Kalteng
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv4/a4.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV KOTA WARINGIN",Simpang 3 RSSI
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv6/a6.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV KOTA WARINGIN",Depan RSSI
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv6/a6.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV KOTA WARINGIN",Simpang PDAM
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv7/a7.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV KOTA WARINGIN",Simpang 3 Gereja Imanuel
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv3/a3.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV KOTA WARINGIN",Simpang 4 Perkim
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv8/a8.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV KOTA WARINGIN",Simpang 3 SMPN 1 Arsel
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv8/a8.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV KOTA WARINGIN",Bundaran Misbar
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv1/a1.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV KOTA WARINGIN",Simpang 4 Pasar Baru
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv11/a11.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV KOTA WARINGIN",Simpang 4 A Yani
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv13/a13.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV KOTA WARINGIN",Simpang 4 Pasar Baru
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv11/a11.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV KOTA WARINGIN",Simpang 4 Pasar Baru
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv11/a11.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV KOTA WARINGIN",Simpang 4 Pasar Baru
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv11/a11.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV KOTA WARINGIN",Simpang 4 Pasar Baru
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv11/a11.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV KOTA WARINGIN",Simpang 4 Pasar Baru
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv11/a11.m3u8
 
 
 
