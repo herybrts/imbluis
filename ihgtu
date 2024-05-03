@@ -4242,6 +4242,27 @@ https://stream.bantulkab.go.id/96cf71a7-c6d6-4634-acf3-43dbc47ce84e.m3u8
 #EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANTUL",TPR Parangtritis
 https://stream.bantulkab.go.id/dcc608ab-01cc-43b6-83fb-a97628a357f7.m3u8
 
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANJAR",JL. AYANI
+https://stream4.banjarkab.go.id/ieh6iop2LPQjXdJkoqc32uDUWnW7SK/hls/banjarkab/Simp4Lampumerah/s.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANJAR",JL. PENDIDIKAN
+https://stream3.banjarkab.go.id/3S1McVqImbNEkIS52MzxpDaeuzFs90/hls/VKfQs67iU7/Simp4Pendidikan/s.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANJAR",PASAR BATUAH
+https://stream3.banjarkab.go.id/3S1McVqImbNEkIS52MzxpDaeuzFs90/hls/VKfQs67iU7/Simp4PasarBatuah/s.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANJAR",SIMPANG 4 SEKUMPUL
+https://stream3.banjarkab.go.id/3S1McVqImbNEkIS52MzxpDaeuzFs90/hls/VKfQs67iU7/Simpang4Sekumpul/s.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANJAR",IRIGASI SEKUMPUL 1
+https://stream3.banjarkab.go.id/3S1McVqImbNEkIS52MzxpDaeuzFs90/hls/VKfQs67iU7/JEMBATANIRIGASISEKUMPUL/s.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANJAR",IRIGASI SEKUMPUL 2
+https://stream3.banjarkab.go.id/3S1McVqImbNEkIS52MzxpDaeuzFs90/hls/VKfQs67iU7/JEMBATANIRIGASISEKUMPUL1/s.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANJAR",JL. RAHAYU 1
+https://stream3.banjarkab.go.id/3S1McVqImbNEkIS52MzxpDaeuzFs90/hls/VKfQs67iU7/JlRahayu1/s.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANJAR",JL. RAHAYU 2
+https://stream3.banjarkab.go.id/3S1McVqImbNEkIS52MzxpDaeuzFs90/hls/VKfQs67iU7/JlRahayu2/s.m3u8
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANJAR",KOTA MARTAPURA
+https://stream3.banjarkab.go.id/3S1McVqImbNEkIS52MzxpDaeuzFs90/hls/VKfQs67iU7/PolsekMartapuraKota/s.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV KOTA WARINGIN",Bundaran Pramuka
 https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv14/a14.m3u8
 #EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV KOTA WARINGIN",Simpang 3 City Mall
