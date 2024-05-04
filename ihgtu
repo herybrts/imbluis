@@ -4987,7 +4987,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/m
 
 
 
-#EXTINF:-1 group-title="EXCLUSIVE TV" group-logo="https://www.infostockdaily.co.kr/news/photo/201912/80427_36338_2632.jpg",SBS DRAMA
+#EXTINF:-1 group-title="EXCLUSIVE TV" tvg-logo="https://www.infostockdaily.co.kr/news/photo/201912/80427_36338_2632.jpg",SBS DRAMA
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
