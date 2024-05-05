@@ -5092,6 +5092,12 @@ https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/11
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=42176706e135442ab500ee8b3a32ff31:072ea5e4b049541f4aba6f5d6bc2b3c8
 https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1147/dash/cenc/BEIN2HD_04736/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="SPECTRUM TV",USA NETWORK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=591b46f7cc3d47819ab856f4cdcc84fe:dd07faa621cf6d727cf4f6337e9345c0
+https://cors-proxy.elfsight.com/https://cip4-2018183880.linear-novi.stvacdn.spectrum.com/LIVE/1160/dash/cenc/USAHD_22043/manifest.mpd
 
 
 
