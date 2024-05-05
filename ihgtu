@@ -1,8 +1,9 @@
 #EXTM3U
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="TEST" group-title="",Ten Sports PK
+#EXTINF:-1 tvg-logo=""group-title="TEST" group-title="",Viaplay Sports 1
+https://webhdrus.onlinehdhls.ru/lb/premium451/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png" group-title="TEST",Ten Sports PK
 https://webhdrus.onlinehdhls.ru/lb/premium741/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/05/film-the-idea-of-you-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",THE IDEA OF YOU (2024) 
 https://stream.hownetwork.xyz/xxx/the-idea-of-you-2024-webdl_X_3880accf/22/480.m3u8
