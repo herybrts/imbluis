@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Jakartaglobe.png" group-title="Indonesia Channels",Jakarta Globe News
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2024/05/film-pula-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",PULA (2024)
 https://stream.hownetwork.xyz/xxx/pula-2024-webdl_X_1b064b70.720/22/720.m3u8
