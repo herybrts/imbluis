@@ -933,10 +933,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn3.f-cdn.com/contestentries/1466821/26989831/5c4563dc60ece_thumb900.jpg" group-title="SPORT",TV 2 SPORT
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
-https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn3.f-cdn.com/contestentries/1466821/26989831/5c4563dc60ece_thumb900.jpg" group-title="SPORT",TV 2 PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
