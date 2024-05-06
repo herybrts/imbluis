@@ -3838,23 +3838,6 @@ http://103.156.141.151:4567/stream/channelid/848647111?profile=pass
 http://103.156.141.151:4567/stream/channelid/2110237981?profile=pass
 
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="RCTI PLUS", RCTI
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://1a-rcti.rctiplus.id/rcti-sdi.mpd
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="RCTI PLUS", MNC TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="RCTI PLUS", GTV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-https://1a-gtv.rctiplus.id/gtv-sdi.mpd
-
-#EXTINF:-1 tvg-logo="https://a-cdn.sindonews.net/dyn/620/content/2017/01/24/15/1173718/inews-tv-diharapkan-bisa-berkembang-lebih-pesat-hMT-thumb.jpg" tvg-logo="" group-title="RCTI PLUS", INEWS TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://1a-inews.rctiplus.id/inews-sdi.mpd
 
 
 #########[ Nasional TV ]#########
