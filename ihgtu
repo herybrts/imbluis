@@ -5301,6 +5301,9 @@ http://ip168.homeip.net:8086/hbo.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="HBO" group-logo="https://cdn.hqth.me/logo/category/hbo.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax (HI)
 http://ip168.homeip.net:8086/cinemax.m3u8
 
+#EXTINF:-1 tvg-id="pularitv.com" tvg-logo="https://pularitv.com/iptv/Pulari-Logo.png" group-title="Entertainment",Pulari TV
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+
 #EXTINF:-1 tvg-id="andFlix HD" tvg-name="" tvg-logo="https://i.ibb.co/7k44VWM/andflix.png" group-title="EXCLUSIVE TV", &FLIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mhdtv.co.in/
