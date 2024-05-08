@@ -1,26 +1,6 @@
 #EXTM3U
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
-#EXTM3U
-#EXTINF:-1, group-title="HVEC TV",ANIMAL PLANET HD
-http://88.212.7.11/live/test_animal_planet_hd_hevc/playlist.m3u8
-#EXTINF:-1, group-title="HVEC TV",CINEMAX HD
-http://88.212.7.11/live/test_cinemax_hd_hevc/playlist.m3u8
-#EXTINF:-1, group-title="HVEC TV",CINEMAX 2 HD
-http://88.212.7.11/live/test_cinemax2_hd_hevc/playlist.m3u8
-#EXTINF:-1, group-title="HVEC TV",DISCOVERY CHANNEL HD
-http://88.212.7.11/live/test_discovery_hd_hevc/playlist.m3u8
-#EXTINF:-1, group-title="HVEC TV",DISCOVERY SCIENCE HD
-http://88.212.7.11/live/test_discovery_science_hd_hevc/playlist.m3u8
-#EXTINF:-1, group-title="HVEC TV",DOMA TV HD
-http://88.212.7.11/live/test_doma_hd_hevc/playlist.m3u8
-#EXTINF:-1, group-title="HVEC TV",HBO HD
-http://88.212.7.11/live/test_hbo_hd_hevc/playlist.m3u8
-#EXTINF:-1, group-title="HVEC TV",HBO 2 HD
-http://88.212.7.11/live/test_hbo2_hd_hevc/playlist.m3u8
-#EXTINF:-1, group-title="HVEC TV",HBO 3 HD
-http://88.212.7.11/live/test_hbo3_hd_hevc/playlist.m3u8
-#EXTINF:-1, group-title="HVEC TV",TRAVEL CHANNEL HD
-http://88.212.7.11/live/test_travel_channel_hd_hevc/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2024/05/film-something-in-the-water-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",SOMETHING IN THE WATER (2024)
