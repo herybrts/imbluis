@@ -5395,6 +5395,14 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
 
+#EXTINF:-1 tvg-logo="https://www.peacocktv.com/dam/commerce/assets/partners/logo-peacock-social-1200x628.jpg", tvg-id="ksport1hd" group-title="PEACOCK TV",TELEMUNDO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1f756cffcc838e28a3da6541c00ee8b:1444b1c17a5c1f78435de12dcff47c8e
+https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(WNJU)/master.mpd
+
+
 #EXTINF:-1 tvg-logo="https://sm.pcmag.com/pcmag_uk/review/p/peacock/peacock_yspw.png" group-title="PEACOCK TV", PEACOCK 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00227c70607fd1482c8e1c7534a7157a:521546015078ff8865ce4504cf4ae966
