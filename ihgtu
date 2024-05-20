@@ -2,7 +2,26 @@
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
 
 
-
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/05/film-mai-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",MAI (2024)
+https://stream.hownetwork.xyz/xxx/mai-2024-webdl_X_b7818c49.480/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/05/film-golden-kamuy-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",GOLDEN KAMUY (2024)
+https://stream.hownetwork.xyz/xxx/golden-kamuy-2024-webdl_X_2da909e0.480/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/05/film-thelma-the-unicorn-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",THELMA THE UNICORN (2024)
+https://stream.hownetwork.xyz/xxx/thelma-the-unicorn-2024-webdl_X_ceefe7a5/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/05/film-challengers-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",CHALLENGERS (2024)
+https://stream.hownetwork.xyz/xxx/challengers-2024-webdl_X_66bb1bc4.480/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2024/05/film-power-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",POWER (2024)
+https://stream.hownetwork.xyz/xxx/power-2024-webdl_X_190e5e6b.480/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/05/film-the-last-stop-in-yuma-county-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",THE LAST STOP IN YUMA COUNTY (2024)
+https://stream.hownetwork.xyz/xxx/the-last-stop-in-yuma-county-2024-webdl_X_ae90cfb0/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/05/film-founders-day-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",FOUNDERS DAY (2024)
+https://stream.hownetwork.xyz/xxx/founders-day-2024-webdl_X_d7ac5add/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/05/film-darkness-of-man-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",DARKNESS OF MAN (2024)
+https://stream.hownetwork.xyz/xxx/darkness-of-man-2024-webdl_X_57342e9f.480/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2024/05/film-mashaarojinn-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",MASHAAROJINN (2024)
+https://stream.hownetwork.xyz/xxx/mashaarojinn-2024-webdl_X_f3bf5cf0.480/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/05/film-turtles-all-the-way-down-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",TURTLES ALL THE WAY DOWN (2024)
+https://stream.hownetwork.xyz/xxx/turtles-all-the-way-down-2024-webdl_X_3805e095.480/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/05/film-aavesham-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",AAVESHAM (2024)
 https://stream.hownetwork.xyz/xxx/aavesham-2024-webdl_X_7cbe8040.480/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/05/film-laroy-texas-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",LAROY, TEXAS (2024)
@@ -385,8 +404,7 @@ https://stream.hownetwork.xyz/xxx/argylle-2024-webdl_X_6c2702b6/1000/480.m3u8
 #EXTVLCOPT:sub-file=https://nontoncdn.com/Brain.Tumor.2024.WEB.H264-RBB.vtt
 https://nontoncdn.com/Brain.Tumor.2024.WEB.H264-RBB.mp4
 #EXTINF:-1 tvg-logo="https://nonton168.xyz/wp-content/uploads/2024/04/zuSAZIG1PSrxFwPeAlGtg9LTwxo.jpg" group-title="HOLLYWOOD CINEMA",Sting (2024)
-#EXTVLCOPT:sub-file=https://www.nonton168.com/movies/desember2022/TAMING.vtt
-https://nontoncdn.com/Sting.2024.720p.HDCAM-C1NEM4.mp4
+https://stream.hownetwork.xyz/xxx/sting-2024-webdl_X_7cb4b0e5/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://nonton168.xyz/wp-content/uploads/2024/04/eVWHzm6bL4ybAuRLqA10Qo7ACfN.jpg" group-title="HOLLYWOOD CINEMA",The Long Game (2024)
 #EXTVLCOPT:sub-file=https://www.nonton168.com/movies/desember2022/TAMING.vtt
 https://nontoncdn.com/The.Long.Game.2023.720p.HDCAM-C1NEM4.mp4
@@ -666,9 +684,9 @@ https://nontoncdn.com/Ancika.Dia.Yang.Bersamaku.1995.2024.1080P.Nf.Web-Dl.Ddp5.1
 #EXTINF:-1 tvg-logo="https://nonton168.ink/wp-content/uploads/2024/05/nzHbUp2OG5sI3Mtb9qZbmFf3ONs.jpg" group-title="INDONESIA CINEMA",Kutukan Sembilan Setan (2024)
 https://nontoncdn.com/Kutukan%20Sembilan%20Setan%202024.mp4
 #EXTINF:-1 tvg-logo="https://nonton168.ink/wp-content/uploads/2024/05/j1xUlKVa8rS1c2mi0cZsjUSJ6G4.jpg" group-title="INDONESIA CINEMA",Vina: Sebelum 7 Hari (2024)
-https://nontoncdn.com/Vina_Sebelum_7_Hari_2.mp4
+https://heryarts.my.id/vina.mkv
 #EXTINF:-1 tvg-logo="https://nonton168.ink/wp-content/uploads/2024/05/j1xUlKVa8rS1c2mi0cZsjUSJ6G4.jpg" group-title="INDONESIA CINEMA",Vina: Sebelum 7 Hari (2024)
-https://nontoncdn.com/Vina_Sebelum_7_Hari_2024_cam.mp4
+https://nontoncdn.com/Vina_Sebelum_7_Hari_2.mp4
 #EXTINF:-1 tvg-logo="https://nonton168.ink/wp-content/uploads/2024/01/8BeHyvxD9UaOPAmcCViDddiNLun.jpg" group-title="INDONESIA CINEMA",Rambut Kafan (2024)
 https://nontoncdn.com/Rambut%20Kafan%20(2024).mp4
 #EXTINF:-1 tvg-logo="https://nonton168.pro/wp-content/uploads/2024/03/ry5Ey1bmdrYC1ZtV1klhAoSkwfG.jpg" group-title="INDONESIA CINEMA",13 Bom Di Jakarta (2024)
