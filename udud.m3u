@@ -1,6 +1,8 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://nonton168.ink/wp-content/uploads/2024/05/AnzrE2WHg3DtZrtmB9AnEbAh17m.jpg" group-title="HOD 2024 MAX",Kulong (2024)
+#EXTVLCOPT:sub-file=https://nontoncdn.com/Kulong.2024.1080p.VMAX.WEB-DL.AAC.x264-RSG.vtt
+https://nontoncdn.com/Kulong.2024.1080p.VMAX.WEB-DL.AAC.x264-RSG.mp4
 #EXTINF:-1 tvg-logo="https://nonton168.ink/wp-content/uploads/2024/05/u095PKBKqWxXRD4Sddxq4kHrvyb.jpg" group-title="HOD 2024 MAX",Balinsasayaw (2024)
 #EXTVLCOPT:sub-file=https://www.nonton168.com/movies/desember2022/TAMING.vtt
 https://nontoncdn.com/Balinsasayaw.2024.720p.mp4
