@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
-
+#EXTINF:-1 tvg-id="CHN" group-title="INFO" ch-number="1001" tvg-logo="https://aqfadtv.xyz/images/AqFadTV.png",SINGAPORE PLAYLIST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/channel5
+https://aqfadtv.xyz/live/mewatch/channel5/index.mpd
 
 #EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/05/film-mai-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",MAI (2024)
 https://stream.hownetwork.xyz/xxx/mai-2024-webdl_X_b7818c49.480/22/480.m3u8
