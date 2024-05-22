@@ -13261,6 +13261,15 @@ https://ardinesh-tataplay.puspas.com.np/live/tataplay-universal/sun-life/index.t
 https://ardinesh-tataplay.puspas.com.np/live/tataplay-universal/ayush-tv/index.ts
 
 
-
+#EXTINF:-1 tvg-id="Canal4Posadas.ar" tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="TELECENTRO TV",Canal 4
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal6Posadas.ar" tvg-logo="https://i.imgur.com/OamBiS5.png" group-title="TELECENTRO TV",Canal 6
+https://iptv.ixfo.com.ar:30443/live/c6sd/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal6Posadas.ar" tvg-logo="https://i.imgur.com/OamBiS5.png" group-title="TELECENTRO TV",Canal 6 Sd
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+#EXTINF:-1 tvg-id="SanPedroTV.ar" tvg-logo="https://i.imgur.com/UkpXogr.png" group-title="TELECENTRO TV",San Pedro TV
+https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal21TV.ar" tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="TELECENTRO TV",Canal 21 TV
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
 
