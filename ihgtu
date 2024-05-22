@@ -7413,6 +7413,16 @@ https://m7rovideolive.solocoo.tv/blueskylive2dash/bluetntro/Manifest.mpd
 https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MOVIE BOX" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7obDvDTY8JU6XSSCHaJFYt/8ff2202ef9297b98202c9a41d0766992/Sky-Open-Main.png" group-title="SKY-GO TV",MOVIE BOX
 https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="VTV" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7obDvDTY8JU6XSSCHaJFYt/8ff2202ef9297b98202c9a41d0766992/Sky-Open-Main.png" group-title="SKY-GO TV",SPS PRIME
+https://cdn3.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="VTV" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7obDvDTY8JU6XSSCHaJFYt/8ff2202ef9297b98202c9a41d0766992/Sky-Open-Main.png" group-title="SKY-GO TV",SPS PLAY
+https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="VTV" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7obDvDTY8JU6XSSCHaJFYt/8ff2202ef9297b98202c9a41d0766992/Sky-Open-Main.png" group-title="SKY-GO TV",SPS WORLD
+https://cdn3.skygo.mn/live/disk1/SPSWORLD/HLS-FTA/SPSWORLD.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="VTV" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7obDvDTY8JU6XSSCHaJFYt/8ff2202ef9297b98202c9a41d0766992/Sky-Open-Main.png" group-title="SKY-GO TV",SPS FIGHT
+https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="VTV" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7obDvDTY8JU6XSSCHaJFYt/8ff2202ef9297b98202c9a41d0766992/Sky-Open-Main.png" group-title="SKY-GO TV",SPS PLUS
+https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="LOTUS" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7obDvDTY8JU6XSSCHaJFYt/8ff2202ef9297b98202c9a41d0766992/Sky-Open-Main.png" group-title="SKY-GO TV",LOTUS
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="CARTOON NETWORK" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7obDvDTY8JU6XSSCHaJFYt/8ff2202ef9297b98202c9a41d0766992/Sky-Open-Main.png" group-title="SKY-GO TV",CARTOON NETWORK
@@ -7503,6 +7513,8 @@ https://cdn1.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
 https://cdn1.skygo.mn/live/disk1/Telecafe/HLS-FTA/Telecafe.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="VTV" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7obDvDTY8JU6XSSCHaJFYt/8ff2202ef9297b98202c9a41d0766992/Sky-Open-Main.png" group-title="SKY-GO TV",VTV
 https://cdn1.skygo.mn/live/disk1/disk1/VTV/HLS-FTA/VTV.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="VTV" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7obDvDTY8JU6XSSCHaJFYt/8ff2202ef9297b98202c9a41d0766992/Sky-Open-Main.png" group-title="SKY-GO TV",NHK WORLD PREMIUM
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
 
 
