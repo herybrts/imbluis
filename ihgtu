@@ -6417,6 +6417,60 @@ https://m7rovideolive.solocoo.tv/blueskylive2dash/blueviasatnaturero/Manifest.mp
 https://m7rovideolive.solocoo.tv/blueskylive2dash/bluetntro/Manifest.mpd
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",AXN
+http://170.254.18.106/AXN/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TNT" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",TNT
+http://170.254.18.106/TNT/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO FAMILY" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",HBO FAMILY
+http://170.254.18.106/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO POP" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",HBO POP
+http://170.254.18.106/HBO_POP/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",AMC
+http://170.254.18.106/AMC/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO MUNDI" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",HBO MUNDI
+http://170.254.18.106/HBO_MUNDI/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO EXTREME" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",HBO EXTREME
+http://170.254.18.106/HBO_XTREME/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO PLUS" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",HBO PLUS
+http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO 2" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",HBO 2
+http://170.254.18.106/HBO2/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO SIGNATURE" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",HBO SIGNATURE
+http://170.254.18.106/HBO_SIG/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="FX" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",FX
+http://170.254.18.106/FX/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="LIFETIME" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",LIFETIME
+http://170.254.18.106/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",CINEMAX
+http://170.254.18.106/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SYFY" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",SYFY
+http://170.254.18.106/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="COMEDY CENTRAL" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",COMEDY CENTRAL
+http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="PARAMOUNT" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",PARAMOUNT
+http://170.254.18.106/PARAMOUNT/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HISTORY" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",HISTORY
+http://170.254.18.106/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",STAR
+http://170.254.18.106/STAR/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="BET" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",BET
+http://170.254.18.106/BET/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="COOKING" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",COOKING
+http://170.254.18.106/COOKING/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",DISCOVERY
+http://170.254.18.106/DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HGTV" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",HGTV
+http://170.254.18.106/HGTV/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",MTV
+http://170.254.18.106/MTV/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="VH1" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",VH1
+http://170.254.18.106/VH1/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TRU TV" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",TRU TV
+http://170.254.18.106/TRUTV/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="BRAVO" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",BRAVO
+http://170.254.18.106/BRAVO/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="SkyOpenPlus1.nz" tvg-name="" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7obDvDTY8JU6XSSCHaJFYt/8ff2202ef9297b98202c9a41d0766992/Sky-Open-Main.png" group-title="SKY-GO TV", SKY OPEN
