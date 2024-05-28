@@ -6476,6 +6476,127 @@ https://m7rovideolive.solocoo.tv/blueskylive2dash/bluetntro/Manifest.mpd
 
 
 #EXTM3U
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="NXPLAY TV",A&E SD
+https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="AGROMAIS HD" tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="NXPLAY TV",AGROMAIS HD
+https://cdn-2.nxplay.com.br/AGROMAIS_HD_TK/index.m3u8
+#EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="NXPLAY TV",AMC HD
+https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ANIMAL PLANET HD" tvg-logo="https://imgur.com/t97qwNh.png" group-title="NXPLAY TV",ANIMAL PLANET HD
+https://cdn-3.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ARTE 1" tvg-logo="https://imgur.com/4QWoV1Z.png" group-title="NXPLAY TV",ARTE 1
+https://cdn-3.nxplay.com.br/ARTE1_TK/index.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="NXPLAY TV",AXN HD 
+https://cdn-3.nxplay.com.br/AXN_TK/index.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="NXPLAY TV",AXN SD
+https://cdn-3.nxplay.com.br/AXN_TK/index.m3u8
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="NXPLAY TV",BAND NEWS SD
+https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="NXPLAY TV",BAND SP HD
+https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="NXPLAY TV",BAND SP SD
+https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL PROMESSAS " tvg-logo="https://i.imgur.com/dBqFJcg.png" group-title="NXPLAY TV",CANAL PROMESSAS 
+https://cdn-2.nxplay.com.br/PROMESSAS/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL SONY HD" tvg-logo="https://i.imgur.com/b4Z8dd0.png" group-title="NXPLAY TV",CANAL SONY HD
+https://cdn-3.nxplay.com.br/SONY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CANçãO NOVA" tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="NXPLAY TV",CANçãO NOVA
+https://cdn-1.nxplay.com.br/CANCAO_NOVA_TK/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CARTOON NETWORK HD" tvg-logo="https://imgur.com/dlTmblr.png" group-title="NXPLAY TV",CARTOON NETWORK HD
+https://cdn-3.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE BRASIL HD" tvg-logo="https://i.imgur.com/yrzQyEu.png" group-title="NXPLAY TV",CINE BRASIL HD
+https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="NXPLAY TV",CNN BRASIL 480P
+https://cdn-1.nxplay.com.br/CNN_FAST/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DCPC INFANTIL " tvg-logo="https://i.imgur.com/NQG19uf.png" group-title="NXPLAY TV",DCPC INFANTIL 
+https://cdn-3.nxplay.com.br/dcpc/index.m3u8
+#EXTINF:-1 tvg-id="Disc. Home & Health HD" tvg-name="DISC. HOME & HEALTH HD" tvg-logo="https://imgur.com/VSezlWv.png" group-title="NXPLAY TV",DISC. HOME & HEALTH  HD
+https://cdn-3.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="NXPLAY TV",DISCOVERY CHANNEL HD
+https://cdn-3.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+#EXTINF:-1 tvg-id="Discovery ChanneHDl" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="NXPLAY TV",DISCOVERY CHANNEL SD
+https://cdn-3.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://imgur.com/WxKCkhL.png" group-title="NXPLAY TV",DISCOVERY KIDS HD
+https://cdn-3.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY SCIENCE HD " tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="NXPLAY TV",DISCOVERY SCIENCE HD 
+https://cdn-3.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://imgur.com/NUFWsJ0.png" group-title="NXPLAY TV",DISCOVERY THEATER HD
+https://cdn-3.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO" tvg-logo="https://imgur.com/lH1Srp9.png" group-title="NXPLAY TV",DISCOVERY TURBO HD
+https://cdn-3.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://imgur.com/6sTkahx.png" group-title="NXPLAY TV",DISCOVERY WORLD HD
+https://cdn-3.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DREAM WORKS" tvg-logo="https://i.imgur.com/zDbdnwu.png" group-title="NXPLAY TV",DREAM WORKS
+https://cdn-3.nxplay.com.br/DREAMWORKS/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="NXPLAY TV",ESPN 2 HD
+https://cdn-3.nxplay.com.br/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="NXPLAY TV",ESPN 3 HD
+https://cdn-3.nxplay.com.br/ESPN_3/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="NXPLAY TV",ESPN 4 HD
+https://cdn-3.nxplay.com.br/ESPN_4/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="EUROPAPLAY NACIONAL " tvg-logo="https://i.imgur.com/N4W3VoB.png" group-title="NXPLAY TV",EUROPAPLAY NACIONAL 
+https://cdn-3.nxplay.com.br/europaplay/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="FILM & ARTS HD" tvg-logo="https://i.imgur.com/gLqV8bf.png" group-title="NXPLAY TV",FILM & ARTS HD
+https://cdn-3.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="FOOD NETWORK HD" tvg-logo="https://imgur.com/AH3uBDj.png" group-title="NXPLAY TV",FOOD NETWORK HD
+https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="GLOBO SP HD" tvg-logo="https://imgur.com/waZJG1M.png" group-title="NXPLAY TV",GLOBO SP HD
+https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HALLO ANIME HD" tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="NXPLAY TV",HALLO ANIME HD
+https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HALLO CLASSIC" tvg-logo="https://i.imgur.com/Z8BnjPs.png" group-title="NXPLAY TV",HALLO CLASSIC
+https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HALLO MOVIES" tvg-logo="https://i.imgur.com/Q16ZNjl.png" group-title="NXPLAY TV",HALLO MOVIES
+https://cdn-2.nxplay.com.br/HALLOMOVIES/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HALLO MUSIC" tvg-logo="https://i.imgur.com/6hDnWxA.png" group-title="NXPLAY TV",HALLO MUSIC
+https://cdn-1.nxplay.com.br/HALLOMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HALLO SERIES" tvg-logo="https://i.imgur.com/BMV8Nbn.png" group-title="NXPLAY TV",HALLO SERIES
+https://cdn-1.nxplay.com.br/HALLOSERIES/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HGTV HD" tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="NXPLAY TV",HGTV HD
+https://cdn-3.nxplay.com.br/HGTV_BR_NX/index.m3u8
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV HD" tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="NXPLAY TV",HGTV SD
+https://cdn-3.nxplay.com.br/HGTV_BR_NX/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HISTORY HD" tvg-logo="https://imgur.com/0rNNqVy.png" group-title="NXPLAY TV",HISTORY HD
+https://cdn-3.nxplay.com.br/HISTORY_TK/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HTO FILMES" tvg-logo="https://hdtvone.tv/wp-content/uploads/2018/09/cropped-HTO.tv-LOGO-HEADER-e1535917877621-1.png" group-title="NXPLAY TV",HTO FILMES
+https://cdn-2.nxplay.com.br/HTO_Filmes/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ID" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="NXPLAY TV",ID HD
+https://cdn-3.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="LIFETIME HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="NXPLAY TV",LIFETIME SD
+https://cdn-3.nxplay.com.br/LIFE_TIME_TK/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NATIONAL SPORTS CHANNEL " tvg-logo="https://i.imgur.com/nk19QkO.png" group-title="NXPLAY TV",NATIONAL SPORTS CHANNEL 
+https://cdn-2.nxplay.com.br/PLAYOUT_02_NSC/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="PIXTV HD" tvg-logo="https://i.imgur.com/jdd5Jsa.png" group-title="NXPLAY TV",PIXTV HD
+https://cdn-2.nxplay.com.br/PIX_TV/index.m3u8
+#EXTINF:-1 tvg-id="Prime Box Brazil HD" tvg-name="PRIME BOX HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="NXPLAY TV",PRIME BOX HD 
+http://cdn-3.nxplay.com.br/PRIME_HD/index.m3u8
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORDTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="NXPLAY TV",RECORDTV SP HD
+https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="RIT TV" tvg-logo="https://imgur.com/psyk2C5.png" group-title="NXPLAY TV",RIT TV
+https://cdn-1.nxplay.com.br/RIT_TV/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SONY MOVIES HD" tvg-logo="https://i.imgur.com/Bv0MLFU.png" group-title="NXPLAY TV",SONY MOVIES HD
+https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="NXPLAY TV",SPACE HD [ALTER]
+https://cdn-3.nxplay.com.br/SPACE_TK/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TLC HD" tvg-logo="https://imgur.com/2F9asSD.png" group-title="NXPLAY TV",TLC HD
+https://cdn-3.nxplay.com.br/TLC_BR_NX/index.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="NXPLAY TV",TNT HD
+https://cdn-3.nxplay.com.br/TNT_TK/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TOONCAST HD" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="NXPLAY TV",TOONCAST HD
+https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TRACE BRASIL" tvg-logo="https://i.imgur.com/IE8xwt4.png" group-title="NXPLAY TV",TRACE BRASIL
+https://cdn-3.nxplay.com.br/TRACE_BRAZUCA/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV JUSTIçA " tvg-logo="https://i.imgur.com/sURDHLY.png" group-title="NXPLAY TV",TV JUSTIçA 
+https://cdn-2.nxplay.com.br/TV_JUSTICA/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV SENADO " tvg-logo="https://i.imgur.com/duy6waL.png" group-title="NXPLAY TV",TV SENADO 
+https://cdn-2.nxplay.com.br/TV_SENADO/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="WOOHOO SURF" tvg-logo="https://i.imgur.com/uoPNiM1.png" group-title="NXPLAY TV",WOOHOO SURF
+https://cdn-1.nxplay.com.br/WOOHOO_FAST/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ZOOMOO HD" tvg-logo="https://imgur.com/WHmHmUH.png" group-title="NXPLAY TV",ZOOMOO HD
+https://cdn-3.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
+
+
+#EXTM3U
 #EXTINF:-1 tvg-id="ext" tvg-name="AXN" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",AXN
 http://170.254.18.106/AXN/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TNT" tvg-logo="https://image.roku.com/developer_channels/prod/336295f5af5521d9d5b300e8f8419d8809bcc308fb222557bfa36ad1211c6ce3.png" group-title="NEXTGEN TV",TNT
