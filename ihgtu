@@ -5251,10 +5251,28 @@ https://ntd02.akamaized.net/NTD-West/index.m3u8
 https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="VOA PERSIAN" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",VOA PERSIAN
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="VOA PERSIAN" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",VOA AMERICAN
+https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="BLUE SELECT 9" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",BLUE SELECT 9
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",NDTV KHABAR
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",INDI KIDS
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",DIGIONE TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",KBS WORLD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",NDR INTERNATIONAL
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",NEWS MAX
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ARIRANG
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",SKY NEWS
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+
+
 
 
 
