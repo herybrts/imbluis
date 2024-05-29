@@ -2,7 +2,13 @@
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
 
 
+#EXTINF:-6 group-title="TV SUNNAH" tvg-logo="https://live.artvisi.or.id/logo/binbaztv.png",BINBAZ TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch22.m3u8
 
+#EXTINF:-7 group-title="TV SUNNAH" tvg-logo="https://api.insanebook.net/chat/image/logo/binamadanitv.png", Bina Madani TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch20.m3u8
 
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/04/film-love-lies-bleeding-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",LOVE LIES BLEEDING (2024)
 https://stream.hownetwork.xyz/xxx/love-lies-bleeding-2024-bluray_X_9e7988cb/22/480.m3u8
