@@ -1,15 +1,7 @@
 #EXTM3U
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
 
-#EXTINF:-1 type="Live" tvg-logo="https://www.i-pic.info/i/Ecy3654246.png" group-title="หนังภาพยนตร์",FW MOV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://www.inwiptv.com/player_demo.php?channel=95262
 
-#EXTINF:-1 type="Live" tvg-logo="https://www.i-pic.info/i/soJS654247.png" group-title="หนังภาพยนตร์",FW SOV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
-https://www.inwiptv.com/player_demo.php?channel=94898
 
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/04/film-love-lies-bleeding-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",LOVE LIES BLEEDING (2024)
 https://stream.hownetwork.xyz/xxx/love-lies-bleeding-2024-bluray_X_9e7988cb/22/480.m3u8
