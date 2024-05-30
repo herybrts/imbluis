@@ -5548,6 +5548,89 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
 
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI TV
+https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI SAMA
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI SPORT
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI ZAMAN
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="DubaiOne.ae" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI ONE
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI NOOR
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI SPORT 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI SPORT 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI RADIO
+https://dmithrvll.cdn.mgmlcdn.com/dubairdo/dubairdo_aac/chunklist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI RACING 1
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI RACING 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI MUBASHER
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",KTV 1
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",KTV 2
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",KTV SPORT
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",EL CIMENA
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",ETHRAA
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",KTVA
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",AL QURAN TV
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:ktvaq.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",KUWAIT SPORT +
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",AL MAJLIS
+https://kwtalmta.cdn.mangomolo.com/alm/smil:alm.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI TV
+https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI SAMA
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI NOOR
+https://dmithrvll.cdn.mgmlcdn.com/noordubairdo/noordubairdo_aac/chunklist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI RADIO
+https://dmithrvll.cdn.mgmlcdn.com/dubairdo/dubairdo_aac/chunklist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",OMAN TV
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",OMAN SPORT
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",OMAN CULTURAL
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",OMAN LIVE
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
+
+
+
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="AbuDhabiTV.uk" tvg-logo="https://heryarts.my.id/mangomolo.jpg",ABU DHABI TV
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",EMIRATES TV
+https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",NATIONAL GEOGRAPHIC
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",ABU DHABI SPORT 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",YAS SPORT
+https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",MAJID CHILDREN TV
+https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",BAYOUNAH TV
+https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
+
+
+
+
 #EXTM3U
 #EXTINF:-1 group-title="STINGRAY TV" tvg-logo="https://heryarts.my.id/stingray.png" tvg-id="",Holidayscapes
 https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
