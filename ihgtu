@@ -5619,6 +5619,8 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
 #EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",NATIONAL GEOGRAPHIC
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",ABU DHABI SPORT 1
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",ABU DHABI SPORT 2
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",YAS SPORT
@@ -5627,6 +5629,27 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",BAYOUNAH TV
 https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
+
+
+
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",ABU DHABI FM
+https://vo-live.cdb.cdn.orange.com/Content/Channel/abu_dhabi_fm/HLS/index.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",EMARAT FM
+https://vo-live.cdb.cdn.orange.com/Content/Channel/emarat_fm/HLS/index.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",QURAN QAREEM
+https://vo-live.cdb.cdn.orange.com/Content/Channel/quran_kareem/HLS/index.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",STAR FM
+https://vo-live.cdb.cdn.orange.com/Content/Channel/star_fm/HLS/index.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",RADIO ONE
+https://vo-live.cdb.cdn.orange.com/Content/Channel/Radio1/HLS/index.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",RADIO 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/radio_2/HLS/index.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",KADAK FM
+https://vo-live.cdb.cdn.orange.com/Content/Channel/kadak_fm/HLS/index.m3u8
+#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",CLASSICS FM
+https://vo-live.cdb.cdn.orange.com/Content/Channel/classic_fm/HLS/index.m3u8
+
+
 
 
 
