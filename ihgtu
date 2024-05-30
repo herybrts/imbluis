@@ -5652,6 +5652,121 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/classic_fm/HLS/index.m3u8
 
 
 
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SMC 1
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SMC 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SMC 4
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KAB TV 1
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KAB TV 2
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",INEWS IQ
+https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/inewsiqpublish/inewsiq/chunks.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",RUDAW TV
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ALMASIRA
+https://svs.itworkscdn.net/almasiralive/almasira.smil/almasirapublish/almasira/chunks.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SYIRA TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_720p/chunks_dvr.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",VDL TV
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ASHARAQ DOCUMENTARY
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",BLOOMBERG
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ASHARAQ DISCOVERY
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ITV
+https://svs.itworkscdn.net/lbcivod/smil:itwfcdn/lbci/170976.smil/Manifest
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ORIENT RADIO
+https://svs.itworkscdn.net/orientradiolive/orlive/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KTV PLUS
+https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 1
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 2
+https://svs.itworkscdn.net/nour2satlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 3
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 4
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 5
+https://svs.itworkscdn.net/nour5satlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 6
+https://svs.itworkscdn.net/nour6satlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 7
+https://svs.itworkscdn.net/nour7satlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 8
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 9
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",AL RAYYAN AL QADEEM
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",AL RAYYAN
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",AL MASIRA
+https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SAT 7 ARABIC
+https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SAT 7 KIDS
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",OTV LEBANON
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ALMIN BAR TV
+https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",LANA TV
+https://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ORIENT TV
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",FATEH TV
+https://svs.itworkscdn.net/alfatehlive/fatehtv/chunklist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KTV 1
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/chunklist_b2400000.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KTV 2
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2400000.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KTV ARABIC
+https://svs.itworkscdn.net/ktvarabelive/karabe.smil/chunklist_b2400000.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KTV MAJLIS
+https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/chunklist_b2400000.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ASSIRA TV
+https://svs.itworkscdn.net/assiratvlive/assirat/chunklist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",FORMEDIA TV
+https://svs.itworkscdn.net/formediatvlive/formediatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ALWOUSTA TV
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ROYA TV
+https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KTV ETHRAA
+https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KTV SPORT
+https://svs.itworkscdn.net/ktvsportspluslive/ksportsplus.smil/gmswf.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",AL IMAN TV
+https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SAT 7 TURK
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",VDL TV
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",A RAI TV
+https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",AGHANI TV
+https://svs.itworkscdn.net/aghanilive/aghanilive/chunklist.m3u8 
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SAT 7 PARS
+https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KINGDOM SAT
+https://svs.itworkscdn.net/kingdomsatlive/kingdomsat.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KSUPER STATION
+https://svs.itworkscdn.net/ksuperstationlive/ksuper/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KUWAIT RADIO 1
+https://svs.itworkscdn.net/kradioonelive/kone/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KUWAIT RADIO 2
+https://svs.itworkscdn.net/kradio2live/kradio2/playlist.m3u8
+#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KUWAIT EASY RADIO
+https://svs.itworkscdn.net/keasylive/keasy/playlist.m3u8
+
+
+
 
 
 #EXTM3U
