@@ -1838,179 +1838,6 @@ https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/322122793
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="ALQURAN KAREEM" tvg-logo="http://x1.cdn.broiptv.com/img/alquran.png" group-title="PEY TV",ALQURAN KAREEM
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/alquran_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ANIMAX" tvg-logo="http://x1.cdn.broiptv.com/img/animax.png" group-title="PEY TV",ANIMAX
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/animax_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ANTV HD" tvg-logo="http://x1.cdn.broiptv.com/img/antv.png" group-title="PEY TV",ANTV HD
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/antv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ARIRANG HD" tvg-logo="http://x1.cdn.broiptv.com/img/arirang.png" group-title="PEY TV",ARIRANG HD
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/arirang_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ASTRO BOO" tvg-logo="http://x1.cdn.broiptv.com/img/astro_boo.png" group-title="PEY TV",ASTRO BOO
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/astro_boo_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="ASTRO SUPER SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="PEY TV",ASTRO SUPER SPORT 1
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/astro_supersport1_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASTRO SUPER SPORT 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png" group-title="PEY TV",ASTRO SUPER SPORT 2
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/astro_supersport2_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASTRO SUPER SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="PEY TV",ASTRO SUPER SPORT 3
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/astro_supersport3_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASTRO SUPER SPORT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="PEY TV",ASTRO SUPER SPORT 4
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/astro_supersport4_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://x1.cdn.broiptv.com/img/bein1.png" group-title="PEY TV",BEIN SPORTS 1 HD
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/bein1_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BIOSKOP INDONESIA" tvg-logo="http://x1.cdn.broiptv.com/img/bioskopindonesia.png" group-title="PEY TV",BIOSKOP INDONESIA
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/bioskopindonesia_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BOOMERANG" tvg-logo="http://x1.cdn.broiptv.com/img/boomerang.png" group-title="PEY TV",BOOMERANG
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/boomerang_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CELESTIAL CLASSIC MOVIES" tvg-logo="http://x1.cdn.broiptv.com/img/ccm.png" group-title="PEY TV",CELESTIAL CLASSIC MOVIES
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/celestial_classic_movies_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CELESTIAL MOVIES" tvg-logo="http://x1.cdn.broiptv.com/img/celestialmovie.png" group-title="PEY TV",CELESTIAL MOVIES
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/celestialmovie_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMA WORLD" tvg-logo="http://x1.cdn.broiptv.com/img/cinemaworld.png" group-title="PEY TV",CINEMA WORLD
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/cinemaworld_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CITRA DANGDUT TV" tvg-logo="http://x1.cdn.broiptv.com/img/citradangdut.png" group-title="PEY TV",CITRA DANGDUT TV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/citradangdut_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DA VINCI LEARNING" tvg-logo="http://x1.cdn.broiptv.com/img/davinci.png" group-title="PEY TV",DA VINCI LEARNING
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/davinci_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DISNEY XD" tvg-logo="http://x1.cdn.broiptv.com/img/disney_xd.png" group-title="PEY TV",DISNEY XD
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/disney_xd_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DREAMWORKS" tvg-logo="http://x1.cdn.broiptv.com/img/dreamworks.png" group-title="PEY TV",DREAMWORKS
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/dreamworks_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="EAT & GO HD" tvg-logo="http://x1.cdn.broiptv.com/img/eatgo.png" group-title="PEY TV",EAT & GO HD
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/eatgo_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="FAIL ARMY" tvg-logo="http://x1.cdn.broiptv.com/img/failarmy.png" group-title="PEY TV",FAIL ARMY
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/fail_army_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="FASHIONTV MIDNIGHT SECRET" tvg-logo="http://x1.cdn.broiptv.com/img/fashiontvmidnight.png" group-title="PEY TV",FASHIONTV MIDNIGHT SECRET
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/fashiontvmidnight_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="FIGHT SPORTS" tvg-logo="http://x1.cdn.broiptv.com/img/fight_sports.png" group-title="PEY TV",FIGHT SPORTS
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/fightsport_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="FIGHT SPORTS (BACKUP)" tvg-logo="http://x1.cdn.broiptv.com/img/fight_sports.png" group-title="PEY TV",FIGHT SPORTS (BACKUP)
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/fight_sports_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="FLIK" tvg-logo="http://x1.cdn.broiptv.com/img/flik.png" group-title="PEY TV",FLIK
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/flik_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="GALAXY PREMIUM" tvg-logo="http://x1.cdn.broiptv.com/img/galaxy_premium.png" group-title="PEY TV",GALAXY PREMIUM
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/galaxypremium_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="GTV HD" tvg-logo="http://x1.cdn.broiptv.com/img/gtv.png" group-title="PEY TV",GTV HD
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/gtv_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO" tvg-logo="https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0" group-title="PEY TV",HBO ASIA 
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/hbo_hd_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="HITS" tvg-logo="http://x1.cdn.broiptv.com/img/hits.png" group-title="PEY TV",HITS
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/hits_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="HITS" tvg-logo="http://x1.cdn.broiptv.com/img/hits.png" group-title="PEY TV",HITS
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/hits_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="HORIZON SPORTS" tvg-logo="http://x1.cdn.broiptv.com/img/horizonsport.png" group-title="PEY TV",HORIZON SPORTS
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/horizonsport_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="I-KONSER" tvg-logo="http://x1.cdn.broiptv.com/img/ikonser.png" group-title="PEY TV",I-KONSER
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/ikonser_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="INDONESIANA TV" tvg-logo="http://x1.cdn.broiptv.com/img/indonesiana.png" group-title="PEY TV",INDONESIANA TV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/indonesiana_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="JITV" tvg-logo="http://x1.cdn.broiptv.com/img/jitv.png" group-title="PEY TV",JITV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/jitv_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="JPM TV" tvg-logo="http://x1.cdn.broiptv.com/img/jpm.png" group-title="PEY TV",JPM TV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/jpmtv_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="JTV" tvg-logo="http://x1.cdn.broiptv.com/img/jtv.png" group-title="PEY TV",JTV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/jtv_backup_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="KBS WORLD" tvg-logo="http://x1.cdn.broiptv.com/img/kbsworld.png" group-title="PEY TV",KBS WORLD
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/kbsworld_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="KBS WORLD (BACKUP)" tvg-logo="http://x1.cdn.broiptv.com/img/kbsworld.png" group-title="PEY TV",KBS WORLD (BACKUP)
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/kbsworld_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="KIX HD" tvg-logo="http://x1.cdn.broiptv.com/img/kix.png" group-title="PEY TV",KIX HD
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/kix_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="KOMPAS-TV" tvg-logo="http://x1.cdn.broiptv.com/img/kompastv.png" group-title="PEY TV",KOMPAS-TV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/kompastv_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="KPOP TV" tvg-logo="http://x1.cdn.broiptv.com/img/kpoptv.png" group-title="PEY TV",KPOP TV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/kpoptv_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MAGNA CHANNEL" tvg-logo="http://x1.cdn.broiptv.com/img/magnachannel.png" group-title="PEY TV",MAGNA CHANNEL
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/magna_channel_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="METRO TV" tvg-logo="http://x1.cdn.broiptv.com/img/metrotv.png" group-title="PEY TV",METRO TV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/metrotv_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MOJI TV" tvg-logo="http://x1.cdn.broiptv.com/img/moji.png" group-title="PEY TV",MOJI TV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/ochannel_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV LIVE" tvg-logo="http://x1.cdn.broiptv.com/img/mtvlive.png" group-title="PEY TV",MTV LIVE
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/mtvlive_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MUI TV" tvg-logo="http://x1.cdn.broiptv.com/img/tvmui.png" group-title="PEY TV",MUI TV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/muitv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MUSIC TV" tvg-logo="https://i.postimg.cc/sDpx6HQ2/151016093756.jpg" group-title="PEY TV",MUSIC TV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/music_tv_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MUSIK INDONESIA" tvg-logo="http://x1.cdn.broiptv.com/img/musikindo.png" group-title="PEY TV",MUSIK INDONESIA
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/musikindo_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MY CINEMA" tvg-logo="http://x1.cdn.broiptv.com/img/mycinema.png" group-title="PEY TV",MY CINEMA
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/mycinema_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MY CINEMA (BACKUP)" tvg-logo="http://x1.cdn.broiptv.com/img/mycinema.png" group-title="PEY TV",MY CINEMA (BACKUP)
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/mycinema_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MY CINEMA ASIA (BACKUP)" tvg-logo="http://x1.cdn.broiptv.com/img/mycinemaasia.png" group-title="PEY TV",MY CINEMA ASIA (BACKUP)
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/mycinemaasia_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MY FAMILY CHANEL" tvg-logo="http://x1.cdn.broiptv.com/img/myfamily.png" group-title="PEY TV",MY FAMILY CHANEL
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/myfamily_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MY KIDZ" tvg-logo="http://x1.cdn.broiptv.com/img/mykidz.png" group-title="PEY TV",MY KIDZ
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/mykids_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NBA TV" tvg-logo="http://x1.cdn.broiptv.com/img/nba.png" group-title="PEY TV",NBA TV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/nba_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NET TV" tvg-logo="http://x1.cdn.broiptv.com/img/net.png" group-title="PEY TV",NET TV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/net_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NET-TV" tvg-logo="http://x1.cdn.broiptv.com/img/net.png" group-title="PEY TV",NET-TV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/net_tv_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NICK JUNIOR" tvg-logo="http://x1.cdn.broiptv.com/img/nickjr.png" group-title="PEY TV",NICK JUNIOR
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/nickjr_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NICKELODEON" tvg-logo="http://x1.cdn.broiptv.com/img/nickelodeon.png" group-title="PEY TV",NICKELODEON
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/nickelodeon_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NUSANTARA TV" tvg-logo="http://x1.cdn.broiptv.com/img/nusantaratv.png" group-title="PEY TV",NUSANTARA TV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/nusantaratv_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="REDBULL TV" tvg-logo="http://x1.cdn.broiptv.com/img/redbulltv.png" group-title="PEY TV",REDBULL TV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/redbull_tv_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ROCK ACTION HD" tvg-logo="http://x1.cdn.broiptv.com/img/rock_extreme.png" group-title="PEY TV",ROCK ACTION HD
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/rock_extreme_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ROCK ENTERTAINMENT HD" tvg-logo="http://x1.cdn.broiptv.com/img/rock_entertainment.png" group-title="PEY TV",ROCK ENTERTAINMENT HD
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/rock_entertainment_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RODJA TV" tvg-logo="http://x1.cdn.broiptv.com/img/rodjatv.png" group-title="PEY TV",RODJA TV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/rodjatv_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SONY GEM" tvg-logo="http://x1.cdn.broiptv.com/img/sgem.png" group-title="PEY TV",SONY GEM
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/sgem_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SONY ONE" tvg-logo="http://x1.cdn.broiptv.com/img/sone.png" group-title="PEY TV",SONY ONE
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/sone_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SONY ONE (BACKUP)" tvg-logo="http://x1.cdn.broiptv.com/img/sone.png" group-title="PEY TV",SONY ONE (BACKUP)
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sone_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SONY PIX" tvg-logo="http://x1.cdn.broiptv.com/img/sonypix.png" group-title="PEY TV",SONY PIX
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_pix_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 1" tvg-logo="http://x1.cdn.broiptv.com/img/sonysports1.png" group-title="PEY TV",SONY SPORTS 1
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_sports1_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 2" tvg-logo="http://x1.cdn.broiptv.com/img/sonysports2.png" group-title="PEY TV",SONY SPORTS 2
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_sports2_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 5" tvg-logo="http://x1.cdn.broiptv.com/img/sonysports5.png" group-title="PEY TV",SONY SPORTS 5
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_sports5_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SPOTV" tvg-logo="http://x1.cdn.broiptv.com/img/spotv.png" group-title="PEY TV",SPOTV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/spotv_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SPOTV2" tvg-logo="http://x1.cdn.broiptv.com/img/spotv2.png" group-title="PEY TV",SPOTV2
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/spotv2_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TENNIS CHANNEL" tvg-logo="http://x1.cdn.broiptv.com/img/tennis_channel.png" group-title="PEY TV",TENNIS CHANNEL
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/tennis_channel_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="THRILL" tvg-logo="http://x1.cdn.broiptv.com/img/thrill.png" group-title="PEY TV",THRILL
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/thrill_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TRANS 7 HD" tvg-logo="http://x1.cdn.broiptv.com/img/trans7.png" group-title="PEY TV",TRANS 7 HD
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/trans7_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TRANS-TV" tvg-logo="http://x1.cdn.broiptv.com/img/transtv.png" group-title="PEY TV",TRANS-TV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/transtv_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TV9 NU" tvg-logo="http://x1.cdn.broiptv.com/img/tv9.png" group-title="PEY TV",TV9 NU
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/tv9_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVN HD" tvg-logo="http://x1.cdn.broiptv.com/img/tvn.png" group-title="PEY TV",TVN HD
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/tvn_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVN MOVIES" tvg-logo="http://x1.cdn.broiptv.com/img/tvnmovies.png" group-title="PEY TV",TVN MOVIES
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/tvnmovies_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVONE" tvg-logo="http://x1.cdn.broiptv.com/img/tvone.png" group-title="PEY TV",TVONE
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/tvone_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVRI" tvg-logo="http://x1.cdn.broiptv.com/img/tvri.png" group-title="PEY TV",TVRI
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/tvri_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVRI SPORT" tvg-logo="http://x1.cdn.broiptv.com/img/tvri_sport.png" group-title="PEY TV",TVRI SPORT
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/tvrisport_pratensis/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="U-CHANNEL" tvg-logo="http://x1.cdn.broiptv.com/img/uchannel.png" group-title="PEY TV",U-CHANNEL
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/uchannel_rattus/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="VTV" tvg-logo="http://x1.cdn.broiptv.com/img/vtv.png" group-title="PEY TV",VTV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/vtv_norvegicus/playlist.m3u8
-
-
-
-
-#EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 xui-id="2" tvg-id="" tvg-name="INDOSIAR" tvg-logo="http://play.fastkobar.my.id:8080/images/D8XEKa0WlZb__jeS_BlOhu6nKrntnIXIrFZZOP4DgevT495FI2d5N3xIIj9ZXE3e.png" group-title="FASTKOBAR TV",INDOSIAR
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRPwlYfGHtSq5_13vQ9nRLMc
@@ -4129,6 +3956,177 @@ http://103.160.205.142:9999/stream/channelid/10820201?profile=pass
 http://103.160.205.142:9999/stream/channelid/1797702932?profile=pass
 #EXTINF:-1 group-title="VIDIO TV" logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_horizonsport_ver1.png" tvg-id="490417d58d7d77a441634442a381235b",045 Horizon Sports
 http://103.160.205.142:9999/stream/channelid/1427571785?profile=pass
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-name="ALQURAN KAREEM" tvg-logo="http://x1.cdn.broiptv.com/img/alquran.png" group-title="PEY TV",ALQURAN KAREEM
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/alquran_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ANIMAX" tvg-logo="http://x1.cdn.broiptv.com/img/animax.png" group-title="PEY TV",ANIMAX
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/animax_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ANTV HD" tvg-logo="http://x1.cdn.broiptv.com/img/antv.png" group-title="PEY TV",ANTV HD
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/antv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ARIRANG HD" tvg-logo="http://x1.cdn.broiptv.com/img/arirang.png" group-title="PEY TV",ARIRANG HD
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/arirang_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ASTRO BOO" tvg-logo="http://x1.cdn.broiptv.com/img/astro_boo.png" group-title="PEY TV",ASTRO BOO
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/astro_boo_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="ASTRO SUPER SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="PEY TV",ASTRO SUPER SPORT 1
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/astro_supersport1_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASTRO SUPER SPORT 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png" group-title="PEY TV",ASTRO SUPER SPORT 2
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/astro_supersport2_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASTRO SUPER SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="PEY TV",ASTRO SUPER SPORT 3
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/astro_supersport3_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASTRO SUPER SPORT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="PEY TV",ASTRO SUPER SPORT 4
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/astro_supersport4_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://x1.cdn.broiptv.com/img/bein1.png" group-title="PEY TV",BEIN SPORTS 1 HD
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/bein1_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="BIOSKOP INDONESIA" tvg-logo="http://x1.cdn.broiptv.com/img/bioskopindonesia.png" group-title="PEY TV",BIOSKOP INDONESIA
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/bioskopindonesia_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="BOOMERANG" tvg-logo="http://x1.cdn.broiptv.com/img/boomerang.png" group-title="PEY TV",BOOMERANG
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/boomerang_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CELESTIAL CLASSIC MOVIES" tvg-logo="http://x1.cdn.broiptv.com/img/ccm.png" group-title="PEY TV",CELESTIAL CLASSIC MOVIES
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/celestial_classic_movies_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CELESTIAL MOVIES" tvg-logo="http://x1.cdn.broiptv.com/img/celestialmovie.png" group-title="PEY TV",CELESTIAL MOVIES
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/celestialmovie_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CINEMA WORLD" tvg-logo="http://x1.cdn.broiptv.com/img/cinemaworld.png" group-title="PEY TV",CINEMA WORLD
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/cinemaworld_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CITRA DANGDUT TV" tvg-logo="http://x1.cdn.broiptv.com/img/citradangdut.png" group-title="PEY TV",CITRA DANGDUT TV
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/citradangdut_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DA VINCI LEARNING" tvg-logo="http://x1.cdn.broiptv.com/img/davinci.png" group-title="PEY TV",DA VINCI LEARNING
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/davinci_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DISNEY XD" tvg-logo="http://x1.cdn.broiptv.com/img/disney_xd.png" group-title="PEY TV",DISNEY XD
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/disney_xd_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DREAMWORKS" tvg-logo="http://x1.cdn.broiptv.com/img/dreamworks.png" group-title="PEY TV",DREAMWORKS
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/dreamworks_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="EAT & GO HD" tvg-logo="http://x1.cdn.broiptv.com/img/eatgo.png" group-title="PEY TV",EAT & GO HD
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/eatgo_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="FAIL ARMY" tvg-logo="http://x1.cdn.broiptv.com/img/failarmy.png" group-title="PEY TV",FAIL ARMY
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/fail_army_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="FASHIONTV MIDNIGHT SECRET" tvg-logo="http://x1.cdn.broiptv.com/img/fashiontvmidnight.png" group-title="PEY TV",FASHIONTV MIDNIGHT SECRET
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/fashiontvmidnight_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="FIGHT SPORTS" tvg-logo="http://x1.cdn.broiptv.com/img/fight_sports.png" group-title="PEY TV",FIGHT SPORTS
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/fightsport_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="FIGHT SPORTS (BACKUP)" tvg-logo="http://x1.cdn.broiptv.com/img/fight_sports.png" group-title="PEY TV",FIGHT SPORTS (BACKUP)
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/fight_sports_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="FLIK" tvg-logo="http://x1.cdn.broiptv.com/img/flik.png" group-title="PEY TV",FLIK
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/flik_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="GALAXY PREMIUM" tvg-logo="http://x1.cdn.broiptv.com/img/galaxy_premium.png" group-title="PEY TV",GALAXY PREMIUM
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/galaxypremium_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="GTV HD" tvg-logo="http://x1.cdn.broiptv.com/img/gtv.png" group-title="PEY TV",GTV HD
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/gtv_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO" tvg-logo="https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0" group-title="PEY TV",HBO ASIA 
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/hbo_hd_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HITS" tvg-logo="http://x1.cdn.broiptv.com/img/hits.png" group-title="PEY TV",HITS
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/hits_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HITS" tvg-logo="http://x1.cdn.broiptv.com/img/hits.png" group-title="PEY TV",HITS
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/hits_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HORIZON SPORTS" tvg-logo="http://x1.cdn.broiptv.com/img/horizonsport.png" group-title="PEY TV",HORIZON SPORTS
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/horizonsport_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="I-KONSER" tvg-logo="http://x1.cdn.broiptv.com/img/ikonser.png" group-title="PEY TV",I-KONSER
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/ikonser_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="INDONESIANA TV" tvg-logo="http://x1.cdn.broiptv.com/img/indonesiana.png" group-title="PEY TV",INDONESIANA TV
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/indonesiana_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="JITV" tvg-logo="http://x1.cdn.broiptv.com/img/jitv.png" group-title="PEY TV",JITV
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/jitv_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="JPM TV" tvg-logo="http://x1.cdn.broiptv.com/img/jpm.png" group-title="PEY TV",JPM TV
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/jpmtv_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="JTV" tvg-logo="http://x1.cdn.broiptv.com/img/jtv.png" group-title="PEY TV",JTV
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/jtv_backup_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="KBS WORLD" tvg-logo="http://x1.cdn.broiptv.com/img/kbsworld.png" group-title="PEY TV",KBS WORLD
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/kbsworld_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="KBS WORLD (BACKUP)" tvg-logo="http://x1.cdn.broiptv.com/img/kbsworld.png" group-title="PEY TV",KBS WORLD (BACKUP)
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/kbsworld_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="KIX HD" tvg-logo="http://x1.cdn.broiptv.com/img/kix.png" group-title="PEY TV",KIX HD
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/kix_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="KOMPAS-TV" tvg-logo="http://x1.cdn.broiptv.com/img/kompastv.png" group-title="PEY TV",KOMPAS-TV
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/kompastv_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="KPOP TV" tvg-logo="http://x1.cdn.broiptv.com/img/kpoptv.png" group-title="PEY TV",KPOP TV
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/kpoptv_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MAGNA CHANNEL" tvg-logo="http://x1.cdn.broiptv.com/img/magnachannel.png" group-title="PEY TV",MAGNA CHANNEL
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/magna_channel_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="METRO TV" tvg-logo="http://x1.cdn.broiptv.com/img/metrotv.png" group-title="PEY TV",METRO TV
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/metrotv_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MOJI TV" tvg-logo="http://x1.cdn.broiptv.com/img/moji.png" group-title="PEY TV",MOJI TV
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/ochannel_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV LIVE" tvg-logo="http://x1.cdn.broiptv.com/img/mtvlive.png" group-title="PEY TV",MTV LIVE
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/mtvlive_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MUI TV" tvg-logo="http://x1.cdn.broiptv.com/img/tvmui.png" group-title="PEY TV",MUI TV
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/muitv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MUSIC TV" tvg-logo="https://i.postimg.cc/sDpx6HQ2/151016093756.jpg" group-title="PEY TV",MUSIC TV
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/music_tv_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MUSIK INDONESIA" tvg-logo="http://x1.cdn.broiptv.com/img/musikindo.png" group-title="PEY TV",MUSIK INDONESIA
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/musikindo_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MY CINEMA" tvg-logo="http://x1.cdn.broiptv.com/img/mycinema.png" group-title="PEY TV",MY CINEMA
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/mycinema_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MY CINEMA (BACKUP)" tvg-logo="http://x1.cdn.broiptv.com/img/mycinema.png" group-title="PEY TV",MY CINEMA (BACKUP)
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/mycinema_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MY CINEMA ASIA (BACKUP)" tvg-logo="http://x1.cdn.broiptv.com/img/mycinemaasia.png" group-title="PEY TV",MY CINEMA ASIA (BACKUP)
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/mycinemaasia_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MY FAMILY CHANEL" tvg-logo="http://x1.cdn.broiptv.com/img/myfamily.png" group-title="PEY TV",MY FAMILY CHANEL
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/myfamily_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MY KIDZ" tvg-logo="http://x1.cdn.broiptv.com/img/mykidz.png" group-title="PEY TV",MY KIDZ
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/mykids_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NBA TV" tvg-logo="http://x1.cdn.broiptv.com/img/nba.png" group-title="PEY TV",NBA TV
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/nba_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NET TV" tvg-logo="http://x1.cdn.broiptv.com/img/net.png" group-title="PEY TV",NET TV
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/net_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NET-TV" tvg-logo="http://x1.cdn.broiptv.com/img/net.png" group-title="PEY TV",NET-TV
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/net_tv_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NICK JUNIOR" tvg-logo="http://x1.cdn.broiptv.com/img/nickjr.png" group-title="PEY TV",NICK JUNIOR
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/nickjr_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NICKELODEON" tvg-logo="http://x1.cdn.broiptv.com/img/nickelodeon.png" group-title="PEY TV",NICKELODEON
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/nickelodeon_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NUSANTARA TV" tvg-logo="http://x1.cdn.broiptv.com/img/nusantaratv.png" group-title="PEY TV",NUSANTARA TV
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/nusantaratv_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="REDBULL TV" tvg-logo="http://x1.cdn.broiptv.com/img/redbulltv.png" group-title="PEY TV",REDBULL TV
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/redbull_tv_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ROCK ACTION HD" tvg-logo="http://x1.cdn.broiptv.com/img/rock_extreme.png" group-title="PEY TV",ROCK ACTION HD
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/rock_extreme_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="ROCK ENTERTAINMENT HD" tvg-logo="http://x1.cdn.broiptv.com/img/rock_entertainment.png" group-title="PEY TV",ROCK ENTERTAINMENT HD
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/rock_entertainment_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="RODJA TV" tvg-logo="http://x1.cdn.broiptv.com/img/rodjatv.png" group-title="PEY TV",RODJA TV
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/rodjatv_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SONY GEM" tvg-logo="http://x1.cdn.broiptv.com/img/sgem.png" group-title="PEY TV",SONY GEM
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/sgem_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SONY ONE" tvg-logo="http://x1.cdn.broiptv.com/img/sone.png" group-title="PEY TV",SONY ONE
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/sone_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SONY ONE (BACKUP)" tvg-logo="http://x1.cdn.broiptv.com/img/sone.png" group-title="PEY TV",SONY ONE (BACKUP)
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sone_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SONY PIX" tvg-logo="http://x1.cdn.broiptv.com/img/sonypix.png" group-title="PEY TV",SONY PIX
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_pix_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 1" tvg-logo="http://x1.cdn.broiptv.com/img/sonysports1.png" group-title="PEY TV",SONY SPORTS 1
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_sports1_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 2" tvg-logo="http://x1.cdn.broiptv.com/img/sonysports2.png" group-title="PEY TV",SONY SPORTS 2
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_sports2_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 5" tvg-logo="http://x1.cdn.broiptv.com/img/sonysports5.png" group-title="PEY TV",SONY SPORTS 5
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_sports5_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SPOTV" tvg-logo="http://x1.cdn.broiptv.com/img/spotv.png" group-title="PEY TV",SPOTV
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/spotv_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SPOTV2" tvg-logo="http://x1.cdn.broiptv.com/img/spotv2.png" group-title="PEY TV",SPOTV2
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/spotv2_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TENNIS CHANNEL" tvg-logo="http://x1.cdn.broiptv.com/img/tennis_channel.png" group-title="PEY TV",TENNIS CHANNEL
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/tennis_channel_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="THRILL" tvg-logo="http://x1.cdn.broiptv.com/img/thrill.png" group-title="PEY TV",THRILL
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/thrill_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TRANS 7 HD" tvg-logo="http://x1.cdn.broiptv.com/img/trans7.png" group-title="PEY TV",TRANS 7 HD
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/trans7_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TRANS-TV" tvg-logo="http://x1.cdn.broiptv.com/img/transtv.png" group-title="PEY TV",TRANS-TV
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/transtv_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TV9 NU" tvg-logo="http://x1.cdn.broiptv.com/img/tv9.png" group-title="PEY TV",TV9 NU
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/tv9_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TVN HD" tvg-logo="http://x1.cdn.broiptv.com/img/tvn.png" group-title="PEY TV",TVN HD
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/tvn_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TVN MOVIES" tvg-logo="http://x1.cdn.broiptv.com/img/tvnmovies.png" group-title="PEY TV",TVN MOVIES
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/tvnmovies_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TVONE" tvg-logo="http://x1.cdn.broiptv.com/img/tvone.png" group-title="PEY TV",TVONE
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/tvone_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TVRI" tvg-logo="http://x1.cdn.broiptv.com/img/tvri.png" group-title="PEY TV",TVRI
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/tvri_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TVRI SPORT" tvg-logo="http://x1.cdn.broiptv.com/img/tvri_sport.png" group-title="PEY TV",TVRI SPORT
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/tvrisport_pratensis/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="U-CHANNEL" tvg-logo="http://x1.cdn.broiptv.com/img/uchannel.png" group-title="PEY TV",U-CHANNEL
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/uchannel_rattus/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="VTV" tvg-logo="http://x1.cdn.broiptv.com/img/vtv.png" group-title="PEY TV",VTV
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/vtv_norvegicus/playlist.m3u8
 
 
 
