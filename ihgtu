@@ -2,9 +2,16 @@
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
 
 
-
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-teddiscare-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",TEDDISCARE (2024) 
+https://stream.hownetwork.xyz/xxx/teddiscare-2024-webdl_X_6e22c6bd/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/05/film-article-370-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",ARTICLE 370 (2024)
-https://cdn133.abcnewza.com/data/A/B1/6658cadee588a/6658cadee588a480.m3u8
+https://stream.hownetwork.xyz/xxx/article-370-2024-webdl_X_e80c0f7f/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/05/film-chief-of-station-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",CHIEF OF STATION (2024)
+https://stream.hownetwork.xyz/xxx/chief-of-station-2024-webdl_X_5f879cc9/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-bionic-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",BIONIC (2024)
+https://stream.hownetwork.xyz/xxx/bionic-2024-webdl_X_b028da05/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/05/film-colors-of-evil-red-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",COLORS OF EVIL: RED (2024)
+https://stream.hownetwork.xyz/xxx/colors-of-evil-red-2024-webdl_X_a617fcf8.480/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/04/film-love-lies-bleeding-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",LOVE LIES BLEEDING (2024)
 https://stream.hownetwork.xyz/xxx/love-lies-bleeding-2024-bluray_X_9e7988cb/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/05/film-back-to-black-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",BACK TO BLACK (2024)
