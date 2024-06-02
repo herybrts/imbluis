@@ -2,7 +2,9 @@
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
 
 
-
+#EXTINF:-1 tvg-id="HITS MOVIES HD - [Channel 409].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Hits%20Movies.png" group-title="Premium Movies",HitsMovies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/05/film-the-feeling-that-the-time-for-doing-something-has-passed-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",THE FEELING THAT THE TIME FOR DOING SOMETHING HAS PASSED (2024)
 https://stream.hownetwork.xyz/xxx/the-feeling-that-the-time-for-doing-something-has-passed-2024-webdl_X_567ffb7a/22/480.m3u8
