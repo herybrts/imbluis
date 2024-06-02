@@ -10432,339 +10432,339 @@ http://iptv12k.com:35461/80236053010/645789/3212
 
 
 ##EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ABC NEWS AUSTRALIA
+#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ABC NEWS AUSTRALIA
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ABC NEWS 1
+#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ABC NEWS 1
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ABC NEWS 2
+#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ABC NEWS 2
 https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ABC NEWS 3
+#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ABC NEWS 3
 https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ABC NEWS 4
+#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ABC NEWS 4
 https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ABC NEWS 5
+#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ABC NEWS 5
 https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ABC NEWS 6
+#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ABC NEWS 6
 https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ABC NEWS 7
+#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ABC NEWS 7
 https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ABC NEWS 8
+#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ABC NEWS 8
 https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ABC NEWS 9
+#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ABC NEWS 9
 https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ABC NEWS 10
+#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ABC NEWS 10
 https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ABC WWAY 3
+#EXTINF:-1 tvg-id="ext" tvg-name="ABC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ABC WWAY 3
 https://wway.akamaized.net/hls/live/2029583/wway_ingest/master.m3u8
-#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="ABC AUSTRALIA" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ABC AUSTRALIA
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="ABC AUSTRALIA" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ABC AUSTRALIA
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8 
-#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="DW" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",DW
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="DW" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="DW ENGLISH" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",DW ENGLISH
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="DW ENGLISH" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",DW ENGLISH
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="DW ESPANOL" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",DW ESPANOL
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="DW ESPANOL" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",DW ESPANOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="DW ESPANOL" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",DW ARABIC
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="DW ESPANOL" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",DW ARABIC
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="AMC+" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",AMC+
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="AMC+" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",AMC+
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
-#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="CBN NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBN NEWS
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="CBN NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBN NEWS
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CBN ESPAÑOL (1080P)" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBN ESPAÑOL (1080P)
+#EXTINF:-1 tvg-id="ext" tvg-name="CBN ESPAÑOL (1080P)" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBN ESPAÑOL (1080P)
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CBN FAMILY (1080P)" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBN FAMILY (1080P)
+#EXTINF:-1 tvg-id="ext" tvg-name="CBN FAMILY (1080P)" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBN FAMILY (1080P)
 https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="TAIWAN PLUS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",TAIWAN PLUS
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="TAIWAN PLUS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",TAIWAN PLUS
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ASHARQ NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ASHARQ NEWS
+#EXTINF:-1 tvg-id="ext" tvg-name="ASHARQ NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ASHARQ NEWS
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ASHARQ NEWS PORTRAIT" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ASHARQ NEWS PORTRAIT
+#EXTINF:-1 tvg-id="ext" tvg-name="ASHARQ NEWS PORTRAIT" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ASHARQ NEWS PORTRAIT
 https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="I24 NEWS ARABIC" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",I24 NEWS ARABIC
+#EXTINF:-1 tvg-id="ext" tvg-name="I24 NEWS ARABIC" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",I24 NEWS ARABIC
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="I24 NEWS ENGLISH" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",I24 NEWS ENGLISH
+#EXTINF:-1 tvg-id="ext" tvg-name="I24 NEWS ENGLISH" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",I24 NEWS ENGLISH
 https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="I24 NEWS FRENCH" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",I24 NEWS FRENCH
+#EXTINF:-1 tvg-id="ext" tvg-name="I24 NEWS FRENCH" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",I24 NEWS FRENCH
 https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all_dvr.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MU TV" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",MU TV
+#EXTINF:-1 tvg-id="ext" tvg-name="MU TV" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TELE QUEBEC" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",TELE QUEBEC
+#EXTINF:-1 tvg-id="ext" tvg-name="TELE QUEBEC" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",TELE QUEBEC
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="PORTO CANAL" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",PORTO CANAL
+#EXTINF:-1 tvg-id="ext" tvg-name="PORTO CANAL" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",PORTO CANAL
 https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/profile_0/chunklist_dvr.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BBC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",BBC NEWS
+#EXTINF:-1 tvg-id="ext" tvg-name="BBC NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BBC AMERICA" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",BBC AMERICA
+#EXTINF:-1 tvg-id="ext" tvg-name="BBC AMERICA" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",BBC AMERICA
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="REELZ" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",REELZ
+#EXTINF:-1 tvg-id="ext" tvg-name="REELZ" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",REELZ
 https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="OVACION TV [NOT 24/7]" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",OVACION TV [NOT 24/7]
+#EXTINF:-1 tvg-id="ext" tvg-name="OVACION TV [NOT 24/7]" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",OVACION TV [NOT 24/7]
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ROTANA CINEMA KSA" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ROTANA CINEMA KSA
+#EXTINF:-1 tvg-id="ext" tvg-name="ROTANA CINEMA KSA" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ROTANA CINEMA KSA
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="AL QAHERA NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",AL QAHERA NEWS
+#EXTINF:-1 tvg-id="ext" tvg-name="AL QAHERA NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",AL QAHERA NEWS
 https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVB" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",TVB
+#EXTINF:-1 tvg-id="ext" tvg-name="TVB" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",TVB
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ENTER 10" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ENTER 10
+#EXTINF:-1 tvg-id="ext" tvg-name="ENTER 10" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ENTER 10
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ENTER 10 BANGLA" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ENTER 10 BANGLA
+#EXTINF:-1 tvg-id="ext" tvg-name="ENTER 10 BANGLA" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ENTER 10 BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="INDIA TV" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",INDIA TV
+#EXTINF:-1 tvg-id="ext" tvg-name="INDIA TV" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",INDIA TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ABP NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ABP NEWS
+#EXTINF:-1 tvg-id="ext" tvg-name="ABP NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ABP NEWS
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ABP ANANDA" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ABP ANANDA
+#EXTINF:-1 tvg-id="ext" tvg-name="ABP ANANDA" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ABP ANANDA
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ZEE AFLM" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ZEE AFLM
+#EXTINF:-1 tvg-id="ext" tvg-name="ZEE AFLM" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ZEE AFLM
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="INDIA TODAY" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",INDIA TODAY
+#EXTINF:-1 tvg-id="ext" tvg-name="INDIA TODAY" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",INDIA TODAY
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV 24X7" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",NDTV 24X7
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV 24X7" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV PROFIT" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",NDTV PROFIT
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV PROFIT" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",NDTV PROFIT
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BLOOMBERG" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",BLOOMBERG
+#EXTINF:-1 tvg-id="ext" tvg-name="BLOOMBERG" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",BLOOMBERG
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RED BULL" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",RED BULL
+#EXTINF:-1 tvg-id="ext" tvg-name="RED BULL" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",RED BULL
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BOLLYWOOD HUNGAMA" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",BOLLYWOOD HUNGAMA
+#EXTINF:-1 tvg-id="ext" tvg-name="BOLLYWOOD HUNGAMA" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",BOLLYWOOD HUNGAMA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RACING TV" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",RACING TV
+#EXTINF:-1 tvg-id="ext" tvg-name="RACING TV" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",RACING TV
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="SUPER TV" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",SUPER TV
+#EXTINF:-1 tvg-id="ext" tvg-name="SUPER TV" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",SUPER TV
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CLASSICS CART" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CLASSICS CART
+#EXTINF:-1 tvg-id="ext" tvg-name="CLASSICS CART" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CLASSICS CART
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="LA 2" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",LA 2
+#EXTINF:-1 tvg-id="ext" tvg-name="LA 2" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",LA 2
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="AASTHA" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",AASTHA
+#EXTINF:-1 tvg-id="ext" tvg-name="AASTHA" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",AASTHA
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b1328000.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="AASTHA" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",AASTHA BARJAN
+#EXTINF:-1 tvg-id="ext" tvg-name="AASTHA" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",AASTHA BARJAN
 https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b264000.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="4 VISION" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",4 VISION
+#EXTINF:-1 tvg-id="ext" tvg-name="4 VISION" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",4 VISION
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="PALITRA NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",PALITRA NEWS
+#EXTINF:-1 tvg-id="ext" tvg-name="PALITRA NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",PALITRA NEWS
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NASA TV" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",NASA TV
+#EXTINF:-1 tvg-id="ext" tvg-name="NASA TV" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NBC CHICAGO" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",NBC CHICAGO
+#EXTINF:-1 tvg-id="ext" tvg-name="NBC CHICAGO" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",NBC CHICAGO
 https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TV 2000" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",TV 2000
+#EXTINF:-1 tvg-id="ext" tvg-name="TV 2000" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CTV TORONTO" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CTV TORONTO
+#EXTINF:-1 tvg-id="ext" tvg-name="CTV TORONTO" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CTV TORONTO
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="QVC GERMANY" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",QVC GERMANY
+#EXTINF:-1 tvg-id="ext" tvg-name="QVC GERMANY" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",QVC GERMANY
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="CBS NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBS NEWS
+#EXTINF:-1 tvg-id="ext" tvg-name="CBS NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBS NEWS
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="GB NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",GB NEWS
+#EXTINF:-1 tvg-id="ext" tvg-name="GB NEWS" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",GB NEWS
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RTHKTV 32" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",RTHKTV 32
+#EXTINF:-1 tvg-id="ext" tvg-name="RTHKTV 32" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",RTHKTV 32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NTD TV" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",NTD TV
+#EXTINF:-1 tvg-id="ext" tvg-name="NTD TV" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",NTD TV
 https://ntd02.akamaized.net/NTD-West/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TVR INFO" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",TVR INFO
+#EXTINF:-1 tvg-id="ext" tvg-name="TVR INFO" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",TVR INFO
 https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="VOA PERSIAN" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",VOA PERSIAN
+#EXTINF:-1 tvg-id="ext" tvg-name="VOA PERSIAN" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",VOA PERSIAN
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="VOA PERSIAN" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",VOA AMERICAN
+#EXTINF:-1 tvg-id="ext" tvg-name="VOA PERSIAN" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",VOA AMERICAN
 https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BLUE SELECT 9" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",BLUE SELECT 9
+#EXTINF:-1 tvg-id="ext" tvg-name="BLUE SELECT 9" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",BLUE SELECT 9
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",NDTV KHABAR
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",NDTV KHABAR
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",INDI KIDS
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",INDI KIDS
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",DIGIONE TV
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",DIGIONE TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",KBS WORLD
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",KBS WORLD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",NDR INTERNATIONAL
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",NDR INTERNATIONAL
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",NEWS MAX
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",NEWS MAX
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ARIRANG
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ARIRANG
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",SKY NEWS
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",SKY NEWS
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",SKY TG 24
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",SKY TG 24
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",2GB SYDNEY
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",2GB SYDNEY
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",2M MONDE
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",2M MONDE
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",3ABN
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",3ABN
 https://3abn-live.akamaized.net/hls/live/2010549/Proclaim/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",3AW
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",3AW
 https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",6PR PERTH
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",6PR PERTH
 https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ABP GANGA
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ABP GANGA
 https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ABP MAJHA
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ABP MAJHA
 https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",APB NEWS
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",APB NEWS
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",AKAAL TV
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",AKAAL TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",AAN TV
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",AAN TV
 https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",AL AUOLA INTERNATIONAL
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",AL AUOLA INTERNATIONAL
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",AL AUOLA LAAYOUNE
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",AL AUOLA LAAYOUNE
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",AL ARABIYA BUSSINES
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",AL ARABIYA BUSSINES
 https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",AL MAGRIBIA
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",AL MAGRIBIA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",AL MASHAAD
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",AL MASHAAD
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",AL QAHEERA NEWS
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",AL QAHEERA NEWS
 https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",AL YAOUM TV
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",AL YAOUM TV
 https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",AL HURRA TV
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",AL HURRA TV
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",AL HURRA IRAQ
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",AL HURRA IRAQ
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ARIRANG UN
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ARIRANG UN
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ARRABIA TV
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ARRABIA TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ASRAQ NEWS
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ASRAQ NEWS
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ASRAQ NEWS POTRAIT
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ASRAQ NEWS POTRAIT
 https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ASSADISSA
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ASSADISSA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",AWAPA SPORT
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",AWAPA SPORT
 https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",BBC ARABIC
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",BBC ARABIC
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",BBC PERSIAN
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",BBC PERSIAN
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",BE1 RTL MUSIC
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",BE1 RTL MUSIC
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",BNN BLOOMBERG
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",BNN BLOOMBERG
 https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",BOLLYWOOD CLASSICS
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",BOLLYWOOD CLASSICS
 https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",BOLLYWOOD HD
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",BOLLYWOOD HD
 https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",BUSSINESS 24 AFRICA
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",BUSSINESS 24 AFRICA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CANAL 5
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CANAL 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CANAL 24 HORAS CANARIAS
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CANAL 24 HORAS CANARIAS
 https://rtvelivestream.akamaized.net/rtvesec/can/24h_can_main_dvr.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CANAL 24 HORAS CATALUNYA
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CANAL 24 HORAS CATALUNYA
 https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_dvr.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CANAL PARLEMENTO
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CANAL PARLEMENTO
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CASA ITALIA 53
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CASA ITALIA 53
 https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CATHOLIC TV
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CATHOLIC TV
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBC COMEDY
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBC COMEDY
 https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBC NEWS EXPLORE
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBC NEWS EXPLORE
 https://cbcrclive-tor-fast-internal.akamaized.net/hls/live/2095857/prod-gem-cbc-news-explore/hls/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBN ESPANOL
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBN ESPANOL
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CIRA TV
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CIRA TV
 https://cira-tv.akamaized.net/hls/stream_0.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CITY NEWS
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CITY NEWS
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CITY NEWS TORONTO
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CITY NEWS TORONTO
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",TVE CLAN
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",TVE CLAN
 https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",TVE CLAN INTERNATIONAL
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",TVE CLAN INTERNATIONAL
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CNN NEWS 18
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CNN NEWS 18
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",COULEUR TV
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",COULEUR TV
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",DAS ERSTE
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",DAS ERSTE
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",DASDING
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",DASDING
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",DRTV AVISEN
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",DRTV AVISEN
 https://drevent01hls.akamaized.net/hls/live/2014198/drevent01/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",NU9VE
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",NU9VE
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ET NOW
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ET NOW
 https://etnowweblive.akamaized.net/hls/live/2034678/ETNOWMSL4/chunklist_2.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",EURO NEWS FRENCH
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",EURO NEWS FRENCH
 https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",EVERYDAY REFRESH
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",EVERYDAY REFRESH
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",EXPO CHANNEL
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",EXPO CHANNEL
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",FASHION FINDS
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",FASHION FINDS
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",FORO TV
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",HEALING CENTER TV
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",HEALING CENTER TV
 https://dcunilive258-lh.akamaihd.net/i/dclive_1@348579/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",HLN NEWS
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",HLN NEWS
 https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",HR FERNSEHEN
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",HR FERNSEHEN
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",HSE 24
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",HSE 24
 https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",HSE 24 TREND
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",HSE 24 TREND
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",HSE 24 EXTRA
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",HSE 24 EXTRA
 https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",HSN WEST
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",HSN WEST
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",HSN
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",HSN 2
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",HSN 2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",ICI MONTREAL
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",ICI MONTREAL
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",IN THE KITCHEN
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",IN THE KITCHEN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",INC TV
+#EXTINF:-1 tvg-id="ext" tvg-name="NDTV KHABAR" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",INC TV
 https://cocphil.akamaized.net/hls/live/2042846/inctv/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="CBSNewsBaltimore.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBS News Baltimore
+#EXTINF:-1 tvg-id="CBSNewsBaltimore.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBS News Baltimore
 https://cbsnews.akamaized.net/hls/live/2099390/cbsnbal_11/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsBayArea.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBS News Bay Area
+#EXTINF:-1 tvg-id="CBSNewsBayArea.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBS News Bay Area
 https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsBoston.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBS News Boston
+#EXTINF:-1 tvg-id="CBSNewsBoston.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBS News Boston
 https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsChicago.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBS News Chicago
+#EXTINF:-1 tvg-id="CBSNewsChicago.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBS News Chicago
 https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsColorado.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBS News Colorado
+#EXTINF:-1 tvg-id="CBSNewsColorado.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBS News Colorado
 https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsDetroit.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBS News Detroit
+#EXTINF:-1 tvg-id="CBSNewsDetroit.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBS News Detroit
 https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBS News Los Angeles
+#EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBS News Los Angeles
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsMiami.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBS News Miami
+#EXTINF:-1 tvg-id="CBSNewsMiami.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBS News Miami
 https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsMinnesota.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBS News Minnesota
+#EXTINF:-1 tvg-id="CBSNewsMinnesota.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBS News Minnesota
 https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
-#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBS News National
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBS News National
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsNewYork.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBS News New York
+#EXTINF:-1 tvg-id="CBSNewsNewYork.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBS News New York
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsPhilly.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBS News Philadelphia
+#EXTINF:-1 tvg-id="CBSNewsPhilly.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBS News Philadelphia
 https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsPittsburgh.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBS News Pittsburgh
+#EXTINF:-1 tvg-id="CBSNewsPittsburgh.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBS News Pittsburgh
 https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsSacramento.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBS News Sacramento
+#EXTINF:-1 tvg-id="CBSNewsSacramento.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBS News Sacramento
 https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBS News Texas
+#EXTINF:-1 tvg-id="" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBS News Texas
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="AKAMAIZED TV",CBS Sports Golazo Network
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://bogordaily.net/wp-content/uploads/2024/04/Akamai-2.jpg" group-title="SHAHID TV",CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 
 
@@ -10839,221 +10839,221 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
 
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI TV
 https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI SAMA
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI SAMA
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI SPORT
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI SPORT
 https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI ZAMAN
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI ZAMAN
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="DubaiOne.ae" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI ONE
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="DubaiOne.ae" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI NOOR
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI NOOR
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI SPORT 2
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI SPORT 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI SPORT 3
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI SPORT 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI RADIO
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI RADIO
 https://dmithrvll.cdn.mgmlcdn.com/dubairdo/dubairdo_aac/chunklist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI RACING 1
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI RACING 1
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI RACING 2
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI RACING 2
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI MUBASHER
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI MUBASHER
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",KTV 1
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",KTV 1
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",KTV 2
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",KTV 2
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",KTV SPORT
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",KTV SPORT
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",EL CIMENA
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",EL CIMENA
 https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",ETHRAA
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",ETHRAA
 https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
 
 
 
 
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",KTVA
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",KTVA
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",AL QURAN TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",AL QURAN TV
 https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:ktvaq.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",KUWAIT SPORT +
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",KUWAIT SPORT +
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",AL MAJLIS
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",AL MAJLIS
 https://kwtalmta.cdn.mangomolo.com/alm/smil:alm.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI TV
 https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI SAMA
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI SAMA
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI NOOR
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI NOOR
 https://dmithrvll.cdn.mgmlcdn.com/noordubairdo/noordubairdo_aac/chunklist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI RADIO
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",DUBAI RADIO
 https://dmithrvll.cdn.mgmlcdn.com/dubairdo/dubairdo_aac/chunklist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",OMAN TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",OMAN TV
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",OMAN SPORT
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",OMAN SPORT
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",OMAN CULTURAL
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",OMAN CULTURAL
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",OMAN LIVE
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",OMAN LIVE
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
 
 
 
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="AbuDhabiTV.uk" tvg-logo="https://heryarts.my.id/mangomolo.jpg",ABU DHABI TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="AbuDhabiTV.uk" tvg-logo="https://heryarts.my.id/mangomolo.jpg",ABU DHABI TV
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",EMIRATES TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",EMIRATES TV
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",NATIONAL GEOGRAPHIC
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",NATIONAL GEOGRAPHIC
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",ABU DHABI SPORT 1
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",ABU DHABI SPORT 1
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",ABU DHABI SPORT 2
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",ABU DHABI SPORT 2
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",YAS SPORT
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",YAS SPORT
 https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",MAJID CHILDREN TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",MAJID CHILDREN TV
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",BAYOUNAH TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",BAYOUNAH TV
 https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
 
 
 
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",ABU DHABI FM
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",ABU DHABI FM
 https://vo-live.cdb.cdn.orange.com/Content/Channel/abu_dhabi_fm/HLS/index.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",EMARAT FM
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",EMARAT FM
 https://vo-live.cdb.cdn.orange.com/Content/Channel/emarat_fm/HLS/index.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",QURAN QAREEM
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",QURAN QAREEM
 https://vo-live.cdb.cdn.orange.com/Content/Channel/quran_kareem/HLS/index.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",STAR FM
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",STAR FM
 https://vo-live.cdb.cdn.orange.com/Content/Channel/star_fm/HLS/index.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",RADIO ONE
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",RADIO ONE
 https://vo-live.cdb.cdn.orange.com/Content/Channel/Radio1/HLS/index.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",RADIO 2
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",RADIO 2
 https://vo-live.cdb.cdn.orange.com/Content/Channel/radio_2/HLS/index.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",KADAK FM
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",KADAK FM
 https://vo-live.cdb.cdn.orange.com/Content/Channel/kadak_fm/HLS/index.m3u8
-#EXTINF:-1 group-title="MANGOMOLO TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",CLASSICS FM
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="" tvg-logo="https://heryarts.my.id/mangomolo.jpg",CLASSICS FM
 https://vo-live.cdb.cdn.orange.com/Content/Channel/classic_fm/HLS/index.m3u8
 
 
 
 
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SMC 1
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SMC 1
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SMC 2
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SMC 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SMC 4
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SMC 4
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KAB TV 1
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KAB TV 1
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KAB TV 2
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KAB TV 2
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",INEWS IQ
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",INEWS IQ
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/inewsiqpublish/inewsiq/chunks.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",RUDAW TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",RUDAW TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ALMASIRA
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ALMASIRA
 https://svs.itworkscdn.net/almasiralive/almasira.smil/almasirapublish/almasira/chunks.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SYIRA TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SYIRA TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_720p/chunks_dvr.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",VDL TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",VDL TV
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ASHARAQ DOCUMENTARY
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ASHARAQ DOCUMENTARY
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",BLOOMBERG
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",BLOOMBERG
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ASHARAQ DISCOVERY
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ASHARAQ DISCOVERY
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ITV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ITV
 https://svs.itworkscdn.net/lbcivod/smil:itwfcdn/lbci/170976.smil/Manifest
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ORIENT RADIO
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ORIENT RADIO
 https://svs.itworkscdn.net/orientradiolive/orlive/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KTV PLUS
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KTV PLUS
 https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 1
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 1
 https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 2
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 2
 https://svs.itworkscdn.net/nour2satlive/livestream/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 3
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 3
 https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 4
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 4
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 5
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 5
 https://svs.itworkscdn.net/nour5satlive/livestream/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 6
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 6
 https://svs.itworkscdn.net/nour6satlive/livestream/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 7
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 7
 https://svs.itworkscdn.net/nour7satlive/livestream/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 8
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 8
 https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 9
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",NOOR SAT 9
 https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",AL RAYYAN AL QADEEM
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",AL RAYYAN AL QADEEM
 https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",AL RAYYAN
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",AL RAYYAN
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",AL MASIRA
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",AL MASIRA
 https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SAT 7 ARABIC
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SAT 7 ARABIC
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SAT 7 KIDS
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SAT 7 KIDS
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",OTV LEBANON
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",OTV LEBANON
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ALMIN BAR TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ALMIN BAR TV
 https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",LANA TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",LANA TV
 https://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ORIENT TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ORIENT TV
 https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",FATEH TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",FATEH TV
 https://svs.itworkscdn.net/alfatehlive/fatehtv/chunklist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KTV 1
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KTV 1
 https://svs.itworkscdn.net/ktv1live/ktv1.smil/chunklist_b2400000.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KTV 2
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KTV 2
 https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2400000.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KTV ARABIC
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KTV ARABIC
 https://svs.itworkscdn.net/ktvarabelive/karabe.smil/chunklist_b2400000.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KTV MAJLIS
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KTV MAJLIS
 https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/chunklist_b2400000.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ASSIRA TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ASSIRA TV
 https://svs.itworkscdn.net/assiratvlive/assirat/chunklist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",FORMEDIA TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",FORMEDIA TV
 https://svs.itworkscdn.net/formediatvlive/formediatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ALWOUSTA TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ALWOUSTA TV
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ROYA TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",ROYA TV
 https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KTV ETHRAA
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KTV ETHRAA
 https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KTV SPORT
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KTV SPORT
 https://svs.itworkscdn.net/ktvsportspluslive/ksportsplus.smil/gmswf.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",AL IMAN TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",AL IMAN TV
 https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SAT 7 TURK
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SAT 7 TURK
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",VDL TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",VDL TV
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",A RAI TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",A RAI TV
 https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",AGHANI TV
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",AGHANI TV
 https://svs.itworkscdn.net/aghanilive/aghanilive/chunklist.m3u8 
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SAT 7 PARS
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",SAT 7 PARS
 https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KINGDOM SAT
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KINGDOM SAT
 https://svs.itworkscdn.net/kingdomsatlive/kingdomsat.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KSUPER STATION
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KSUPER STATION
 https://svs.itworkscdn.net/ksuperstationlive/ksuper/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KUWAIT RADIO 1
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KUWAIT RADIO 1
 https://svs.itworkscdn.net/kradioonelive/kone/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KUWAIT RADIO 2
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KUWAIT RADIO 2
 https://svs.itworkscdn.net/kradio2live/kradio2/playlist.m3u8
-#EXTINF:-1 group-title="IT WORKS TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KUWAIT EASY RADIO
+#EXTINF:-1 group-title="SHAHID TV" tvg-id="Dubai.il" tvg-logo="https://heryarts.my.id/itworks.jpg",KUWAIT EASY RADIO
 https://svs.itworkscdn.net/keasylive/keasy/playlist.m3u8
 
 
@@ -11411,79 +11411,79 @@ https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/
 https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2504661-205930-247297103aa)/master.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="SPECTRUM TV",FOX Deportes
+#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="PEACOCK TV",FOX Deportes
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c9231d5e7a99429382e6a5c2e588e141:ca08ab407ab9393a814d720f1f41c6cf
 https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="SPECTRUM TV",SPEED
+#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="PEACOCK TV",SPEED
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4aa03f4ba0b54774accf43d15af7be70:843a421b633ae576f7ad62872d0d71b1
 https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1166/dash/cenc/SPEEDHD/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="SPECTRUM TV",FOX SPORT
+#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="PEACOCK TV",FOX SPORT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=426b95e246774cb798a8c845fe6333d6:91e511fd8c290134b28c36ee1c386ea9
 https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1108/dash/cenc/FS2HD_00564/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="SPECTRUM TV",FOX SPORT HD
+#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="PEACOCK TV",FOX SPORT HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=260465aba18e40329932d47e9c7aa20b:2b79020e3f3ddc94ba84943ba72d898c
 https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1143/dash/cenc/FSCPLHD/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="SPECTRUM TV",CBS HD
+#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="PEACOCK TV",CBS HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c311b264f25748039736aa0dc64008d6:86055797afa5cb24feb2bc764b7a1813
 https://cors-proxy.elfsight.com/https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1105/dash/cenc/CBSSNHD_00500/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="SPECTRUM TV",TUDN
+#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="PEACOCK TV",TUDN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
 https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="SPECTRUM TV",Willow
+#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="PEACOCK TV",Willow
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc
 https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="SPECTRUM TV",ACC ESPN
+#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="PEACOCK TV",ACC ESPN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a329c3bfce3d4d85811b1c69bca39593:16dee7376eff742408e7b5b6fd55b913
 https://cors-proxy.elfsight.com/https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1203/dash/cenc/ACC_24525/manifest.mpd
-##EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="SPECTRUM TV",ESPN Deportes
+##EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="PEACOCK TV",ESPN Deportes
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be65e5985fa04a49af310f0a92a0260a:1acb5ff7b0dbfdf19c4dca1aabfaaa11
 https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="SPECTRUM TV",ESPN 2 Deportes
+#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="PEACOCK TV",ESPN 2 Deportes
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=883d6c6242a046bfbb3eb738eec1fe63:d0d1926c697baba0dfda82ac456faa9e
 https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1203/dash/cenc/ESPN2HD_24522/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="SPECTRUM TV",BEIN 1
+#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="PEACOCK TV",BEIN 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f81af7922a8d461aa81da4b225f8f883:d0f27c123c5f1331429d08638fa3727e
 https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1144/dash/cenc/BEIN1HD_04735/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="SPECTRUM TV",BEIN 2
+#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="PEACOCK TV",BEIN 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=42176706e135442ab500ee8b3a32ff31:072ea5e4b049541f4aba6f5d6bc2b3c8
 https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1147/dash/cenc/BEIN2HD_04736/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="SPECTRUM TV",USA NETWORK
+#EXTINF:-1 tvg-logo="https://www.newsobserver.com/latest-news/2cq2wt/picture248609520/alternates/LANDSCAPE_1140/Spectrum%20TV%20Logo.jpg", tvg-id="ksport1hd" group-title="PEACOCK TV",USA NETWORK
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -11492,198 +11492,198 @@ https://cors-proxy.elfsight.com/https://cip4-2018183880.linear-novi.stvacdn.spec
 
 
 
-#EXTINF:-1 tvg-id="Historia" tvg-name="" tvg-logo="https://i.ibb.co/LdMJYtQ/historia.png" group-title="SPECTRUM TV",HISTORIA
+#EXTINF:-1 tvg-id="Historia" tvg-name="" tvg-logo="https://i.ibb.co/LdMJYtQ/historia.png" group-title="PEACOCK TV",HISTORIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8913dddc7f301085c95e19bb94c005a8:ff60fbb41c2148e40c110237554ba652
 https://ott.zapitv.com/live/eds_c2/historia_hd/dash_live_enc/historia_hd.mpd
 
-#EXTINF:-1 tvg-id="AMC Break" tvg-name="" tvg-logo="https://i.ibb.co/CPQ1snf/amcbreak.png" group-title="SPECTRUM TV",AMC BREAK
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="" tvg-logo="https://i.ibb.co/CPQ1snf/amcbreak.png" group-title="PEACOCK TV",AMC BREAK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=15e412a4edd85313233969913072e0ff:5098eafaff2b246ee15e8f9aeb5403fb
 https://ott.zapitv.com/live/eds_c2/blaze/dash_live_enc/blaze.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nnf5htr/discoch.png" group-title="SPECTRUM TV",DISCOVERY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nnf5htr/discoch.png" group-title="PEACOCK TV",DISCOVERY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d37f084ced3f48cd8e7ab2250f26030d:7bae03ffb6f8a3539e8f93c0675e9c0a
 https://cache3.zapitv.com/live/eds_c2/discovery_channel_hd/dash_live_enc/discovery_channel_hd.mpd
 
-#EXTINF:-1 tvg-id="Odisea" tvg-name="" tvg-logo="https://i.ibb.co/cvtkS0b/odisea.png" group-title="SPECTRUM TV",ODISEA
+#EXTINF:-1 tvg-id="Odisea" tvg-name="" tvg-logo="https://i.ibb.co/cvtkS0b/odisea.png" group-title="PEACOCK TV",ODISEA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7837ebd0bfe0116ce5de21c7bc6158b:dd2decde9c929bddbee7e47bb68cfdca
 https://cache4.zapitv.com/live/eds_c2/odisea_hd/dash_live_enc/odisea_hd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zJdyCpD/amc.png" group-title="SPECTRUM TV",AMC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zJdyCpD/amc.png" group-title="PEACOCK TV",AMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffec3dec40cb61a45e969c84977615ef:c6fbbe1e506a4323d3046b30731c9d52
 https://ott.zapitv.com/live/eds_c2/amc_hd/dash_live_enc/amc_hd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/f9XVz9j/axn.png" group-title="SPECTRUM TV",AXN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/f9XVz9j/axn.png" group-title="PEACOCK TV",AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17b4b5cdbb271e7f6d97e38a04a2d27f:75aef15c20e7a17c64b71d2f840a6f5d
 https://ott.zapitv.com/live/eds_c2/axn/dash_live_enc/axn.mpd
 
-#EXTINF:-1 tvg-id="AXN ZAPI TV" tvg-name="AXN ZAPI TV" tvg-logo="https://i.ibb.co/r2WTxWH/axnmov.png" group-title="SPECTRUM TV",AXN ZAPI TV
+#EXTINF:-1 tvg-id="AXN ZAPI TV" tvg-name="AXN ZAPI TV" tvg-logo="https://i.ibb.co/r2WTxWH/axnmov.png" group-title="PEACOCK TV",AXN ZAPI TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f9e4be09926c262effa2b5381ae3553d:d630e04e0c5e3f98dc38840be1c1dd4c
 https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd
 
-#EXTINF:-1 tvg-id="Sundance" tvg-name="" tvg-logo="https://i.ibb.co/bWLtQx6/sundncetv.png" group-title="SPECTRUM TV",Sundance TV
+#EXTINF:-1 tvg-id="Sundance" tvg-name="" tvg-logo="https://i.ibb.co/bWLtQx6/sundncetv.png" group-title="PEACOCK TV",Sundance TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7107df0ecf168438df3d5e35a06f5e8b:1541c20a7dc82b302ec9b97274910162
 https://ott.zapitv.com/live/eds_c2/sundance_hd/dash_live_enc/sundance_hd.mpd
 
-#EXTINF:-1 tvg-id="SYFY" tvg-name="" tvg-logo="https://i.ibb.co/gyvGPjT/syfy.png" group-title="SPECTRUM TV",SyFy
+#EXTINF:-1 tvg-id="SYFY" tvg-name="" tvg-logo="https://i.ibb.co/gyvGPjT/syfy.png" group-title="PEACOCK TV",SyFy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95ec1e26e80c38258a30101d06c8cbf7:0d0df5189256c0bf32c0cd0976bac5bd
 https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KwdwK84/wbtv.png" group-title="SPECTRUM TV",WB TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KwdwK84/wbtv.png" group-title="PEACOCK TV",WB TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33947fe5bd6af392efd09f7431e1fa54:02cef33e07cb49b26b0e099ba7467e97
 https://ott.zapitv.com/live/eds_c2/tnt/dash_live_enc/tnt.mpd
 
-#EXTINF:-1 tvg-id="XTRM" tvg-name="" tvg-logo="https://i.ibb.co/dMSt5xX/xtrm.png" group-title="SPECTRUM TV",XTRM  
+#EXTINF:-1 tvg-id="XTRM" tvg-name="" tvg-logo="https://i.ibb.co/dMSt5xX/xtrm.png" group-title="PEACOCK TV",XTRM  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=563e6e1367e0c8c0f6643cf0ae92c4e7:7a84ece91b690c5b717eeffd58a55b04
 https://ott.zapitv.com/live/eds_c2/xtrm_hd/dash_live_enc/xtrm_hd.mpd
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://i.ibb.co/C7PBLRY/la1.png" group-title="SPECTRUM TV" tvg-name="La 1",LA 1
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://i.ibb.co/C7PBLRY/la1.png" group-title="PEACOCK TV" tvg-name="La 1",LA 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
 https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
 
-#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://i.ibb.co/wym3mnP/la2.png" group-title="SPECTRUM TV" tvg-name="La 2",LA 2
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://i.ibb.co/wym3mnP/la2.png" group-title="PEACOCK TV" tvg-name="La 2",LA 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd7ee75e0e88f267ace6bd7d9d70d83:eb196d2b2dc28418f465532c5d1182c0
 https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
 
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://i.ibb.co/ZMbkb0x/formulaegledek.png" group-title="SPECTRUM TV",E-PRIX
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://i.ibb.co/ZMbkb0x/formulaegledek.png" group-title="PEACOCK TV",E-PRIX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3
 https://ott.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd
 
-#EXTINF:-1 tvg-id="here" tvg-logo="https://i.ibb.co/K6vLgMc/betistv.png" group-title="SPECTRUM TV" , Betis TV
+#EXTINF:-1 tvg-id="here" tvg-logo="https://i.ibb.co/K6vLgMc/betistv.png" group-title="PEACOCK TV" , Betis TV
 https://streamer.zapitv.com/betis/index.mpd
 
-#EXTINF:-1 tvg-id="here" tvg-logo="https://i.ibb.co/z5gssKy/sevillatv.png" group-title="SPECTRUM TV" , Sevilla FC Televisión
+#EXTINF:-1 tvg-id="here" tvg-logo="https://i.ibb.co/z5gssKy/sevillatv.png" group-title="PEACOCK TV" , Sevilla FC Televisión
 https://streamer.zapitv.com/sevillafc/index.mpd
 
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://i.ibb.co/Qk3G5k3/eurosp1.png" group-title="SPECTRUM TV",EUROSPORT 1
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://i.ibb.co/Qk3G5k3/eurosp1.png" group-title="PEACOCK TV",EUROSPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3
 https://ott.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd
 
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co/ZcRh80Q/eurosp2.png" group-title="SPECTRUM TV",EUROSPORT 2
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co/ZcRh80Q/eurosp2.png" group-title="PEACOCK TV",EUROSPORT 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
 https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd
 
-#EXTINF:-1 group-title="SPECTRUM TV" tvg-id="Teledeporte" tvg-logo="https://i.ibb.co/mbwFfNY/tdp.png",TDP
+#EXTINF:-1 group-title="PEACOCK TV" tvg-id="Teledeporte" tvg-logo="https://i.ibb.co/mbwFfNY/tdp.png",TDP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
 https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="SPECTRUM TV", UCL
+#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="PEACOCK TV", UCL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0993fbc9c0f242e8bab9483484ff974e:08d3d32f7efefb22a7a865f81b5c8276
 https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd
 
-#EXTINF:-1 tvg-id="DAZN ELEVEN PRO LEAGUE 1" tvg-logo="https://i.ibb.co/SJWpngL/daznxelevenproleague2.png" group-title="SPECTRUM TV" , DAZN ELEVEN PRO LEAGUE 2
+#EXTINF:-1 tvg-id="DAZN ELEVEN PRO LEAGUE 1" tvg-logo="https://i.ibb.co/SJWpngL/daznxelevenproleague2.png" group-title="PEACOCK TV" , DAZN ELEVEN PRO LEAGUE 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
 https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd
 
-#EXTINF:-1 tvg-id="DAZN ELEVEN PRO LEAGUE 1" tvg-logo="https://i.ibb.co/GpMD7tJ/daznxelevenproleague3.png" group-title="SPECTRUM TV" , DAZN ELEVEN PRO LEAGUE 3
+#EXTINF:-1 tvg-id="DAZN ELEVEN PRO LEAGUE 1" tvg-logo="https://i.ibb.co/GpMD7tJ/daznxelevenproleague3.png" group-title="PEACOCK TV" , DAZN ELEVEN PRO LEAGUE 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
 https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd
 
-#EXTINF:-1 tvg-id="Match4 (HD).hu" tvg-logo="https://i.ibb.co/pKjvL3C/match4.png" group-title="SPECTRUM TV", MATCH4
+#EXTINF:-1 tvg-id="Match4 (HD).hu" tvg-logo="https://i.ibb.co/pKjvL3C/match4.png" group-title="PEACOCK TV", MATCH4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=36d6377bb94b43a58af1c415ac686f4b:82fcba8160b4f88948cd3268bb330dbf
 https://m7huvideolive.solocoo.tv/blueskylive2dash/bluedigisport1hu/Manifest.mpd
 
-#EXTINF:-1 tvg-id="RTL club.be" tvg-logo="https://i.ibb.co/ZWbsXFL/rtlsports.png" group-title="SPECTRUM TV" , RTL SPORTS
+#EXTINF:-1 tvg-id="RTL club.be" tvg-logo="https://i.ibb.co/ZWbsXFL/rtlsports.png" group-title="PEACOCK TV" , RTL SPORTS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0993fbc9c0f242e8bab9483484ff974e:08d3d32f7efefb22a7a865f81b5c8276
 https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd
 
-#EXTINF:-1 tvg-id="Ziggo Sport Golf" tvg-logo="https://i.ibb.co/bNtpKWj/ziggosportgolf.png" group-title="SPECTRUM TV", ZIGGO SPORT GOLF
+#EXTINF:-1 tvg-id="Ziggo Sport Golf" tvg-logo="https://i.ibb.co/bNtpKWj/ziggosportgolf.png" group-title="PEACOCK TV", ZIGGO SPORT GOLF
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb4b78ef397646e3ae5f13bdb23d56ed:c1247a942c7126443a93214c67431fe8
 https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd
 
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/mF7gyWV/cn.png" group-title="SPECTRUM TV", CARTOON NETWORK
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/mF7gyWV/cn.png" group-title="PEACOCK TV", CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bb72f4f71b743c8b20de75ecebfd4a1:04466fa0a683bfdc5bc3cf0d67776722
 https://m7rovideolive.solocoo.tv/blueskylivedash/bluecartoonnetworkro/Manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NyMzNn3/disneych.png" group-title="SPECTRUM TV", DISNEY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NyMzNn3/disneych.png" group-title="PEACOCK TV", DISNEY CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e38726127ec742179722a9804f1f25b8:2067f01820febdf8f80a26ae8630f840
 https://m7rovideolive.solocoo.tv/blueskylivedash/bluedisneyro/Manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GdQY7KX/disneyjr.png" group-title="SPECTRUM TV", DISNEY JR
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GdQY7KX/disneyjr.png" group-title="PEACOCK TV", DISNEY JR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e8bc6ce693c4579a185f137fac1d655:959ddd298a2ec2d4f9001d97f2c4bf44
 https://m7rovideolive.solocoo.tv/blueskylivedash/bluedisneyjuniorro/Manifest.mpd
 
-#EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-name="BBC EARTH" tvg-logo="https://i.ibb.co/8zzNQzb/bbcearth.png" group-title="SPECTRUM TV", BBC EARTH
+#EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-name="BBC EARTH" tvg-logo="https://i.ibb.co/8zzNQzb/bbcearth.png" group-title="PEACOCK TV", BBC EARTH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=89db0b85372a4c4d991e1dab0578f8ff:d9c57bcfbd5387f67903be06ecf3b8d9
 https://m7rovideolive.solocoo.tv/blueskylive2dash/bluebbcearthro/Manifest.mpd
 
-#EXTINF:-1 tvg-id="NationalGeographicWest.us" tvg-name="" tvg-logo="https://i.ibb.co/DYsDT6K/natgeo.png" group-title="SPECTRUM TV", NATGEO
+#EXTINF:-1 tvg-id="NationalGeographicWest.us" tvg-name="" tvg-logo="https://i.ibb.co/DYsDT6K/natgeo.png" group-title="PEACOCK TV", NATGEO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30347e4e45d048eda9600b613ccc4e39:3f5e20a42a5185bdb862e964723f3b89
 https://m7rovideolive.solocoo.tv/blueskylivedash/bluenationalgeographicro/Manifest.mpd
 
-#EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-logo="https://i.ibb.co/pnyMJjF/natgeowild.png" group-title="SPECTRUM TV", NATGEO WILD
+#EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-logo="https://i.ibb.co/pnyMJjF/natgeowild.png" group-title="PEACOCK TV", NATGEO WILD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9092f718b471428aa32cdf657f9a295c:bb71673aac0f24926915042c2bb0e653
 https://m7rovideolive.solocoo.tv/blueskylivedash/bluenatgeowildhdro/Manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8XrPwZG/viasatexplore.png" group-title="SPECTRUM TV",Viasat EXPLORE
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8XrPwZG/viasatexplore.png" group-title="PEACOCK TV",Viasat EXPLORE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56bbf898924f44908f8b4b10a751f854:cd88b9e1ac8b9ae4efb9cb41966c1699
 https://m7rovideolive.solocoo.tv/blueskylive2dash/blueviasatexplorero/Manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xMG3PG5/viasathistory.png" group-title="SPECTRUM TV",Viasat HISTORY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xMG3PG5/viasathistory.png" group-title="PEACOCK TV",Viasat HISTORY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=77ae1f0a892748298af0403d43b5c389:2e1dd7778fb78ce1d508efe948ca66fd
 https://m7rovideolive.solocoo.tv/blueskylive2dash/blueviasathistoryro/Manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NKz5ydJ/viasatnature.png" group-title="SPECTRUM TV",Viasat NATURE
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NKz5ydJ/viasatnature.png" group-title="PEACOCK TV",Viasat NATURE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f21f3b180664724be222c27aa3c7d12:22238c408bf58bc6b9ac5457e2f65043
 https://m7rovideolive.solocoo.tv/blueskylive2dash/blueviasatnaturero/Manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KwdwK84/wbtv.png" group-title="SPECTRUM TV", WB TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KwdwK84/wbtv.png" group-title="PEACOCK TV", WB TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cba822d983af4339901003e4f741a612:e0d2b9b74ef13dad35068a8b8ac9b3cf
 https://m7rovideolive.solocoo.tv/blueskylive2dash/bluetntro/Manifest.mpd
