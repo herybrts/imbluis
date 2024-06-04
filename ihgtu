@@ -2,7 +2,6 @@
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
 
 
-
 #EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-cinderellas-revenge-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",CINDERELLA’S REVENGE (2024)
 https://stream.hownetwork.xyz/xxx/cinderellas-revenge-2024-webdl_X_45337e3b/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/06/film-troll-factory-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",TROLL FACTORY (2024)
@@ -3380,6 +3379,32 @@ https://hadeh.pitoyoabdi.workers.dev/saringan/Saya%20Duluan%20Dong%20(1994).mp4
 #EXTINF:-1 tvg-logo="http://i.ibb.co/L9VHFh7/Pencet-Sana-Pencet-Sini-1994.jpg" group-title="WARKOP DKI", Pencet Sana Pencet Sini (1994) 
 https://hadeh.pitoyoabdi.workers.dev/saringan/Pencet%20Sana%20Pencet%20Sini%20(1994).mp4
 
+
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Action
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/3273
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Thriller
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+http://iptvkita.my.id:25461/215@v2new/9OKqDp3L9S/11786
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop China
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/3274
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Bollywood
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/3275
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Drama & Family
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/3276
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Horror
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+http://iptvkita.my.id:25461/215@v2new/9OKqDp3L9S/11787
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Indonesia
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+http://iptvkita.my.id:25461/215@v2new/9OKqDp3L9S/11788
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Warkop DKI
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+http://iptvkita.my.id:25461/215@v2new/9OKqDp3L9S/11789
 
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX 502" tvg-logo="https://images-cdn.ubuy.co.in/633fee9c3a16a463ad2f7388-iptv-subscription-not-box-including.jpg" group-title="SPORT",FOX 502
