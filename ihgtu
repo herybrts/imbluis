@@ -8257,14 +8257,7 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/166
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="ABC AUSTRALIA 8K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png" group-title="IPTV12K INDONESIA",ABC AUSTRALIA 8K
-http://iptv12k.com:35461/80236053010/645789/2145
-#EXTINF:-1 tvg-id="ext" tvg-name="ANIMAL PLANET 8K" tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/1024x536/7/3/5/6735_animalplanetnewlogo2018_906859.jpg" group-title="IPTV12K INDONESIA",ANIMAL PLANET 8K
-http://iptv12k.com:35461/80236053010/645789/2064
-#EXTINF:-1 tvg-id="ext" tvg-name="ANIMAX 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png" group-title="IPTV12K INDONESIA",ANIMAX 8K
-http://iptv12k.com:35461/80236053010/645789/2099
-#EXTINF:-1 tvg-id="ext" tvg-name="ANIPLUS 8K" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1495076748_logo-aniplus-png.png" group-title="IPTV12K INDONESIA",ANIPLUS 8K
-http://iptv12k.com:35461/80236053010/645789/2098
+
 #EXTINF:-1 tvg-id="ext" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png" group-title="IPTV12K INDONESIA",ANTV
 http://iptv12k.com:35461/80236053010/645789/34085
 #EXTINF:-1 tvg-id="ext" tvg-name="ANTV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/id-antv-9615.jpg" group-title="IPTV12K INDONESIA",ANTV
@@ -8275,10 +8268,6 @@ http://iptv12k.com:35461/80236053010/645789/1806
 http://iptv12k.com:35461/80236053010/645789/1777
 #EXTINF:-1 tvg-id="ext" tvg-name="ARIRANG" tvg-logo="https://www.useetv.com/pimages/logo_arirang_sma1.png" group-title="IPTV12K INDONESIA",ARIRANG
 http://iptv12k.com:35461/80236053010/645789/34124
-#EXTINF:-1 tvg-id="ext" tvg-name="ASIA FOOD NETWORK 8K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="IPTV12K INDONESIA",ASIA FOOD NETWORK 8K
-http://iptv12k.com:35461/80236053010/645789/2058
-#EXTINF:-1 tvg-id="ext" tvg-name="AXN 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_tw.png" group-title="IPTV12K INDONESIA",AXN 8K
-http://iptv12k.com:35461/80236053010/645789/2127
 #EXTINF:-1 tvg-id="ext" tvg-name="BALI TV" tvg-logo="https://itsmiyagi.site:443/images/c9f3eda90e1cdc0a29704e9322f29f97.png" group-title="IPTV12K INDONESIA",BALI TV
 http://iptv12k.com:35461/80236053010/645789/34131
 #EXTINF:-1 tvg-id="ext" tvg-name="BALI TV" tvg-logo="https://itsmiyagi.site:443/images/c9f3eda90e1cdc0a29704e9322f29f97.png" group-title="IPTV12K INDONESIA",BALI TV
@@ -8287,54 +8276,22 @@ http://iptv12k.com:35461/80236053010/645789/1786
 http://iptv12k.com:35461/80236053010/645789/34093
 #EXTINF:-1 tvg-id="ext" tvg-name="BANDUNGTV" tvg-logo="https://pbs.twimg.com/profile_images/687609668114366464/lD9TB1fC_400x400.jpg" group-title="IPTV12K INDONESIA",BANDUNGTV
 http://iptv12k.com:35461/80236053010/645789/34091
-#EXTINF:-1 tvg-id="ext" tvg-name="BBC LIFESTYLE 8K" tvg-logo="https://cms.bbcasia.com/sites/default/files/2021-05/Lifestyle.jpg" group-title="IPTV12K INDONESIA",BBC LIFESTYLE 8K
-http://iptv12k.com:35461/80236053010/645789/2061
-#EXTINF:-1 tvg-id="ext" tvg-name="BBC WORLD NEWS 8K" tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/16B26/production/_96566929_bbc_wn_rgb.png" group-title="IPTV12K INDONESIA",BBC WORLD NEWS 8K
-http://iptv12k.com:35461/80236053010/645789/2142
 #EXTINF:-1 tvg-id="ext" tvg-name="BERITA SATU" tvg-logo="https://itsmiyagi.site:443/images/23e955c9a8924fe73c35725d28fd37a5.png" group-title="IPTV12K INDONESIA",BERITA SATU
 http://iptv12k.com:35461/80236053010/645789/34138
 #EXTINF:-1 tvg-id="ext" tvg-name="BERITA SATU" tvg-logo="https://itsmiyagi.site:443/images/23e955c9a8924fe73c35725d28fd37a5.png" group-title="IPTV12K INDONESIA",BERITA SATU
 http://iptv12k.com:35461/80236053010/645789/1801
 #EXTINF:-1 tvg-id="ext" tvg-name="BERITASATU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_BeritaSatu_Media.png" group-title="IPTV12K INDONESIA",BERITASATU
 http://iptv12k.com:35461/80236053010/645789/34084
-#EXTINF:-1 tvg-id="ext" tvg-name="BLUE ANT ENTERTAINMENT 8K CITRA ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="IPTV12K INDONESIA",BLUE ANT ENTERTAINMENT 8K CITRA ENTERTAINMENT
-http://iptv12k.com:35461/80236053010/645789/2053
-#EXTINF:-1 tvg-id="ext" tvg-name="BLUE ANT EXTREME 8K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="IPTV12K INDONESIA",BLUE ANT EXTREME 8K
-http://iptv12k.com:35461/80236053010/645789/2052
-#EXTINF:-1 tvg-id="ext" tvg-name="BOOMERANG 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png" group-title="IPTV12K INDONESIA",BOOMERANG 8K
-http://iptv12k.com:35461/80236053010/645789/2097
-#EXTINF:-1 tvg-id="ext" tvg-name="CBEEBIES 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_cbeebies_uk.png" group-title="IPTV12K INDONESIA",CBEEBIES 8K
-http://iptv12k.com:35461/80236053010/645789/2093
-#EXTINF:-1 tvg-id="ext" tvg-name="CELESTIAL MOVIES 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-movies-hk.png" group-title="IPTV12K INDONESIA",CELESTIAL MOVIES 8K
-http://iptv12k.com:35461/80236053010/645789/2131
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMA WORLD 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinema_world_asia.png" group-title="IPTV12K INDONESIA",CINEMA WORLD 8K
-http://iptv12k.com:35461/80236053010/645789/34154
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMA WORLD 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinema_world_asia.png" group-title="IPTV12K INDONESIA",CINEMA WORLD 8K
-http://iptv12k.com:35461/80236053010/645789/2124
-#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinemax_asia.png" group-title="IPTV12K INDONESIA",CINEMAX 8K
-http://iptv12k.com:35461/80236053010/645789/2114
 #EXTINF:-1 tvg-id="ext" tvg-name="CNN INDONESIA" tvg-logo="https://3.bp.blogspot.com/-uofM2vEet-0/XE8wsXFAudI/AAAAAAAAGqU/zOlv9fcbBDsS-9PXZ4se5N-hRbIsgSd4QCK4BGAYYCw/s1600/CNN%2BIndonesia%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="IPTV12K INDONESIA",CNN INDONESIA
 http://iptv12k.com:35461/80236053010/645789/34153
 #EXTINF:-1 tvg-id="ext" tvg-name="CNN INDONESIA" tvg-logo="" group-title="IPTV12K INDONESIA",CNN INDONESIA
 http://iptv12k.com:35461/80236053010/645789/34058
 #EXTINF:-1 tvg-id="ext" tvg-name="CNN INDONESIA" tvg-logo="https://3.bp.blogspot.com/-uofM2vEet-0/XE8wsXFAudI/AAAAAAAAGqU/zOlv9fcbBDsS-9PXZ4se5N-hRbIsgSd4QCK4BGAYYCw/s1600/CNN%2BIndonesia%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="IPTV12K INDONESIA",CNN INDONESIA
 http://iptv12k.com:35461/80236053010/645789/1815
-#EXTINF:-1 tvg-id="ext" tvg-name="CRIME & INVESTIGATION 8K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="IPTV12K INDONESIA",CRIME & INVESTIGATION 8K
-http://iptv12k.com:35461/80236053010/645789/2111
-#EXTINF:-1 tvg-id="ext" tvg-name="DAAITV" tvg-logo="https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-logo/c934b761d5e76d81fe0784c573503859.jpg" group-title="IPTV12K INDONESIA",DAAITV
-http://iptv12k.com:35461/80236053010/645789/34092
-#EXTINF:-1 tvg-id="ext" tvg-name="DISNEY CHANNEL 8K" tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2019/05/disney-channel-logo.jpg" group-title="IPTV12K INDONESIA",DISNEY CHANNEL 8K
-http://iptv12k.com:35461/80236053010/645789/2090
-#EXTINF:-1 tvg-id="ext" tvg-name="DISNEY JUNIOR 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="IPTV12K INDONESIA",DISNEY JUNIOR 8K
-http://iptv12k.com:35461/80236053010/645789/2092
-#EXTINF:-1 tvg-id="ext" tvg-name="DW (ENGLISH) 8K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Wee_Logo.svg/1280px-Deutsche_Wee_Logo.svg.png" group-title="IPTV12K INDONESIA",DW (ENGLISH) 8K
-http://iptv12k.com:35461/80236053010/645789/2149
 #EXTINF:-1 tvg-id="ext" tvg-name="ENTERTAINMENT" tvg-logo="" group-title="IPTV12K INDONESIA",ENTERTAINMENT
 http://iptv12k.com:35461/80236053010/645789/34117
 #EXTINF:-1 tvg-id="ext" tvg-name="ENTERTAINMENT" tvg-logo="" group-title="IPTV12K INDONESIA",ENTERTAINMENT
 http://iptv12k.com:35461/80236053010/645789/1763
-#EXTINF:-1 tvg-id="ext" tvg-name="ENTERTAINMENT 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/ent-id.png" group-title="IPTV12K INDONESIA",ENTERTAINMENT 8K
-http://iptv12k.com:35461/80236053010/645789/2157
 #EXTINF:-1 tvg-id="ext" tvg-name="EWTN" tvg-logo="https://www.ewtn.com/assets/ewtn-gcn-logo-9599d2970ce8cd232f1fe57660e0d6b427c2633a0558176015755c2c42ccff6b.jpg" group-title="IPTV12K INDONESIA",EWTN
 http://iptv12k.com:35461/80236053010/645789/34078
 #EXTINF:-1 tvg-id="ext" tvg-name="EWTN" tvg-logo="" group-title="IPTV12K INDONESIA",EWTN
@@ -8345,8 +8302,6 @@ http://iptv12k.com:35461/80236053010/645789/1764
 http://iptv12k.com:35461/80236053010/645789/1788
 #EXTINF:-1 tvg-id="ext" tvg-name="FIGHT SPORTS" tvg-logo="" group-title="IPTV12K INDONESIA",FIGHT SPORTS
 http://iptv12k.com:35461/80236053010/645789/34133
-#EXTINF:-1 tvg-id="ext" tvg-name="FOX LIFE 8K" tvg-logo="" group-title="IPTV12K INDONESIA",FOX LIFE 8K
-http://iptv12k.com:35461/80236053010/645789/2033
 #EXTINF:-1 tvg-id="ext" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="IPTV12K INDONESIA",GTV
 http://iptv12k.com:35461/80236053010/645789/34103
 #EXTINF:-1 tvg-id="ext" tvg-name="GTV ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="IPTV12K INDONESIA",GTV ID
@@ -8355,26 +8310,14 @@ http://iptv12k.com:35461/80236053010/645789/4290
 http://iptv12k.com:35461/80236053010/645789/1748
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO" tvg-logo="" group-title="IPTV12K INDONESIA",HBO
 http://iptv12k.com:35461/80236053010/645789/34109
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title="IPTV12K INDONESIA",HBO 8K
-http://iptv12k.com:35461/80236053010/645789/2121
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO FAMILY" tvg-logo="" group-title="IPTV12K INDONESIA",HBO FAMILY
 http://iptv12k.com:35461/80236053010/645789/34107
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO FAMILY" tvg-logo="" group-title="IPTV12K INDONESIA",HBO FAMILY
 http://iptv12k.com:35461/80236053010/645789/1746
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO FAMILY 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_family_asia.png" group-title="IPTV12K INDONESIA",HBO FAMILY 8K
-http://iptv12k.com:35461/80236053010/645789/2120
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO SIGNATURE 8K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="IPTV12K INDONESIA",HBO SIGNATURE 8K
-http://iptv12k.com:35461/80236053010/645789/2118
 #EXTINF:-1 tvg-id="ext" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="IPTV12K INDONESIA",HGTV
 http://iptv12k.com:35461/80236053010/645789/34106
 #EXTINF:-1 tvg-id="ext" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="IPTV12K INDONESIA",HGTV
 http://iptv12k.com:35461/80236053010/645789/1744
-#EXTINF:-1 tvg-id="ext" tvg-name="HGTV 8K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="IPTV12K INDONESIA",HGTV 8K
-http://iptv12k.com:35461/80236053010/645789/2059
-#EXTINF:-1 tvg-id="ext" tvg-name="HITS 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hits_tv_sg.png" group-title="IPTV12K INDONESIA",HITS 8K
-http://iptv12k.com:35461/80236053010/645789/2126
-#EXTINF:-1 tvg-id="ext" tvg-name="HITS MOVIES 8K" tvg-logo="" group-title="IPTV12K INDONESIA",HITS MOVIES 8K
-http://iptv12k.com:35461/80236053010/645789/2122
 #EXTINF:-1 tvg-id="ext" tvg-name="IDX" tvg-logo="" group-title="IPTV12K INDONESIA",IDX
 http://iptv12k.com:35461/80236053010/645789/34132
 #EXTINF:-1 tvg-id="ext" tvg-name="IDX" tvg-logo="" group-title="IPTV12K INDONESIA",IDX
@@ -8407,14 +8350,8 @@ http://iptv12k.com:35461/80236053010/645789/34095
 http://iptv12k.com:35461/80236053010/645789/1784
 #EXTINF:-1 tvg-id="ext" tvg-name="JAKTV" tvg-logo="" group-title="IPTV12K INDONESIA",JAKTV
 http://iptv12k.com:35461/80236053010/645789/34130
-#EXTINF:-1 tvg-id="ext" tvg-name="JAKTV 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jak-tv-id.png" group-title="IPTV12K INDONESIA",JAKTV 8K
-http://iptv12k.com:35461/80236053010/645789/2166
 #EXTINF:-1 tvg-id="ext" tvg-name="JTV" tvg-logo="" group-title="IPTV12K INDONESIA",JTV
 http://iptv12k.com:35461/80236053010/645789/1783
-#EXTINF:-1 tvg-id="ext" tvg-name="JTV 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jtv_id.png" group-title="IPTV12K INDONESIA",JTV 8K
-http://iptv12k.com:35461/80236053010/645789/2165
-#EXTINF:-1 tvg-id="ext" tvg-name="KBS WORLD 8K" tvg-logo="https://pbs.twimg.com/profile_images/1347443419019239425/3GrnHjge_400x400.jpg" group-title="IPTV12K INDONESIA",KBS WORLD 8K
-http://iptv12k.com:35461/80236053010/645789/2146
 #EXTINF:-1 tvg-id="ext" tvg-name="KIDS TUI" tvg-logo="https://i.pinimg.com/originals/08/51/bc/0851bc556a44bf122a0d15fc1ec5c792.png" group-title="IPTV12K INDONESIA",KIDS TUI
 http://iptv12k.com:35461/80236053010/645789/34080
 #EXTINF:-1 tvg-id="ext" tvg-name="KIDS-HD" tvg-logo="https://t3.ftcdn.net/jpg/05/04/27/12/360_F_504271254_N5rdNNmG5SE5qHucahW7TZ9sKcWPZQ2i.jpg" group-title="IPTV12K INDONESIA",KIDS-HD
@@ -8423,38 +8360,22 @@ http://iptv12k.com:35461/80236053010/645789/34079
 http://iptv12k.com:35461/80236053010/645789/34144
 #EXTINF:-1 tvg-id="ext" tvg-name="KIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="IPTV12K INDONESIA",KIX
 http://iptv12k.com:35461/80236053010/645789/1807
-#EXTINF:-1 tvg-id="ext" tvg-name="KIX 8K INDO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kix-hk.png" group-title="IPTV12K INDONESIA",KIX 8K INDO
-http://iptv12k.com:35461/80236053010/645789/2125
 #EXTINF:-1 tvg-id="ext" tvg-name="KOMPAS TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kompas-tv-id.png" group-title="IPTV12K INDONESIA",KOMPAS TV
 http://iptv12k.com:35461/80236053010/645789/1803
 #EXTINF:-1 tvg-id="ext" tvg-name="KOMPAS TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kompas-tv-id.png" group-title="IPTV12K INDONESIA",KOMPAS TV
 http://iptv12k.com:35461/80236053010/645789/34140
-#EXTINF:-1 tvg-id="ext" tvg-name="KOMPAS TV 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kompas-tv-id.png" group-title="IPTV12K INDONESIA",KOMPAS TV 8K
-http://iptv12k.com:35461/80236053010/645789/2179
 #EXTINF:-1 tvg-id="ext" tvg-name="KOMPASTV" tvg-logo="https://seeklogo.com/images/K/kompastv-logo-699982D255-seeklogo.com.png" group-title="IPTV12K INDONESIA",KOMPASTV
 http://iptv12k.com:35461/80236053010/645789/34097
-#EXTINF:-1 tvg-id="ext" tvg-name="LIFETIME 8K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="IPTV12K INDONESIA",LIFETIME 8K
-http://iptv12k.com:35461/80236053010/645789/2110
-#EXTINF:-1 tvg-id="ext" tvg-name="LOVE NATURE 4K 8K" tvg-logo="https://www.thewebbureau.com/media/1347/love-nature-3.png" group-title="IPTV12K INDONESIA",LOVE NATURE 4K 8K
-http://iptv12k.com:35461/80236053010/645789/2069
-#EXTINF:-1 tvg-id="ext" tvg-name="MAKKAH TV 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/makkal_tv.png" group-title="IPTV12K INDONESIA",MAKKAH TV 8K
-http://iptv12k.com:35461/80236053010/645789/2037
 #EXTINF:-1 tvg-id="ext" tvg-name="METRO TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png" group-title="IPTV12K INDONESIA",METRO TV
 http://iptv12k.com:35461/80236053010/645789/34141
 #EXTINF:-1 tvg-id="ext" tvg-name="METRO TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png" group-title="IPTV12K INDONESIA",METRO TV
 http://iptv12k.com:35461/80236053010/645789/1804
-#EXTINF:-1 tvg-id="ext" tvg-name="METRO TV 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png" group-title="IPTV12K INDONESIA",METRO TV 8K
-http://iptv12k.com:35461/80236053010/645789/2180
 #EXTINF:-1 tvg-id="ext" tvg-name="METROTV" tvg-logo="https://images.indihometv.com/tvposter/metro.png" group-title="IPTV12K INDONESIA",METROTV
 http://iptv12k.com:35461/80236053010/645789/34099
 #EXTINF:-1 tvg-id="ext" tvg-name="MNC SPORT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc-sports-id.png" group-title="IPTV12K INDONESIA",MNC SPORT
 http://iptv12k.com:35461/80236053010/645789/1796
 #EXTINF:-1 tvg-id="ext" tvg-name="MNC SPORT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc-sports-id.png" group-title="IPTV12K INDONESIA",MNC SPORT
 http://iptv12k.com:35461/80236053010/645789/34136
-#EXTINF:-1 tvg-id="ext" tvg-name="MNC TV 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="IPTV12K INDONESIA",MNC TV 8K
-http://iptv12k.com:35461/80236053010/645789/34156
-#EXTINF:-1 tvg-id="ext" tvg-name="MNC TV 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="IPTV12K INDONESIA",MNC TV 8K
-http://iptv12k.com:35461/80236053010/645789/2175
 #EXTINF:-1 tvg-id="ext" tvg-name="MNCENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Logo_MNCEntertainment_2014.png/revision/latest?cb=20181013131728" group-title="IPTV12K INDONESIA",MNCENTERTAINMENT
 http://iptv12k.com:35461/80236053010/645789/34087
 #EXTINF:-1 tvg-id="ext" tvg-name="MNCINFOTAINMENT" tvg-logo="https://i.ytimg.com/vi/tcvOBGWpugw/maxresdefault.jpg" group-title="IPTV12K INDONESIA",MNCINFOTAINMENT
@@ -8465,20 +8386,8 @@ http://iptv12k.com:35461/80236053010/645789/34102
 http://iptv12k.com:35461/80236053010/645789/34127
 #EXTINF:-1 tvg-id="ext" tvg-name="MUSIC TV" tvg-logo="" group-title="IPTV12K INDONESIA",MUSIC TV
 http://iptv12k.com:35461/80236053010/645789/1782
-#EXTINF:-1 tvg-id="ext" tvg-name="MUSIC TV 8K" tvg-logo="" group-title="IPTV12K INDONESIA",MUSIC TV 8K
-http://iptv12k.com:35461/80236053010/645789/2081
 #EXTINF:-1 tvg-id="ext" tvg-name="MUSICCHANNEL" tvg-logo="https://as1.ftcdn.net/v2/jpg/02/69/05/42/1000_F_269054254_0CWKwJNEuLKK75aoJVJ0b6Qj150m537v.jpg" group-title="IPTV12K INDONESIA",MUSICCHANNEL
 http://iptv12k.com:35461/80236053010/645789/34090
-#EXTINF:-1 tvg-id="ext" tvg-name="NATGEO 8K   NATIONAL GEOGRAPHIC" tvg-logo="https://logowik.com/content/uploads/images/300_national_geographic.jpg" group-title="IPTV12K INDONESIA",NATGEO 8K   NATIONAL GEOGRAPHIC
-http://iptv12k.com:35461/80236053010/645789/2066
-#EXTINF:-1 tvg-id="ext" tvg-name="NHK WORLD PREMIUM 8K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_NHK_World_Premium.jpg" group-title="IPTV12K INDONESIA",NHK WORLD PREMIUM 8K
-http://iptv12k.com:35461/80236053010/645789/2144
-#EXTINF:-1 tvg-id="ext" tvg-name="NICK JR. 8K" tvg-logo="https://logowik.com/content/uploads/images/nick-jr9053.jpg" group-title="IPTV12K INDONESIA",NICK JR. 8K
-http://iptv12k.com:35461/80236053010/645789/2088
-#EXTINF:-1 tvg-id="ext" tvg-name="NICKELODEON 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title="IPTV12K INDONESIA",NICKELODEON 8K
-http://iptv12k.com:35461/80236053010/645789/2072
-#EXTINF:-1 tvg-id="ext" tvg-name="OCHANNEL  DISCOVERY ASIA 8K INDO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_asia_us.png" group-title="IPTV12K INDONESIA",OCHANNEL  DISCOVERY ASIA 8K INDO
-http://iptv12k.com:35461/80236053010/645789/2063
 #EXTINF:-1 tvg-id="ext" tvg-name="OKTV" tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_95.png" group-title="IPTV12K INDONESIA",OKTV
 http://iptv12k.com:35461/80236053010/645789/34086
 #EXTINF:-1 tvg-id="ext" tvg-name="RCTI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="IPTV12K INDONESIA",RCTI
@@ -8487,22 +8396,16 @@ http://iptv12k.com:35461/80236053010/645789/1812
 http://iptv12k.com:35461/80236053010/645789/34104
 #EXTINF:-1 tvg-id="ext" tvg-name="RCTI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="IPTV12K INDONESIA",RCTI
 http://iptv12k.com:35461/80236053010/645789/34150
-#EXTINF:-1 tvg-id="ext" tvg-name="RCTI 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="IPTV12K INDONESIA",RCTI 8K
-http://iptv12k.com:35461/80236053010/645789/2185
 #EXTINF:-1 tvg-id="ext" tvg-name="RT ENGLISH" tvg-logo="" group-title="IPTV12K INDONESIA",RT ENGLISH
 http://iptv12k.com:35461/80236053010/645789/1757
 #EXTINF:-1 tvg-id="ext" tvg-name="RT ENGLISH" tvg-logo="" group-title="IPTV12K INDONESIA",RT ENGLISH
 http://iptv12k.com:35461/80236053010/645789/34113
-#EXTINF:-1 tvg-id="ext" tvg-name="RT ENGLISH 8K" tvg-logo="" group-title="IPTV12K INDONESIA",RT ENGLISH 8K
-http://iptv12k.com:35461/80236053010/645789/2135
 #EXTINF:-1 tvg-id="ext" tvg-name="RTV" tvg-logo="" group-title="IPTV12K INDONESIA",RTV
 http://iptv12k.com:35461/80236053010/645789/34122
 #EXTINF:-1 tvg-id="ext" tvg-name="RTV" tvg-logo="" group-title="IPTV12K INDONESIA",RTV
 http://iptv12k.com:35461/80236053010/645789/1770
 #EXTINF:-1 tvg-id="ext" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="IPTV12K INDONESIA",RTV
 http://iptv12k.com:35461/80236053010/645789/34098
-#EXTINF:-1 tvg-id="ext" tvg-name="RTV 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/riau-tv-id.png" group-title="IPTV12K INDONESIA",RTV 8K
-http://iptv12k.com:35461/80236053010/645789/2161
 #EXTINF:-1 tvg-id="ext" tvg-name="SCTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title="IPTV12K INDONESIA",SCTV
 http://iptv12k.com:35461/80236053010/645789/1811
 #EXTINF:-1 tvg-id="ext" tvg-name="SCTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title="IPTV12K INDONESIA",SCTV
@@ -8523,14 +8426,10 @@ http://iptv12k.com:35461/80236053010/645789/34083
 http://iptv12k.com:35461/80236053010/645789/1791
 #EXTINF:-1 tvg-id="ext" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="" group-title="IPTV12K INDONESIA",SMITHSONIAN CHANNEL
 http://iptv12k.com:35461/80236053010/645789/34134
-#EXTINF:-1 tvg-id="ext" tvg-name="SMITHSONIAN CHANNEL 8K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" group-title="IPTV12K INDONESIA",SMITHSONIAN CHANNEL 8K
-http://iptv12k.com:35461/80236053010/645789/2070
 #EXTINF:-1 tvg-id="ext" tvg-name="TAWAF TV" tvg-logo="" group-title="IPTV12K INDONESIA",TAWAF TV
 http://iptv12k.com:35461/80236053010/645789/1776
 #EXTINF:-1 tvg-id="ext" tvg-name="TAWAF TV" tvg-logo="" group-title="IPTV12K INDONESIA",TAWAF TV
 http://iptv12k.com:35461/80236053010/645789/34123
-#EXTINF:-1 tvg-id="ext" tvg-name="TAWAF TV 8K" tvg-logo="" group-title="IPTV12K INDONESIA",TAWAF TV 8K
-http://iptv12k.com:35461/80236053010/645789/2086
 #EXTINF:-1 tvg-id="ext" tvg-name="TAWAFTV" tvg-logo="https://images.useetv.com/logo_tawaftv_big.png" group-title="IPTV12K INDONESIA",TAWAFTV
 http://iptv12k.com:35461/80236053010/645789/34075
 #EXTINF:-1 tvg-id="ext" tvg-name="THRI" tvg-logo="" group-title="IPTV12K INDONESIA",THRI
@@ -8541,24 +8440,16 @@ http://iptv12k.com:35461/80236053010/645789/34135
 http://iptv12k.com:35461/80236053010/645789/34105
 #EXTINF:-1 tvg-id="ext" tvg-name="TLC" tvg-logo="" group-title="IPTV12K INDONESIA",TLC
 http://iptv12k.com:35461/80236053010/645789/1743
-#EXTINF:-1 tvg-id="ext" tvg-name="TLC 8K" tvg-logo="https://logos-download.com/wp-content/uploads/2016/12/TLC_logo_logotype.png" group-title="IPTV12K INDONESIA",TLC 8K
-http://iptv12k.com:35461/80236053010/645789/2057
 #EXTINF:-1 tvg-id="ext" tvg-name="TRANS 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" group-title="IPTV12K INDONESIA",TRANS 7
 http://iptv12k.com:35461/80236053010/645789/1810
 #EXTINF:-1 tvg-id="ext" tvg-name="TRANS 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" group-title="IPTV12K INDONESIA",TRANS 7
 http://iptv12k.com:35461/80236053010/645789/34148
 #EXTINF:-1 tvg-id="ext" tvg-name="TRANS 7" tvg-logo="" group-title="IPTV12K INDONESIA",TRANS 7
 http://iptv12k.com:35461/80236053010/645789/34147
-#EXTINF:-1 tvg-id="ext" tvg-name="TRANS 7 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" group-title="IPTV12K INDONESIA",TRANS 7 8K
-http://iptv12k.com:35461/80236053010/645789/2182
 #EXTINF:-1 tvg-id="ext" tvg-name="TRANS TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="IPTV12K INDONESIA",TRANS TV
 http://iptv12k.com:35461/80236053010/645789/1809
 #EXTINF:-1 tvg-id="ext" tvg-name="TRANS TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="IPTV12K INDONESIA",TRANS TV
 http://iptv12k.com:35461/80236053010/645789/34146
-#EXTINF:-1 tvg-id="ext" tvg-name="TRANS TV 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="IPTV12K INDONESIA",TRANS TV 8K
-http://iptv12k.com:35461/80236053010/645789/2183
-#EXTINF:-1 tvg-id="ext" tvg-name="TRANS TV 8K" tvg-logo="" group-title="IPTV12K INDONESIA",TRANS TV 8K
-http://iptv12k.com:35461/80236053010/645789/34145
 #EXTINF:-1 tvg-id="ext" tvg-name="TRANS7" tvg-logo="https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/02/18/images-1-1943761317.png" group-title="IPTV12K INDONESIA",TRANS7
 http://iptv12k.com:35461/80236053010/645789/34100
 #EXTINF:-1 tvg-id="ext" tvg-name="TRANSTV" tvg-logo="https://cdn.techinasia.com/data/images/5hq8giWqvvuSce6kDyF7yVyeTYyZWEtg9Fi7NnKg.png" group-title="IPTV12K INDONESIA",TRANSTV
@@ -8567,30 +8458,22 @@ http://iptv12k.com:35461/80236053010/645789/34101
 http://iptv12k.com:35461/80236053010/645789/1756
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT WORLD" tvg-logo="" group-title="IPTV12K INDONESIA",TRT WORLD
 http://iptv12k.com:35461/80236053010/645789/34112
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT WORLD 8K" tvg-logo="http://www.trtworld.com/images/share-1000x500.png" group-title="IPTV12K INDONESIA",TRT WORLD 8K
-http://iptv12k.com:35461/80236053010/645789/2140
 #EXTINF:-1 tvg-id="ext" tvg-name="TV ONE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_id.png" group-title="IPTV12K INDONESIA",TV ONE
 http://iptv12k.com:35461/80236053010/645789/34142
 #EXTINF:-1 tvg-id="ext" tvg-name="TV ONE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_id.png" group-title="IPTV12K INDONESIA",TV ONE
 http://iptv12k.com:35461/80236053010/645789/1805
-#EXTINF:-1 tvg-id="ext" tvg-name="TV ONE 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_id.png" group-title="IPTV12K INDONESIA",TV ONE 8K
-http://iptv12k.com:35461/80236053010/645789/2181
 #EXTINF:-1 tvg-id="ext" tvg-name="TV9 INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/NewlogoTV9_%28Malaysia%29.png/150px-NewlogoTV9_%28Malaysia%29.png" group-title="IPTV12K INDONESIA",TV9 INDONESIA
 http://iptv12k.com:35461/80236053010/645789/34077
 #EXTINF:-1 tvg-id="ext" tvg-name="TV9 NU" tvg-logo="" group-title="IPTV12K INDONESIA",TV9 NU
 http://iptv12k.com:35461/80236053010/645789/1779
 #EXTINF:-1 tvg-id="ext" tvg-name="TV9 NU" tvg-logo="" group-title="IPTV12K INDONESIA",TV9 NU
 http://iptv12k.com:35461/80236053010/645789/34126
-#EXTINF:-1 tvg-id="ext" tvg-name="TV9 NU 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_surabaya_id.png" group-title="IPTV12K INDONESIA",TV9 NU 8K
-http://iptv12k.com:35461/80236053010/645789/2163
 #EXTINF:-1 tvg-id="ext" tvg-name="TVMU" tvg-logo="" group-title="IPTV12K INDONESIA",TVMU
 http://iptv12k.com:35461/80236053010/645789/34119
 #EXTINF:-1 tvg-id="ext" tvg-name="TVMU" tvg-logo="https://tvmu.tv/uploads/logo/logo_622e1c63cf79b.png" group-title="IPTV12K INDONESIA",TVMU
 http://iptv12k.com:35461/80236053010/645789/34076
 #EXTINF:-1 tvg-id="ext" tvg-name="TVMU" tvg-logo="" group-title="IPTV12K INDONESIA",TVMU
 http://iptv12k.com:35461/80236053010/645789/1765
-#EXTINF:-1 tvg-id="ext" tvg-name="TVMU 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_mu_id.png" group-title="IPTV12K INDONESIA",TVMU 8K
-http://iptv12k.com:35461/80236053010/645789/2039
 #EXTINF:-1 tvg-id="ext" tvg-name="TVN MOVIES" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmobile.twitter.com%2Ftvn_movies&psig=AOvVaw24dfI3jPr_GouaVOYs26IQ&ust=1645680712356000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjE8MOMlfYCFQAAAAAdAAAAABAT" group-title="IPTV12K INDONESIA",TVN MOVIES
 http://iptv12k.com:35461/80236053010/645789/34108
 #EXTINF:-1 tvg-id="ext" tvg-name="TVN MOVIES" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmobile.twitter.com%2Ftvn_movies&psig=AOvVaw24dfI3jPr_GouaVOYs26IQ&ust=1645680712356000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjE8MOMlfYCFQAAAAAdAAAAABAT" group-title="IPTV12K INDONESIA",TVN MOVIES
@@ -8601,16 +8484,10 @@ http://iptv12k.com:35461/80236053010/645789/34096
 http://iptv12k.com:35461/80236053010/645789/34139
 #EXTINF:-1 tvg-id="ext" tvg-name="TVRI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="IPTV12K INDONESIA",TVRI
 http://iptv12k.com:35461/80236053010/645789/1802
-#EXTINF:-1 tvg-id="ext" tvg-name="TVRI 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="IPTV12K INDONESIA",TVRI 8K
-http://iptv12k.com:35461/80236053010/645789/34155
-#EXTINF:-1 tvg-id="ext" tvg-name="TVRI 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="IPTV12K INDONESIA",TVRI 8K
-http://iptv12k.com:35461/80236053010/645789/2172
 #EXTINF:-1 tvg-id="ext" tvg-name="VISION PRIME" tvg-logo="" group-title="IPTV12K INDONESIA",VISION PRIME
 http://iptv12k.com:35461/80236053010/645789/34121
 #EXTINF:-1 tvg-id="ext" tvg-name="VISIONPRIME" tvg-logo="https://pbs.twimg.com/profile_images/1346368261378609152/BGXcfYx3_400x400.jpg" group-title="IPTV12K INDONESIA",VISIONPRIME
 http://iptv12k.com:35461/80236053010/645789/34088
-#EXTINF:-1 tvg-id="ext" tvg-name="WARNER TV 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="IPTV12K INDONESIA",WARNER TV 8K
-http://iptv12k.com:35461/80236053010/645789/2115
 #EXTINF:-1 tvg-id="ext" tvg-name="8TV" tvg-logo="https://www.goodfengshui.com/media/k2/items/cache/048731097de322302aff7e52151c991d_XL.jpg" group-title="IPTV12K MALAYSIA",8TV
 http://iptv12k.com:35461/80236053010/645789/13640
 #EXTINF:-1 tvg-id="ext" tvg-name="8TV" tvg-logo="https://www.goodfengshui.com/media/k2/items/cache/048731097de322302aff7e52151c991d_XL.jpg" group-title="IPTV12K MALAYSIA",8TV
@@ -9417,8 +9294,6 @@ http://iptv12k.com:35461/80236053010/645789/651
 http://iptv12k.com:35461/80236053010/645789/2360
 #EXTINF:-1 tvg-id="ext" tvg-name="MUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="IPTV12K SPORTS",MUTV
 http://iptv12k.com:35461/80236053010/645789/2384
-#EXTINF:-1 tvg-id="ext" tvg-name="MUTV  8K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="IPTV12K SPORTS",MUTV  8K
-http://iptv12k.com:35461/80236053010/645789/1954
 #EXTINF:-1 tvg-id="ext" tvg-name="NBA TV" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="IPTV12K SPORTS",NBA TV
 http://iptv12k.com:35461/80236053010/645789/12555
 #EXTINF:-1 tvg-id="ext" tvg-name="NBA TV" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="IPTV12K SPORTS",NBA TV
@@ -11435,8 +11310,6 @@ http://iptv12k.com:35461/80236053010/645789/586
 http://iptv12k.com:35461/80236053010/645789/14428
 #EXTINF:-1 tvg-id="ext" tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1200px-MTV_Live_2021_logo.svg.png" group-title="IPTV12K MUSIC",MTV LIVE
 http://iptv12k.com:35461/80236053010/645789/1205
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV Live 8K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="IPTV12K MUSIC",MTV Live 8K
-http://iptv12k.com:35461/80236053010/645789/2042
 #EXTINF:-1 tvg-id="ext" tvg-name="MTV Music" tvg-logo="" group-title="IPTV12K MUSIC",MTV Music
 http://iptv12k.com:35461/80236053010/645789/5260
 #EXTINF:-1 tvg-id="ext" tvg-name="MTV Rocks" tvg-logo="" group-title="IPTV12K MUSIC",MTV Rocks
@@ -11503,8 +11376,6 @@ http://iptv12k.com:35461/80236053010/645789/9126
 http://iptv12k.com:35461/80236053010/645789/13175
 #EXTINF:-1 tvg-id="ext" tvg-name="Sony SAB MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="IPTV12K MOVIES",Sony SAB MOVIE
 http://iptv12k.com:35461/80236053010/645789/1864
-#EXTINF:-1 tvg-id="ext" tvg-name="Thri 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/thri_hk.png" group-title="IPTV12K MOVIES",Thri 8K
-http://iptv12k.com:35461/80236053010/645789/2128
 #EXTINF:-1 tvg-id="ext" tvg-name="Warner TV MOVIE" tvg-logo="https://i.loli.net/2021/10/06/chPdwIK7Tm9oWCO.png" group-title="IPTV12K MOVIES",Warner TV MOVIE
 http://iptv12k.com:35461/80236053010/645789/1879
 #EXTINF:-1 tvg-id="ext" tvg-name="Warner TV MOVIE" tvg-logo="https://i.loli.net/2021/10/06/chPdwIK7Tm9oWCO.png" group-title="IPTV12K MOVIES",Warner TV MOVIE
@@ -11711,10 +11582,6 @@ http://iptv12k.com:35461/80236053010/645789/13244
 http://iptv12k.com:35461/80236053010/645789/1262
 #EXTINF:-1 tvg-id="ext" tvg-name="JET TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/JET_TV_logo.png" group-title="IPTV12K MANDARIN",JET TV
 http://iptv12k.com:35461/80236053010/645789/14478
-#EXTINF:-1 tvg-id="ext" tvg-name="Jiangsu TV江苏卫视 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jiangsu_tv.png" group-title="IPTV12K MANDARIN",Jiangsu TV江苏卫视 8K
-http://iptv12k.com:35461/80236053010/645789/2104
-#EXTINF:-1 tvg-id="ext" tvg-name="Jiangsu TV江苏卫视 8K CN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jiangsu_tv.png" group-title="IPTV12K MANDARIN",Jiangsu TV江苏卫视 8K CN
-http://iptv12k.com:35461/80236053010/645789/13291
 #EXTINF:-1 tvg-id="ext" tvg-name="MOMO親子臺" tvg-logo="" group-title="IPTV12K MANDARIN",MOMO親子臺
 http://iptv12k.com:35461/80236053010/645789/1209
 #EXTINF:-1 tvg-id="ext" tvg-name="MOMO親子臺" tvg-logo="" group-title="IPTV12K MANDARIN",MOMO親子臺
@@ -11825,8 +11692,6 @@ http://iptv12k.com:35461/80236053010/645789/1008
 http://iptv12k.com:35461/80236053010/645789/13243
 #EXTINF:-1 tvg-id="ext" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/New_Warner_TV_Logo.jpg" group-title="IPTV12K MANDARIN",Warner TV
 http://iptv12k.com:35461/80236053010/645789/14438
-#EXTINF:-1 tvg-id="ext" tvg-name="Xing Kong TV星空卫视 8K" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_xing_kong_hk.png" group-title="IPTV12K MANDARIN",Xing Kong TV星空卫视 8K
-http://iptv12k.com:35461/80236053010/645789/2101
 #EXTINF:-1 tvg-id="ext" tvg-name="[TW]C旅遊生活" tvg-logo="https://logos-download.com/wp-content/uploads/2016/12/TLC_logo_logotype.png" group-title="IPTV12K MANDARIN",[TW]C旅遊生活
 http://iptv12k.com:35461/80236053010/645789/14461
 #EXTINF:-1 tvg-id="ext" tvg-name="[TW]C旅遊生活" tvg-logo="https://logos-download.com/wp-content/uploads/2016/12/TLC_logo_logotype.png" group-title="IPTV12K MANDARIN",[TW]C旅遊生活
@@ -12477,8 +12342,6 @@ http://iptv12k.com:35461/80236053010/645789/4308
 http://iptv12k.com:35461/80236053010/645789/4307
 #EXTINF:-1 tvg-id="ext" tvg-name="BBC Earth" tvg-logo="https://digiturkpaketler.com/img/kanaar/kanaar2/bbc-earth-hd-buyuk.png" group-title="IPTV12K OTHER",BBC Earth
 http://iptv12k.com:35461/80236053010/645789/14433
-#EXTINF:-1 tvg-id="ext" tvg-name="BBC Earth 8K" tvg-logo="https://digiturkpaketler.com/img/kanaar/kanaar2/bbc-earth-hd-buyuk.png" group-title="IPTV12K OTHER",BBC Earth 8K
-http://iptv12k.com:35461/80236053010/645789/2062
 #EXTINF:-1 tvg-id="ext" tvg-name="BBC Earth HD" tvg-logo="https://i.loli.net/2021/10/05/BXCY1zn34krlUij.jpg" group-title="IPTV12K OTHER",BBC Earth HD
 http://iptv12k.com:35461/80236053010/645789/173
 #EXTINF:-1 tvg-id="ext" tvg-name="BBC Earth HD MY" tvg-logo="https://digiturkpaketler.com/img/kanaar/kanaar2/bbc-earth-hd-buyuk.png" group-title="IPTV12K OTHER",BBC Earth HD MY
@@ -12715,8 +12578,6 @@ http://iptv12k.com:35461/80236053010/645789/9862
 http://iptv12k.com:35461/80236053010/645789/36386
 #EXTINF:-1 tvg-id="ext" tvg-name="Euro News" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0119.png" group-title="IPTV12K OTHER",Euro News
 http://iptv12k.com:35461/80236053010/645789/2557
-#EXTINF:-1 tvg-id="ext" tvg-name="Euro news 8K" tvg-logo="https://www.bce.lu/wp-content/uploads/2016/06/Euronews2016-200-SQR.png" group-title="IPTV12K OTHER",Euro news 8K
-http://iptv12k.com:35461/80236053010/645789/2143
 #EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg" group-title="IPTV12K OTHER",EUROSPORT 1
 http://iptv12k.com:35461/80236053010/645789/15117
 #EXTINF:-1 tvg-id="ext" tvg-name="Fashion TV" tvg-logo="" group-title="IPTV12K OTHER",Fashion TV
