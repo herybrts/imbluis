@@ -7119,12 +7119,20 @@ https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="" tvg-logo="https://heryarts.my.id/singtel.jpg" group-title="SINGTEL TV",CINEMAX
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="" tvg-logo="https://heryarts.my.id/singtel.jpg" group-title="SINGTEL TV",MEWATCH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
-https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
+https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
 
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="" tvg-logo="https://heryarts.my.id/singtel.jpg" group-title="SINGTEL TV",MEWATCH 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="" tvg-logo="https://heryarts.my.id/singtel.jpg" group-title="SINGTEL TV",MEWATCH 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
 
 ###########TVRI##########
