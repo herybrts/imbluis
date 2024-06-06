@@ -13330,6 +13330,126 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
 
 
+#EXTM3U
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="BAND SPORTS"  group-title="WALK TV",BAND SPORTS
+https://brflu.walk-tv.com/5928/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="BIS"  group-title="WALK TV",BIS
+https://brflu.walk-tv.com/5794/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="CANAL BRASIL"  group-title="WALK TV",CANAL BRASIL
+https://brflu.walk-tv.com/5796/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="CINEMAX"  group-title="WALK TV",CINEMAX
+https://brflu.walk-tv.com/5783/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="COMBATE 1"  group-title="WALK TV",COMBATE 1
+https://brflu.walk-tv.com/5865/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="DISCOVERY CHANNEL"  group-title="WALK TV",DISCOVERY CHANNEL
+https://brflu.walk-tv.com/5785/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="DISCOVERY TURBO"  group-title="WALK TV",DISCOVERY TURBO
+https://brflu.walk-tv.com/5786/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="ESPN BRASIL 2"  group-title="WALK TV",ESPN BRASIL 2
+https://brflu.walk-tv.com/5910/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="ESPN BRASIL 3"  group-title="WALK TV",ESPN BRASIL 3
+https://brflu.walk-tv.com/5907/index.m3u8
+#EXTINF:-1, tvg-id="FX.br" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="FX"  group-title="WALK TV",FX
+https://brflu.walk-tv.com/5855/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="GLOBO NEWS"  group-title="WALK TV",GLOBO NEWS
+https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="GLOBO RJ"  group-title="WALK TV",GLOBO RJ
+https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="GLOOB"  group-title="WALK TV",GLOOB
+https://brflu.walk-tv.com/5812/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="GNT"  group-title="WALK TV",GNT
+https://brflu.walk-tv.com/5813/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="HBO 1"  group-title="WALK TV",HBO 1
+https://brflu.walk-tv.com/5891/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="HBO 2"  group-title="WALK TV",HBO 2
+https://brflu.walk-tv.com/5857/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="HBO FAMILY"  group-title="WALK TV",HBO FAMILY
+https://brflu.walk-tv.com/5859/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="HBO PLUS"  group-title="WALK TV",HBO PLUS
+https://brflu.walk-tv.com/5893/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="HBO SIGNATURE"  group-title="WALK TV",HBO SIGNATURE
+https://brflu.walk-tv.com/5861/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="HISTORY 1"  group-title="WALK TV",HISTORY 1
+https://brflu.walk-tv.com/5815/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="MEGAPIX"  group-title="WALK TV",MEGAPIX
+https://brflu.walk-tv.com/5897/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="MULTISHOW"  group-title="WALK TV",MULTISHOW
+https://brflu.walk-tv.com/5822/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="NAT GEO"  group-title="WALK TV",NAT GEO
+https://brflu.walk-tv.com/5777/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="OFF"  group-title="WALK TV",OFF
+https://brflu.walk-tv.com/5826/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="PREMIER"  group-title="WALK TV",PREMIER
+https://brflu.walk-tv.com/5914/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="PREMIER"  group-title="WALK TV",PREMIER
+https://brflu.walk-tv.com/5918/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="PREMIER"  group-title="WALK TV",PREMIER
+https://brflu.walk-tv.com/5922/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="PREMIER"  group-title="WALK TV",PREMIER
+https://brflu.walk-tv.com/5915/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="PREMIERE2" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="PREMIERE 2"  group-title="WALK TV",PREMIERE 2
+https://brflu.walk-tv.com/5921/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="PREMIERE 2"  group-title="WALK TV",PREMIERE 2
+https://brflu.walk-tv.com/5914/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="PREMIERE 3"  group-title="WALK TV",PREMIERE 3
+https://brflu.walk-tv.com/5915/index.m3u8
+#EXTINF:-1, tvg-id="PREMIERE3" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="PREMIERE 3"  group-title="WALK TV",PREMIERE 3
+https://brflu.walk-tv.com/5920/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="PREMIERE 4"  group-title="WALK TV",PREMIERE 4
+https://brflu.walk-tv.com/5916/index.m3u8
+#EXTINF:-1, tvg-id="PREMIERE4" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="PREMIERE 4"  group-title="WALK TV",PREMIERE 4
+https://brflu.walk-tv.com/5918/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="PREMIERE 5"  group-title="WALK TV",PREMIERE 5
+https://brflu.walk-tv.com/5918/index.m3u8
+#EXTINF:-1, tvg-id="PREMIERE5" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="PREMIERE 5"  group-title="WALK TV",PREMIERE 5
+https://brflu.walk-tv.com/5916/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="PREMIERE 6"  group-title="WALK TV",PREMIERE 6
+https://brflu.walk-tv.com/5920/index.m3u8
+#EXTINF:-1, tvg-id="PREMIERE6" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="PREMIERE 6"  group-title="WALK TV",PREMIERE 6
+https://brflu.walk-tv.com/5915/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="PREMIERE 7"  group-title="WALK TV",PREMIERE 7
+https://brflu.walk-tv.com/5921/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="PREMIERE CLUBES"  group-title="WALK TV",PREMIERE CLUBES
+https://brflu.walk-tv.com/5922/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="SPACE"  group-title="WALK TV",SPACE
+https://brflu.walk-tv.com/5771/index.m3u8
+#EXTINF:-1, tvg-id="SporTV.br" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="SPORT 1"  group-title="WALK TV",SPORT 1
+https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="SporTV2.br" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="SPORT 2"  group-title="WALK TV",SPORT 2
+https://brflu.walk-tv.com/5931/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="SPORT 3"  group-title="WALK TV",SPORT 3
+https://brflu.walk-tv.com/5930/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="SPORT PREMIUM"  group-title="WALK TV",SPORT PREMIUM
+https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="STAR CHANNEL"  group-title="WALK TV",STAR CHANNEL
+https://brflu.walk-tv.com/5889/index.m3u8
+#EXTINF:-1, tvg-id="StudioUniversal.br" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="STUDIO UNIVERSAL"  group-title="WALK TV",STUDIO UNIVERSAL
+https://brflu.walk-tv.com/5834/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="SYFY"  group-title="WALK TV",SYFY
+https://brflu.walk-tv.com/5835/index.m3u8
+#EXTINF:-1, tvg-id="TelecineAction.br" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="TELECINE ACTION"  group-title="WALK TV",TELECINE ACTION
+https://brflu.walk-tv.com/5875/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="TELECINE CULT"  group-title="WALK TV",TELECINE CULT
+https://brflu.walk-tv.com/5899/index.m3u8
+#EXTINF:-1, tvg-id="TELECINEFUN" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="TELECINE FUN"  group-title="WALK TV",TELECINE FUN
+https://brflu.walk-tv.com/5901/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="TelecinePipoca.br" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="TELECINE PIPOCA"  group-title="WALK TV",TELECINE PIPOCA
+https://brflu.walk-tv.com/5877/index.m3u8
+#EXTINF:-1, tvg-id="TelecinePremium.br" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="TELECINE PREMIUM"  group-title="WALK TV",TELECINE PREMIUM
+https://brflu.walk-tv.com/5879/index.m3u8
+#EXTINF:-1, tvg-id="TelecineTouch.br" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="TELECINE TOUCH"  group-title="WALK TV",TELECINE TOUCH
+https://brflu.walk-tv.com/5880/index.m3u8
+#EXTINF:-1, tvg-id="TNTNOVELAS" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="TNT NOVELAS"  group-title="WALK TV",TNT NOVELAS
+https://brflu.walk-tv.com/5836/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="TNTSeries.br" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="TNT SERIES"  group-title="WALK TV",TNT SERIES
+https://brflu.walk-tv.com/5904/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="TOONCAST"  group-title="WALK TV",TOONCAST
+https://brflu.walk-tv.com/5838/index.m3u8
+#EXTINF:-1, tvg-id="ext" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="VIVA"  group-title="WALK TV",VIVA
+https://brflu.walk-tv.com/5850/index.m3u8
+#EXTINF:-1, tvg-id="WarnerChannel.br" tvg-logo="https://cdn.dribbble.com/users/1672778/screenshots/17534546/media/c6b79fea15609cb1dec7723482724ae8.jpg" tvg-name="WARNER CHANNEL"  group-title="WALK TV",WARNER CHANNEL
+https://brflu.walk-tv.com/5882/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.peacocktv.com/dam/commerce/assets/partners/logo-peacock-social-1200x628.jpg"  tvg-id="ksport1hd" group-title="PEACOCK TV",USA EAST
