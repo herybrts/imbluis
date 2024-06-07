@@ -3156,10 +3156,13 @@ https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/322122793
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 tvg-id="Trans7" tvg-name="TRANS 7" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjPiejPtrhp_TZeZj9yC8LTa2yc1SM4bUSE1-v39HgCjm2KGOLutnmvLMMKoEI266Q.png" group-title="HOME TV",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/6
 #EXTINF:-1 tvg-id="TransTV" tvg-name="TRANS TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjPiejPtrhp_TZeZj9yC8LTLROIL00EakzlOIzd0BriqZUXbdFrlp3O_zS9Du8j9tk.png" group-title="HOME TV",TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/7
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR LOKAL 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhXhxE1kvPc6h5bT9T3Z56s6kfi7U3er5U_X59ser2z5t0ky6erF8wk4UotfSAWqRI.png" group-title="HOME TV",INDOSIAR LOKAL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9721
 #EXTINF:-1 tvg-id="" tvg-name="SCTV LOKAL 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhPoybscXHQQGc7TxdwIKdrMMvazJ_yMxLbREqNSe04qg.png" group-title="HOME TV",SCTV LOKAL 1
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9722
