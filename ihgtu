@@ -7307,6 +7307,48 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="XITE Hits" tvg-logo="https://hometv.pw/logo/music2/xite.png" group-title="MUSIC",XITE Hits
+https://i.mjh.nz/SamsungTVPlus/USBD3300004RH.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XITE Only Love" tvg-logo="https://hometv.pw/logo/music2/xite.png" group-title="MUSIC",XITE Only Love
+https://i.mjh.nz/SamsungTVPlus/USBD3300008DG.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vevo '80s" tvg-logo="https://hometv.pw/logo/music2/vevo.png" group-title="MUSIC",Vevo '80s
+https://i.mjh.nz/SamsungTVPlus/USBD300012YC.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vevo '90s" tvg-logo="https://hometv.pw/logo/music2/vevo.png" group-title="MUSIC",Vevo '90s
+https://i.mjh.nz/SamsungTVPlus/USBD3000133M.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vevo 2K" tvg-logo="https://hometv.pw/logo/music2/vevo.png" group-title="MUSIC",Vevo 2K
+https://i.mjh.nz/SamsungTVPlus/USBB4400015F5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vevo 2010s" tvg-logo="https://hometv.pw/logo/music2/vevo.png" group-title="MUSIC",Vevo 2010s
+https://i.mjh.nz/SamsungTVPlus/USBD120002431.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vevo Retro Rock" tvg-logo="https://hometv.pw/logo/music2/vevo.png" group-title="MUSIC",Vevo Retro Rock
+https://i.mjh.nz/SamsungTVPlus/USBD3000145P.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vevo Pop" tvg-logo="https://hometv.pw/logo/music2/vevo.png" group-title="MUSIC",Vevo Pop
+https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/music2/now90s.png" group-title="MUSIC",NOW 90s
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8	
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/music2/now80s.png" group-title="MUSIC",NOW 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8	
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/music2/now70s.png" group-title="MUSIC",NOW 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8	
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/music2/muzzik2.png" group-title="MUSIC",Rock & Roll
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/music2/muzzik2.png" group-title="MUSIC",mOBA
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/music2/muzzik2.png" group-title="MUSIC",POP STAR
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/music2/muzzik2.png" group-title="MUSIC",JEKA
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/music2/muzzik2.png" group-title="MUSIC",WWM
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/music2/muzzik2.png" group-title="MUSIC",MUZZIK
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/music2/muzzik2.png" group-title="MUSIC",SENSE
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/music2/muzzik2.png" group-title="MUSIC",FLASH BACK
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/music2/muzzik2.png" group-title="MUSIC",ELECTRO
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+
+
 #EXTINF:-1 group-title="SINGTEL TV" tvg-id="Channel NewsAsia HD" tvg-logo="https://heryarts.my.id/singtel.jpg",CNA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7cb90b341f444e4ca3fb60de2ed3d6e5:5640220b78729773fbeaabc19a502b50
