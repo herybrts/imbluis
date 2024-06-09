@@ -2,6 +2,13 @@
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
 
 
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-hit-man-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",HIT MAN (2024)
+https://stream.hownetwork.xyz/xxx/hit-man-2024-webdl_X_960c7f88/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-the-strangers-chapter-1-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",THE STRANGERS: CHAPTER 1 (2024)
+https://stream.hownetwork.xyz/xxx/the-strangers-chapter-1-2024-webdl_X_86696bf9/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-shadow-land-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",SHADOW LAND (2024)
+https://stream.hownetwork.xyz/xxx/shadow-land-2024-webdl_X_8dfc6f8b/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-doleira-a-historia-de-nelma-kodama-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",DOLEIRA: A HISTORIA DE NELMA KODAMA (2024)
 https://stream.hownetwork.xyz/xxx/doleira-a-historia-de-nelma-kodama-2024-webdl_X_efffad70/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/06/film-basma-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",BASMA (2024) 
@@ -4065,6 +4072,9 @@ https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12516
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="HOME TV",UFC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12571
+
+
+
 
 
 
