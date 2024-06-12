@@ -5763,209 +5763,209 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/93a0add4ed871fcabfd7.jpg" group-title="OXYGEN TV", IDX CHANNEL 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/idx.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/idx/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png" group-title="OXYGEN TV", NET TV 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/nettv-hd.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/nettv-hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_metrotv.png" group-title="OXYGEN TV", METRO TV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/metrotv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/metrotv/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kompastv.png" group-title="OXYGEN TV", KOMPAS TV 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/kompastv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/kompastv/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvri.png" group-title="OXYGEN TV", TVRI NASIONAL
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/tvri.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/tvri/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="OXYGEN TV", SCTV 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/sctv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/sctv/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_trans7.png" group-title="OXYGEN TV", TRANS 7
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/trans7.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/trans7/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_transtv.png" group-title="OXYGEN TV", TRANS TV 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/transtv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/transtv/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_indosiar.png" group-title="OXYGEN TV", INDOSIAR 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/indosiar.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/indosiar/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_antv.png" group-title="OXYGEN TV", ANTV 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/antv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/antv/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvone.png" group-title="OXYGEN TV", TV ONE
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/tvone.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/tvone/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_rtv.png" group-title="OXYGEN TV", RTV 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/rtv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/rtv/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_jaktv.png" group-title="OXYGEN TV", JAK TV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/jaktv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/jaktv/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/95f4745784313c1ab222.png" group-title="OXYGEN TV", MOJI TV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/moji.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/moji/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_daaitv.png" group-title="OXYGEN TV", DAAI INDONESIA
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/daaitv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/daaitv/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/b00977f498ea7ad4aa26.jpeg" group-title="OXYGEN TV", BTV 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/btv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/btv/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ntv.png" group-title="OXYGEN TV", NUSANTARA TV 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/nusantaratv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/nusantaratv/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/7b3b11534b9ac313e5be.png" group-title="OXYGEN TV", VTV VIVA
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/vtv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/vtv/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_jitv" group-title="OXYGEN TV", JITV 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/jitv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/jitv/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ktv.png" group-title="OXYGEN TV", KTV 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/ktv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/ktv/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/64a420f0f62df497206a.png" group-title="OXYGEN TV", JPM
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/jpm.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/jpm/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nhk.png" group-title="OXYGEN TV", NHK WORLD (HD) 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/nhkworld.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/nhkworld/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_phoenixhk.png" group-title="OXYGEN TV", PHOENIX HK
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/phoenixhongkong.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/phoenixhongkong/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_dw.png" group-title="OXYGEN TV", DW TV ASIA 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/dwenglish.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/dwenglish/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_france24.png" group-title="OXYGEN TV", FRANCE 24 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/france24.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/france24/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_arirang.png" group-title="OXYGEN TV", ARIRANG WORLD 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/arirangworld.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/arirangworld/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_CCTV.png" group-title="OXYGEN TV", CCTV 4
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/cctv4asia.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/cctv4asia/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_voa.png" group-title="OXYGEN TV", VOA 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/voa.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/voa/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cetv1.png" group-title="OXYGEN TV", CETV 1 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/cetv1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/cetv1/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cgtndoc.png" group-title="OXYGEN TV", CGTN DOCUMENTARY 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/cgtndocumentary.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/cgtndocumentary/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tv5monde.png" group-title="OXYGEN TV", TV5 MONDE
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/tv5monde.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/tv5monde/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nippontv.png" group-title="OXYGEN TV", NIPPON TV 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/nihontv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/nihontv/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/9c10edc898148799639f.png" group-title="OXYGEN TV", KBS KOREA 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/kbs-korea.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/kbs-korea/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_salamtv.png" group-title="OXYGEN TV", SALAM TV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/salamtv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/salamtv/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_rodja.png" group-title="OXYGEN TV", RODJA TV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/rodjatv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/rodjatv/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_uchannel.png" group-title="OXYGEN TV", U CHANNEL 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/uchannel.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/uchannel/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tawaftv.png" group-title="OXYGEN TV", TAWAF TV 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/tawaftv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/tawaftv/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_qurantv.png" group-title="OXYGEN TV", QURAN TV 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/qurantv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/qurantv/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_inews.png" group-title="OXYGEN TV", INEWS TV 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/inews.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/inews/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_aljazeera.png" group-title="OXYGEN TV", AL JAZEERA 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/aljazeera.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/aljazeera/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_trt.png" group-title="OXYGEN TV", TRT WORLD 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/trtworld.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/trtworld/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_phoenixchinese.png" group-title="OXYGEN TV", PHOENIX CHINESE 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/phoenixchinese.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/phoenixchinese/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cna.png" group-title="OXYGEN TV", CHANNEL NEWS ASIA 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/channelnewsasia.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/channelnewsasia/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_euronews.png" group-title="OXYGEN TV", EURONEWS 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/euronewsasia.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/euronewsasia/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cgtn.png" group-title="OXYGEN TV", CGTN 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/cgtn.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/cgtn/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/9c8b3b8177e3fb267a74.png" group-title="OXYGEN TV", TVBS 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/tvbnews.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/tvbnews/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_bloomberg.png" group-title="OXYGEN TV", BLOOMBERG 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/bloomberg.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/bloomberg/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cnbcint.png" group-title="OXYGEN TV", CNBC 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/cnbc.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/cnbc/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_b4umovies.png" group-title="OXYGEN TV", B4U MOVIES 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/b4umovieindia.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/b4umovieindia/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_xingkong.png" group-title="OXYGEN TV", XING KONG CHINA 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112z
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/xingkong.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30z
+https://cdn5-reg2.mm.oxygen.id/hls/xingkong/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_lotusmacau.png" group-title="OXYGEN TV", LOTUS MACAU 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/lotusmacau.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/lotusmacau/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/994ca4439869fb20cfc6.png" group-title="OXYGEN TV", LTN FAMILY 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/ltn-family.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/ltn-family/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/ca22c587c19948f1567e.png" group-title="OXYGEN TV", FILMAX 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/filmax.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/filmax/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_fashiontv.png" group-title="OXYGEN TV", FASHION TV 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/fashiontv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/fashiontv/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_channelv.png" group-title="OXYGEN TV", CHANNEL V CHINA 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/vchina.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/vchina/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_b4u.png" group-title="OXYGEN TV", B4U MUSIC 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/b4umusicindia.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/b4umusicindia/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/79e2dab75c3bfcea933c.png" group-title="OXYGEN TV", INSIGHT TV 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/insight.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/insight/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_toonmax.png" group-title="OXYGEN TV", TOONMAX 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/toonmax.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/toonmax/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_spacetoon.png" group-title="OXYGEN TV", SPACETOON 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/spacetoon.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/spacetoon/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ebskids.png" group-title="OXYGEN TV", EBS KIDS 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/ebskids.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/ebskids/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png" group-title="OXYGEN TV", MENTARI TV 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/mentaritv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/mentaritv/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kidszone.png" group-title="OXYGEN TV", KIDS ZONE PLUS
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/kidszoneplus.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/kidszoneplus/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/b12d9de0667a6dbcff5f.png" group-title="OXYGEN TV", POP TV 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/pop.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/pop/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/f48a09f215f6bc907aaa.png" group-title="OXYGEN TV", PLANET FUN 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/planetfun.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/planetfun/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvrisport.png" group-title="OXYGEN TV", TVRI SPORT 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/tvrisport.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/tvrisport/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_dubaisport3.png" group-title="OXYGEN TV", DUBAI SPORTS 3 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/dubaisport3.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/dubaisport3/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_redbull.png" group-title="OXYGEN TV", RED BULL TV 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/redbulltv.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/redbulltv/index.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/c01f7cb2fad4cfbcf0a7.png" group-title="OXYGEN TV", EDGE SPORT 
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/edgesport.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://cdn5-reg2.mm.oxygen.id/hls/edgesport/index.m3u8
 
 
 #EXTM3U
