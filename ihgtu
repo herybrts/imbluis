@@ -6168,6 +6168,579 @@ https://heryarts.my.id/oxygen.php?id=edgesport
 
 
 #EXTM3U
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/96e7e23e289fa225bd56154bff5e92be.jpg" tvg-id="f9b8abc9a16c378c70e8eb7b915975c7",Jazirah Ilmu
+http://103.156.141.152:4567/stream/channelid/1235990777?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.dropbox.com/s/2ek24kq4p77qx96/20220612_141922.png?dl=1" tvg-id="8062a65715f21004ba36d0ba8336a03c",Khanzanet Box Office
+http://103.156.141.152:4567/stream/channelid/1470521984?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.dropbox.com/s/vbhebtyqqlr638g/dtg%20film%20indonesia.png?dl=1" tvg-id="91244e34beba21388cec8b330abb5601",Khanzanet Film Indonesia
+http://103.156.141.152:4567/stream/channelid/877536401?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.dropbox.com/s/hl7rk0fuonyhcbr/dtg%20haunted.png?dl=1" tvg-id="1263c819ed04f9be2a41a515a3b92a43",Khanzanet Horror
+http://103.156.141.152:4567/stream/channelid/432562962?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.dropbox.com/s/xbi9e9fy1huead0/dtg%20the%20movies.png?dl=1" tvg-id="5530978ceee0f6a475005bf4faf9e8fb",Khanzanet Movies
+http://103.156.141.152:4567/stream/channelid/211234901?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.dropbox.com/s/up0ds5uuo7juqsb/dtg%20movies%20world.png?dl=1" tvg-id="8b697ad18d6b14c2d55c8484aec92a5d",Khanzanet World Movies
+http://103.156.141.152:4567/stream/channelid/1366976907?profile=pass
+#EXTINF:-1 tvg-id="201e7ca7ca142682ebdeedaf7e5f37e0",TRANS 7 (DVB-S)
+http://103.156.141.152:4567/stream/channelid/662445600?profile=pass
+#EXTINF:-1 tvg-id="d9d4e41703d079868e1dc02fdaba96a0",VOLI TV
+http://103.156.141.152:4567/stream/channelid/400872665?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://images.useetv.com/logo_indosiar_big1.png" tvg-id="5527e018daffd5ea0b4c1e3dd39c2414" tvg-chno="1",INDOSIAR
+http://103.156.141.152:4567/stream/channelid/417343317?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/979bcfbacf3220a416119ac033351930.png" tvg-id="819d35e778dfb6092216664484aafbf9" tvg-chno="2",RCTI
+http://103.156.141.152:4567/stream/channelid/1731566977?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://images.useetv.com/logo_sctv_big1.png" tvg-id="7cd668d2795882d1cb2dd2eb9a1a5c01" tvg-chno="3",SCTV
+http://103.156.141.152:4567/stream/channelid/1382602364?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_antv_big1.png" tvg-id="6dab0a0cb2b8739e7db061ff2bed0040" tvg-chno="4",ANTV
+http://103.156.141.152:4567/stream/channelid/202025837?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/83f5547d01fd3674a569f8a754486711.png" tvg-id="a1a900d7d469615baafc664648b777e8" tvg-chno="5",GTV
+http://103.156.141.152:4567/stream/channelid/1459661217?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/eef57dcd6da7e83e58ec5d87464f3d0c.png" tvg-id="8aa67d9ae032bc5de15b06d860d7f682" tvg-chno="6",MNC TV
+http://103.156.141.152:4567/stream/channelid/444442250?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/bd5e1e11e48d084e22d4a9a69ba7b6fe.png" tvg-id="edf586b76d48910ff18bcb1b1616ac80" tvg-chno="7",INEWS
+http://103.156.141.152:4567/stream/channelid/931591661?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_transtv_big1.png" tvg-id="d2d926d1dfcef6056bef7cb1d3143b9e" tvg-chno="8",TRANS TV
+http://103.156.141.152:4567/stream/channelid/1361500626?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_trans7_big1.png" tvg-id="f4392156693cdc7242f379111458e706" tvg-chno="9",TRANS 7
+http://103.156.141.152:4567/stream/channelid/1445018100?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_rtv_big1.png" tvg-id="0e67ae259e6a7f6a7530108bed3c129b" tvg-chno="10",RTV
+http://103.156.141.152:4567/stream/channelid/632186638?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" tvg-id="1d19421498a74c2c3a2f36186c25dcd0" tvg-chno="11",KOMPAS TV
+http://103.156.141.152:4567/stream/channelid/339876125?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_tvone_big1.png" tvg-id="ed7cbf53173bd523af81da6a16c8b7d8" tvg-chno="12",TV ONE
+http://103.156.141.152:4567/stream/channelid/1405058285?profile=pass
+#EXTINF:-1 tvg-id="aaef02c78c649d9f29239dac998b4130" tvg-chno="13",MOJI
+http://103.156.141.152:4567/stream/channelid/1191374762?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_jtv_big1.png" tvg-id="842c859b90da67ebc1d03155a2109d43" tvg-chno="14",JTV Surabaya
+http://103.156.141.152:4567/stream/channelid/461712516?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_beritasatu_big1.png" tvg-id="8035075a84c8aa2e40c36edabeeed8da" tvg-chno="15",BERITA SATU
+http://103.156.141.152:4567/stream/channelid/1510421888?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" tvg-id="b2a4fa4b04709ce289c844f6fa052a30" tvg-chno="16",METRO TV
+http://103.156.141.152:4567/stream/channelid/1274717362?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_tvri_big1.png" tvg-id="9f3ecac3ac2d29f6cbcdb415630e9cf4" tvg-chno="17",TVRI
+http://103.156.141.152:4567/stream/channelid/1137327775?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_jtv_big1.png" tvg-id="1eb86a4286f85b712b6b2275b7d36453" tvg-chno="18",JTV
+http://103.156.141.152:4567/stream/channelid/1114290206?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_balitv_big1.png" tvg-id="f0917a429ba71dc78dc0d636af23b671" tvg-chno="19",BALI TV
+http://103.156.141.152:4567/stream/channelid/1115329008?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" tvg-id="17b0ff299e3f2c3ed2551b3a7c11283d" tvg-chno="20",NUSANTARA TV
+http://103.156.141.152:4567/stream/channelid/704622615?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" tvg-id="be87091cf6019646ac0f5e2ef07d9e35" tvg-chno="21",CNN INDONESIA
+http://103.156.141.152:4567/stream/channelid/470386622?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.ibb.co/847D14H/antara.jpg" tvg-id="028bc131deebc9a3c53617c40ebfb1a6" tvg-chno="22",ANTARA
+http://103.156.141.152:4567/stream/channelid/834767618?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://indonesiana.tv/frontend/images/logo-indonesiana.png" tvg-id="75f28535a02d95874bb9270c33fdef2f" tvg-chno="24",INDONESIANA TV
+http://103.156.141.152:4567/stream/channelid/897970805?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_net_big1.png" tvg-id="15e144f52fdd68e3f5308b0d54caa649" tvg-chno="25",NET TV
+http://103.156.141.152:4567/stream/channelid/1967448341?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_jaktv_big1.png" tvg-id="baab5774a5fd3158ea4b3e814e18d796" tvg-chno="26",JAK TV
+http://103.156.141.152:4567/stream/channelid/1951902650?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_daaitv_big1.png" tvg-id="d5974fec98d60292c26e4cac8524707e" tvg-chno="28",DAAI TV
+http://103.156.141.152:4567/stream/channelid/1817155541?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_rri_big1.png" tvg-id="9e89226f4f6370a14830fc10b7e0aba6" tvg-chno="29",RRI NET
+http://103.156.141.152:4567/stream/channelid/1864534430?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1583208610196.png" tvg-id="00b269ec5658c503f9d35451a9fcb7ea" tvg-chno="30",JOWO
+http://103.156.141.152:4567/stream/channelid/1818866176?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.transvision.co.id/img/channel/insert.png" tvg-id="8b8df15377df04f611b803743adb1a31" tvg-chno="31",INSERT
+http://103.156.141.152:4567/stream/channelid/1408339339?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.pinpng.com/pngs/m/209-2091584_atv-atv-sterreich-logo-hd-png-download.png" tvg-id="fe2783a9fb0dec83c788a421dd60f129" tvg-chno="32",ATV
+http://103.156.141.152:4567/stream/channelid/696461310?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_idx_big.png" tvg-id="1da76cc3fad0e439aebae89647176c51" tvg-chno="33",IDX Channel
+http://103.156.141.152:4567/stream/channelid/1131194141?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://images.useetv.com/logo_mncnews_big.png" tvg-id="3a379c01d764f9c328b00538aa369291" tvg-chno="34",MNC News
+http://103.156.141.152:4567/stream/channelid/27014970?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" tvg-id="d2b444cbfa1d96400d38d5b0c512f8c1" tvg-chno="35",CNBC Indonesia
+http://103.156.141.152:4567/stream/channelid/1262793938?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_bein1_big1.png" tvg-id="5e7412c5351cb48f2a58285580e305c1" tvg-chno="36",BeinSports 1 Indonesia
+http://103.156.141.152:4567/stream/channelid/1158837342?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_bein2_big1.png" tvg-id="9eca1105f2a271030d68dfd33082420c" tvg-chno="37",BeinSports 3 Indonesia
+http://103.156.141.152:4567/stream/channelid/85052062?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSH.png" tvg-id="fdf7abee192e274eb542e10c4d7562f0" tvg-chno="38",DSTV: SuperSport LaLiga
+http://103.156.141.152:4567/stream/channelid/1856763901?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png" tvg-id="77599781bfc95e3b00adbad14476fc01" tvg-chno="39",DSTV: SuperSport Football
+http://103.156.141.152:4567/stream/channelid/26696055?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sports.png" tvg-id="4d7a31844ebef063ad10ca000944e405" tvg-chno="40",UseeSports
+http://103.156.141.152:4567/stream/channelid/70351437?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sports.png" tvg-id="e0f0f0286c396f634f62e75e97113a1b" tvg-chno="41",UseeSports2
+http://103.156.141.152:4567/stream/channelid/686878944?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_fight_big1.png" tvg-id="8fa009779f3bca8bc5abff93d9d34d87" tvg-chno="42",Fight Sports
+http://103.156.141.152:4567/stream/channelid/1997119631?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i2.wp.com/www.horizonSportss.com/wp-content/uploads/2018/06/logo-horizon_wellness-transp.png?fit=1467%2C549&ssl=1" tvg-id="6b7b3fcc63f4b82abf06c32a3f0b4dfc" tvg-chno="43",HorizonSports
+http://103.156.141.152:4567/stream/channelid/1279228779?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_nba_big1.png" tvg-id="00ddcc961a7e845956ad4fddc6ab906c" tvg-chno="44",NBA TV
+http://103.156.141.152:4567/stream/channelid/382524672?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_egg_big1.png" tvg-id="14f2bf001e7257fcb5b3f6823ba27bf1" tvg-chno="45",EGG
+http://103.156.141.152:4567/stream/channelid/12579348?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://silvertv.net:1997/images/USA/WWE.us.png" tvg-id="4646ee9cafe6f745aa95357d07aa6b2a" tvg-chno="46",WWE HD
+http://103.156.141.152:4567/stream/channelid/485377606?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.defilmkijker.com/wp-content/uploads/2014/07/4k_logo.png" tvg-id="bd3cf39e81945db27d069a383ccb7c84" tvg-chno="47",Now Sport 1 UHD (4K)
+http://103.156.141.152:4567/stream/channelid/519257277?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_bioskopindonesia_big1.png" tvg-id="b77a2332274e277fa789e3643fc1e446" tvg-chno="48",Bioskop Indonesia
+http://103.156.141.152:4567/stream/channelid/841185975?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_imc_big.png" tvg-id="1daee1d7f48f8a9443b15c194dcb5336" tvg-chno="49",IMC
+http://103.156.141.152:4567/stream/channelid/1474407965?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_flik_big1.png" tvg-id="78ab35a3a05e937d2b230d7860b22f42" tvg-chno="50",Flik
+http://103.156.141.152:4567/stream/channelid/590719864?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" tvg-id="f9935bbf1647089e1f6ea9a3a58d2737" tvg-chno="51",HBO
+http://103.156.141.152:4567/stream/channelid/1062966265?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" tvg-id="5059708a09c192786486e156734594fa" tvg-chno="52",HBO Hits
+http://103.156.141.152:4567/stream/channelid/175135056?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" tvg-id="2e0d68bb5d022481c064238c65201041" tvg-chno="53",HBO Family
+http://103.156.141.152:4567/stream/channelid/996674862?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" tvg-id="369f0d7cec41977e336407beb39d8674" tvg-chno="54",HBO Signature
+http://103.156.141.152:4567/stream/channelid/2081267510?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_galaxy_big1.png" tvg-id="0810c147a680da51877355d490d70fda" tvg-chno="55",Galaxy
+http://103.156.141.152:4567/stream/channelid/1203834888?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_galaxy_big1.png" tvg-id="9e9d64d6d70e460ceda7bdd93cc93013" tvg-chno="56",Galaxy Movie Premium
+http://103.156.141.152:4567/stream/channelid/1449434526?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://movies.hitstv.com/assets/hits-tv-logo.png" tvg-id="a249be2b83867745cc907e81ef938eaf" tvg-chno="57",HITS
+http://103.156.141.152:4567/stream/channelid/733890978?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_thrill_big.png" tvg-id="5febc5ae4ccfd731c1c775f37a38dbfa" tvg-chno="58",Thrill
+http://103.156.141.152:4567/stream/channelid/784722783?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/ca04bc3b9eefeae48d0a28861ec42a62.png" tvg-id="56226a78e7851c993903574ff5e38c41" tvg-chno="59",Citra Bioskop
+http://103.156.141.152:4567/stream/channelid/2020221526?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://i.ibb.co/crZnYpb/cinemaworld.png" tvg-id="c18ffe3086086b9bf6a3857dbe1c5a35" tvg-chno="60",Cinema World
+http://103.156.141.152:4567/stream/channelid/821989313?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://mycinema.club/wp-content/uploads/2021/03/cropped-MyCinemaLogo_dropshadow-2.png" tvg-id="a3663a30d7f5782cac07a3f68738b28a" tvg-chno="61",My Cinema
+http://103.156.141.152:4567/stream/channelid/809133731?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" tvg-id="25fe452ea3be19c1fb36244fcc5861c6" tvg-chno="62",My Cinema Family
+http://103.156.141.152:4567/stream/channelid/776338981?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" tvg-id="7d4401bb2d5b3cf9e964f77e291bdbdf" tvg-chno="63",Cinemax
+http://103.156.141.152:4567/stream/channelid/989938813?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_warner_big.png" tvg-id="4977e9b6c9359035ac119265cd99faa7" tvg-chno="64",Warner
+http://103.156.141.152:4567/stream/channelid/921270089?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_zbioskop_big1.png" tvg-id="11969bee2263d18fae9704f2cdce46fa" tvg-chno="65",Z Bioskop
+http://103.156.141.152:4567/stream/channelid/1855690257?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://i.ibb.co/1YNbBjF/celectial.png" tvg-id="4d991e8043dfa3ef9be065fbe8df559f" tvg-chno="67",Celestial Movie
+http://103.156.141.152:4567/stream/channelid/2005325?profile=pass
+#EXTINF:-1 tvg-id="376724811c6eee0e0218a51e8524812a" tvg-chno="68",CCM HD 
+http://103.156.141.152:4567/stream/channelid/19162935?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://images.useetv.com/logo_paramount_big.png" tvg-id="ac1471939145da06488d65ad06740e73" tvg-chno="69",Paramount
+http://103.156.141.152:4567/stream/channelid/326177964?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_cartoonnetwork_big.png" tvg-id="2dbae800b4114d26b448051a2b607c75" tvg-chno="70",Cartoon Network
+http://103.156.141.152:4567/stream/channelid/15252013?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_nickelodeon_big.png" tvg-id="a3b95591b0c22717c543832e3d9f8037" tvg-chno="71",Nickelodeon
+http://103.156.141.152:4567/stream/channelid/290830755?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_nickjr_big.png" tvg-id="045d50b420c1c2a2f89c1066e91660b9" tvg-chno="72",Nick Junior
+http://103.156.141.152:4567/stream/channelid/877681924?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_babyfirst_big1.png" tvg-id="ab704cd192bd500403a43dde5d892a55" tvg-chno="73",Baby First
+http://103.156.141.152:4567/stream/channelid/1363964075?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_boomerang_big.png" tvg-id="8fa61f7130c6f2edce00285923e63152" tvg-chno="74",Boomerang
+http://103.156.141.152:4567/stream/channelid/1897899663?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" tvg-id="c06cad3b8497ab230cfc3b3f8828f4f7" tvg-chno="75",DreamWorks HD
+http://103.156.141.152:4567/stream/channelid/1001221312?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_duniaanak_big1.png" tvg-id="10974a7e15fccc3f9ce3b0179bc81f1d" tvg-chno="76",Dunia Anak
+http://103.156.141.152:4567/stream/channelid/2118817552?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://cloud.jpnn.com/photo/arsip/watermark/2021/07/23/indikids-foto-tangkapan-layar-31.png" tvg-id="551bc5dbd8114e1e172cf488a4cc61b5" tvg-chno="77",IndiKids
+http://103.156.141.152:4567/stream/channelid/1539644245?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://cloud.jpnn.com/photo/arsip/watermark/2021/07/23/indikids-foto-tangkapan-layar-31.png" tvg-id="9774d2a66de4efaef8790f99e740197e" tvg-chno="78",Indikids HD
+http://103.156.141.152:4567/stream/channelid/651326615?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/M_Kidz.png/revision/latest?cb=20200201131221" tvg-id="10cc4311455028f247167b311e5f5c81" tvg-chno="79",My Kidz
+http://103.156.141.152:4567/stream/channelid/289655824?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_horee_big.png" tvg-id="f5adb6c3620c9aad10269eb359599ec8" tvg-chno="80",Horee!
+http://103.156.141.152:4567/stream/channelid/1136045557?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Mentari_TV.png/revision/latest?cb=20210117102858" tvg-id="f9fad83d673b472e80478d45fadc57fb" tvg-chno="81",Mentari TV 
+http://103.156.141.152:4567/stream/channelid/1037630201?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_dreamworks_big1.png" tvg-id="43dcc18481c164a873423e0c197afa94" tvg-chno="82",DreamWorks
+http://103.156.141.152:4567/stream/channelid/79813699?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" tvg-id="c9d81afdac9390a11f046d4e73f0b4d2" tvg-chno="83",SMITHSONIAN
+http://103.156.141.152:4567/stream/channelid/2098911433?profile=pass
+#EXTINF:-1 tvg-id="ce52d9dac37ad038578aa94f64e1e2d6" tvg-chno="84",DISCOVERY
+http://103.156.141.152:4567/stream/channelid/1524191950?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_cgtndocumentary_big1.png" tvg-id="006c3d306958350c14888f67e20d4cb5" tvg-chno="85",CGTN Documentary
+http://103.156.141.152:4567/stream/channelid/809331712?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://i.ibb.co/JnVd6cG/crimeinvestigation.png" tvg-id="0baee70bd5fb3e26c7bcd09eb2e5ba45" tvg-chno="86",Crime & Investigation
+http://103.156.141.152:4567/stream/channelid/199732747?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.ibb.co/YhSwFxG/lingua.png" tvg-id="8f8e9395f43030777eb6d6724159d08f" tvg-chno="87",Lingua
+http://103.156.141.152:4567/stream/channelid/361991823?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://i.ibb.co/563fbzN/pandatv.png" tvg-id="3a4697d82aad2c2000d2b58d50f6b303" tvg-chno="88",Panda TV
+http://103.156.141.152:4567/stream/channelid/1486308922?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_davinci_big1.png" tvg-id="8eef21dd196e0e2a1ca21042f5bd55c5" tvg-chno="89",Da Vinci Learning
+http://103.156.141.152:4567/stream/channelid/1562505102?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_discovery_big.png" tvg-id="42e4456c8dec342c6d0eba51f91c0cc1" tvg-chno="90",Discovery
+http://103.156.141.152:4567/stream/channelid/1816519746?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://cdn.techinasia.com/data/images/cUQ6TqQm7TQFIA4VU1NRLKVNNDAHSbEUBo13hvRC.png" tvg-id="8cb2eae3291523c9f887e5c1bfce80af" tvg-chno="91",Tech Strom 
+http://103.156.141.152:4567/stream/channelid/1676325516?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_prambors_big1.png" tvg-id="9f9586b4b10257c962c9bd203c12d353" tvg-chno="92",Prambors
+http://103.156.141.152:4567/stream/channelid/881235359?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_allegro_big1.png" tvg-id="42a025f17ed77eaec475d34df8a6be3b" tvg-chno="93",T Music
+http://103.156.141.152:4567/stream/channelid/1898291266?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://i.ibb.co/SRn7G0r/mtvlive.png" tvg-id="bf1959e296d5b954f6d3b315a772784f" tvg-chno="94",MTV Live
+http://103.156.141.152:4567/stream/channelid/1650006463?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/f786365c2f89fdd61e383cc7cbdbceb7.png" tvg-id="7a9de0d94e745c25dbf01d411c2fc9fd" tvg-chno="95",LOVE NATURE
+http://103.156.141.152:4567/stream/channelid/1507892602?profile=pass
+#EXTINF:-1 tvg-id="dd84ccaef0e0993dcd9d7e0cd7bf6408" tvg-chno="96",Celestial Movies
+http://103.156.141.152:4567/stream/channelid/785155293?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" tvg-id="76cd3f82d3832426f7e8d0269e9b80c2" tvg-chno="97",Blue Ant Extreme
+http://103.156.141.152:4567/stream/channelid/37735798?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://i.ibb.co/SfF0zWJ/blueant.png" tvg-id="5a22af8f7d3a8d58499207211ac7c3de" tvg-chno="98",Blue Ant Entertaiment
+http://103.156.141.152:4567/stream/channelid/263135834?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" tvg-id="e20205cd5ebe200998170ae82a94544a" tvg-chno="99",Fox
+http://103.156.141.152:4567/stream/channelid/1292174050?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_dunialain_big.png" tvg-id="b1817000aee2ce8d960bf374522cfe74" tvg-chno="100",Dunia Lain 
+http://103.156.141.152:4567/stream/channelid/7373233?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_alquran_big1.png" tvg-id="bc7af212e4bf1f252a8373db06725f38" tvg-chno="101",AlQuran Karim 
+http://103.156.141.152:4567/stream/channelid/317881020?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_tawaftv_big.png" tvg-id="592dd58611a0008afa4d4e8b8df950f6" tvg-chno="102",Tawaf TV 
+http://103.156.141.152:4567/stream/channelid/114634073?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_tv9_big1.png" tvg-id="5895f825f1463d1f62cc31bf53ff17e5" tvg-chno="103",TV9 
+http://103.156.141.152:4567/stream/channelid/637048152?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_muhammadiyahtv_big1.png" tvg-id="7f3f2150543886df20f916f1f1c66987" tvg-chno="104",tvMu 
+http://103.156.141.152:4567/stream/channelid/1344356223?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_khazanah_big1.png" tvg-id="4d141bdcfe25ea3d17a02298ad45f851" tvg-chno="105",Khazanah 
+http://103.156.141.152:4567/stream/channelid/1545278541?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_mtatv_big1.png" tvg-id="fba9725eddff73101802def73fcd3b79" tvg-chno="106",MT@ TV
+http://103.156.141.152:4567/stream/channelid/1584572923?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_tvmui_big1.png" tvg-id="9d93595f05ffa3a2770373298683e687" tvg-chno="107",TV MUI
+http://103.156.141.152:4567/stream/channelid/1599706013?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_mqtv_big1.png" tvg-id="dace892b90b827337241d721ce709f17" tvg-chno="108",MQTV 
+http://103.156.141.152:4567/stream/channelid/730451674?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_tvn_big.png" tvg-id="202055de26b2b188641d64a409b99fb0" tvg-chno="109",TVN 
+http://103.156.141.152:4567/stream/channelid/1582637088?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_tvn_big.png" tvg-id="e8baecfc147c69a698355aa49dec1954" tvg-chno="110",TVN HD
+http://103.156.141.152:4567/stream/channelid/2095889128?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://i.ibb.co/mGJjhzP/tvnmovie.png" tvg-id="b502f45cfc9e0ec120e131f99e9d3096" tvg-chno="111",TVN Movie 
+http://103.156.141.152:4567/stream/channelid/1559495349?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://i.ibb.co/mGJjhzP/tvnmovie.png" tvg-id="a0cb28858117481f33c7fd1ee7cc22d6" tvg-chno="112",TVN Movie HD 
+http://103.156.141.152:4567/stream/channelid/86559648?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_kplus_big1.png" tvg-id="73a88de2e90ef7184dc11e746218d6a2" tvg-chno="113",K+ 
+http://103.156.141.152:4567/stream/channelid/1653450867?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_kplus_big1.png" tvg-id="47085efd714e80895f78ab567bbaa41e" tvg-chno="114",K+ HD 
+http://103.156.141.152:4567/stream/channelid/2103314503?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_sone_big1.png" tvg-id="fbf587f215d25a4e7bb63db41f21a45e" tvg-chno="115",Sony One 
+http://103.156.141.152:4567/stream/channelid/1921512955?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_sgem_big1.png" tvg-id="9226ff4a050f3f48bf67a5413e8f935d" tvg-chno="116",Sony Gem 
+http://103.156.141.152:4567/stream/channelid/1258235538?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_arirang_big.png" tvg-id="658c34bcf496b851befa1ada894911e7" tvg-chno="117",Arirang
+http://103.156.141.152:4567/stream/channelid/1010076773?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.ibb.co/wNh1Y3R/kbsworld.png" tvg-id="906b37543a22f6f3976e8fc026e71cef" tvg-chno="118",KBS World HD 
+http://103.156.141.152:4567/stream/channelid/1412918160?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.ibb.co/wNh1Y3R/kbsworld.png" tvg-id="d27e3d2b0ba25a6bd9e305cec6a8afde" tvg-chno="119",KBS World 
+http://103.156.141.152:4567/stream/channelid/725450450?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_nhkworld_big1.png" tvg-id="91ea14188a286c7b3142774f025586fe" tvg-chno="121",NHK World Premium 
+http://103.156.141.152:4567/stream/channelid/404023953?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" tvg-id="3e265b62bbf0800abfc0152f5f22869d" tvg-chno="122",NHK World Japan
+http://103.156.141.152:4567/stream/channelid/1650140734?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://i.ibb.co/gPvFwQm/kungfutv.png" tvg-id="64ed1b2ed9fbe5a7c4fafb2474ac6d2d" tvg-chno="124",NewTV 
+http://103.156.141.152:4567/stream/channelid/773582180?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.infotelevisi.com/asset/images/tv/cti_tv_asia.jpg" tvg-id="e636ebacfdd99aeebef39d3d9443f046" tvg-chno="125",CTI Asia
+http://103.156.141.152:4567/stream/channelid/753612518?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_cctv4_big1.png" tvg-id="b09ac19c8fb9872ce9dd757d613c5428" tvg-chno="128",CCTV4 
+http://103.156.141.152:4567/stream/channelid/482450096?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.ibb.co/xLLBnJq/chinesedrama-big.png" tvg-id="f084f3be542e1b687384662fe3d7ddf3" tvg-chno="130",Chinese Drama 
+http://103.156.141.152:4567/stream/channelid/1056146672?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/e07e23dd8e1e9837e5c2929d3d6bbf3d.jpg" tvg-id="532a6ca207a11f1f5b9bf77e92f529b1" tvg-chno="131",Citra Drama
+http://103.156.141.152:4567/stream/channelid/577514067?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_kix_big.png" tvg-id="3a98b9ab83561832d14a517aa93605cd" tvg-chno="132",KIX
+http://103.156.141.152:4567/stream/channelid/733583418?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://i.ibb.co/yR0Ms72/starmovielegend.png" tvg-id="f0ff2a3d53cf595e142aac4faf6b1f16" tvg-chno="133",My Cinema Asia
+http://103.156.141.152:4567/stream/channelid/1026228208?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_history_big.png" tvg-id="3502476ddfbb2b503c179d9c32389ae3" tvg-chno="134",History Channel
+http://103.156.141.152:4567/stream/channelid/1833370165?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.postimg.cc/dVLk6ZTN/crime2.png" tvg-id="0f1456f43d96b136864979c21856d17e" tvg-chno="135",Crime Investigation
+http://103.156.141.152:4567/stream/channelid/1951798287?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/981adeae3ad4952ebbe1c07b743bce65.jpg" tvg-id="ca88e45d6cbc63f11026ca459e6e9b20" tvg-chno="136",Discovery Channel
+http://103.156.141.152:4567/stream/channelid/1575258314?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/dd44b8f7d1f2572a29404c024f14b98c.png" tvg-id="c84b11ed164c15308947dc081094f7d2" tvg-chno="137",History
+http://103.156.141.152:4567/stream/channelid/1829850056?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/be8b44162c670d2052f771303630a3fa.png" tvg-id="a479b704058f20eebfe1cc3e0d02e3d5" tvg-chno="138",HGTV
+http://103.156.141.152:4567/stream/channelid/79133092?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/5072859a3b48f5ec3f2986c090e76437.png" tvg-id="8a146201f305ea2dddb40041991b279a" tvg-chno="139",BBC Earth
+http://103.156.141.152:4567/stream/channelid/23205002?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/ced77828809ba35dc3bf9eb18efc2439.png" tvg-id="7ad41ab70570c3a145753d394ace55b1" tvg-chno="140",Animal Planet
+http://103.156.141.152:4567/stream/channelid/924505210?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/f3974699209393b62ef64956b9500179.png" tvg-id="509e7110744c5ec1661c0ca79ece7c35" tvg-chno="141",TV1
+http://103.156.141.152:4567/stream/channelid/275881552?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://static.wikia.nocookie.net/175ea822-6563-4620-b3b7-c6165adb92e2/scale-to-width/755" tvg-id="ff5884acd805ddb3bc96c775d87b57cb" tvg-chno="142",TV2
+http://103.156.141.152:4567/stream/channelid/746871039?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/c50f8155acb865d48b4cc008b210f1ba.jpg" tvg-id="19d86d558b1d664cf6a44ca2fe9f99e0" tvg-chno="143",TV3
+http://103.156.141.152:4567/stream/channelid/1433262105?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOsHJqlNlxl08n0xSTLPPQb5JSEyHe2970DkF5_DObi-PZuz8BAbbpIiLIh616argSnT4&usqp=CAU" tvg-id="36cd1947680f7e84fb203d83d03e7ece" tvg-chno="144",Okey TV
+http://103.156.141.152:4567/stream/channelid/1192873270?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1fe341fe-ecfc-4505-b52b-5553944e81e6/dfts20g-e088975e-c391-47c1-840c-cd4448683d87.png/v1/fill/w_499,h_244/astro_warna_logo__2009____on_air_variant_by_officiallogotv2_dfts20g-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjQ0IiwicGF0aCI6IlwvZlwvMWZlMzQxZmUtZWNmYy00NTA1LWI1MmItNTU1Mzk0NGU4MWU2XC9kZnRzMjBnLWUwODg5NzVlLWMzOTEtNDdjMS04NDBjLWNkNDQ0ODY4M2Q4Ny5wbmciLCJ3aWR0aCI6Ijw9NDk5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.WQMbDLQNhV4SxwAUYicS_7zQNo948dZjW65VexOLRxE" tvg-id="7c64fa0b831fce8941ccd7e724638b9b" tvg-chno="145",Astro Warna
+http://103.156.141.152:4567/stream/channelid/200959100?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://cdn.macan.tv/img/astro_awani.png" tvg-id="9c6d5163dbd1bfa0c371c323e2f9e707" tvg-chno="147",Astro Awani
+http://103.156.141.152:4567/stream/channelid/1666280860?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/e7b3d0c75d84e54a3a333a8a3648d7d2.png" tvg-id="7a95ce77031fe94f708720c854d5a60c" tvg-chno="148",Astro Oasis
+http://103.156.141.152:4567/stream/channelid/2010027386?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://mantul.biz.id:8888/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj-q3CpOfSzWJgjKXtUzENro.png" tvg-id="1f472f918b0f5aa8b54aa57d26f47d30" tvg-chno="149",Astro Super Sport 1 FHD
+http://103.156.141.152:4567/stream/channelid/288311071?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://mantul.biz.id:8888/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj--34pggWigNN97QyyHZEtc.png" tvg-id="5261eee8ea69328feeb1c535039fe24e" tvg-chno="150",Astro Super Sport 2 FHD
+http://103.156.141.152:4567/stream/channelid/1760452946?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/10686dda98e01fb72b81c2ca6328902b.png" tvg-id="3eebe9f53e13b680f2e34ba6a2dc91be" tvg-chno="151",Astro Super Sport 3 FHD
+http://103.156.141.152:4567/stream/channelid/1978264382?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://mantul.biz.id:8888/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj1KH7dzByOCWmDPV3LPc0gE.png" tvg-id="ed2de7e142d643a4e4dcd583be5cf773" tvg-chno="152",Astro Super Sport 4 FHD
+http://103.156.141.152:4567/stream/channelid/1642540525?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://mantul.biz.id:8888/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj-q3CpOfSzWJgjKXtUzENro.png" tvg-id="a5c5416ed6c683f6aba088274b3158e2" tvg-chno="153",Astro Super Sport 5 FHD
+http://103.156.141.152:4567/stream/channelid/1849804197?profile=pass
+#EXTINF:-1 tvg-id="432a32efd4e4b84076cc1423b0d851ff" tvg-chno="154",Sport 1
+http://103.156.141.152:4567/stream/channelid/1865558595?profile=pass
+#EXTINF:-1 tvg-id="b1af5568a2b0a980db4adedc880ff460" tvg-chno="155",Sport 2
+http://103.156.141.152:4567/stream/channelid/1750446001?profile=pass
+#EXTINF:-1 tvg-id="7ff2fa29d8288a8d04ecc8337158db63" tvg-chno="156",Sport 3
+http://103.156.141.152:4567/stream/channelid/704311935?profile=pass
+#EXTINF:-1 tvg-id="29ab2978b04505e55d427c28edd30581" tvg-chno="157",beINSport 1 Indonesia
+http://103.156.141.152:4567/stream/channelid/2015996713?profile=pass
+#EXTINF:-1 tvg-id="b666de77f35a2bbb185ee2092d5be7ca" tvg-chno="158",beINSport 3 Indonesia
+http://103.156.141.152:4567/stream/channelid/2011063990?profile=pass
+#EXTINF:-1 tvg-id="09f7a6bf84a97c842584ccc5e873360d" tvg-chno="159",Bein Sport 1 France FHD
+http://103.156.141.152:4567/stream/channelid/1067906825?profile=pass
+#EXTINF:-1 tvg-id="127ea5561cf6c65e16f49ef41f17876b" tvg-chno="160",Bein Sport 2 France FHD
+http://103.156.141.152:4567/stream/channelid/1453686290?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/a508101a78a36898c9937d48f8da707b.png" tvg-id="9d197a9ed22cbe860ecb0124bbd812c2" tvg-chno="161",Bein Sport 1 English FHD
+http://103.156.141.152:4567/stream/channelid/511318429?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/f0446eeefc8ce41b130649f44a1a31da.png" tvg-id="d6e71604ea2b5437e0b68d437ad014fa" tvg-chno="162",Bein Sport 2 English FHD
+http://103.156.141.152:4567/stream/channelid/68610006?profile=pass
+#EXTINF:-1 tvg-id="09dba7b36f2fd48a592ca08ec2223c91" tvg-chno="163",Bein Sport 3 English FHD
+http://103.156.141.152:4567/stream/channelid/866638601?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://ipcover.be:8080/images/f1eda418859bd432b66c75f52ece7f10.png" tvg-id="9ab72d22cb2ffd57456bd01128283478" tvg-chno="164",Bein Sport 3 FHD
+http://103.156.141.152:4567/stream/channelid/573421466?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://ipcover.be:8080/images/a7c8c894614df0be92f4db6de3d61065.png" tvg-id="4f6edaf710dc64c59ff624374bc8f2b4" tvg-chno="165",Bein Sport 4 FHD
+http://103.156.141.152:4567/stream/channelid/2010803791?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/bcde5282f8edcbc81d4edd972786768a.png" tvg-id="595a65e15c07f9bc2f31e63401f3f643" tvg-chno="167",BeinSport 1 Thailand
+http://103.156.141.152:4567/stream/channelid/1634032217?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" tvg-id="4ce596f53989437253546da3b0ed3f0d" tvg-chno="168",BeinSport 2 Thailand
+http://103.156.141.152:4567/stream/channelid/1972823372?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/2027d1fde750d2fce041cfc1ce5a9749.png" tvg-id="e7069b930abbe12fa7aa7a8ea45e02f2" tvg-chno="169",BeinSport 3 Thailand
+http://103.156.141.152:4567/stream/channelid/328926951?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/bbcba196fd141b105f8d4a6613c26744.png" tvg-id="65a9876d7e06bf9e32150d6dc72574f8" tvg-chno="170",Bein 1 ID
+http://103.156.141.152:4567/stream/channelid/1837607269?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/92e46c13dbf070bb3a7ae7d867faf2b8.png" tvg-id="30781e011cb3f85dcda3690e82eb76dd" tvg-chno="171",Bein 3 ID
+http://103.156.141.152:4567/stream/channelid/18774064?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_bein1_big1.png" tvg-id="db535885301cd2cf28246a7077179e55" tvg-chno="172",beINSport 1 HD
+http://103.156.141.152:4567/stream/channelid/89674715?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_bein2_big1.png" tvg-id="b97ed54c6789658ab56885d1a756553a" tvg-chno="173",beINSport 3 HD
+http://103.156.141.152:4567/stream/channelid/1289060025?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f8dc1d4d49006fbed81fb539bc89cde9.png" tvg-id="7ded18ae973507c5e0d439cd49760448" tvg-chno="174",Bein Sport 1 Premium FHD
+http://103.156.141.152:4567/stream/channelid/773385597?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/4d9551cacc9433108171ed793131df12.png" tvg-id="792dfb329016d576cb782f025af169af" tvg-chno="175",Bein Sport 2 Premium FHD
+http://103.156.141.152:4567/stream/channelid/855321977?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" tvg-id="f889ccb545cd748aca155d17bb510259" tvg-chno="176",Bein Sport 3 Premium FHD
+http://103.156.141.152:4567/stream/channelid/902597112?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" tvg-id="913ed40c6e6b2f2387eda3a372ae418a" tvg-chno="177",MNC Sport 1
+http://103.156.141.152:4567/stream/channelid/215236241?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" tvg-id="0f671f69839f11808173fce7203eac53" tvg-chno="178",MNC Sport 2
+http://103.156.141.152:4567/stream/channelid/1763665679?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e5b6a41ba121fd867a41a6e8ccf30b20.png" tvg-id="68581ec3cd42d4750a9fe8b6c5db657c" tvg-chno="179",MNC Sport 3
+http://103.156.141.152:4567/stream/channelid/1126062184?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena1.png" tvg-id="f49e0a5b3926503e6a943ec55cdefc6b" tvg-chno="180",Arena Sport 1 HD
+http://103.156.141.152:4567/stream/channelid/1527422708?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena2.png" tvg-id="7fb39b818476a165544641f901726bcd" tvg-chno="181",Arena Sport 2 HD
+http://103.156.141.152:4567/stream/channelid/26981247?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena3.png" tvg-id="39bf96be1dd34243b415dc57e588a667" tvg-chno="182",Arena Sport 3 HD
+http://103.156.141.152:4567/stream/channelid/1050066745?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena4.png" tvg-id="c89e842c35f341e87dc9e1172885a8a0" tvg-chno="183",Arena Sport 4 HD
+http://103.156.141.152:4567/stream/channelid/746888904?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena5.png" tvg-id="05dba2d5674ca669360f205c56405a10" tvg-chno="184",Arena Sport 5 HD
+http://103.156.141.152:4567/stream/channelid/1436736261?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena6.png" tvg-id="1bf4292fab70436b7a1a8a2aa15bb230" tvg-chno="185",Arena Sport 6 HD
+http://103.156.141.152:4567/stream/channelid/791278619?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena8.png" tvg-id="b0a82161e8a7f3d640a52408f94cacca" tvg-chno="186",Arena Sport 8 HD
+http://103.156.141.152:4567/stream/channelid/1629595824?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena9.png" tvg-id="a299a2bc43053e495607fa92bb1c0b2a" tvg-chno="187",Arena Sport 9 HD
+http://103.156.141.152:4567/stream/channelid/1017289122?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena10.png" tvg-id="e284a017ff0062f27fd9f118c301f8ef" tvg-chno="188",Arena Sport 10 HD
+http://103.156.141.152:4567/stream/channelid/396395746?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.ibb.co/0YWwd2B/usa.png" tvg-id="b73403b07cfe64ef9a80003add5f537e" tvg-chno="189",USA Network "EPL"
+http://103.156.141.152:4567/stream/channelid/805516471?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/53b94081bf140cc9ed69611aafb1ea22.png" tvg-id="a43bbbc6523582a548cafd0705d5ecd9" tvg-chno="190",ES : DAZN 1 HD
+http://103.156.141.152:4567/stream/channelid/1186675620?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://xtra.fireottplus.com:2052/images/972389731d4f822c4be43c8009076c14.png" tvg-id="094c17f9fbf68efd5cdb043d84cb6692" tvg-chno="191",ES : DAZN 3 HD
+http://103.156.141.152:4567/stream/channelid/2031569929?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.ibb.co/vxf4HrV/cnn.png" tvg-id="7f896e0bfc5530d521179411c3f9297d" tvg-chno="192",CNN HD
+http://103.156.141.152:4567/stream/channelid/191793535?profile=pass
+#EXTINF:-1 tvg-id="716465c919a1969cbc5e842f38d4e170" tvg-chno="192",SSC 1 HD
+http://103.156.141.152:4567/stream/channelid/1231381617?profile=pass
+#EXTINF:-1 tvg-id="2580a631a15ffa8dc38b97dd2b4f809e" tvg-chno="193",SSC 2 HD
+http://103.156.141.152:4567/stream/channelid/832995365?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d53f40a54a2315cb05e9aa96d1061a49.png" tvg-id="99335bd9fcb5e36310e06feb3a9af72e" tvg-chno="194",SSC Extra 1
+http://103.156.141.152:4567/stream/channelid/1499149209?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/405347586812f0d6fdaec67f88ad51f7.png" tvg-id="a8cf162022cec5d8c9330f4ee70861ff" tvg-chno="195",SSC Extra 2
+http://103.156.141.152:4567/stream/channelid/538365864?profile=pass
+#EXTINF:-1 tvg-id="483dfa2aad2cdd72cac3d62c77f065e7" tvg-chno="196",SSC Extra 3
+http://103.156.141.152:4567/stream/channelid/721042760?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/ccee2be8f6c153dccdb41d931e944837.png" tvg-id="220f42b2b806bb049eaad94b2d58adf0" tvg-chno="197",Sony Ten 1 HD
+http://103.156.141.152:4567/stream/channelid/843190050?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/0663b483e1da7e3c42f7aab0b10b8f19.png" tvg-id="88bde72c3e1b7e31a881a0f270e43444" tvg-chno="201",Eurosport 1 FHD
+http://103.156.141.152:4567/stream/channelid/753384840?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png" tvg-id="bef3ca6d4aa55ce405bb0a34dfef7449" tvg-chno="203",DSTV: SuperSport Golf
+http://103.156.141.152:4567/stream/channelid/1842017214?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.postimg.cc/63t6SWGp/espn-brasil-logo.png" tvg-id="1f401be88ae7f2340a5bb4725a4bc11b" tvg-chno="205",ESPN HD
+http://103.156.141.152:4567/stream/channelid/1746616351?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" tvg-id="8146f3d20576a8e19037988db8fde8ea" tvg-chno="206",HBO HD
+http://103.156.141.152:4567/stream/channelid/1391675009?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" tvg-id="e4ca8970336fb91cda4462e009be7b79" tvg-chno="207",HBO Hits HD
+http://103.156.141.152:4567/stream/channelid/1888078564?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" tvg-id="eb9c1ace347bc60af14c0e3a86e17235" tvg-chno="208",HBO Signature HD
+http://103.156.141.152:4567/stream/channelid/1310366955?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" tvg-id="992068817fbca2f86d5596413cc79073" tvg-chno="209",HBO Family HD
+http://103.156.141.152:4567/stream/channelid/23601305?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" tvg-id="1df6c4c4968ebd05dd86e5954c2c58f6" tvg-chno="210",Cinemax HD
+http://103.156.141.152:4567/stream/channelid/1153758749?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_kix_big.png" tvg-id="05727acb16ecad9976fbff33dcfe8726" tvg-chno="212",KIX HD
+http://103.156.141.152:4567/stream/channelid/1266315781?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_warner_big.png" tvg-id="0ae5717a4049191c23ad411eadea7a0e" tvg-chno="213",Warner HD
+http://103.156.141.152:4567/stream/channelid/2054284554?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://mycinema.club/wp-content/uploads/2021/03/cropped-MyCinemaLogo_dropshadow-2.png" tvg-id="a4ba81ef1cb098ca46697977c518e9ea" tvg-chno="214",My Cinema HD
+http://103.156.141.152:4567/stream/channelid/1870772900?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://i.ibb.co/crZnYpb/cinemaworld.png" tvg-id="3cbc2319472c5fe55b4eac578edf7cad" tvg-chno="216",Cinema World HD
+http://103.156.141.152:4567/stream/channelid/421772348?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_flik_big1.png" tvg-id="86642b7d804cd4b4b09458794b32faf8" tvg-chno="217",Flik HD
+http://103.156.141.152:4567/stream/channelid/2099995782?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://movies.hitstv.com/assets/hits-tv-logo.png" tvg-id="475194a8834bb2068068781be137e670" tvg-chno="219",HITS HD
+http://103.156.141.152:4567/stream/channelid/680808775?profile=pass
+#EXTINF:-1 tvg-id="ba05ed5c9a3754b67c4f149e1dada27b" tvg-chno="220",MUSIK INDONESIA
+http://103.156.141.152:4567/stream/channelid/1559037370?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_fight_big1.png" tvg-id="4f526d33f7a7fbf93a309c63be2bf587" tvg-chno="223",Fight Sport HD
+http://103.156.141.152:4567/stream/channelid/862802511?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_newsasia_big1.png" tvg-id="f77e06aba4eaba6ae30ef2cdf325963a" tvg-chno="227",Channel News Asia HD
+http://103.156.141.152:4567/stream/channelid/721846007?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/f786365c2f89fdd61e383cc7cbdbceb7.png" tvg-id="237c3e353f184f2486df85efdbb165ba" tvg-chno="228",LOVE NATURE
+http://103.156.141.152:4567/stream/channelid/893287459?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_fight_big1.png" tvg-id="dd9b2bd101eff22383c96bfa41a536a1" tvg-chno="240",Fight Sport
+http://103.156.141.152:4567/stream/channelid/1361812445?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_citradrama_big.png" tvg-id="3e7cb3e115ef14e78bd34c7c2c3e86cc" tvg-chno="242",Citra Drama
+http://103.156.141.152:4567/stream/channelid/1639152702?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" tvg-id="d8a65c63df090d3f0cce3e0c6a3d2c1e" tvg-chno="243",Citra Dangdut
+http://103.156.141.152:4567/stream/channelid/1667016408?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" tvg-id="a3b069dbf68b84e9a1f091bfcef06be6" tvg-chno="244",Lingua
+http://103.156.141.152:4567/stream/channelid/1533653155?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/b04f6b23da86d942a0b546a2b158d9f5.png" tvg-id="dc065a3e764bf73f053022c39e35dc00" tvg-chno="246",Golden TV Animasi
+http://103.156.141.152:4567/stream/channelid/1046087388?profile=pass
+#EXTINF:-1 tvg-id="37faf77f1d535aade8898410a5558ad4" tvg-chno="247",HOREE
+http://103.156.141.152:4567/stream/channelid/2146957879?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_seatoday_small.png" tvg-id="35c865fc25cda7c6176755da0db4467f" tvg-chno="249",SEA TODAY
+http://103.156.141.152:4567/stream/channelid/2087045173?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nusantaratv_small.png" tvg-id="b0b14d2be86a7ee08abf9978e8e52fb7" tvg-chno="251",Nusantara TV
+http://103.156.141.152:4567/stream/channelid/726512048?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" tvg-id="60856b9a94656334737ed8722c6d6cfc" tvg-chno="254",CNN Indonesia HD
+http://103.156.141.152:4567/stream/channelid/443254112?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JHczDMa4iJCO6OxGHsL2Z_E3MZfk6KnbTWXnHyBV6CwB.png" tvg-id="6e0349f4b3e7610841887cde06e04ccd" tvg-chno="257",Trans 7 B
+http://103.156.141.152:4567/stream/channelid/1950942062?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.postimg.cc/N0Xw8GJ3/transtv3.png" tvg-id="694a49ac32ecc3939342459f4c8c6dd2" tvg-chno="258",Trans TV B
+http://103.156.141.152:4567/stream/channelid/743000681?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_trans7_big1.png" tvg-id="00ac2238e5203160f88e01ec835cd8fa" tvg-chno="259",Trans 7 HD
+http://103.156.141.152:4567/stream/channelid/941796352?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_transtv_big1.png" tvg-id="853778d9f7cd526ed5d6134a300aeada" tvg-chno="260",Trans TV HD
+http://103.156.141.152:4567/stream/channelid/1501050757?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_rtv_big2.png" tvg-id="223c3fb149cdbf658fbe3c938e5a0fc3" tvg-chno="261",RTV HD
+http://103.156.141.152:4567/stream/channelid/826227746?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_tvri_big2.png" tvg-id="1d9c6d125b23c8e04e9383e1712e08d5" tvg-chno="262",TVRI HD
+http://103.156.141.152:4567/stream/channelid/309173277?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_kompastv_big2.png" tvg-id="4556543e35b850b2c870732673a68538" tvg-chno="263",KompasTv HD
+http://103.156.141.152:4567/stream/channelid/1045714501?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_net_big1.png" tvg-id="4a27170376641f586534f611c193f467" tvg-chno="265",Net TV HD
+http://103.156.141.152:4567/stream/channelid/51849034?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/41b58eac32c0e3ecc0fcfaa6b15a50fa.png" tvg-id="31103c076782b81737ec685c380fe5eb" tvg-chno="295",Indosiar (HD)
+http://103.156.141.152:4567/stream/channelid/121376817?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/e8a1ec85ccc2750f3b73ae77425a527e.jpg" tvg-id="ef85a93fe6d10740e5b8df67eccc14c2" tvg-chno="296",SCTV
+http://103.156.141.152:4567/stream/channelid/1068074479?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_aljazeera_big1.png" tvg-id="2368233ede2f2e330141acc3831ec32f" tvg-chno="299",AlJazeera HD
+http://103.156.141.152:4567/stream/channelid/1042507811?profile=pass
+#EXTINF:-1 tvg-id="faf33d48786fabf02ad6ada434cdded2" tvg-chno="300",Cartonitoo
+http://103.156.141.152:4567/stream/channelid/1212019706?profile=pass
+#EXTINF:-1 tvg-id="f46fd25dcb60f5466de4d825c6d5ba54" tvg-chno="301",Cartoonito
+http://103.156.141.152:4567/stream/channelid/1574072308?profile=pass
+#EXTINF:-1 tvg-id="23e04a913f17f2ee59e1d68ed7494b39" tvg-chno="302",cufo
+http://103.156.141.152:4567/stream/channelid/290119715?profile=pass
+#EXTINF:-1 tvg-id="0b03d10de6c0ecb76fa3399a93162ca9" tvg-chno="303",BeIn Sport 1 HD
+http://103.156.141.152:4567/stream/channelid/231801611?profile=pass
+#EXTINF:-1 tvg-id="2bc5df0f1f74a2076ec5ce36757300da" tvg-chno="304",BeIn Sport 3 HD
+http://103.156.141.152:4567/stream/channelid/266323243?profile=pass
+#EXTINF:-1 tvg-id="2b8776f29ded2153503e3a7d80119ca8" tvg-chno="305",CHAMPIONS TV 1 HD
+http://103.156.141.152:4567/stream/channelid/1920370475?profile=pass
+#EXTINF:-1 tvg-id="c20005817815f883cacb019c31539975" tvg-chno="306",CHAMPIONS TV 2 HD
+http://103.156.141.152:4567/stream/channelid/17105090?profile=pass
+#EXTINF:-1 tvg-id="2514d8539424d72e0342f7d5fd13d948" tvg-chno="307",CHAMPIONS TV 3 HD
+http://103.156.141.152:4567/stream/channelid/1406669861?profile=pass
+#EXTINF:-1 tvg-id="c753953284e4c97cb3cdd17253ff1cce" tvg-chno="308",CHAMPIONS TV 5 HD
+http://103.156.141.152:4567/stream/channelid/848647111?profile=pass
+#EXTINF:-1 tvg-id="1dadc7fd0636737ccd80ff752864168a" tvg-chno="309",CHAMPIONS TV 6 HD
+http://103.156.141.152:4567/stream/channelid/2110237981?profile=pass
+#EXTINF:-1 tvg-id="a7d09673374890bd0f5cacae126e76ab" tvg-chno="313",studio b
+http://103.156.141.152:4567/stream/channelid/1939263655?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStuZmfLNZDc1RtgeJ-nnbZAxFt2jBsBBzo6g0JtXjMEALaI9em" tvg-id="5d98bc5c2a5a07b4e00470f8abc76f50" tvg-chno="314",NL: ESPN 1 FHD
+http://103.156.141.152:4567/stream/channelid/1555863645?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStuZmfLNZDc1RtgeJ-nnbZAxFt2jBsBBzo6g0JtXjMEALaI9em" tvg-id="e8c5ce6ad4d7491ce713f4b1d9cc93a1" tvg-chno="315",NL: ESPN 3 FHD
+http://103.156.141.152:4567/stream/channelid/1791935976?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStuZmfLNZDc1RtgeJ-nnbZAxFt2jBsBBzo6g0JtXjMEALaI9em" tvg-id="8ee262ec29ac6be9e6141db5370f8431" tvg-chno="316",NL: ESPN 4 FHD
+http://103.156.141.152:4567/stream/channelid/1818419854?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStuZmfLNZDc1RtgeJ-nnbZAxFt2jBsBBzo6g0JtXjMEALaI9em" tvg-id="7122ca7652ec780e0a86c259e1b71ee7" tvg-chno="317",NL: ESPN 2 FHD
+http://103.156.141.152:4567/stream/channelid/1992958577?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQc8A2LNHAGZ8-MXHcgiyHrzCbfLw97_S4iKQ6u0dC1IBu3WRKg" tvg-id="6a38ec21b43d8dfc89bec41087e22595" tvg-chno="319",Eleven Sport 1 FHD
+http://103.156.141.152:4567/stream/channelid/569129066?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxxfVJ0pHUEkhhnbHETEqa596dCZw8BS0bAOQST-r3IKRNUAIs" tvg-id="6479e4a535c99c6de5af1375bf3dee82" tvg-chno="320",Eleven Sport 2 FHD
+http://103.156.141.152:4567/stream/channelid/635730276?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTs3sRRHyeFZHMezTffjseUqQGPoSGOK0xPZUup7yem3VpzujZd" tvg-id="bed7db98483ee2fb0d01703865e0713c" tvg-chno="321",Eleven Sport 3 FHD
+http://103.156.141.152:4567/stream/channelid/417060798?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFM8UyoZ0WxSF5020Nd6nYM0yhYug4YnkPuJ6MkF8hd8xVx8gT" tvg-id="2f1d49369046fbbba182c7664d2d21d7" tvg-chno="322",Eleven Sport 4 FHD
+http://103.156.141.152:4567/stream/channelid/910761263?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTt0H2eFwrJGYUCWXBgDdDnSE6gdxbJdLh1TAbnw3BVktnx-S9g" tvg-id="7edfd529b75fdb82f89aa917df08a772" tvg-chno="323",Eleven Sport 5 FHD
+http://103.156.141.152:4567/stream/channelid/701882238?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyP2axd-WVVwEoeKsw_IAW1skgFJLydD_6dZmcyNWixyB6PPCM" tvg-id="6f27c1461939cb9118730ed7c3567b8c" tvg-chno="324",Eleven Sport 6 FHD
+http://103.156.141.152:4567/stream/channelid/1187063663?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfTsdHACT-XwwkvuHUBAtqcIq6pTK0Cs94kqjJPmlqcW50NhuH" tvg-id="b4716062cf767406c515f6e036b1f5bb" tvg-chno="325",RMC Sport 1 FHD
+http://103.156.141.152:4567/stream/channelid/1650487732?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi2WVOYClhClm9ohOq7kqxhLJX6OBhOjQCpH4wUMjinyfj4cj_" tvg-id="3f44ccd8cf626d2ca42a9a2ebecf7528" tvg-chno="326",RMC Sport 2 FHD
+http://103.156.141.152:4567/stream/channelid/1489781823?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR1D2jn6hEzFPEY_yDOmOd4QmjrFdVn7JlS_l-n7Ui6SqZ2JIz" tvg-id="ef92e86126d5f92feb0cb0fac21e8b38" tvg-chno="327",RMC Sport 3 FHD
+http://103.156.141.152:4567/stream/channelid/1642631919?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentvtech.site:80/images/97fb2ddc552ac1d7e56a7614a6117ebc.png" tvg-id="4e6a22f6cffdf0d1fd95b6ff7dc57149" tvg-chno="328",RO: Digi Sport 1 FHD
+http://103.156.141.152:4567/stream/channelid/1981966926?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentvtech.site:80/images/7e3b090bd20f2cbaf6eb5ded73991341.png" tvg-id="2067e436b81eb1831bbca92017bed9ce" tvg-chno="329",RO: Digi Sport 2 FHD
+http://103.156.141.152:4567/stream/channelid/920938272?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentvtech.site:80/images/c02eac41650c87da5340a80a3c478e0c.png" tvg-id="c996b14a82572148c0b687bd449a21d7" tvg-chno="330",RO: Digi Sport 3 FHD
+http://103.156.141.152:4567/stream/channelid/1253152457?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentvtech.site:80/images/68def51fc05d0b75c003e5599fcfc77d.png" tvg-id="b0f9dcbeedee9b00c931790457202826" tvg-chno="331",Spo TV 1
+http://103.156.141.152:4567/stream/channelid/1054669232?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentvtech.site:80/images/68def51fc05d0b75c003e5599fcfc77d.png" tvg-id="9d3830223fccab060abf04db5d818abb" tvg-chno="332",Spo TV 2
+http://103.156.141.152:4567/stream/channelid/573585565?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentvtech.site:80/images/e8e9fe53d875d26f1b2f016bf0a819a1.png" tvg-id="fdc9c2e6ca588033db8e70f3e8a177ce" tvg-chno="333",SPORT TV 1ⓧ FHD
+http://103.156.141.152:4567/stream/channelid/1724041725?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentvtech.site:80/images/abb71aba48617317221a601533da473b.png" tvg-id="070443d50911f7a645c28fb87380f7e0" tvg-chno="334",SPORT TV 2ⓧ FHD
+http://103.156.141.152:4567/stream/channelid/1430455303?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentvtech.site:80/images/9c62f347ec06bb5ee896380b74f8d3de.png" tvg-id="592c524255aaf6ea6b3404537b06a10a" tvg-chno="335",SPORT TV 3ⓧ FHD
+http://103.156.141.152:4567/stream/channelid/1112681561?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentvtech.site:80/images/2f3ed39bf2f83acc5baca614af67dc3c.png" tvg-id="55b88749051903c63003db16793bb2d3" tvg-chno="336",SPORT TV 5ⓧ FHD
+http://103.156.141.152:4567/stream/channelid/1233631317?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentvtech.site:80/images/c882ef632699b3fef8a6af8c9e71aa80.png" tvg-id="89f445015d387e1feaa51ceb997f2eaf" tvg-chno="337",TNT Sports 1 FHD
+http://103.156.141.152:4567/stream/channelid/21361801?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentvtech.site:80/images/cd1896390d0ca2401fc55baa6dcf9835.png" tvg-id="1b27750bc171d3a99cddd25e298f194c" tvg-chno="338",TNT Sports 2 FHD
+http://103.156.141.152:4567/stream/channelid/192227099?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentvtech.site:80/images/230ce1db3895e83b17a49c3b9bf084b2.png" tvg-id="a2580db8ca64e7ed27f4e351aa3fd6d6" tvg-chno="339",TNT Sports 3 FHD
+http://103.156.141.152:4567/stream/channelid/940398754?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentvtech.site:80/images/3f4aa2acbf9a234fbae17883ef040f41.png" tvg-id="b53269a77154a6647a51dac68dbc2488" tvg-chno="340",TNT Sports 4 FHD
+http://103.156.141.152:4567/stream/channelid/661205685?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentvtech.site:80/images/2d17b8ecf6b4a5c4c669b73cbc8aa45a.png" tvg-id="e7a1dabac936d7648be36ea8f698f91a" tvg-chno="341",Now Sport FHD
+http://103.156.141.152:4567/stream/channelid/987406823?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSs4iOfYZK99Uc1MWI2Be3jHcC0WHOwbmMwhGPgiCprGR-XfcIK" tvg-id="06e5627c2bd505b0325e2b74825cc770" tvg-chno="342",Arena Sport 1 Premium FHD
+http://103.156.141.152:4567/stream/channelid/2086855942?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQRDGSi0Lr3RhZXJmWrSaFGH38oMB-Bgn58ee_kg_PCu3MiS8j" tvg-id="992666108a07e9c2d6ac97ff29ae41eb" tvg-chno="343",Arena Sport 2 Premium FHD
+http://103.156.141.152:4567/stream/channelid/275130009?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwr2OJplkwp8NROrHs2u1mFQ1H5fUyoyv91-GSGJ1DuZLDVoIP" tvg-id="3da446c8d1c5fd784605896892ff25f8" tvg-chno="344",Arena Sport 3 Premium FHD
+http://103.156.141.152:4567/stream/channelid/1212589117?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentvtech.site:80/images/a1464b4396d420b48a639506eed9a189.png" tvg-id="a916ad886e4729761d5342f1e2185adf" tvg-chno="345",Arena Bola 1
+http://103.156.141.152:4567/stream/channelid/145561257?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqMeRkDyBB94HUnKuFlWl7z05ReSC3pH6f1ysbF5UxSjMv7f_l" tvg-id="e02097a66b293066bf389934ec951791" tvg-chno="346",Arena Bola 2
+http://103.156.141.152:4567/stream/channelid/647438560?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/2/23/Astro_Arena_2_%282021%29.png/revision/latest?cb=20221005134532" tvg-id="b79ee6131b37ac01efba4f7a324923cc" tvg-chno="347",Astro Arena 2
+http://103.156.141.152:4567/stream/channelid/333881015?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFqz7SXGlo0pK0pCwdpQQF02ycPal26lQgDKfAg-2T9k6nFrAG" tvg-id="9f1ec30e41e99a6890cfc378c2b72ef2" tvg-chno="348",DSTV: SuperSport Maximo
+http://103.156.141.152:4567/stream/channelid/247668383?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentvtech.site:80/images/a4724e2d73136e8e7a5fb4713c02e756.png" tvg-id="237598bac8452ad45d6f6b6339b3c14c" tvg-chno="349",Arena Sport 7 HD
+http://103.156.141.152:4567/stream/channelid/983069987?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentvtech.site:80/images/dde856948c01178f27d6680e0e1fff66.jpeg" tvg-id="ede9d46a20d942abb54c36b7eb4ff01f" tvg-chno="350",Musik Indonesia Nonstop
+http://103.156.141.152:4567/stream/channelid/1792338413?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKbdn7zwqDDwKjek6GB4l97HJOaKPP4m1OnVSQCL=s900-c-k-c0x00ffffff-no-rj" tvg-id="848c56d17fc3a8432de8407ff8639f02" tvg-chno="351",Moji TV
+http://103.156.141.152:4567/stream/channelid/1364626564?profile=pass
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFLmxIbvzUdNjR9Yi4TCTMOW-PLRw0vQPotAksfsXYKaixgrCo" tvg-id="07d670c290b56b873a3b96c49b123cc9" tvg-chno="352",Timnas Indonesia
+http://103.156.141.152:4567/stream/channelid/1114691079?profile=pass
+#EXTINF:-1 tvg-id="4dd5bcd872dfc0897b749bfe8aec30c4" tvg-chno="355",RCTI (DVB-S)
+http://103.156.141.152:4567/stream/channelid/1488770381?profile=pass
+
+
+
+
+#EXTM3U
 #EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/gtv.png" group-title="PEY TV", GTV+
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/gtv_norvegicus/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/antv.png" group-title="PEY TV", ANTV
