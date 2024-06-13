@@ -6180,9 +6180,9 @@ http://103.156.141.152:4567/stream/channelid/432562962?profile=pass
 http://103.156.141.152:4567/stream/channelid/211234901?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.dropbox.com/s/up0ds5uuo7juqsb/dtg%20movies%20world.png?dl=1" tvg-id="8b697ad18d6b14c2d55c8484aec92a5d",Khanzanet World Movies
 http://103.156.141.152:4567/stream/channelid/1366976907?profile=pass
-#EXTINF:-1 tvg-id="201e7ca7ca142682ebdeedaf7e5f37e0",TRANS 7 (DVB-S)
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="201e7ca7ca142682ebdeedaf7e5f37e0",TRANS 7 (DVB-S)
 http://103.156.141.152:4567/stream/channelid/662445600?profile=pass
-#EXTINF:-1 tvg-id="d9d4e41703d079868e1dc02fdaba96a0",VOLI TV
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="d9d4e41703d079868e1dc02fdaba96a0",VOLI TV
 http://103.156.141.152:4567/stream/channelid/400872665?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://images.useetv.com/logo_indosiar_big1.png" tvg-id="5527e018daffd5ea0b4c1e3dd39c2414" tvg-chno="1",INDOSIAR
 http://103.156.141.152:4567/stream/channelid/417343317?profile=pass
@@ -6208,7 +6208,7 @@ http://103.156.141.152:4567/stream/channelid/632186638?profile=pass
 http://103.156.141.152:4567/stream/channelid/339876125?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_tvone_big1.png" tvg-id="ed7cbf53173bd523af81da6a16c8b7d8" tvg-chno="12",TV ONE
 http://103.156.141.152:4567/stream/channelid/1405058285?profile=pass
-#EXTINF:-1 tvg-id="aaef02c78c649d9f29239dac998b4130" tvg-chno="13",MOJI
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="aaef02c78c649d9f29239dac998b4130" tvg-chno="13",MOJI
 http://103.156.141.152:4567/stream/channelid/1191374762?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_jtv_big1.png" tvg-id="842c859b90da67ebc1d03155a2109d43" tvg-chno="14",JTV Surabaya
 http://103.156.141.152:4567/stream/channelid/461712516?profile=pass
@@ -6312,7 +6312,7 @@ http://103.156.141.152:4567/stream/channelid/921270089?profile=pass
 http://103.156.141.152:4567/stream/channelid/1855690257?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://i.ibb.co/1YNbBjF/celectial.png" tvg-id="4d991e8043dfa3ef9be065fbe8df559f" tvg-chno="67",Celestial Movie
 http://103.156.141.152:4567/stream/channelid/2005325?profile=pass
-#EXTINF:-1 tvg-id="376724811c6eee0e0218a51e8524812a" tvg-chno="68",CCM HD 
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="376724811c6eee0e0218a51e8524812a" tvg-chno="68",CCM HD 
 http://103.156.141.152:4567/stream/channelid/19162935?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://images.useetv.com/logo_paramount_big.png" tvg-id="ac1471939145da06488d65ad06740e73" tvg-chno="69",Paramount
 http://103.156.141.152:4567/stream/channelid/326177964?profile=pass
@@ -6344,7 +6344,7 @@ http://103.156.141.152:4567/stream/channelid/1037630201?profile=pass
 http://103.156.141.152:4567/stream/channelid/79813699?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" tvg-id="c9d81afdac9390a11f046d4e73f0b4d2" tvg-chno="83",SMITHSONIAN
 http://103.156.141.152:4567/stream/channelid/2098911433?profile=pass
-#EXTINF:-1 tvg-id="ce52d9dac37ad038578aa94f64e1e2d6" tvg-chno="84",DISCOVERY
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="ce52d9dac37ad038578aa94f64e1e2d6" tvg-chno="84",DISCOVERY
 http://103.156.141.152:4567/stream/channelid/1524191950?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_cgtndocumentary_big1.png" tvg-id="006c3d306958350c14888f67e20d4cb5" tvg-chno="85",CGTN Documentary
 http://103.156.141.152:4567/stream/channelid/809331712?profile=pass
@@ -6368,7 +6368,7 @@ http://103.156.141.152:4567/stream/channelid/1898291266?profile=pass
 http://103.156.141.152:4567/stream/channelid/1650006463?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/f786365c2f89fdd61e383cc7cbdbceb7.png" tvg-id="7a9de0d94e745c25dbf01d411c2fc9fd" tvg-chno="95",LOVE NATURE
 http://103.156.141.152:4567/stream/channelid/1507892602?profile=pass
-#EXTINF:-1 tvg-id="dd84ccaef0e0993dcd9d7e0cd7bf6408" tvg-chno="96",Celestial Movies
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="dd84ccaef0e0993dcd9d7e0cd7bf6408" tvg-chno="96",Celestial Movies
 http://103.156.141.152:4567/stream/channelid/785155293?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" tvg-id="76cd3f82d3832426f7e8d0269e9b80c2" tvg-chno="97",Blue Ant Extreme
 http://103.156.141.152:4567/stream/channelid/37735798?profile=pass
@@ -6472,25 +6472,25 @@ http://103.156.141.152:4567/stream/channelid/1978264382?profile=pass
 http://103.156.141.152:4567/stream/channelid/1642540525?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://mantul.biz.id:8888/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj-q3CpOfSzWJgjKXtUzENro.png" tvg-id="a5c5416ed6c683f6aba088274b3158e2" tvg-chno="153",Astro Super Sport 5 FHD
 http://103.156.141.152:4567/stream/channelid/1849804197?profile=pass
-#EXTINF:-1 tvg-id="432a32efd4e4b84076cc1423b0d851ff" tvg-chno="154",Sport 1
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="432a32efd4e4b84076cc1423b0d851ff" tvg-chno="154",Sport 1
 http://103.156.141.152:4567/stream/channelid/1865558595?profile=pass
-#EXTINF:-1 tvg-id="b1af5568a2b0a980db4adedc880ff460" tvg-chno="155",Sport 2
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="b1af5568a2b0a980db4adedc880ff460" tvg-chno="155",Sport 2
 http://103.156.141.152:4567/stream/channelid/1750446001?profile=pass
-#EXTINF:-1 tvg-id="7ff2fa29d8288a8d04ecc8337158db63" tvg-chno="156",Sport 3
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="7ff2fa29d8288a8d04ecc8337158db63" tvg-chno="156",Sport 3
 http://103.156.141.152:4567/stream/channelid/704311935?profile=pass
-#EXTINF:-1 tvg-id="29ab2978b04505e55d427c28edd30581" tvg-chno="157",beINSport 1 Indonesia
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="29ab2978b04505e55d427c28edd30581" tvg-chno="157",beINSport 1 Indonesia
 http://103.156.141.152:4567/stream/channelid/2015996713?profile=pass
-#EXTINF:-1 tvg-id="b666de77f35a2bbb185ee2092d5be7ca" tvg-chno="158",beINSport 3 Indonesia
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="b666de77f35a2bbb185ee2092d5be7ca" tvg-chno="158",beINSport 3 Indonesia
 http://103.156.141.152:4567/stream/channelid/2011063990?profile=pass
-#EXTINF:-1 tvg-id="09f7a6bf84a97c842584ccc5e873360d" tvg-chno="159",Bein Sport 1 France FHD
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="09f7a6bf84a97c842584ccc5e873360d" tvg-chno="159",Bein Sport 1 France FHD
 http://103.156.141.152:4567/stream/channelid/1067906825?profile=pass
-#EXTINF:-1 tvg-id="127ea5561cf6c65e16f49ef41f17876b" tvg-chno="160",Bein Sport 2 France FHD
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="127ea5561cf6c65e16f49ef41f17876b" tvg-chno="160",Bein Sport 2 France FHD
 http://103.156.141.152:4567/stream/channelid/1453686290?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/a508101a78a36898c9937d48f8da707b.png" tvg-id="9d197a9ed22cbe860ecb0124bbd812c2" tvg-chno="161",Bein Sport 1 English FHD
 http://103.156.141.152:4567/stream/channelid/511318429?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/f0446eeefc8ce41b130649f44a1a31da.png" tvg-id="d6e71604ea2b5437e0b68d437ad014fa" tvg-chno="162",Bein Sport 2 English FHD
 http://103.156.141.152:4567/stream/channelid/68610006?profile=pass
-#EXTINF:-1 tvg-id="09dba7b36f2fd48a592ca08ec2223c91" tvg-chno="163",Bein Sport 3 English FHD
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="09dba7b36f2fd48a592ca08ec2223c91" tvg-chno="163",Bein Sport 3 English FHD
 http://103.156.141.152:4567/stream/channelid/866638601?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://ipcover.be:8080/images/f1eda418859bd432b66c75f52ece7f10.png" tvg-id="9ab72d22cb2ffd57456bd01128283478" tvg-chno="164",Bein Sport 3 FHD
 http://103.156.141.152:4567/stream/channelid/573421466?profile=pass
@@ -6548,15 +6548,15 @@ http://103.156.141.152:4567/stream/channelid/1186675620?profile=pass
 http://103.156.141.152:4567/stream/channelid/2031569929?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://i.ibb.co/vxf4HrV/cnn.png" tvg-id="7f896e0bfc5530d521179411c3f9297d" tvg-chno="192",CNN HD
 http://103.156.141.152:4567/stream/channelid/191793535?profile=pass
-#EXTINF:-1 tvg-id="716465c919a1969cbc5e842f38d4e170" tvg-chno="192",SSC 1 HD
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="716465c919a1969cbc5e842f38d4e170" tvg-chno="192",SSC 1 HD
 http://103.156.141.152:4567/stream/channelid/1231381617?profile=pass
-#EXTINF:-1 tvg-id="2580a631a15ffa8dc38b97dd2b4f809e" tvg-chno="193",SSC 2 HD
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="2580a631a15ffa8dc38b97dd2b4f809e" tvg-chno="193",SSC 2 HD
 http://103.156.141.152:4567/stream/channelid/832995365?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d53f40a54a2315cb05e9aa96d1061a49.png" tvg-id="99335bd9fcb5e36310e06feb3a9af72e" tvg-chno="194",SSC Extra 1
 http://103.156.141.152:4567/stream/channelid/1499149209?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/405347586812f0d6fdaec67f88ad51f7.png" tvg-id="a8cf162022cec5d8c9330f4ee70861ff" tvg-chno="195",SSC Extra 2
 http://103.156.141.152:4567/stream/channelid/538365864?profile=pass
-#EXTINF:-1 tvg-id="483dfa2aad2cdd72cac3d62c77f065e7" tvg-chno="196",SSC Extra 3
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="483dfa2aad2cdd72cac3d62c77f065e7" tvg-chno="196",SSC Extra 3
 http://103.156.141.152:4567/stream/channelid/721042760?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/ccee2be8f6c153dccdb41d931e944837.png" tvg-id="220f42b2b806bb049eaad94b2d58adf0" tvg-chno="197",Sony Ten 1 HD
 http://103.156.141.152:4567/stream/channelid/843190050?profile=pass
@@ -6588,7 +6588,7 @@ http://103.156.141.152:4567/stream/channelid/421772348?profile=pass
 http://103.156.141.152:4567/stream/channelid/2099995782?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://movies.hitstv.com/assets/hits-tv-logo.png" tvg-id="475194a8834bb2068068781be137e670" tvg-chno="219",HITS HD
 http://103.156.141.152:4567/stream/channelid/680808775?profile=pass
-#EXTINF:-1 tvg-id="ba05ed5c9a3754b67c4f149e1dada27b" tvg-chno="220",MUSIK INDONESIA
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="ba05ed5c9a3754b67c4f149e1dada27b" tvg-chno="220",MUSIK INDONESIA
 http://103.156.141.152:4567/stream/channelid/1559037370?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_fight_big1.png" tvg-id="4f526d33f7a7fbf93a309c63be2bf587" tvg-chno="223",Fight Sport HD
 http://103.156.141.152:4567/stream/channelid/862802511?profile=pass
@@ -6606,7 +6606,7 @@ http://103.156.141.152:4567/stream/channelid/1667016408?profile=pass
 http://103.156.141.152:4567/stream/channelid/1533653155?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://www.goldentv.tech:80/images/b04f6b23da86d942a0b546a2b158d9f5.png" tvg-id="dc065a3e764bf73f053022c39e35dc00" tvg-chno="246",Golden TV Animasi
 http://103.156.141.152:4567/stream/channelid/1046087388?profile=pass
-#EXTINF:-1 tvg-id="37faf77f1d535aade8898410a5558ad4" tvg-chno="247",HOREE
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="37faf77f1d535aade8898410a5558ad4" tvg-chno="247",HOREE
 http://103.156.141.152:4567/stream/channelid/2146957879?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_seatoday_small.png" tvg-id="35c865fc25cda7c6176755da0db4467f" tvg-chno="249",SEA TODAY
 http://103.156.141.152:4567/stream/channelid/2087045173?profile=pass
@@ -6636,27 +6636,27 @@ http://103.156.141.152:4567/stream/channelid/121376817?profile=pass
 http://103.156.141.152:4567/stream/channelid/1068074479?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="http://images.useetv.com/logo_aljazeera_big1.png" tvg-id="2368233ede2f2e330141acc3831ec32f" tvg-chno="299",AlJazeera HD
 http://103.156.141.152:4567/stream/channelid/1042507811?profile=pass
-#EXTINF:-1 tvg-id="faf33d48786fabf02ad6ada434cdded2" tvg-chno="300",Cartonitoo
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="faf33d48786fabf02ad6ada434cdded2" tvg-chno="300",Cartonitoo
 http://103.156.141.152:4567/stream/channelid/1212019706?profile=pass
-#EXTINF:-1 tvg-id="f46fd25dcb60f5466de4d825c6d5ba54" tvg-chno="301",Cartoonito
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="f46fd25dcb60f5466de4d825c6d5ba54" tvg-chno="301",Cartoonito
 http://103.156.141.152:4567/stream/channelid/1574072308?profile=pass
-#EXTINF:-1 tvg-id="23e04a913f17f2ee59e1d68ed7494b39" tvg-chno="302",cufo
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="23e04a913f17f2ee59e1d68ed7494b39" tvg-chno="302",cufo
 http://103.156.141.152:4567/stream/channelid/290119715?profile=pass
-#EXTINF:-1 tvg-id="0b03d10de6c0ecb76fa3399a93162ca9" tvg-chno="303",BeIn Sport 1 HD
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="0b03d10de6c0ecb76fa3399a93162ca9" tvg-chno="303",BeIn Sport 1 HD
 http://103.156.141.152:4567/stream/channelid/231801611?profile=pass
-#EXTINF:-1 tvg-id="2bc5df0f1f74a2076ec5ce36757300da" tvg-chno="304",BeIn Sport 3 HD
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="2bc5df0f1f74a2076ec5ce36757300da" tvg-chno="304",BeIn Sport 3 HD
 http://103.156.141.152:4567/stream/channelid/266323243?profile=pass
-#EXTINF:-1 tvg-id="2b8776f29ded2153503e3a7d80119ca8" tvg-chno="305",CHAMPIONS TV 1 HD
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="2b8776f29ded2153503e3a7d80119ca8" tvg-chno="305",CHAMPIONS TV 1 HD
 http://103.156.141.152:4567/stream/channelid/1920370475?profile=pass
-#EXTINF:-1 tvg-id="c20005817815f883cacb019c31539975" tvg-chno="306",CHAMPIONS TV 2 HD
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="c20005817815f883cacb019c31539975" tvg-chno="306",CHAMPIONS TV 2 HD
 http://103.156.141.152:4567/stream/channelid/17105090?profile=pass
-#EXTINF:-1 tvg-id="2514d8539424d72e0342f7d5fd13d948" tvg-chno="307",CHAMPIONS TV 3 HD
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="2514d8539424d72e0342f7d5fd13d948" tvg-chno="307",CHAMPIONS TV 3 HD
 http://103.156.141.152:4567/stream/channelid/1406669861?profile=pass
-#EXTINF:-1 tvg-id="c753953284e4c97cb3cdd17253ff1cce" tvg-chno="308",CHAMPIONS TV 5 HD
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="c753953284e4c97cb3cdd17253ff1cce" tvg-chno="308",CHAMPIONS TV 5 HD
 http://103.156.141.152:4567/stream/channelid/848647111?profile=pass
-#EXTINF:-1 tvg-id="1dadc7fd0636737ccd80ff752864168a" tvg-chno="309",CHAMPIONS TV 6 HD
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="1dadc7fd0636737ccd80ff752864168a" tvg-chno="309",CHAMPIONS TV 6 HD
 http://103.156.141.152:4567/stream/channelid/2110237981?profile=pass
-#EXTINF:-1 tvg-id="a7d09673374890bd0f5cacae126e76ab" tvg-chno="313",studio b
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="a7d09673374890bd0f5cacae126e76ab" tvg-chno="313",studio b
 http://103.156.141.152:4567/stream/channelid/1939263655?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStuZmfLNZDc1RtgeJ-nnbZAxFt2jBsBBzo6g0JtXjMEALaI9em" tvg-id="5d98bc5c2a5a07b4e00470f8abc76f50" tvg-chno="314",NL: ESPN 1 FHD
 http://103.156.141.152:4567/stream/channelid/1555863645?profile=pass
@@ -6734,8 +6734,9 @@ http://103.156.141.152:4567/stream/channelid/1792338413?profile=pass
 http://103.156.141.152:4567/stream/channelid/1364626564?profile=pass
 #EXTINF:-1 group-title="GOLDEN TECH TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFLmxIbvzUdNjR9Yi4TCTMOW-PLRw0vQPotAksfsXYKaixgrCo" tvg-id="07d670c290b56b873a3b96c49b123cc9" tvg-chno="352",Timnas Indonesia
 http://103.156.141.152:4567/stream/channelid/1114691079?profile=pass
-#EXTINF:-1 tvg-id="4dd5bcd872dfc0897b749bfe8aec30c4" tvg-chno="355",RCTI (DVB-S)
+#EXTINF:-1 group-title="GOLDEN TECH TV" tvg-id="4dd5bcd872dfc0897b749bfe8aec30c4" tvg-chno="355",RCTI (DVB-S)
 http://103.156.141.152:4567/stream/channelid/1488770381?profile=pass
+
 
 
 
