@@ -1,6 +1,17 @@
 #EXTM3U
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
 
+
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/04/film-ghostbusters-frozen-empire-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",GHOSTBUSTERS: FROZEN EMPIRE (2024)
+https://stream.hownetwork.xyz/yyy/ghostbusters-frozen-empire-2024-bluray_X_8dd415a8/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-federer-twelve-final-days-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",FEDERER: TWELVE FINAL DAYS (2024)
+https://stream.hownetwork.xyz/yyy/federer-twelve-final-days-2024-webdl_X_5d1795e0/22/480.m3u8
+#EXTINF:-1 tvg-logo="hhttps://s1.lk21static.buzz/wp-content/uploads/2024/06/film-the-accidental-twins-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",THE ACCIDENTAL TWINS (2024)
+https://stream.hownetwork.xyz/yyy/the-accidental-twins-2024-webdl_X_310d7f51/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-dearly-beloved-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",DEARLY BELOVED (2024)
+https://stream.hownetwork.xyz/yyy/dearly-beloved-2024-webdl_X_2d20bdc4/22/480.m3u8
+
 #EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-kleks-academy-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",KLEKS ACADEMY (2024)
 https://stream.hownetwork.xyz/yyy/kleks-academy-2024-webdl_X_8bbcd97a/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-inheritance-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",INHERITANCE (2024)
