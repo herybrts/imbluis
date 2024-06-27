@@ -7277,6 +7277,351 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/166
 
 
 
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+#EXTM3U url-tvg="http://trada.info/epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTM3U url-tvg="http://192.168.1.245:9981/xmltv/channels"
+
+#-------------------VTV-------------------#
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfkmvAY.png" tvg-id="0b3760146f2d46e37dc32c32bf9aea97" group-title="VIETH PREMIUM TV" tvg-chno="1",VTV1 HD
+http://192.168.1.245:9981/stream/channelid/341849867?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BVwi3K3.png" tvg-id="9cc3275a27b2bdb8e65fdcf07b76401a" group-title="VIETH PREMIUM TV" tvg-chno="2",VTV2 HD
+http://192.168.1.245:9981/stream/channelid/1512555420?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rLCvgS.png" tvg-id="fac47881345b7c7ab0d3ee50fd1c9fc8" group-title="VIETH PREMIUM TV" tvg-chno="3",VTV3 HD
+http://192.168.1.245:9981/stream/channelid/24691962?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9zVTtsA.png" tvg-id="45cf032004dc1c12a897fec3bc2645be" group-title="VIETH PREMIUM TV" tvg-chno="4",VTV4 HD
+http://192.168.1.245:9981/stream/channelid/537120581?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7qPKNFU.png" tvg-id="ca1eb2679515a90a789f338f97c9bdc3" group-title="VIETH PREMIUM TV" tvg-chno="5",VTV5 HD
+http://192.168.1.245:9981/stream/channelid/1739726538?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCpqatZ.png" tvg-id="0b7f807f94b4d68a65b3c1d58ccd834a" group-title="VIETH PREMIUM TV" tvg-chno="6",VTV Cần Thơ HD
+http://192.168.1.245:9981/stream/channelid/2139127563?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AgamSNe.png" tvg-id="3ac80c884071dcdc848cd57ec0c1fd67" group-title="VIETH PREMIUM TV" tvg-chno="7",VTV7 HD
+http://192.168.1.245:9981/stream/channelid/135055418?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lpcltL9.png" tvg-id="44713999b1b94245e0b1d15695e0a828" group-title="VIETH PREMIUM TV" tvg-chno="8",VTV8 HD
+http://192.168.1.245:9981/stream/channelid/423194948?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ex1VkGQ.png" tvg-id="f4e4e686f8844ad394f08a6825d0c8b5" group-title="VIETH PREMIUM TV" tvg-chno="9",VTV9 HD
+http://192.168.1.245:9981/stream/channelid/115795188?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mIUWkDx.png" tvg-id="96abbb1a8083ff902a515dfdd14aa548" group-title="VIETH PREMIUM TV" tvg-chno="10",VTV5 HD - Tây Nam Bộ
+http://192.168.1.245:9981/stream/channelid/448506774?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R8c2swd.png" tvg-id="5483231bb19689e1cdf273ffcd4fabff" group-title="VIETH PREMIUM TV" tvg-chno="11",VTV5 HD - Tây Nguyên
+http://192.168.1.245:9981/stream/channelid/455312212?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eGkFbAh.png" tvg-id="dcd8a9b747197b417f9d7674dc6983be" group-title="VIETH PREMIUM TV" tvg-chno="12",ANTV HD
+http://192.168.1.245:9981/stream/channelid/933877980?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ud78FHF.png" tvg-id="d084d2953ddfdd5d366ef0b4c58ca8fc" group-title="VIETH PREMIUM TV" tvg-chno="13",Nhân Dân
+http://192.168.1.245:9981/stream/channelid/366118096?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YtZGuSy.png" tvg-id="f6fc5b19312bf0239647782ea2d149dc" group-title="VIETH PREMIUM TV" tvg-chno="14",Quốc Hội
+http://192.168.1.245:9981/stream/channelid/425458934?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UIGZw0y.png" tvg-id="cf64af83a427803cf80b8a9236b80772" group-title="VIETH PREMIUM TV" tvg-chno="15",QPVN HD
+http://192.168.1.245:9981/stream/channelid/61826255?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmefCpv.png" tvg-id="625b9213c41be5a42b8d4106fd1a43ad" group-title="VIETH PREMIUM TV" tvg-chno="16",TTXVN HD
+http://192.168.1.245:9981/stream/channelid/328358754?profile=pass
+
+#-------------------HTV/HTVC-------------------#
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oLm4dbV.png" tvg-id="f9cbaf21fb871d0047ff0c59b5d1f29c" group-title="VIETH PREMIUM TV" tvg-chno="17",HTV1
+http://192.168.1.245:9981/stream/channelid/565169145?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f3KlwDX.png" tvg-id="e303235128609d43377f7dfbc62e98c5" group-title="VIETH PREMIUM TV" tvg-chno="18",HTV2 HD
+http://192.168.1.245:9981/stream/channelid/1361249251?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2iE01Ca.png" tvg-id="f84bdd711112b220bd59b85193ebdd44" group-title="VIETH PREMIUM TV" tvg-chno="19",HTV3
+http://192.168.1.245:9981/stream/channelid/1910328312?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RSlvzAs.png" tvg-id="9b9d016aa21b7b83ef5c8995cfcfa607" group-title="VIETH PREMIUM TV" tvg-chno="20",HTV7 HD
+http://192.168.1.245:9981/stream/channelid/1778490779?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wdS7Cr9.png" tvg-id="e4401d926568891f5109384471e0efa6" group-title="VIETH PREMIUM TV" tvg-chno="21",HTV9 HD
+http://192.168.1.245:9981/stream/channelid/303907044?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z7NOxJ3.png" tvg-id="76775bd7832473b28e431bcee8412383" group-title="VIETH PREMIUM TV" tvg-chno="22",HTV Thể Thao HD
+http://192.168.1.245:9981/stream/channelid/1465612150?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHVkEIC.png" tvg-id="f0124dbab830e6a88e69116a35694939" group-title="VIETH PREMIUM TV" tvg-chno="23",HTVC Ca Nhạc HD
+http://192.168.1.245:9981/stream/channelid/978129648?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XxIO0E0.png" tvg-id="b2ee8f63afbb7872fce1ed17ed08bd5f" group-title="VIETH PREMIUM TV" tvg-chno="24",HTVC Du Lịch HD
+http://192.168.1.245:9981/stream/channelid/1670377138?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KxWRNH6.png" tvg-id="e4f8d189c6e10e00202e5d4e1f918abe" group-title="VIETH PREMIUM TV" tvg-chno="25",HTVC Gia Đình HD
+http://192.168.1.245:9981/stream/channelid/164755684?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SXV3ya9.png" tvg-id="d175b7bf817c3fa7bc52eb2d46a095c1" group-title="VIETH PREMIUM TV" tvg-chno="26",HTVC Phim HD
+http://192.168.1.245:9981/stream/channelid/1068987857?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PLliKL6.png" tvg-id="69abcd05fc3cbfa0ee95129bcb4d0af9" group-title="VIETH PREMIUM TV" tvg-chno="27",HTVC Phụ Nữ HD
+http://192.168.1.245:9981/stream/channelid/97364841?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xmISDWo.png" tvg-id="262177e32d869d483bf600f9af0c5a5a" group-title="VIETH PREMIUM TV" tvg-chno="28",HTVC Thuần Việt
+http://192.168.1.245:9981/stream/channelid/1668751654?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQ9cLJj.png" tvg-id="1b81488366bab5f2fe90b543f2b29c71" group-title="VIETH PREMIUM TV" tvg-chno="29",HTVC Plus HD
+http://192.168.1.245:9981/stream/channelid/55083291?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wrH7U0X.png" tvg-id="2149c4847dea0c3f68439ea390547e78" group-title="VIETH PREMIUM TV" tvg-chno="30",HTV Key
+http://192.168.1.245:9981/stream/channelid/79972641?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gvPtTR2.png" tvg-id="63eaeddd993e15669d8a6f6fb508b18e" group-title="VIETH PREMIUM TV" tvg-chno="31",THVL1 _ TH Vinh Long
+http://192.168.1.245:9981/stream/channelid/1575873123?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYadDFn.png" tvg-id="2288da73fd8078064b150a00f5560a0b" group-title="VIETH PREMIUM TV" tvg-chno="32",THVL2 _ TH Vinh Long
+http://192.168.1.245:9981/stream/channelid/1943701538?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B8S0dyG.png" tvg-id="ae55e7e115652bd3bb563942678980e4" group-title="VIETH PREMIUM TV" tvg-chno="33",THVL3 _ TH Vinh Long
+http://192.168.1.245:9981/stream/channelid/1642550702?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xYalJzh.png" tvg-id="1be7049cc663a79ac89baf36bf04f448" group-title="VIETH PREMIUM TV" tvg-chno="34",THVL4 _ TH Vinh Long
+http://192.168.1.245:9981/stream/channelid/470083355?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pSIvTkZ.png" tvg-id="sctv6hd" group-title="VIETH PREMIUM TV" tvg-chno="35",SCTV6 HD
+http://192.168.1.245:9981/stream/channelid/274355176?profile=pass
+
+
+#-------------------VTC/VOV-------------------#
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7HD60aD.png" tvg-id="2eb6f224ea2871503e9980b69fe347c" group-title="VIETH PREMIUM TV" tvg-chno="36",VTC1 HD
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
+#http://192.168.1.245:9981/stream/channelid/577760162?profile=pass
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WUUXS6T.png" tvg-id="2af309ee9db6867821a2566e23944917" group-title="VIETH PREMIUM TV" tvg-chno="37",VTC2
+http://192.168.1.245:9981/stream/channelid/1846145834?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hS4bgHe.png" tvg-id="09076bacade8a960ea1dc9d7fb22d613" group-title="VIETH PREMIUM TV" tvg-chno="38",VTC3 HD
+http://192.168.1.245:9981/stream/channelid/745211657?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5cwYPTt.png" tvg-id="44236b5571f09ef19fcc5a3efff86f80" group-title="VIETH PREMIUM TV" tvg-chno="39",VTC4
+http://192.168.1.245:9981/stream/channelid/1433084740?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VvfiwPJ.png" tvg-id="68d8e7e25ea010d4e2fbbd62c6650c4d" group-title="VIETH PREMIUM TV" tvg-chno="40",VTC5
+http://192.168.1.245:9981/stream/channelid/1659361384?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LPdjM0z.png" tvg-id="ca8a370e2661ab9e07982d1925fafbf1" group-title="VIETH PREMIUM TV" tvg-chno="41",VTC6
+http://192.168.1.245:9981/stream/channelid/238521034?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y5FUbsY.png" tvg-id="0776b5437d12a81a2ee5a4a4455fc323" group-title="VIETH PREMIUM TV" tvg-chno="42",VTC7
+http://192.168.1.245:9981/stream/channelid/1135965703?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4k57giG.png" tvg-id="1dcde26ec5e00c747251472227507d1e" group-title="VIETH PREMIUM TV" tvg-chno="43",VTC8
+http://192.168.1.245:9981/stream/channelid/1860357405?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cnAht7i.png" tvg-id="5a4269e3e2f18128693aea01d1395d24" group-title="VIETH PREMIUM TV" tvg-chno="44",VTC9
+http://192.168.1.245:9981/stream/channelid/1667842650?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PaVbyxg.png" tvg-id="9e0f7147cd840ec2270a2e50602d5af2" group-title="VIETH PREMIUM TV" tvg-chno="45",VTC10
+http://192.168.1.245:9981/stream/channelid/1198591902?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ovZkYb.png" tvg-id="a3f3cb6668fd4dd0c7ab0a4b1d6cac3f" group-title="VIETH PREMIUM TV" tvg-chno="46",VTC11
+http://192.168.1.245:9981/stream/channelid/1724642211?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/phXvB0t.png" tvg-id="cda0383fd5fd18c1df13c5e91a94701e" group-title="VIETH PREMIUM TV" tvg-chno="47",VTC14
+http://192.168.1.245:9981/stream/channelid/1060675789?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rltq2Dy.png" tvg-id="1fe0ea9359d611fbb2ad948e82444799" group-title="VIETH PREMIUM TV" tvg-chno="48",VTC16
+http://192.168.1.245:9981/stream/channelid/334159903?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lARtNRO.png" tvg-id="91d6022d66ced5196f317195c8b4f8de" group-title="VIETH PREMIUM TV" tvg-chno="49",VOVTV HD
+http://192.168.1.245:9981/stream/channelid/755160721?profile=pass
+ 
+#-------------------------VTVcab---------------------------#
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
+https://api.wintv.me/360/180/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab2hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
+https://api.wintv.me/360/175/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies
+https://api.wintv.me/360/181/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel
+https://api.wintv.me/360/182/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
+https://api.wintv.me/360/178/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
+https://api.wintv.me/360/189/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
+https://api.wintv.me/360/176/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
+https://api.wintv.me/360/184/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
+https://api.wintv.me/360/185/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab17hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
+https://api.wintv.me/360/186/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Sport News
+https://api.wintv.me/360/170/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
+https://api.wintv.me/360/177/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab20hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
+https://api.wintv.me/360/187/index.m3u8
+#EXTINF:-1 group-title="VIETH PREMIUM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png",ON Kids
+https://api.wintv.me/360/179/index.m3u8
+#EXTINF:-1 group-title="VIETH PREMIUM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png",ON Life
+https://api.wintv.me/360/169/index.m3u8
+#EXTINF:-1 group-title="VIETH PREMIUM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png",ON Golf
+
+#-------------------Quốc tế-------------------#
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UI80qhw.png" tvg-id="de5cb1af2401d25ed644ede2ededae54" group-title="VIETH PREMIUM TV" tvg-chno="50",ABC Australia
+http://192.168.1.245:9981/stream/channelid/800152798?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBgGuJy.png" tvg-id="1ac71d756294f904b0b066bffb5c4c39" group-title="VIETH PREMIUM TV" tvg-chno="51",Animal Planet
+http://192.168.1.245:9981/stream/channelid/1964885786?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLjwPFU.png" tvg-id="5ff05de520339ef91199644563d73d82" group-title="VIETH PREMIUM TV" tvg-chno="52",Animax
+http://192.168.1.245:9981/stream/channelid/1700655199?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KL9oaqc.png" tvg-id="4e0054d11e59021ebdcf2d17268fb848" group-title="VIETH PREMIUM TV" tvg-chno="53",Asian Food Network
+http://192.168.1.245:9981/stream/channelid/1364459598?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rwm7Lod.png" tvg-id="666538392197d1bd835b11d7cc6f6771" group-title="VIETH PREMIUM TV" tvg-chno="54",AXN
+http://192.168.1.245:9981/stream/channelid/959997286?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0t99xJZ.png" tvg-id="afa49ed01b67ad96113b65fb6e063cf8" group-title="VIETH PREMIUM TV" tvg-chno="55",BBC CbeeBies
+http://192.168.1.245:9981/stream/channelid/1352574127?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qUiM77S.png" tvg-id="9533ec7146ac84d060b021454658a012" group-title="VIETH PREMIUM TV" tvg-chno="56",BBC Earth
+http://192.168.1.245:9981/stream/channelid/1911305109?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i7aYwdZ.png" tvg-id="d51936ea26a62b9f5ad58b05de43696d" group-title="VIETH PREMIUM TV" tvg-chno="57",BBC Lifestyle
+http://192.168.1.245:9981/stream/channelid/1781930453?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hsByQfe.png" tvg-id="336b193211e206d959d5899d178c5057" group-title="VIETH PREMIUM TV" tvg-chno="58",BBC News
+http://192.168.1.245:9981/stream/channelid/840526643?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rxFZgIK.png" tvg-id="1ceb1671a9e8a284704f962822b978f9" group-title="VIETH PREMIUM TV" tvg-chno="59",Bloomberg
+http://192.168.1.245:9981/stream/channelid/1897327388?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6oXQdBZ.png" tvg-id="58642607ad541bd7a01f2bb52be33504" group-title="VIETH PREMIUM TV" tvg-chno="60",Cartoon Network
+http://192.168.1.245:9981/stream/channelid/119956568?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RIQE8kA.png" tvg-id="d8e0ca484338ca8e7d347f6bfbd4528a" group-title="VIETH PREMIUM TV" tvg-chno="61",CNA
+http://192.168.1.245:9981/stream/channelid/1221255384?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RCd9AM9.png" tvg-id="7143a99870011616fd19bec7555820a6" group-title="VIETH PREMIUM TV" tvg-chno="62",CNN
+http://192.168.1.245:9981/stream/channelid/413746033?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t9fzARL.png" tvg-id="a1ba22ded3261a88bea169b6705ff451" group-title="VIETH PREMIUM TV" tvg-chno="63",Da Vinci
+http://192.168.1.245:9981/stream/channelid/1579334305?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/STCTI1F.png" tvg-id="5cc3a074eeb351d53a694fb28f4c1dad" group-title="VIETH PREMIUM TV" tvg-chno="64",Discovery Asia
+http://192.168.1.245:9981/stream/channelid/1956692828?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2JR5vSZ.png" tvg-id="21fd913bc84c0d7e7d8bd9714f890ba4" group-title="VIETH PREMIUM TV" tvg-chno="65",Discovery Channel
+http://192.168.1.245:9981/stream/channelid/999423265?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N69Cori.png" tvg-id="86383a96c38400815087319c7446401c" group-title="VIETH PREMIUM TV" tvg-chno="66",Dreamworks
+http://192.168.1.245:9981/stream/channelid/372914310?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ppi36a4.png" tvg-id="4ab508ac072f3a849895d254389f39ac" group-title="VIETH PREMIUM TV" tvg-chno="67",DW (English)
+http://192.168.1.245:9981/stream/channelid/738768202?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ALDt1JX.png" tvg-id="96f187447b3d6e2754dc07a35aa5a889" group-title="VIETH PREMIUM TV" tvg-chno="68",Fashion TV
+http://192.168.1.245:9981/stream/channelid/1149759894?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YF2zMTz.png" tvg-id="13c483974f4b22a2d5879ff134ca601e" group-title="VIETH PREMIUM TV" tvg-chno="69",France 24 (English)
+http://192.168.1.245:9981/stream/channelid/394511379?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7nIUtCU.png" tvg-id="c74653b1f17b6f2c419129e15ecdfcc9" group-title="VIETH PREMIUM TV" tvg-chno="70",HBO
+http://192.168.1.245:9981/stream/channelid/827541191?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vylHBC8.png" tvg-id="56aa77086f004ae306823ff3051fa621" group-title="VIETH PREMIUM TV" tvg-chno="71",KBS World
+http://192.168.1.245:9981/stream/channelid/142060118?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Et3vExm.png" tvg-id="7db81ab08ee260c23917590a54744a79" group-title="VIETH PREMIUM TV" tvg-chno="72",NHK World Japan
+http://192.168.1.245:9981/stream/channelid/807057533?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x4zXtYX.png" tvg-id="c022a19ab9337649ca0fa1aa901b0051" group-title="VIETH PREMIUM TV" tvg-chno="73",Outdoor Channel
+http://192.168.1.245:9981/stream/channelid/446767808?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZStxdQI.png" tvg-id="48a754f7afde4f6d4a525a5c663490ab" group-title="VIETH PREMIUM TV" tvg-chno="74",TLC
+http://192.168.1.245:9981/stream/channelid/2002036552?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D8zXF7p.png" tvg-id="1c3dc713d11f8cb3a1b0b6b0721084fc" group-title="VIETH PREMIUM TV" tvg-chno="75",TV5 Monde Asie
+http://192.168.1.245:9981/stream/channelid/331824412?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9AVT2i.png" tvg-id="49b29b879e9157a78d401c1e5636d64d" group-title="VIETH PREMIUM TV" tvg-chno="76",WBTV
+http://192.168.1.245:9981/stream/channelid/127644233?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZNTBjC.png" tvg-id="7e33488d6c52a2e5ed82d52afe976d4b" group-title="VIETH PREMIUM TV" tvg-chno="77",Arirang
+http://192.168.1.245:9981/stream/channelid/222835582?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H0hAm72.png" tvg-id="1cfdd5e3f78dc0e63d858037cdcabd46" group-title="VIETH PREMIUM TV" tvg-chno="78",CNBC
+http://192.168.1.245:9981/stream/channelid/1674968348?profile=pass
+
+
+#-------------------Địa phương-------------------#
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QAVSUBu.png" tvg-id="c6c8841942c649e8d83e49db4fdd5614" group-title="VIETH PREMIUM TV" tvg-chno="79",THLC _ TH Lào Cai
+http://192.168.1.245:9981/stream/channelid/428132550?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AELRXuX.png" tvg-id="3f9ffa38895ab1dcc8308643e5061051" group-title="VIETH PREMIUM TV" tvg-chno="80",YTV _ TH Yên Bái
+http://192.168.1.245:9981/stream/channelid/955948863?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rky1N5S.png" tvg-id="89e19899703a59fff2eeffde605b1ce0" group-title="VIETH PREMIUM TV" tvg-chno="81",ĐTV _ TH Điện Biên
+http://192.168.1.245:9981/stream/channelid/429449609?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgKnwnX.png" tvg-id="658c40f49128677ca1daa7d265c81f52" group-title="VIETH PREMIUM TV" tvg-chno="82",HBTV _ TH Hòa Bình
+http://192.168.1.245:9981/stream/channelid/1950387301?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/we3GCjr.png" tvg-id="dbf984a0b50bc430b37a447b377a4991" group-title="VIETH PREMIUM TV" tvg-chno="83",LTV _ TH Lai Châu
+http://192.168.1.245:9981/stream/channelid/545585627?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h7uPIEP.png" tvg-id="692fc6a3503ad6e98d87ff4aee01b115" group-title="VIETH PREMIUM TV" tvg-chno="84",HGTV _ TH Hà Giang
+http://192.168.1.245:9981/stream/channelid/600190825?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YCrYT2p.png" tvg-id="d82b034c381393f072a99d01e879ba5f" group-title="VIETH PREMIUM TV" tvg-chno="85",CRTV _ TH Cao Bằng
+http://192.168.1.245:9981/stream/channelid/1275276248?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/msjevyp.png" tvg-id="c845eb304cfb9fafebb8080fee9a5a9c" group-title="VIETH PREMIUM TV" tvg-chno="86",TBK _ TH Bắc Kạn
+http://192.168.1.245:9981/stream/channelid/820725192?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FCXyrr.png" tvg-id="6f155502b17774f2d1ec5621cdbd98ae" group-title="VIETH PREMIUM TV" tvg-chno="87",LSTV _ TH Lạng Sơn
+http://192.168.1.245:9981/stream/channelid/39130479?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6RPgRE7.png" tvg-id="45f0fb89af4da4a8daa2df9cbdfdcb6a" group-title="VIETH PREMIUM TV" tvg-chno="88",TTV _ TH Tuyên Quang
+http://192.168.1.245:9981/stream/channelid/167505989?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UBcqMiY.png" tvg-id="1b4106d53ee777cf3a5919972dc98534" group-title="VIETH PREMIUM TV" tvg-chno="89",TN1 _ TH Thái Nguyên
+http://192.168.1.245:9981/stream/channelid/1426473243?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OZ2hAB.png" tvg-id="5bf7d1eae575ad19999b4bc4533b5393" group-title="VIETH PREMIUM TV" tvg-chno="90",PTV _ TH Phú Thọ
+http://192.168.1.245:9981/stream/channelid/1792145243?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/05t6W7v.png" tvg-id="19dfa3d9e9c030503f48c654a582c1cf" group-title="VIETH PREMIUM TV" tvg-chno="91",BGTV _ TH Bắc Giang
+http://192.168.1.245:9981/stream/channelid/1503911705?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sGcRJVP.png" tvg-id="f6247b28fb91af873df3b3dbb473cd8e" group-title="VIETH PREMIUM TV" tvg-chno="92",QTV1 _ TH Quảng Ninh
+http://192.168.1.245:9981/stream/channelid/679159030?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4hadYbw.png" tvg-id="0d4129b21a185a060a2d65c363b848fd" group-title="VIETH PREMIUM TV" tvg-chno="93",QTV3 _ TH Quảng Ninh
+http://192.168.1.245:9981/stream/channelid/841564429?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zUFSFCV.png" tvg-id="09dc64b2e20b92c6e1a1910616be178b" group-title="VIETH PREMIUM TV" tvg-chno="94",BTV _ TH Bắc Ninh
+http://192.168.1.245:9981/stream/channelid/845470729?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mwCTDMj.png" tvg-id="31c960d3ae67e6eba06ecc621777abf1" group-title="VIETH PREMIUM TV" tvg-chno="95",H1 _ TH Hà Nội
+http://192.168.1.245:9981/stream/channelid/1398851889?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HyiwlZV.png" tvg-id="123abd766abb03e10849a726b088e369" group-title="VIETH PREMIUM TV" tvg-chno="96",H2 _ TH Hà Nội
+http://192.168.1.245:9981/stream/channelid/1992112658?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmzXd4R.png" tvg-id="c9947fd1d70444411fa4d22a9d7e2852" group-title="VIETH PREMIUM TV" tvg-chno="97",THD _ TH Hải Dương
+http://192.168.1.245:9981/stream/channelid/1367315657?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/StFk4PA.png" tvg-id="85fffc7523fbba4e53ee5a1ce632c1c7" group-title="VIETH PREMIUM TV" tvg-chno="98",THP _ TH TP. Hải Phòng
+http://192.168.1.245:9981/stream/channelid/1979514757?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3yq8AW.png" tvg-id="464ef817fc3abe7502281588e606a2c0" group-title="VIETH PREMIUM TV" tvg-chno="99",THP+ _ TH TP. Hải Phòng
+http://192.168.1.245:9981/stream/channelid/402148934?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XuYnZWe.png" tvg-id="3c23f5a1b1ddfda13aacf4dd3b8271da" group-title="VIETH PREMIUM TV" tvg-chno="100",NTV _ TH Ninh Bình
+http://192.168.1.245:9981/stream/channelid/569713468?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fP7B6A4.png" tvg-id="62137f648c1a7951872f2e63af59fa89" group-title="VIETH PREMIUM TV" tvg-chno="101",TBTV _ TH Thái Bình
+http://192.168.1.245:9981/stream/channelid/1686049634?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rrxDn5n.png" tvg-id="61b10ae5672c50bea1f4ba83e949d132" group-title="VIETH PREMIUM TV" tvg-chno="102",VP _ TH Vĩnh Phúc
+http://192.168.1.245:9981/stream/channelid/1695199585?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5HEfwZz.png" tvg-id="911182338eb4619be2180c12fc11777b" group-title="VIETH PREMIUM TV" tvg-chno="103",NTV _ TH Nghệ An
+http://192.168.1.245:9981/stream/channelid/864162193?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R4uthe7.png" tvg-id="14cbaefa99f1a6afa866491e8541b3eb" group-title="VIETH PREMIUM TV" tvg-chno="104",HTTV _ TH Hà Tĩnh
+http://192.168.1.245:9981/stream/channelid/2058275604?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yIHs2sI.png" tvg-id="e3f9307f6d14e6291546271e2fe0caf7" group-title="VIETH PREMIUM TV" tvg-chno="105",QRTV _ TH Quảng Trị
+http://192.168.1.245:9981/stream/channelid/2133916131?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6OWQ8lU.png" tvg-id="ecb9b1fd0f06ac6cb07a87a193e81325" group-title="VIETH PREMIUM TV" tvg-chno="106",DaNangTV1 _ TH TP. Đà Nẵng
+http://192.168.1.245:9981/stream/channelid/2108799468?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hkzIqEV.png" tvg-id="debd278e687006058af79b5ba2b151ad" group-title="VIETH PREMIUM TV" tvg-chno="107",DaNangTV2 _ TH TP. Đà Nẵng
+http://192.168.1.245:9981/stream/channelid/237485534?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uWHWxZB.png" tvg-id="cab21f538f107591d45a2e7522c62e0d" group-title="VIETH PREMIUM TV" tvg-chno="108",QRT _ TH Quảng Nam
+http://192.168.1.245:9981/stream/channelid/1394586314?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/McmKwa8.png" tvg-id="bb0ea67ea603968111c428933856a97e" group-title="VIETH PREMIUM TV" tvg-chno="109",PTQ _ TH Quảng Ngãi
+http://192.168.1.245:9981/stream/channelid/2124811963?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/APCkufv.png" tvg-id="0971706960027b5393cb5a9414af126d" group-title="VIETH PREMIUM TV" tvg-chno="110",BTV _ TH Bình Định
+http://192.168.1.245:9981/stream/channelid/1768976649?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2xMHkT.png" tvg-id="84d46ca39705778a6bc230a7f814e8af" group-title="VIETH PREMIUM TV" tvg-chno="111",PTP _ TH Phú Yên
+http://192.168.1.245:9981/stream/channelid/594334852?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kPu3rSN.png" tvg-id="02c4cb66ec2b9f70777d2c65e64c4751" group-title="VIETH PREMIUM TV" tvg-chno="112",KTV _ TH Khánh Hòa
+http://192.168.1.245:9981/stream/channelid/1724630018?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cx5AaTV.png" tvg-id="abc821dfec9f0e9a2d72216911c6124b" group-title="VIETH PREMIUM TV" tvg-chno="113",NTV _ TH Ninh Thuận
+http://192.168.1.245:9981/stream/channelid/1596049579?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bu1xsiJ.png" tvg-id="16dbf1edfd8b4894b377021383fde4f5" group-title="VIETH PREMIUM TV" tvg-chno="114",BTV _ TH Bình Thuận
+http://192.168.1.245:9981/stream/channelid/1844566806?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C4yYbbi.png" tvg-id="60bcfd8905c04f31c18d949ddb684920" group-title="VIETH PREMIUM TV" tvg-chno="115",KRT _ TH Kon Tum
+http://192.168.1.245:9981/stream/channelid/167623776?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/csqFzvA.png" tvg-id="0d21e70551c4488c76357497ad1eb9d2" group-title="VIETH PREMIUM TV" tvg-chno="116",THGL _ TH Gia Lai
+http://192.168.1.245:9981/stream/channelid/99033357?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2LOZ2A.png" tvg-id="b3e000ef609a6679238f86d7420c90f4" group-title="VIETH PREMIUM TV" tvg-chno="117",DRT _ TH Đắk Lắk
+http://192.168.1.245:9981/stream/channelid/1862328499?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tv0fNk3.png" tvg-id="bb3138fec6248712e49b951c0304e9de" group-title="VIETH PREMIUM TV" tvg-chno="118",LTV _ TH Lâm Đồng
+http://192.168.1.245:9981/stream/channelid/2117611963?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DHWoGfP.png" tvg-id="c5ba9f0438fd83965ae05727abcf2fe3" group-title="VIETH PREMIUM TV" tvg-chno="119",BPTV1 _ TH Bình Phước
+http://192.168.1.245:9981/stream/channelid/77576901?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CyhvaPs.png" tvg-id="046130c337b722f16ebba6af171d37d2" group-title="VIETH PREMIUM TV" tvg-chno="120",BPTV2 _ TH Bình Phước
+http://192.168.1.245:9981/stream/channelid/1127244036?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YPQCtHY.png" tvg-id="7e63b4403ab458722615e3e569767a13" group-title="VIETH PREMIUM TV" tvg-chno="121",BTV1 _ TH Bình Dương
+http://192.168.1.245:9981/stream/channelid/1085563774?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LpV0d3Q.png" tvg-id="aa59cad89251cf3a28aadbe35ee13927" group-title="VIETH PREMIUM TV" tvg-chno="122",BTV2 _ TH Bình Dương
+http://192.168.1.245:9981/stream/channelid/1489656234?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jeunb3Y.png" tvg-id="87e34cf1ee667355e59ac923188607ec" group-title="VIETH PREMIUM TV" tvg-chno="123",BTV9 B Channel
+http://192.168.1.245:9981/stream/channelid/1900864391?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/blOZQPI.png" tvg-id="29b5041dbe14c6382f480d6a02bb63da" group-title="VIETH PREMIUM TV" tvg-chno="124",ĐNRTV1 _ TH Đồng Nai
+http://192.168.1.245:9981/stream/channelid/486847785?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tIvmaaX.png" tvg-id="74673a112702cd4a0087eb6e1a45daa7" group-title="VIETH PREMIUM TV" tvg-chno="125",ĐNRTV2 _ TH Đồng Nai
+http://192.168.1.245:9981/stream/channelid/289040244?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0DU4cyg.png" tvg-id="dbe9b42138327b499d18dbb8d9c84e36" group-title="VIETH PREMIUM TV" tvg-chno="126",TTV11 _ TH Tây Ninh
+http://192.168.1.245:9981/stream/channelid/565504475?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KX2RMXR.png" tvg-id="2313434a540ad5dcacab45cd02dafb1f" group-title="VIETH PREMIUM TV" tvg-chno="127",BRT _ TH Bà Rịa Vũng Tàu
+http://192.168.1.245:9981/stream/channelid/1245909795?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UfOw13y.png" tvg-id="ba972475dc4ab0f03c90ef12a6646b8f" group-title="VIETH PREMIUM TV" tvg-chno="128",THĐT1 _ TH Đồng Tháp
+http://192.168.1.245:9981/stream/channelid/1965332410?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WXebESa.png" tvg-id="66b9cb6f245af1c7e2a501be5895e1ff" group-title="VIETH PREMIUM TV" tvg-chno="129",THĐT2 Miền Tây
+http://192.168.1.245:9981/stream/channelid/1875622246?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NkHFZ0D.png" tvg-id="b58109f2004ac812ddf5d17c75bc5694" group-title="VIETH PREMIUM TV" tvg-chno="130",THTG _ TH Tiền Giang
+http://192.168.1.245:9981/stream/channelid/1913225653?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2On2R0G.png" tvg-id="4cb3346db518cc89dcc4e8758319e12c" group-title="VIETH PREMIUM TV" tvg-chno="131",ATV _ TH An Giang
+http://192.168.1.245:9981/stream/channelid/1832170316?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9UZtJvv.png" tvg-id="a6ed8a12a0042b0dcf5b44abebf7a8b1" group-title="VIETH PREMIUM TV" tvg-chno="132",THBT _ TH Bến Tre
+http://192.168.1.245:9981/stream/channelid/311094694?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dHOm6Ll.png" tvg-id="331f98c5efbebf5761c31d2c48e1ba50" group-title="VIETH PREMIUM TV" tvg-chno="133",THTV _ TH Trà Vinh
+http://192.168.1.245:9981/stream/channelid/1167597363?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a3joZFM.png" tvg-id="7a47e5e7b8c11672696c84af90d2207f" group-title="VIETH PREMIUM TV" tvg-chno="134",HGTV _ TH Hậu Giang
+http://192.168.1.245:9981/stream/channelid/1743079290?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jCTogPb.png" tvg-id="137d2369b8608d18c0fd370d666799c3" group-title="VIETH PREMIUM TV" tvg-chno="135",KG _ TH Kiên Giang
+http://192.168.1.245:9981/stream/channelid/1763933459?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FoAzh3R.png" tvg-id="d759219768abccebc714e7afa26b788b" group-title="VIETH PREMIUM TV" tvg-chno="136",BLTV _ TH Bạc Liêu
+http://192.168.1.245:9981/stream/channelid/388061655?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cYqXh3i.png" tvg-id="688863577db84a3a31c8d07bf4895be0" group-title="VIETH PREMIUM TV" tvg-chno="137",CTV _ TH Cà Mau
+http://192.168.1.245:9981/stream/channelid/1466140776?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NyrxzES.png" tvg-id="b11e81e99ab9c50ca807945ad1298270" group-title="VIETH PREMIUM TV" tvg-chno="138",THTPCT _ TH TP. Cần Thơ
+http://192.168.1.245:9981/stream/channelid/1770069681?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QZT6GIh.png" tvg-id="83ecf33a8daf9b02807976311fa2eac4" group-title="VIETH PREMIUM TV" tvg-chno="139",STV _ TH Sơn La
+http://192.168.1.245:9981/stream/channelid/989064323?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DCSPntI.png" tvg-id="ae96b9e7c84fcad1a4941c9b5a200b2c" group-title="VIETH PREMIUM TV" tvg-chno="140",THHN _ TH Hà Nam
+http://192.168.1.245:9981/stream/channelid/1740215982?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/deNnP9h.png" tvg-id="2ecac54d3f90a3ed42fde0afca633071" group-title="VIETH PREMIUM TV" tvg-chno="141",HY _ TH Hưng Yên
+http://192.168.1.245:9981/stream/channelid/1304807982?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qW62XEm.png" tvg-id="1ccb0321c13d9fd68514611861561152" group-title="VIETH PREMIUM TV" tvg-chno="142",NTV _ TH Nam Định
+http://192.168.1.245:9981/stream/channelid/553896732?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NlOwltd.png" tvg-id="1b68484ba58bb3832ad1e79d984cf3c8" group-title="VIETH PREMIUM TV" tvg-chno="143",TTV _ TH Thanh Hóa
+http://192.168.1.245:9981/stream/channelid/1263036443?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8yOdFDx.png" tvg-id="414b8308da4e525b66b79fadc757cbfc" group-title="VIETH PREMIUM TV" tvg-chno="144",QBTV _ TH Quảng Bình
+http://192.168.1.245:9981/stream/channelid/142822209?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/29px2Qy.png" tvg-id="a73b012fa517f4e210447922a33cc210" group-title="VIETH PREMIUM TV" tvg-chno="145",TRT _ TH Thừa Thiên Huế
+http://192.168.1.245:9981/stream/channelid/788609959?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jBWD3It.png" tvg-id="575e4c15f06a99a8aeee3ff3eb09a693" group-title="VIETH PREMIUM TV" tvg-chno="146",LA34 _ TH Long An
+http://192.168.1.245:9981/stream/channelid/357326423?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5KQJoBg.png" tvg-id="43b3e2ef1ef16d0ea59343d1c9c21fea" group-title="VIETH PREMIUM TV" tvg-chno="147",STV1 _ TH Sóc Trăng
+http://192.168.1.245:9981/stream/channelid/1877128003?profile=pass
 
 
 
