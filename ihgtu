@@ -1,8 +1,18 @@
 #EXTM3U
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
 
-
-
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-my-oni-girl-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",MY ONI GIRL (2024)
+https://stream.hownetwork.xyz/yyy/my-oni-girl-2024-webdl_X_9fca38b0/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://stream.hownetwork.xyz/yyy/ashes-2024-webdl_X_7ebd7309/22/480.m3u8" group-title="HOLLYWOOD CINEMA",ASHES (2024)
+https://stream.hownetwork.xyz/yyy/ghostbusters-frozen-empire-2024-bluray_X_8dd415a8/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-maharaj-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",MAHARAJ (2024)
+https://stream.hownetwork.xyz/yyy/maharaj-2024-webdl_X_61d41b4c/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/04/film-monkey-man-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",MONKEY MAN (2024)
+https://stream.hownetwork.xyz/yyy/monkey-man-2024-webdl_X_20bbd2e1/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-we-grown-now-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",WE GROWN NOW (2024)
+https://stream.hownetwork.xyz/yyy/we-grown-now-2024-webdl_X_88685441/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-trigger-warning-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",TRIGGER WARNING (2024) 
+https://stream.hownetwork.xyz/yyy/trigger-warning-2024-webdl_X_44c8c22b/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/04/film-ghostbusters-frozen-empire-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",GHOSTBUSTERS: FROZEN EMPIRE (2024)
 https://stream.hownetwork.xyz/yyy/ghostbusters-frozen-empire-2024-bluray_X_8dd415a8/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-federer-twelve-final-days-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",FEDERER: TWELVE FINAL DAYS (2024)
