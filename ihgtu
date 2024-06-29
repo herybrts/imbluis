@@ -1,6 +1,17 @@
 #EXTM3U
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
 
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-sheriff-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",SHERIFF (2024)
+https://stream.hownetwork.xyz/yyy/sheriff-2024-webdl_X_dc3be529/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-bisikan-setan-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",BISIKAN SETAN (2024)
+https://stream.hownetwork.xyz/yyy/bisikan-setan-2024-webdl_X_1c882cb0/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-gg-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",GG (2024) 
+https://stream.hownetwork.xyz/yyy/gg-2024-webdl_X_21cdb6b1/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-i-am-celine-dion-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",I AM: CELINE DION (2024)
+https://stream.hownetwork.xyz/yyy/i-am-celine-dion-2024-webdl_X_615e223c/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-diane-von-furstenberg-woman-in-charge-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",DIANE VON FURSTENBERG: WOMAN IN CHARGE (2024)
+https://stream.hownetwork.xyz/yyy/diane-von-furstenberg-woman-in-charge-2024-webdl_X_29a0c633/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-wake-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",WAKE (2024)
 https://stream.hownetwork.xyz/yyy/wake-2024-webdl_X_7d8bc315/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/06/film-furiosa-a-mad-max-saga-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",FURIOSA: A MAD MAX SAGA (2024)
@@ -13,11 +24,10 @@ https://stream.hownetwork.xyz/yyy/roses-war-2024-webdl_X_ac0183d5/22/480.m3u8
 https://stream.hownetwork.xyz/yyy/road-wars-max-fury-2024-webdl_X_4564e9f1/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-agent-recon-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",AGENT RECON (2024)
 https://stream.hownetwork.xyz/yyy/agent-recon-2024-webdl_X_2fbad492/22/480.m3u8
-
 #EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-my-oni-girl-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",MY ONI GIRL (2024)
 https://stream.hownetwork.xyz/yyy/my-oni-girl-2024-webdl_X_9fca38b0/22/480.m3u8
-#EXTINF:-1 tvg-logo="https://stream.hownetwork.xyz/yyy/ashes-2024-webdl_X_7ebd7309/22/480.m3u8" group-title="HOLLYWOOD CINEMA",ASHES (2024)
-https://stream.hownetwork.xyz/yyy/ghostbusters-frozen-empire-2024-bluray_X_8dd415a8/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/06/film-ashes-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",ASHES (2024)
+https://stream.hownetwork.xyz/yyy/ashes-2024-webdl_X_7ebd7309/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-maharaj-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",MAHARAJ (2024)
 https://stream.hownetwork.xyz/yyy/maharaj-2024-webdl_X_61d41b4c/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/04/film-monkey-man-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",MONKEY MAN (2024)
@@ -30,7 +40,7 @@ https://stream.hownetwork.xyz/yyy/trigger-warning-2024-webdl_X_44c8c22b/22/480.m
 https://stream.hownetwork.xyz/yyy/ghostbusters-frozen-empire-2024-bluray_X_8dd415a8/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/06/film-federer-twelve-final-days-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",FEDERER: TWELVE FINAL DAYS (2024)
 https://stream.hownetwork.xyz/yyy/federer-twelve-final-days-2024-webdl_X_5d1795e0/22/480.m3u8
-#EXTINF:-1 tvg-logo="hhttps://s1.lk21static.buzz/wp-content/uploads/2024/06/film-the-accidental-twins-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",THE ACCIDENTAL TWINS (2024)
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/06/film-the-accidental-twins-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",THE ACCIDENTAL TWINS (2024)
 https://stream.hownetwork.xyz/yyy/the-accidental-twins-2024-webdl_X_310d7f51/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-dearly-beloved-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",DEARLY BELOVED (2024)
 https://stream.hownetwork.xyz/yyy/dearly-beloved-2024-webdl_X_2d20bdc4/22/480.m3u8
