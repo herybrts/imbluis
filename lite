@@ -1,356 +1,509 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-id="Trans7" tvg-name="TRANS 7" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjPiejPtrhp_TZeZj9yC8LTa2yc1SM4bUSE1-v39HgCjm2KGOLutnmvLMMKoEI266Q.png" group-title="HOME TV",TRANS 7
+#EXTINF:-1 tvg-id="Trans7" tvg-name="TRANS 7" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjPiejPtrhp_TZeZj9yC8LTa2yc1SM4bUSE1-v39HgCjm2KGOLutnmvLMMKoEI266Q.png" group-title="✅ HOME TV",TRANS 7
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/6
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-id="TransTV" tvg-name="TRANS TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjPiejPtrhp_TZeZj9yC8LTLROIL00EakzlOIzd0BriqZUXbdFrlp3O_zS9Du8j9tk.png" group-title="HOME TV",TRANS TV
+#EXTINF:-1 tvg-id="TransTV" tvg-name="TRANS TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjPiejPtrhp_TZeZj9yC8LTLROIL00EakzlOIzd0BriqZUXbdFrlp3O_zS9Du8j9tk.png" group-title="✅ HOME TV",TRANS TV
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/7
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR LOKAL 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhXhxE1kvPc6h5bT9T3Z56s6kfi7U3er5U_X59ser2z5t0ky6erF8wk4UotfSAWqRI.png" group-title="HOME TV",INDOSIAR LOKAL 1
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR LOKAL 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhXhxE1kvPc6h5bT9T3Z56s6kfi7U3er5U_X59ser2z5t0ky6erF8wk4UotfSAWqRI.png" group-title="✅ HOME TV",INDOSIAR LOKAL 1
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9721
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-id="" tvg-name="SCTV LOKAL 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhPoybscXHQQGc7TxdwIKdrMMvazJ_yMxLbREqNSe04qg.png" group-title="HOME TV",SCTV LOKAL 1
+#EXTINF:-1 tvg-id="" tvg-name="SCTV LOKAL 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhPoybscXHQQGc7TxdwIKdrMMvazJ_yMxLbREqNSe04qg.png" group-title="✅ HOME TV",SCTV LOKAL 1
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9722
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhXhxE1kvPc6h5bT9T3Z56s6kfi7U3er5U_X59ser2z5t0ky6erF8wk4UotfSAWqRI.png" group-title="HOME TV",INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhXhxE1kvPc6h5bT9T3Z56s6kfi7U3er5U_X59ser2z5t0ky6erF8wk4UotfSAWqRI.png" group-title="✅ HOME TV",INDOSIAR
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/8
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhPoybscXHQQGc7TxdwIKdrMMvazJ_yMxLbREqNSe04qg.png" group-title="HOME TV",SCTV
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhPoybscXHQQGc7TxdwIKdrMMvazJ_yMxLbREqNSe04qg.png" group-title="✅ HOME TV",SCTV
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-id="3010" tvg-name="MNC TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgTyeFc737pkvko53SvSYUa5ccMSGIlThp8taMw2tBOvK0_HdSDl5MJGSYm5Ms2DR0.png" group-title="HOME TV",MNC TV
+#EXTINF:-1 tvg-id="3010" tvg-name="MNC TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgTyeFc737pkvko53SvSYUa5ccMSGIlThp8taMw2tBOvK0_HdSDl5MJGSYm5Ms2DR0.png" group-title="✅ HOME TV",MNC TV
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiGzEhcDcaQqpzMH3oaVNvV4lvaHQmD92cJ8ZXfxXwCjQ.png" group-title="HOME TV",GTV
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiGzEhcDcaQqpzMH3oaVNvV4lvaHQmD92cJ8ZXfxXwCjQ.png" group-title="✅ HOME TV",GTV
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhXhxE1kvPc6h5bT9T3Z56sxiGHKNYEJIrFqwC3yINl87awxWk_wrl21IFKFlksBOk.png" group-title="HOME TV",iNEWS
+#EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhXhxE1kvPc6h5bT9T3Z56sxiGHKNYEJIrFqwC3yINl87awxWk_wrl21IFKFlksBOk.png" group-title="✅ HOME TV",iNEWS
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/32
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjPiejPtrhp_TZeZj9yC8LT_0wmqHlMC7Vs-M2DS_EgnSClwg__5eyBc8cE-1Q5nhw.png" group-title="HOME TV",TV ONE
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjPiejPtrhp_TZeZj9yC8LT_0wmqHlMC7Vs-M2DS_EgnSClwg__5eyBc8cE-1Q5nhw.png" group-title="✅ HOME TV",TV ONE
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/13
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhoxPhVASw3n3Iw5JxfRcpiCNiNstq6A3SIkMs1dySdNw.png" group-title="HOME TV",ANTV
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhoxPhVASw3n3Iw5JxfRcpiCNiNstq6A3SIkMs1dySdNw.png" group-title="✅ HOME TV",ANTV
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/14
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhrnYhF6E8ghAShqCWgT0N-LxBjQiQ4W3-zEzwxRmGHHfgkJWfal6rVxUPBK3_h0x0.png" group-title="HOME TV",NET TV
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhrnYhF6E8ghAShqCWgT0N-LxBjQiQ4W3-zEzwxRmGHHfgkJWfal6rVxUPBK3_h0x0.png" group-title="✅ HOME TV",NET TV
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/15
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgTyeFc737pkvko53SvSYUaq-KxYdcoO_eI_zv6Wl-5Ta_Qc26DO2TZKQr8oEhkL5Y.png" group-title="HOME TV",METRO TV
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgTyeFc737pkvko53SvSYUaq-KxYdcoO_eI_zv6Wl-5Ta_Qc26DO2TZKQr8oEhkL5Y.png" group-title="✅ HOME TV",METRO TV
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/16
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiKGuRU1wtdBOCj6Z6kyxqYPcnCzwNdhQ9Rlb0hZEvfIN0dBPr61Ov2B-bxTqTs2r0.png" group-title="HOME TV",KOMPAS TV
+#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiKGuRU1wtdBOCj6Z6kyxqYPcnCzwNdhQ9Rlb0hZEvfIN0dBPr61Ov2B-bxTqTs2r0.png" group-title="✅ HOME TV",KOMPAS TV
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/17
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn9dNvlfaXz9JyL7gOjaB9_OpGgCQDZNzawb32FhsHHg.png" group-title="HOME TV",RTV
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn9dNvlfaXz9JyL7gOjaB9_OpGgCQDZNzawb32FhsHHg.png" group-title="✅ HOME TV",RTV
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/18
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Action" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn_Lx7OS2VB8D61roi9unKCWeaGRqzhLuifdX8ZB8tui-fMFefC4XRdHaOUH3QZyU.png" group-title="HOME TV",Bioskop Action
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop Action" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn_Lx7OS2VB8D61roi9unKCWeaGRqzhLuifdX8ZB8tui-fMFefC4XRdHaOUH3QZyU.png" group-title="✅ HOME TV",Bioskop Action
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/123
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Thriller" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn_Lx7OS2VB8D61roi9unKCWeaGRqzhLuifdX8ZB8tui-fMFefC4XRdHaOUH3QZyU.png" group-title="HOME TV",Bioskop Thriller
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop Thriller" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn_Lx7OS2VB8D61roi9unKCWeaGRqzhLuifdX8ZB8tui-fMFefC4XRdHaOUH3QZyU.png" group-title="✅ HOME TV",Bioskop Thriller
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/60
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop China" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn_Lx7OS2VB8D61roi9unKCWeaGRqzhLuifdX8ZB8tui-fMFefC4XRdHaOUH3QZyU.png" group-title="HOME TV",Bioskop China
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop China" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn_Lx7OS2VB8D61roi9unKCWeaGRqzhLuifdX8ZB8tui-fMFefC4XRdHaOUH3QZyU.png" group-title="✅ HOME TV",Bioskop China
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/124
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Bollywood" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn_Lx7OS2VB8D61roi9unKCWeaGRqzhLuifdX8ZB8tui-fMFefC4XRdHaOUH3QZyU.png" group-title="HOME TV",Bioskop Bollywood
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop Bollywood" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn_Lx7OS2VB8D61roi9unKCWeaGRqzhLuifdX8ZB8tui-fMFefC4XRdHaOUH3QZyU.png" group-title="✅ HOME TV",Bioskop Bollywood
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/125
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Drama & Family" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn_Lx7OS2VB8D61roi9unKCWeaGRqzhLuifdX8ZB8tui-fMFefC4XRdHaOUH3QZyU.png" group-title="HOME TV",Bioskop Drama & Family
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop Drama & Family" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn_Lx7OS2VB8D61roi9unKCWeaGRqzhLuifdX8ZB8tui-fMFefC4XRdHaOUH3QZyU.png" group-title="✅ HOME TV",Bioskop Drama & Family
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/126
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Horror" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn_Lx7OS2VB8D61roi9unKCWeaGRqzhLuifdX8ZB8tui-fMFefC4XRdHaOUH3QZyU.png" group-title="HOME TV",Bioskop Horror
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop Horror" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn_Lx7OS2VB8D61roi9unKCWeaGRqzhLuifdX8ZB8tui-fMFefC4XRdHaOUH3QZyU.png" group-title="✅ HOME TV",Bioskop Horror
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/61
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn_Lx7OS2VB8D61roi9unKCWeaGRqzhLuifdX8ZB8tui-fMFefC4XRdHaOUH3QZyU.png" group-title="HOME TV",Bioskop Indonesia
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn_Lx7OS2VB8D61roi9unKCWeaGRqzhLuifdX8ZB8tui-fMFefC4XRdHaOUH3QZyU.png" group-title="✅ HOME TV",Bioskop Indonesia
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/62
-#EXTINF:-1 tvg-id="" tvg-name="Bioskop Warkop DKI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn_Lx7OS2VB8D61roi9unKCWeaGRqzhLuifdX8ZB8tui-fMFefC4XRdHaOUH3QZyU.png" group-title="HOME TV",Bioskop Warkop DKI
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop Warkop DKI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn_Lx7OS2VB8D61roi9unKCWeaGRqzhLuifdX8ZB8tui-fMFefC4XRdHaOUH3QZyU.png" group-title="✅ HOME TV",Bioskop Warkop DKI
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/63
-#EXTINF:-1 tvg-id="" tvg-name="JUST FOR LAUGHS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLizYpovIn4mLYpStJwItdzw13YzA0MvNaccUfZAuP8Ojw.png" group-title="HOME TV",JUST FOR LAUGHS
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="JUST FOR LAUGHS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLizYpovIn4mLYpStJwItdzw13YzA0MvNaccUfZAuP8Ojw.png" group-title="✅ HOME TV",JUST FOR LAUGHS
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/101
-#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj7YFI3Y_0p8bBNsUHBXpFCOYuhakONP9iUX9oMvysiVgii5KbeRveMFguIIlM8mak.png" group-title="HOME TV",TOM & JERRY
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj7YFI3Y_0p8bBNsUHBXpFCOYuhakONP9iUX9oMvysiVgii5KbeRveMFguIIlM8mak.png" group-title="✅ HOME TV",TOM & JERRY
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/69
-#EXTINF:-1 tvg-id="" tvg-name="MR. BEAN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjZN3P6eCPVLz6-gK_R876TBEvbusdJ8yijMxi9fqR8KA.png" group-title="HOME TV",MR. BEAN
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="MR. BEAN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjZN3P6eCPVLz6-gK_R876TBEvbusdJ8yijMxi9fqR8KA.png" group-title="✅ HOME TV",MR. BEAN
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/71
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgpeWx8nhDQ_0xs6Sy8ESYYZTkAkVjA7CgtNyfpBei3qA.png" group-title="HOME TV",HBO
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgpeWx8nhDQ_0xs6Sy8ESYYZTkAkVjA7CgtNyfpBei3qA.png" group-title="✅ HOME TV",HBO
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/1
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgpeWx8nhDQ_0xs6Sy8ESYY-QA9Bb5Pkib0kmCh5dZR3-zO0CrfFQjZ5yRRDsQa01M.png" group-title="HOME TV",HBO SIGN
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgpeWx8nhDQ_0xs6Sy8ESYY-QA9Bb5Pkib0kmCh5dZR3-zO0CrfFQjZ5yRRDsQa01M.png" group-title="✅ HOME TV",HBO SIGN
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/3
-#EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgpeWx8nhDQ_0xs6Sy8ESYYFsnqjPMw-YgDBHbDm42jMjAIWaw9BihMSiFckeem9vc.png" group-title="HOME TV",HBO HITS
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgpeWx8nhDQ_0xs6Sy8ESYYFsnqjPMw-YgDBHbDm42jMjAIWaw9BihMSiFckeem9vc.png" group-title="✅ HOME TV",HBO HITS
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/2
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgpeWx8nhDQ_0xs6Sy8ESYY4qra40FlUU8tf34IqfTfeauGKxilrTq9dnAm5jC5YiY.png" group-title="HOME TV",HBO FAMILY
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgpeWx8nhDQ_0xs6Sy8ESYY4qra40FlUU8tf34IqfTfeauGKxilrTq9dnAm5jC5YiY.png" group-title="✅ HOME TV",HBO FAMILY
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/4
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhNcCDTd31D8DBPwoz4XlnV4OVqY-qsXkELdiwV41hBS8eaiRy_XnGOX0TA6kjF6ME.png" group-title="HOME TV",CINEMAX
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhNcCDTd31D8DBPwoz4XlnV4OVqY-qsXkELdiwV41hBS8eaiRy_XnGOX0TA6kjF6ME.png" group-title="✅ HOME TV",CINEMAX
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/5
-#EXTINF:-1 tvg-id="" tvg-name="BIOSKOP INDONESIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn_Lx7OS2VB8D61roi9unKy6lyjXx-gVFrEwoc1YxAkpw2GcqWrPyC140f8c-Bb-A.png" group-title="HOME TV",BIOSKOP INDONESIA
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="BIOSKOP INDONESIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgn_Lx7OS2VB8D61roi9unKy6lyjXx-gVFrEwoc1YxAkpw2GcqWrPyC140f8c-Bb-A.png" group-title="✅ HOME TV",BIOSKOP INDONESIA
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/127
-#EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjJWwvMNrqxzpZswxBFhZzpcNyHz3fIwYsotInNMrRC_ki4h5WYJGpgt0hggFR8xWM.png" group-title="HOME TV",FLIK
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjJWwvMNrqxzpZswxBFhZzpcNyHz3fIwYsotInNMrRC_ki4h5WYJGpgt0hggFR8xWM.png" group-title="✅ HOME TV",FLIK
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/128
-#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiG1pOquu1HlGvi_8qnLesxxflvSu5xSpcmU4xQxGY0wMCXZSnP3q9iT3nP0Kv1WE8.png" group-title="HOME TV",WARNER TV
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiG1pOquu1HlGvi_8qnLesxxflvSu5xSpcmU4xQxGY0wMCXZSnP3q9iT3nP0Kv1WE8.png" group-title="✅ HOME TV",WARNER TV
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/129
-#EXTINF:-1 tvg-id="" tvg-name="K PLUS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6L91mG2c59E1-Pf8BotdOnOUJrR-XahA6bMxGI5h0lkRc.png" group-title="HOME TV",K PLUS
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="K PLUS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6L91mG2c59E1-Pf8BotdOnOUJrR-XahA6bMxGI5h0lkRc.png" group-title="✅ HOME TV",K PLUS
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/156
-#EXTINF:-1 tvg-id="" tvg-name="CHINESE DRAMA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6LpymDsaYVtODEFyQiUfM5S5rV-NfPwE4lPyHkyTQ6p_lABF_8GfBlh558dwI1M_L1.png" group-title="HOME TV",CHINESE DRAMA
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CHINESE DRAMA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6LpymDsaYVtODEFyQiUfM5S5rV-NfPwE4lPyHkyTQ6p_lABF_8GfBlh558dwI1M_L1.png" group-title="✅ HOME TV",CHINESE DRAMA
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/157
-#EXTINF:-1 tvg-id="" tvg-name="SONY GEM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6LlMi-24kbfSRffBwDAVoURTd5wQNaXhpbpd_lkRu52Ys.png" group-title="HOME TV",SONY GEM
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="SONY GEM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6LlMi-24kbfSRffBwDAVoURTd5wQNaXhpbpd_lkRu52Ys.png" group-title="✅ HOME TV",SONY GEM
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/130
-#EXTINF:-1 tvg-id="" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6LUQOZ41j8TNhEGn21KuMZqVo3OeOGLm4n0e3X_yJ05Gg.png" group-title="HOME TV",ROCK ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6LUQOZ41j8TNhEGn21KuMZqVo3OeOGLm4n0e3X_yJ05Gg.png" group-title="✅ HOME TV",ROCK ENTERTAINMENT
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/136
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh8SrOo7W4i5IRuMIk2TwE9sbAFBXaLeRuAKsKvBc2KpVCTbKyaD-GcpL9SIfb0ytE.png" group-title="HOME TV",DISCOVERY CHANNEL
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh8SrOo7W4i5IRuMIk2TwE9sbAFBXaLeRuAKsKvBc2KpVCTbKyaD-GcpL9SIfb0ytE.png" group-title="✅ HOME TV",DISCOVERY CHANNEL
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/64
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh8SrOo7W4i5IRuMIk2TwE9WlxjsIxM-kMWVi6sZnsu0nySvGBUkPb7VHz9Io8Lf-M.png" group-title="HOME TV",NATIONAL GEOGRAPHIC
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh8SrOo7W4i5IRuMIk2TwE9WlxjsIxM-kMWVi6sZnsu0nySvGBUkPb7VHz9Io8Lf-M.png" group-title="✅ HOME TV",NATIONAL GEOGRAPHIC
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/131
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh8SrOo7W4i5IRuMIk2TwE9Ln5rAvQgxv4wuBX3KHpQ8Q7179kFGPyUw7nL5MTLOKk.png" group-title="HOME TV",NAT GEO WILD
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh8SrOo7W4i5IRuMIk2TwE9Ln5rAvQgxv4wuBX3KHpQ8Q7179kFGPyUw7nL5MTLOKk.png" group-title="✅ HOME TV",NAT GEO WILD
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/132
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh8SrOo7W4i5IRuMIk2TwE9qxkzUJNHsrMNrHimjJOfjGO4usRRuEme3Wzh35r_CBQ.png" group-title="HOME TV",ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh8SrOo7W4i5IRuMIk2TwE9qxkzUJNHsrMNrHimjJOfjGO4usRRuEme3Wzh35r_CBQ.png" group-title="✅ HOME TV",ANIMAL PLANET
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/65
-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh8SrOo7W4i5IRuMIk2TwE9B-weu6InWimqN1UMQ3teJ5B1SZCtZ602peXK69iMSpk.png" group-title="HOME TV",LOVE NATURE
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh8SrOo7W4i5IRuMIk2TwE9B-weu6InWimqN1UMQ3teJ5B1SZCtZ602peXK69iMSpk.png" group-title="✅ HOME TV",LOVE NATURE
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/105
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjfvnxtpFuttJNr5Z8bEtier4PZKtkxzsY2CwaQvnj-SZn647ifsAk98yQivukLYpM.png" group-title="HOME TV",HGTV
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjfvnxtpFuttJNr5Z8bEtier4PZKtkxzsY2CwaQvnj-SZn647ifsAk98yQivukLYpM.png" group-title="✅ HOME TV",HGTV
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/76
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjfvnxtpFuttJNr5Z8bEtie34EA8YDDqnKIOdbcTuW55e96KC3MQytYdcAGRGzE7_w.png" group-title="HOME TV",TLC
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjfvnxtpFuttJNr5Z8bEtie34EA8YDDqnKIOdbcTuW55e96KC3MQytYdcAGRGzE7_w.png" group-title="✅ HOME TV",TLC
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/77
-#EXTINF:-1 tvg-id="" tvg-name="AFN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjfvnxtpFuttJNr5Z8bEtieOSGOVBav6u6KOP7-19T1DPSTpIPi64BplgaHRq-i0bE.png" group-title="HOME TV",AFN
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="AFN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjfvnxtpFuttJNr5Z8bEtieOSGOVBav6u6KOP7-19T1DPSTpIPi64BplgaHRq-i0bE.png" group-title="✅ HOME TV",AFN
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/78
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjfvnxtpFuttJNr5Z8bEtieCg83iPrmnFnQPK2otW4lUW2f7FCP2o9QCCvlivbTN64.png" group-title="HOME TV",FASHION TV
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjfvnxtpFuttJNr5Z8bEtieCg83iPrmnFnQPK2otW4lUW2f7FCP2o9QCCvlivbTN64.png" group-title="✅ HOME TV",FASHION TV
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/79
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV MIDNIGHT" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjfvnxtpFuttJNr5Z8bEtiexgWjsto-KmN3StVjCm0VMwwcd0sc30o0ic7Fy1X0nhw.png" group-title="HOME TV",FASHION TV MIDNIGHT
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV MIDNIGHT" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjfvnxtpFuttJNr5Z8bEtiexgWjsto-KmN3StVjCm0VMwwcd0sc30o0ic7Fy1X0nhw.png" group-title="✅ HOME TV",FASHION TV MIDNIGHT
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/80
-#EXTINF:-1 tvg-id="" tvg-name="LARVA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhQTkjRG9cVYD7Tc6sEOr_jz2csMfcFZ7qHydU5U-D0gQ.png" group-title="HOME TV",LARVA
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="LARVA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhQTkjRG9cVYD7Tc6sEOr_jz2csMfcFZ7qHydU5U-D0gQ.png" group-title="✅ HOME TV",LARVA
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/66
-#EXTINF:-1 tvg-id="" tvg-name="UPIN IPIN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgMAz47JNHRe7TsLQp7GxPilBvTTw104Z0gg6pLRxFWKu2ak6JCkOXE353Aew1XOjg.png" group-title="HOME TV",UPIN IPIN
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="UPIN IPIN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgMAz47JNHRe7TsLQp7GxPilBvTTw104Z0gg6pLRxFWKu2ak6JCkOXE353Aew1XOjg.png" group-title="✅ HOME TV",UPIN IPIN
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/67
-#EXTINF:-1 tvg-id="" tvg-name="MASHA & BEAR" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLi8vsqH20CjlltjjAKLxNto_-TTm6J2tm4P3nqbhMD6e93r2zMfS5_bZHX1TGpGYAg.png" group-title="HOME TV",MASHA & BEAR
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="MASHA & BEAR" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLi8vsqH20CjlltjjAKLxNto_-TTm6J2tm4P3nqbhMD6e93r2zMfS5_bZHX1TGpGYAg.png" group-title="✅ HOME TV",MASHA & BEAR
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/70
-#EXTINF:-1 tvg-id="" tvg-name="DORAEMAON" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgbjoDGUgAbE-lsbfN0rb_Bndhil5IPme9AV2SurY89R7-8rDvCvrpM_7yVP4VKHCI.png" group-title="HOME TV",DORAEMAON
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="DORAEMAON" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgbjoDGUgAbE-lsbfN0rb_Bndhil5IPme9AV2SurY89R7-8rDvCvrpM_7yVP4VKHCI.png" group-title="✅ HOME TV",DORAEMAON
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/68
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj3OzGX6epUMjpcg2g-tao2wWJTs6ugyLIbc5XsubDD3eogvCTL6M_6qLQoTvP7TDM.png" group-title="HOME TV",NICK JR
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj3OzGX6epUMjpcg2g-tao2wWJTs6ugyLIbc5XsubDD3eogvCTL6M_6qLQoTvP7TDM.png" group-title="✅ HOME TV",NICK JR
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/93
-#EXTINF:-1 tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhs-wCG0MUpnxLIK01vpoHH3wwl4fYRkUawcS6Ge7kaT5kmOwHUDfGAnlx7Bt0AAEw.png" group-title="HOME TV",MENTARI TV
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhs-wCG0MUpnxLIK01vpoHH3wwl4fYRkUawcS6Ge7kaT5kmOwHUDfGAnlx7Bt0AAEw.png" group-title="✅ HOME TV",MENTARI TV
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/92
-#EXTINF:-1 tvg-id="" tvg-name="DREAMWORS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhGbyb94Cg-SDHNn69wxtfBz7a-6UDwkqvUpO9Yyoo3VtlKSKpBrIrUSAYWHj-fOuw.png" group-title="HOME TV",DREAMWORS
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhGbyb94Cg-SDHNn69wxtfBz7a-6UDwkqvUpO9Yyoo3VtlKSKpBrIrUSAYWHj-fOuw.png" group-title="✅ HOME TV",DREAMWORS
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/95
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiSS9eARAwz06n6hyLje3buaheUCuPqj6PtteBfkia5xzZHyW9mirN9Nf16qPj648g.png" group-title="HOME TV",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiSS9eARAwz06n6hyLje3buaheUCuPqj6PtteBfkia5xzZHyW9mirN9Nf16qPj648g.png" group-title="✅ HOME TV",CARTOON NETWORK
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/74
-#EXTINF:-1 tvg-id="" tvg-name="HOREE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhxFcYqQC0yXQAh0YXDBd8XpcawQ15Cn1T-WQFV5rWUUQ.png" group-title="HOME TV",HOREE
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="HOREE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhxFcYqQC0yXQAh0YXDBd8XpcawQ15Cn1T-WQFV5rWUUQ.png" group-title="✅ HOME TV",HOREE
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/72
-#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLg8zl2MV3JGH1R6UT8J9ol91KWJUHR53VV6_u2gw8_ZJzCZSpQwtq_7t8jp19LljmY.png" group-title="HOME TV",ANIPLUS
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLg8zl2MV3JGH1R6UT8J9ol91KWJUHR53VV6_u2gw8_ZJzCZSpQwtq_7t8jp19LljmY.png" group-title="✅ HOME TV",ANIPLUS
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/75
-#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjERjChMcx0fN3TxzwWhssxBcjGyf5t3A1RdePJwRa6Mb3Qq0UtyBcmQvyaS3jqBcI.png" group-title="HOME TV",CNN INTERNATIONAL
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjERjChMcx0fN3TxzwWhssxBcjGyf5t3A1RdePJwRa6Mb3Qq0UtyBcmQvyaS3jqBcI.png" group-title="✅ HOME TV",CNN INTERNATIONAL
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/81
-#EXTINF:-1 tvg-id="" tvg-name="CNN OPT 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjERjChMcx0fN3TxzwWhssxBcjGyf5t3A1RdePJwRa6Mb3Qq0UtyBcmQvyaS3jqBcI.png" group-title="HOME TV",CNN OPT 2
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CNN OPT 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjERjChMcx0fN3TxzwWhssxBcjGyf5t3A1RdePJwRa6Mb3Qq0UtyBcmQvyaS3jqBcI.png" group-title="✅ HOME TV",CNN OPT 2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/82
-#EXTINF:-1 tvg-id="" tvg-name="GOLF - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIJGLkZ6n6I52AWF-BmKxeHg.png" group-title="HOME TV",GOLF - 1
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="GOLF - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIJGLkZ6n6I52AWF-BmKxeHg.png" group-title="✅ HOME TV",GOLF - 1
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/142
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA - 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI8fXGbaem5kzj4q_KbV7mnQ.png" group-title="HOME TV",LALIGA - 3
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA - 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI8fXGbaem5kzj4q_KbV7mnQ.png" group-title="✅ HOME TV",LALIGA - 3
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/135
-#EXTINF:-1 tvg-id="" tvg-name="EPL - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIEi9nkEZagk5SqI2Tf1VCwQ.png" group-title="HOME TV",EPL - 2
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="EPL - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIEi9nkEZagk5SqI2Tf1VCwQ.png" group-title="✅ HOME TV",EPL - 2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/97
-#EXTINF:-1 tvg-id="" tvg-name="PRO LIGA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIvQo8Uk12o7ANH9bvrdYl0A.png" group-title="HOME TV",PRO LIGA
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="PRO LIGA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIvQo8Uk12o7ANH9bvrdYl0A.png" group-title="✅ HOME TV",PRO LIGA
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/117
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIg2OB4U8Ek6axcBMcu88aww.png" group-title="HOME TV",ASSP 1
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIg2OB4U8Ek6axcBMcu88aww.png" group-title="✅ HOME TV",ASSP 1
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/118
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI_mrzt5F6y4XnsnIIyNaU7g.png" group-title="HOME TV",ASSP 2
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI_mrzt5F6y4XnsnIIyNaU7g.png" group-title="✅ HOME TV",ASSP 2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/119
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HISFaDIp70AkXyV8F2OnIKhg.png" group-title="HOME TV",ASSP 3
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HISFaDIp70AkXyV8F2OnIKhg.png" group-title="✅ HOME TV",ASSP 3
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/120
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIw9Kso_F2EI5ZIeKgm0WV4g.png" group-title="HOME TV",ASSP 4
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIw9Kso_F2EI5ZIeKgm0WV4g.png" group-title="✅ HOME TV",ASSP 4
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/121
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIB1eReS05Pdo3yFWN6i_VMw.png" group-title="HOME TV",CRICKET - 1
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIB1eReS05Pdo3yFWN6i_VMw.png" group-title="✅ HOME TV",CRICKET - 1
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/122
-#EXTINF:-1 tvg-id="" tvg-name="MY KIDZ" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhLU7S81rxgLyrEGIKeBz7rQY0e2yCSBKPHuz51Gu7ytttODUbRve7c0OC_ko_ElN8.png" group-title="HOME TV",MY KIDZ
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="MY KIDZ" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhLU7S81rxgLyrEGIKeBz7rQY0e2yCSBKPHuz51Gu7ytttODUbRve7c0OC_ko_ElN8.png" group-title="✅ HOME TV",MY KIDZ
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/94
-#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh8SrOo7W4i5IRuMIk2TwE9HihS_c7ta2Jh-ZTXsFJ212go-Eh-e80YqVXog9Pr_Vo.png" group-title="HOME TV",BBC EARTH
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh8SrOo7W4i5IRuMIk2TwE9HihS_c7ta2Jh-ZTXsFJ212go-Eh-e80YqVXog9Pr_Vo.png" group-title="✅ HOME TV",BBC EARTH
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/102
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh8SrOo7W4i5IRuMIk2TwE9SYOuVSVaz_xj1O5_ELKM6gvX4BfIx5oudxaN44iwXi8.png" group-title="HOME TV",HISTORY
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh8SrOo7W4i5IRuMIk2TwE9SYOuVSVaz_xj1O5_ELKM6gvX4BfIx5oudxaN44iwXi8.png" group-title="✅ HOME TV",HISTORY
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/103
-#EXTINF:-1 tvg-id="" tvg-name="CRIME INVESTIGATION" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh8SrOo7W4i5IRuMIk2TwE9BnZSSBPdNz0DpLtaQBOS2X6UQZYW7fxkF875Xm-AozY.png" group-title="HOME TV",CRIME INVESTIGATION
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CRIME INVESTIGATION" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh8SrOo7W4i5IRuMIk2TwE9BnZSSBPdNz0DpLtaQBOS2X6UQZYW7fxkF875Xm-AozY.png" group-title="✅ HOME TV",CRIME INVESTIGATION
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/104
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjfvnxtpFuttJNr5Z8bEtieok7_T6Zd92Csfk501QlBqtDML07jaTzIuGb4mZ47btI.png" group-title="HOME TV",LIFETIME
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjfvnxtpFuttJNr5Z8bEtieok7_T6Zd92Csfk501QlBqtDML07jaTzIuGb4mZ47btI.png" group-title="✅ HOME TV",LIFETIME
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/106
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAX" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLg8zl2MV3JGH1R6UT8J9ol9dbVcJnb51AvN63Md6NrmRrFBGPX0Own4yFjVBdOfD2Q.png" group-title="HOME TV",ANIMAX
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAX" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLg8zl2MV3JGH1R6UT8J9ol9dbVcJnb51AvN63Md6NrmRrFBGPX0Own4yFjVBdOfD2Q.png" group-title="✅ HOME TV",ANIMAX
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/107
-#EXTINF:-1 tvg-id="" tvg-name="SONY ONE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6L6RWKAUtfHbwjbQUWhOvB4jtOmxhdNv34vVhzc_IY8nc.png" group-title="HOME TV",SONY ONE
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="SONY ONE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6L6RWKAUtfHbwjbQUWhOvB4jtOmxhdNv34vVhzc_IY8nc.png" group-title="✅ HOME TV",SONY ONE
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/137
-#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6LcyGn3I2NGNxJjiR-Dwz0tL4wylpAyRDh7epzLI4M4Pw.png" group-title="HOME TV",TVN
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6LcyGn3I2NGNxJjiR-Dwz0tL4wylpAyRDh7epzLI4M4Pw.png" group-title="✅ HOME TV",TVN
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/138
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 1 ID" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIE41ZfO9j7jBmx_l6FVEvRA.png" group-title="HOME TV",BEIN 1 ID
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 1 ID" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIE41ZfO9j7jBmx_l6FVEvRA.png" group-title="✅ HOME TV",BEIN 1 ID
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/139
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 3 ID" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIE41ZfO9j7jBmx_l6FVEvRA.png" group-title="HOME TV",BEIN 3 ID
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 3 ID" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIE41ZfO9j7jBmx_l6FVEvRA.png" group-title="✅ HOME TV",BEIN 3 ID
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/140
-#EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhNcCDTd31D8DBPwoz4XlnV6hc_Z2a5uSJOQBEdVqT57Q.png" group-title="HOME TV",CCM
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhNcCDTd31D8DBPwoz4XlnV6hc_Z2a5uSJOQBEdVqT57Q.png" group-title="✅ HOME TV",CCM
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/144
-#EXTINF:-1 tvg-id="" tvg-name="CELESTIAL MOVIES" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhNcCDTd31D8DBPwoz4XlnVE29c9wKSsLRAAYo77-zmNWj2ZX9LkOVF1UZvhxvo0As.png" group-title="HOME TV",CELESTIAL MOVIES
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CELESTIAL MOVIES" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhNcCDTd31D8DBPwoz4XlnVE29c9wKSsLRAAYo77-zmNWj2ZX9LkOVF1UZvhxvo0As.png" group-title="✅ HOME TV",CELESTIAL MOVIES
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/145
-#EXTINF:-1 tvg-id="" tvg-name="ROCK ACTION" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgri0FG5_Cb57nwFgOhoVScKZqZWt3is6BntNXcN5hH4GZRmDLEvIucPzjEPoQ6goo.png" group-title="HOME TV",ROCK ACTION
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="ROCK ACTION" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgri0FG5_Cb57nwFgOhoVScKZqZWt3is6BntNXcN5hH4GZRmDLEvIucPzjEPoQ6goo.png" group-title="✅ HOME TV",ROCK ACTION
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/146
-#EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh2q5VmEL-OcwjgcJ4ZwE7wvarqryuHRRekjLe5A_l6bQ.png" group-title="HOME TV",KIX
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh2q5VmEL-OcwjgcJ4ZwE7wvarqryuHRRekjLe5A_l6bQ.png" group-title="✅ HOME TV",KIX
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/147
-#EXTINF:-1 tvg-id="" tvg-name="THRILL" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhzo7QOcIqfW16oWx_DbfAxdnutOKOV0cjdcIOSWit_PPlkMsB6PyS-7Xn5uSwvEmQ.png" group-title="HOME TV",THRILL
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="THRILL" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhzo7QOcIqfW16oWx_DbfAxdnutOKOV0cjdcIOSWit_PPlkMsB6PyS-7Xn5uSwvEmQ.png" group-title="✅ HOME TV",THRILL
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/148
-#EXTINF:-1 tvg-id="" tvg-name="TvN MOVIE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhzo7QOcIqfW16oWx_DbfAxCccOEcAaMMcwblYuRjq_kAuCQfwVyShgbMWNaixvfGw.png" group-title="HOME TV",TvN MOVIE
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="TvN MOVIE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhzo7QOcIqfW16oWx_DbfAxCccOEcAaMMcwblYuRjq_kAuCQfwVyShgbMWNaixvfGw.png" group-title="✅ HOME TV",TvN MOVIE
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/149
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA WORLD" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhNcCDTd31D8DBPwoz4XlnV4QKsvY6n-SzsM2JKCmi6ugr10oUGschx7zIRBSW_wIE.png" group-title="HOME TV",CINEMA WORLD
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA WORLD" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhNcCDTd31D8DBPwoz4XlnV4QKsvY6n-SzsM2JKCmi6ugr10oUGschx7zIRBSW_wIE.png" group-title="✅ HOME TV",CINEMA WORLD
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/150
-#EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgpeWx8nhDQ_0xs6Sy8ESYY3BKdgeANQaERmB83-hX3yw.png" group-title="HOME TV",HITS
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgpeWx8nhDQ_0xs6Sy8ESYY3BKdgeANQaERmB83-hX3yw.png" group-title="✅ HOME TV",HITS
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/151
-#EXTINF:-1 tvg-id="" tvg-name="HITS MOVIES" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgpeWx8nhDQ_0xs6Sy8ESYYGNvFz5zS_MOTtnsJhPU78ni_ThGyNAyevNDaGcmwBYo.png" group-title="HOME TV",HITS MOVIES
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="HITS MOVIES" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgpeWx8nhDQ_0xs6Sy8ESYYGNvFz5zS_MOTtnsJhPU78ni_ThGyNAyevNDaGcmwBYo.png" group-title="✅ HOME TV",HITS MOVIES
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/152
-#EXTINF:-1 tvg-id="" tvg-name="My CINEMA Asia" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLidjVC3LBybSaTmpqu-PYHJoWzX2MwmXNtrMdom5xN_Y4VQ_1FdcXuYtd5eFEiDwwM.png" group-title="HOME TV",My CINEMA Asia
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="My CINEMA Asia" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLidjVC3LBybSaTmpqu-PYHJoWzX2MwmXNtrMdom5xN_Y4VQ_1FdcXuYtd5eFEiDwwM.png" group-title="✅ HOME TV",My CINEMA Asia
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/153
-#EXTINF:-1 tvg-id="" tvg-name="My FAMILY Channel" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLidjVC3LBybSaTmpqu-PYHJJqfHLc8WZWzcGW_k9uFetn_RAOywh-TrfADbYbBhwtA.png" group-title="HOME TV",My FAMILY Channel
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="My FAMILY Channel" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLidjVC3LBybSaTmpqu-PYHJJqfHLc8WZWzcGW_k9uFetn_RAOywh-TrfADbYbBhwtA.png" group-title="✅ HOME TV",My FAMILY Channel
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/154
-#EXTINF:-1 tvg-id="" tvg-name="DUNIA LAIN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6LHw6v_zuc3XeUGQ9aBtkPNq7fgRvBxbxZ65X3iy3OzJM.png" group-title="HOME TV",DUNIA LAIN
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="DUNIA LAIN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6LHw6v_zuc3XeUGQ9aBtkPNq7fgRvBxbxZ65X3iy3OzJM.png" group-title="✅ HOME TV",DUNIA LAIN
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/158
-#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgKUi1ypfYYT6bYDuQdKVhN3at_DgUp2uGPMc-Imgy6FQ.png" group-title="HOME TV",IMC
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgKUi1ypfYYT6bYDuQdKVhN3at_DgUp2uGPMc-Imgy6FQ.png" group-title="✅ HOME TV",IMC
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9727
-#EXTINF:-1 tvg-id="" tvg-name="RODJA TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhUv2ykT7Uec6xVMjvS6n2xej_Hjv1wVMjFtCn-7oVJ52KwXwVFhJhlY4dZ-RC8j5U.png" group-title="HOME TV",RODJA TV
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="RODJA TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhUv2ykT7Uec6xVMjvS6n2xej_Hjv1wVMjFtCn-7oVJ52KwXwVFhJhlY4dZ-RC8j5U.png" group-title="✅ HOME TV",RODJA TV
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/91
-#EXTINF:-1 tvg-id="" tvg-name="SPOTV 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIe1_TTutQc1_NGNKgcg8zsQ.png" group-title="HOME TV",SPOTV 1
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIe1_TTutQc1_NGNKgcg8zsQ.png" group-title="✅ HOME TV",SPOTV 1
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/110
-#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIpNdoPC-z-ZZnZAyJ74Lg7g.png" group-title="HOME TV",SPOTV 2
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIpNdoPC-z-ZZnZAyJ74Lg7g.png" group-title="✅ HOME TV",SPOTV 2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/111
-#EXTINF:-1 tvg-id="" tvg-name="SPORTSTARS 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIUNvRaMe8DUNwRaTLsWwn8UAWbaw5pURQLNQuPTC516g.png" group-title="HOME TV",SPORTSTARS 1
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSTARS 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIUNvRaMe8DUNwRaTLsWwn8UAWbaw5pURQLNQuPTC516g.png" group-title="✅ HOME TV",SPORTSTARS 1
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/112
-#EXTINF:-1 tvg-id="" tvg-name="SPORTSTARS 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIUNvRaMe8DUNwRaTLsWwn8UAWbaw5pURQLNQuPTC516g.png" group-title="HOME TV",SPORTSTARS 2
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSTARS 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIUNvRaMe8DUNwRaTLsWwn8UAWbaw5pURQLNQuPTC516g.png" group-title="✅ HOME TV",SPORTSTARS 2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/113
-#EXTINF:-1 tvg-id="" tvg-name="SPORTSTARS 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIUNvRaMe8DUNwRaTLsWwn8UAWbaw5pURQLNQuPTC516g.png" group-title="HOME TV",SPORTSTARS 3
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSTARS 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIUNvRaMe8DUNwRaTLsWwn8UAWbaw5pURQLNQuPTC516g.png" group-title="✅ HOME TV",SPORTSTARS 3
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/114
-#EXTINF:-1 tvg-id="" tvg-name="SPORTSTARS 4" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIUNvRaMe8DUNwRaTLsWwn8UAWbaw5pURQLNQuPTC516g.png" group-title="HOME TV",SPORTSTARS 4
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSTARS 4" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIUNvRaMe8DUNwRaTLsWwn8UAWbaw5pURQLNQuPTC516g.png" group-title="✅ HOME TV",SPORTSTARS 4
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/115
-#EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIMhYt1hf7virm9Q--unRFVOdVfqFVfJCsduaxSTR1u0g.png" group-title="HOME TV",SOCCER CHANNEL
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIMhYt1hf7virm9Q--unRFVOdVfqFVfJCsduaxSTR1u0g.png" group-title="✅ HOME TV",SOCCER CHANNEL
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/116
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier UK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIN_mVrHMXd4NcjzaBcd-u4SRUWGHikzVvUO2QIxAo_Yg.png" group-title="HOME TV",Sky Sports Premier UK
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier UK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIN_mVrHMXd4NcjzaBcd-u4SRUWGHikzVvUO2QIxAo_Yg.png" group-title="✅ HOME TV",Sky Sports Premier UK
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9796
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football UK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIN_mVrHMXd4NcjzaBcd-u4SRUWGHikzVvUO2QIxAo_Yg.png" group-title="HOME TV",Sky Sports Football UK
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football UK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIN_mVrHMXd4NcjzaBcd-u4SRUWGHikzVvUO2QIxAo_Yg.png" group-title="✅ HOME TV",Sky Sports Football UK
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9797
-#EXTINF:-1 tvg-id="" tvg-name="F ONE - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIJdpJ_LN7lbfBTyq-T1qZDA.png" group-title="HOME TV",F ONE - 1
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="F ONE - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIJdpJ_LN7lbfBTyq-T1qZDA.png" group-title="✅ HOME TV",F ONE - 1
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9798
-#EXTINF:-1 tvg-id="" tvg-name="TENNIS - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HImUuXgyeQ-hbz1E2pZuM2Ew.png" group-title="HOME TV",TENNIS - 2
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HImUuXgyeQ-hbz1E2pZuM2Ew.png" group-title="✅ HOME TV",TENNIS - 2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9799
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Events UK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIN_mVrHMXd4NcjzaBcd-u4SRUWGHikzVvUO2QIxAo_Yg.png" group-title="HOME TV",Sky Sports Main Events UK
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Events UK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIN_mVrHMXd4NcjzaBcd-u4SRUWGHikzVvUO2QIxAo_Yg.png" group-title="✅ HOME TV",Sky Sports Main Events UK
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9800
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action UK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIN_mVrHMXd4NcjzaBcd-u4SRUWGHikzVvUO2QIxAo_Yg.png" group-title="HOME TV",Sky Sports Action UK
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action UK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIN_mVrHMXd4NcjzaBcd-u4SRUWGHikzVvUO2QIxAo_Yg.png" group-title="✅ HOME TV",Sky Sports Action UK
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9801
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena UK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIN_mVrHMXd4NcjzaBcd-u4SRUWGHikzVvUO2QIxAo_Yg.png" group-title="HOME TV",Sky Sports Arena UK
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena UK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIN_mVrHMXd4NcjzaBcd-u4SRUWGHikzVvUO2QIxAo_Yg.png" group-title="✅ HOME TV",Sky Sports Arena UK
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9802
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIB1eReS05Pdo3yFWN6i_VMw.png" group-title="HOME TV",CRICKET - 2
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET - 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIB1eReS05Pdo3yFWN6i_VMw.png" group-title="✅ HOME TV",CRICKET - 2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9804
-#EXTINF:-1 tvg-id="" tvg-name="GOLF - 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIJGLkZ6n6I52AWF-BmKxeHg.png" group-title="HOME TV",GOLF - 3
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="GOLF - 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIJGLkZ6n6I52AWF-BmKxeHg.png" group-title="✅ HOME TV",GOLF - 3
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9805
-#EXTINF:-1 tvg-id="" tvg-name="MOTOGP - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIZBobZR-8Qt1rXIIhn6I_1A.png" group-title="HOME TV",MOTOGP - 1
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="MOTOGP - 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIZBobZR-8Qt1rXIIhn6I_1A.png" group-title="✅ HOME TV",MOTOGP - 1
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9806
-#EXTINF:-1 tvg-id="" tvg-name="TENNIS - 4" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HImUuXgyeQ-hbz1E2pZuM2Ew.png" group-title="HOME TV",TENNIS - 4
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS - 4" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HImUuXgyeQ-hbz1E2pZuM2Ew.png" group-title="✅ HOME TV",TENNIS - 4
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9807
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 1 UK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI_MF_cC8lQq0rmgZi56arSDFia4V3P-uI23WAvbXkT1w.png" group-title="✅ EUROSPORTS",EUROSPORTS 1 UK
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 1 UK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI_MF_cC8lQq0rmgZi56arSDFia4V3P-uI23WAvbXkT1w.png" group-title="✅ HOME TV",EUROSPORTS 1 UK
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9808
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 2 UK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI_MF_cC8lQq0rmgZi56arSDFia4V3P-uI23WAvbXkT1w.png" group-title="✅ EUROSPORTS",EUROSPORTS 2 UK
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 2 UK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI_MF_cC8lQq0rmgZi56arSDFia4V3P-uI23WAvbXkT1w.png" group-title="✅ HOME TV",EUROSPORTS 2 UK
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9809
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjzPdLQaIUhcQ8g90WeO6EgsIgFL9j3HurDIB4turGWXA.png" group-title="HOME TV",AXN
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjzPdLQaIUhcQ8g90WeO6EgsIgFL9j3HurDIB4turGWXA.png" group-title="✅ HOME TV",AXN
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/10928
-#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiJ4mFYUs2kHPz5eYk89VYrnb40kv1EcDkhn1ueTq8KlXTOb8OQpdUBGkBXeRIYVEs.png" group-title="HOME TV",BERITA SATU
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiJ4mFYUs2kHPz5eYk89VYrnb40kv1EcDkhn1ueTq8KlXTOb8OQpdUBGkBXeRIYVEs.png" group-title="✅ HOME TV",BERITA SATU
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11538
-#EXTINF:-1 tvg-id="" tvg-name="SINDO NEWS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgtyoucKzDs9uQr66CXM8qp9dDsE2JsRZiiQEoxVs2R1gH3fw1ZYG2AJakeNOrY1QI.png" group-title="HOME TV",SINDO NEWS
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="SINDO NEWS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgtyoucKzDs9uQr66CXM8qp9dDsE2JsRZiiQEoxVs2R1gH3fw1ZYG2AJakeNOrY1QI.png" group-title="✅ HOME TV",SINDO NEWS
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11539
-#EXTINF:-1 tvg-id="" tvg-name="CNN INDONESIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLisOvawa5Fd3f52I93QlTy2XG-4BUaEjXTsidQKunn8zKQ8wYSsYimNh7RekOYJlbM.png" group-title="HOME TV",CNN INDONESIA
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CNN INDONESIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLisOvawa5Fd3f52I93QlTy2XG-4BUaEjXTsidQKunn8zKQ8wYSsYimNh7RekOYJlbM.png" group-title="✅ HOME TV",CNN INDONESIA
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11540
-#EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLisOvawa5Fd3f52I93QlTy2UKSTtDIwKVBFpldoKIv9VFYWsGTGa5SuNgil9eQaNLs.png" group-title="HOME TV",CNBC INDONESIA
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLisOvawa5Fd3f52I93QlTy2UKSTtDIwKVBFpldoKIv9VFYWsGTGa5SuNgil9eQaNLs.png" group-title="✅ HOME TV",CNBC INDONESIA
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11541
-#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjPiejPtrhp_TZeZj9yC8LTu5fUc8LCoDFxKep_s3xoFQ.png" group-title="HOME TV",TVRI
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjPiejPtrhp_TZeZj9yC8LTu5fUc8LCoDFxKep_s3xoFQ.png" group-title="✅ HOME TV",TVRI
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11542
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BIOSKOP" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLg4lCGfGUDy-NWPv40SYwVdxim9IkjRAPcIomvx0-CEX-j5NRycFusNkh9N4LNxj0c.png" group-title="HOME TV",ZEE BIOSKOP
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BIOSKOP" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLg4lCGfGUDy-NWPv40SYwVdxim9IkjRAPcIomvx0-CEX-j5NRycFusNkh9N4LNxj0c.png" group-title="✅ HOME TV",ZEE BIOSKOP
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11545
-#EXTINF:-1 tvg-id="" tvg-name="GALAXY" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjxZVmLKEd_znHyIK_cPJTZVblIADkUuIQAO_XTRUJJGRl4xAGxeia8hLQOCWIRjS4.png" group-title="HOME TV",GALAXY
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="GALAXY" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjxZVmLKEd_znHyIK_cPJTZVblIADkUuIQAO_XTRUJJGRl4xAGxeia8hLQOCWIRjS4.png" group-title="✅ HOME TV",GALAXY
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11546
-#EXTINF:-1 tvg-id="" tvg-name="GALAXY PREMIUM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjxZVmLKEd_znHyIK_cPJTZz6sdMphURlCX6ADXlJ78pJOOGDRLQHIHGdVM4VtToaA.png" group-title="HOME TV",GALAXY PREMIUM
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="GALAXY PREMIUM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjxZVmLKEd_znHyIK_cPJTZz6sdMphURlCX6ADXlJ78pJOOGDRLQHIHGdVM4VtToaA.png" group-title="✅ HOME TV",GALAXY PREMIUM
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11547
-#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhNcCDTd31D8DBPwoz4XlnVXRaijNsRfZXAwsfckqiU7c3YsHHH8bg8r5yJ7C8C3ww.png" group-title="HOME TV",CINEMACHI
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhNcCDTd31D8DBPwoz4XlnVXRaijNsRfZXAwsfckqiU7c3YsHHH8bg8r5yJ7C8C3ww.png" group-title="✅ HOME TV",CINEMACHI
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11548
-#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI ACTION" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhNcCDTd31D8DBPwoz4XlnV8TWE7jhiU8FYCHPK0xRVuIwCRjbCsoU2YA7kJneqJ6I.png" group-title="HOME TV",CINEMACHI ACTION
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI ACTION" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhNcCDTd31D8DBPwoz4XlnV8TWE7jhiU8FYCHPK0xRVuIwCRjbCsoU2YA7kJneqJ6I.png" group-title="✅ HOME TV",CINEMACHI ACTION
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11549
-#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI MAX" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhNcCDTd31D8DBPwoz4XlnV9_AGcMnwmgs3lewRMj_x1ujGp_sjKRN9Uqu7kXyJH4g.png" group-title="HOME TV",CINEMACHI MAX
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI MAX" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhNcCDTd31D8DBPwoz4XlnV9_AGcMnwmgs3lewRMj_x1ujGp_sjKRN9Uqu7kXyJH4g.png" group-title="✅ HOME TV",CINEMACHI MAX
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11550
-#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI EXTRA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhNcCDTd31D8DBPwoz4XlnV6bsffO5VAiTkumWB4USqWqTvmm5vV70la1qbJ8zNm1E.png" group-title="HOME TV",CINEMACHI EXTRA
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI EXTRA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhNcCDTd31D8DBPwoz4XlnV6bsffO5VAiTkumWB4USqWqTvmm5vV70la1qbJ8zNm1E.png" group-title="✅ HOME TV",CINEMACHI EXTRA
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11551
-#EXTINF:-1 tvg-id="" tvg-name="My CINEMA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLidjVC3LBybSaTmpqu-PYHJn4SYefWYbFmKLhIot84NAKpygvZCxJats-2ZvgwBxUw.png" group-title="HOME TV",My CINEMA
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="My CINEMA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLidjVC3LBybSaTmpqu-PYHJn4SYefWYbFmKLhIot84NAKpygvZCxJats-2ZvgwBxUw.png" group-title="✅ HOME TV",My CINEMA
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11552
-#EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6LNi9zZzM1gq4qIk8XZasV7O77BjDWnhIowJRfJlpkJV8.png" group-title="HOME TV",VISION PRIME
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6LNi9zZzM1gq4qIk8XZasV7O77BjDWnhIowJRfJlpkJV8.png" group-title="✅ HOME TV",VISION PRIME
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11553
-#EXTINF:-1 tvg-id="" tvg-name="OK TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6LKR5J6B2QhdDR3uUsZdxCSuNHws7J-51xNxqT8RpKfPg.png" group-title="HOME TV",OK TV
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="OK TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6LKR5J6B2QhdDR3uUsZdxCSuNHws7J-51xNxqT8RpKfPg.png" group-title="✅ HOME TV",OK TV
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11554
-#EXTINF:-1 tvg-id="" tvg-name="FMN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6Lrqo0pzCTJq1NNbCJzxinqk_LJ2Dw9NhKZJ6PJNRRasE.png" group-title="HOME TV",FMN
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="FMN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6Lrqo0pzCTJq1NNbCJzxinqk_LJ2Dw9NhKZJ6PJNRRasE.png" group-title="✅ HOME TV",FMN
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11555
-#EXTINF:-1 tvg-id="" tvg-name="TV 5 MONDE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6LyE77Pd_2K1E9l80o-KHYlJn8sYKGw9whKPIec-gO1qw.png" group-title="HOME TV",TV 5 MONDE
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 MONDE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6LyE77Pd_2K1E9l80o-KHYlJn8sYKGw9whKPIec-gO1qw.png" group-title="✅ HOME TV",TV 5 MONDE
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11557
-#EXTINF:-1 tvg-id="" tvg-name="ABC AUSTRALIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6LeyG39Ev759stxJ2J7rZerSh8egRV3G0DLubbV3qRVally4La7vkeV0p_x6mQrgO7.png" group-title="HOME TV",ABC AUSTRALIA
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="ABC AUSTRALIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6LeyG39Ev759stxJ2J7rZerSh8egRV3G0DLubbV3qRVally4La7vkeV0p_x6mQrgO7.png" group-title="✅ HOME TV",ABC AUSTRALIA
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11558
-#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6LHkPvrmKxjsT-FTcGwp60rkyk48m_o6J-SvroV13PWoI.png" group-title="HOME TV",NHK WORLD
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6LHkPvrmKxjsT-FTcGwp60rkyk48m_o6J-SvroV13PWoI.png" group-title="✅ HOME TV",NHK WORLD
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11559
-#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD PREMIUM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6L266iumD8zkOwbVFD0A3Hwy5J_Ilz4opzcTCVGDz9OQI.png" group-title="HOME TV",NHK WORLD PREMIUM
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD PREMIUM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6L266iumD8zkOwbVFD0A3Hwy5J_Ilz4opzcTCVGDz9OQI.png" group-title="✅ HOME TV",NHK WORLD PREMIUM
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11560
-#EXTINF:-1 tvg-id="" tvg-name="KBS WORLD" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6Lh9zNLxtCdI-uxO4IqIcHHzH3ZfQjLbUK1kgw0tH9RqI.png" group-title="HOME TV",KBS WORLD
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="KBS WORLD" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6Lh9zNLxtCdI-uxO4IqIcHHzH3ZfQjLbUK1kgw0tH9RqI.png" group-title="✅ HOME TV",KBS WORLD
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11561
-#EXTINF:-1 tvg-id="" tvg-name="ARIRANG" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6L0YpnddMwJbarsKkS6iJdE40bk9Vu04lH0GS68iTWkLQ.png" group-title="HOME TV",ARIRANG
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="ARIRANG" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhc5fbCFBj3pQpP2vvYud6L0YpnddMwJbarsKkS6iJdE40bk9Vu04lH0GS68iTWkLQ.png" group-title="✅ HOME TV",ARIRANG
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11562
-#EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh8SrOo7W4i5IRuMIk2TwE9Z6PYitPoQHmq4lhOzIYaxchHEL026PLks3gD85043e8.png" group-title="HOME TV",CGTN DOCUMENTARY
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLh8SrOo7W4i5IRuMIk2TwE9Z6PYitPoQHmq4lhOzIYaxchHEL026PLks3gD85043e8.png" group-title="✅ HOME TV",CGTN DOCUMENTARY
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11564
-#EXTINF:-1 tvg-id="" tvg-name="KIDS TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhFiYCZgqcguJIBWlN2_B-mwNNZ3DlB0GvknPubGDnF_tpepGvZeC7zqYLzJuVEdx4.png" group-title="HOME TV",KIDS TV
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="KIDS TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhFiYCZgqcguJIBWlN2_B-mwNNZ3DlB0GvknPubGDnF_tpepGvZeC7zqYLzJuVEdx4.png" group-title="✅ HOME TV",KIDS TV
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11565
-#EXTINF:-1 tvg-id="" tvg-name="CBEBIES" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhtAW4tl2xaFoFZiikp03-Pc0L25avNvl1lU_X4iWsFQlquCtKGI3VuCEl862S2zmM.png" group-title="HOME TV",CBEBIES
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CBEBIES" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhtAW4tl2xaFoFZiikp03-Pc0L25avNvl1lU_X4iWsFQlquCtKGI3VuCEl862S2zmM.png" group-title="✅ HOME TV",CBEBIES
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11566
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj3OzGX6epUMjpcg2g-tao2x0hPaOB8ZV_zDw1DZ5xr803sZUIXM3PU0QIpkU-yhko.png" group-title="HOME TV",NICKELODEON
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj3OzGX6epUMjpcg2g-tao2x0hPaOB8ZV_zDw1DZ5xr803sZUIXM3PU0QIpkU-yhko.png" group-title="✅ HOME TV",NICKELODEON
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11567
-#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI KIDS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLg_SytwClBOtdZRG_we-S85te4dlx_w4gigp_XKIVGvY1zI-7vPBrECS9WB-oNVrkA.png" group-title="HOME TV",CINEMACHI KIDS
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI KIDS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLg_SytwClBOtdZRG_we-S85te4dlx_w4gigp_XKIVGvY1zI-7vPBrECS9WB-oNVrkA.png" group-title="✅ HOME TV",CINEMACHI KIDS
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11568
-#EXTINF:-1 tvg-id="" tvg-name="ZOO MOO" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj_56EUMaVb4kTj24v4zVxBmymTyiC1gBoJ9ByYgrCujcql0uDUFUP_NnX7mvBjfoU.png" group-title="HOME TV",ZOO MOO
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="ZOO MOO" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj_56EUMaVb4kTj24v4zVxBmymTyiC1gBoJ9ByYgrCujcql0uDUFUP_NnX7mvBjfoU.png" group-title="✅ HOME TV",ZOO MOO
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11569
-#EXTINF:-1 tvg-id="" tvg-name="CNBC ASIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjERjChMcx0fN3TxzwWhssxsHcH7jNSj53F1BlvOSbI8myoSDDOFT-MC013jcNMc4c.png" group-title="HOME TV",CNBC ASIA
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CNBC ASIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjERjChMcx0fN3TxzwWhssxsHcH7jNSj53F1BlvOSbI8myoSDDOFT-MC013jcNMc4c.png" group-title="✅ HOME TV",CNBC ASIA
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11570
-#EXTINF:-1 tvg-id="" tvg-name="RT ENGLISH" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgwnEAfVEJNmLQkimE5umQtT7rhrdF1rG7aqolcegs1CiYXylKoA-AMItPkpItN0_A.png" group-title="HOME TV",RT ENGLISH
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="RT ENGLISH" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgwnEAfVEJNmLQkimE5umQtT7rhrdF1rG7aqolcegs1CiYXylKoA-AMItPkpItN0_A.png" group-title="✅ HOME TV",RT ENGLISH
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11571
-#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhcVEEq3EXEvSC177mw5NcT7jmNqg8nqIl9765a7Dfx-47Tz0YijkESKM2BxykewvI.png" group-title="HOME TV",BBC WORLD
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhcVEEq3EXEvSC177mw5NcT7jmNqg8nqIl9765a7Dfx-47Tz0YijkESKM2BxykewvI.png" group-title="✅ HOME TV",BBC WORLD
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11572
-#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj4s1R2ptTSnbkm_rt-LmRBEHAzyFGzbhAkyywWw9U9YMLOvD7oO_hfgKN-4acMrOA.png" group-title="HOME TV",ALJAZEERA
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj4s1R2ptTSnbkm_rt-LmRBEHAzyFGzbhAkyywWw9U9YMLOvD7oO_hfgKN-4acMrOA.png" group-title="✅ HOME TV",ALJAZEERA
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11573
-#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj7HpxvBUwn-p5E2MplNBT8ZBP7MyzXdiJipR8lGFRMUFFafsp3tMRQaBi7DoYHn2M.png" group-title="HOME TV",BLOOMBERG
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj7HpxvBUwn-p5E2MplNBT8ZBP7MyzXdiJipR8lGFRMUFFafsp3tMRQaBi7DoYHn2M.png" group-title="✅ HOME TV",BLOOMBERG
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11574
-#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhHgzKX2ESZLH_sUD3h36Hyy9dFsB4T1HOI_H1y4ypZwA.png" group-title="HOME TV",CGTN
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhHgzKX2ESZLH_sUD3h36Hyy9dFsB4T1HOI_H1y4ypZwA.png" group-title="✅ HOME TV",CGTN
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11575
-#EXTINF:-1 tvg-id="" tvg-name="DW ENGLISH" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLju56qd7QnuoyIXyZOgymZdTyXLVWlWPDNMrWp2v8phO9gszKnHNuuZQylHO5f4ErI.png" group-title="HOME TV",DW ENGLISH
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="DW ENGLISH" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLju56qd7QnuoyIXyZOgymZdTyXLVWlWPDNMrWp2v8phO9gszKnHNuuZQylHO5f4ErI.png" group-title="✅ HOME TV",DW ENGLISH
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11576
-#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjv51UO9S3HlHYMG5xPTdn063fO5tz41KBeuT7HpdQ77t7axdDK18ID4XOkyEsDp3w.png" group-title="HOME TV",EURO NEWS
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjv51UO9S3HlHYMG5xPTdn063fO5tz41KBeuT7HpdQ77t7axdDK18ID4XOkyEsDp3w.png" group-title="✅ HOME TV",EURO NEWS
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11577
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiuw9pv-MdhlBq2tgzIEkMn2T2ij4J1NZ6rdavuxU3O2X0Ko36juhSOb8vrB2zbFnY.png" group-title="HOME TV",FRANCE 24
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiuw9pv-MdhlBq2tgzIEkMn2T2ij4J1NZ6rdavuxU3O2X0Ko36juhSOb8vrB2zbFnY.png" group-title="✅ HOME TV",FRANCE 24
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11578
-#EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjERjChMcx0fN3TxzwWhssxObMiXobjZE6vxqRHrwWb5A.png" group-title="HOME TV",CNA
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjERjChMcx0fN3TxzwWhssxObMiXobjZE6vxqRHrwWb5A.png" group-title="✅ HOME TV",CNA
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11579
-#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjGdNdAE2DoPBR_iL0nay3H86vCNX36_XYSZh8YGyGXrek8_Qc6GDc-5UQjf0BfC18.png" group-title="HOME TV",FOX NEWS
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjGdNdAE2DoPBR_iL0nay3H86vCNX36_XYSZh8YGyGXrek8_Qc6GDc-5UQjf0BfC18.png" group-title="✅ HOME TV",FOX NEWS
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11580
-#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgUa_O6AeUHlE0YKC5PLexjCvBvTbMjuhAfcl6eMhyYWA.png" group-title="HOME TV",IDX
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgUa_O6AeUHlE0YKC5PLexjCvBvTbMjuhAfcl6eMhyYWA.png" group-title="✅ HOME TV",IDX
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11581
-#EXTINF:-1 tvg-id="" tvg-name="SEA TODAY" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLg2y3ROhn6NacLsneSVIEOZu4-5rWVhF976204CBPOZCVrCHFabVOt1kexNiPd7mqQ.png" group-title="HOME TV",SEA TODAY
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="SEA TODAY" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLg2y3ROhn6NacLsneSVIEOZu4-5rWVhF976204CBPOZCVrCHFabVOt1kexNiPd7mqQ.png" group-title="✅ HOME TV",SEA TODAY
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11582
-#EXTINF:-1 tvg-id="" tvg-name="MUSLIM TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhUv2ykT7Uec6xVMjvS6n2xn504Rcx4YgPLS9JhIofR0wkgJV9VuE2vyf2wRH1AyTQ.png" group-title="HOME TV",MUSLIM TV
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="MUSLIM TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhUv2ykT7Uec6xVMjvS6n2xn504Rcx4YgPLS9JhIofR0wkgJV9VuE2vyf2wRH1AyTQ.png" group-title="✅ HOME TV",MUSLIM TV
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11583
-#EXTINF:-1 tvg-id="" tvg-name="MAKKAH TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhUv2ykT7Uec6xVMjvS6n2xMwSCY6wNBJCFZwutg7pZ4mnZAY9dO_Dmebbhllw-Rt8.png" group-title="HOME TV",MAKKAH TV
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="MAKKAH TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhUv2ykT7Uec6xVMjvS6n2xMwSCY6wNBJCFZwutg7pZ4mnZAY9dO_Dmebbhllw-Rt8.png" group-title="✅ HOME TV",MAKKAH TV
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11584
-#EXTINF:-1 tvg-id="" tvg-name="TAWAF TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhUv2ykT7Uec6xVMjvS6n2xa4qyU7Nm6eh7tQ1xBt6MtsPl47m4CzvQ0r03JXoxThY.png" group-title="HOME TV",TAWAF TV
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="TAWAF TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhUv2ykT7Uec6xVMjvS6n2xa4qyU7Nm6eh7tQ1xBt6MtsPl47m4CzvQ0r03JXoxThY.png" group-title="✅ HOME TV",TAWAF TV
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11585
-#EXTINF:-1 tvg-id="" tvg-name="MUHAMMADIYAH TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhUv2ykT7Uec6xVMjvS6n2xTfJpEOukKkc8UFdfKvBWAXawVHByjrn2qG-_gJB2H2c.png" group-title="HOME TV",MUHAMMADIYAH TV
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="MUHAMMADIYAH TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhUv2ykT7Uec6xVMjvS6n2xTfJpEOukKkc8UFdfKvBWAXawVHByjrn2qG-_gJB2H2c.png" group-title="✅ HOME TV",MUHAMMADIYAH TV
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11586
-#EXTINF:-1 tvg-id="" tvg-name="REFORMED 21" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhUv2ykT7Uec6xVMjvS6n2xGpmZ8qj0XnCTW52HovA8gxmEGKZjGS-cG0e08pX2gpQ.png" group-title="HOME TV",REFORMED 21
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="REFORMED 21" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhUv2ykT7Uec6xVMjvS6n2xGpmZ8qj0XnCTW52HovA8gxmEGKZjGS-cG0e08pX2gpQ.png" group-title="✅ HOME TV",REFORMED 21
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11587
-#EXTINF:-1 tvg-id="" tvg-name="LIFE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhUv2ykT7Uec6xVMjvS6n2xPQ_MeZIlPn_xwM3_Nc9KoKJ1EHOjdmOU2yLbmpFxfrk.png" group-title="HOME TV",LIFE
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="LIFE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhUv2ykT7Uec6xVMjvS6n2xPQ_MeZIlPn_xwM3_Nc9KoKJ1EHOjdmOU2yLbmpFxfrk.png" group-title="✅ HOME TV",LIFE
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11588
-#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhUv2ykT7Uec6xVMjvS6n2xyCuduzx5bBpr6WINoNp7pChs36TgNXfi9VN3ghsmOUc.png" group-title="HOME TV",EWTN
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhUv2ykT7Uec6xVMjvS6n2xyCuduzx5bBpr6WINoNp7pChs36TgNXfi9VN3ghsmOUc.png" group-title="✅ HOME TV",EWTN
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11589
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO BOO" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTt_5IksNDjy9919iCXaj1Rg.png" group-title="HOME TV",ASTRO BOO
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO BOO" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTt_5IksNDjy9919iCXaj1Rg.png" group-title="✅ HOME TV",ASTRO BOO
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11618
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO CERIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiAW2OJp62HtK6GerrjKK7TtFSWLLx8cXCSvgoPWnkB7lLgVX7W0W3ACKW3cScwt7I.png" group-title="HOME TV",ASTRO CERIA
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CERIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiAW2OJp62HtK6GerrjKK7TtFSWLLx8cXCSvgoPWnkB7lLgVX7W0W3ACKW3cScwt7I.png" group-title="✅ HOME TV",ASTRO CERIA
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11619
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO OASIS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTEPQA6hges0FDYRDyxZLRVuOf4PxMyYs3zuBv0EXsowU.png" group-title="HOME TV",ASTRO OASIS
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO OASIS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTEPQA6hges0FDYRDyxZLRVuOf4PxMyYs3zuBv0EXsowU.png" group-title="✅ HOME TV",ASTRO OASIS
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11620
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO RANIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTj-bqHLRFWDzFWhUtSH1qwS9c4uDxiC0H_0_bhhGFX5c.png" group-title="HOME TV",ASTRO RANIA
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO RANIA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTj-bqHLRFWDzFWhUtSH1qwS9c4uDxiC0H_0_bhhGFX5c.png" group-title="✅ HOME TV",ASTRO RANIA
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11621
-#EXTINF:-1 tvg-id="" tvg-name="AWESOME" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTfDFSpzgmKzupXv0owIfiEC2CNZMq8fe2Y-IBOMhXHuw.png" group-title="HOME TV",AWESOME
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="AWESOME" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTfDFSpzgmKzupXv0owIfiEC2CNZMq8fe2Y-IBOMhXHuw.png" group-title="✅ HOME TV",AWESOME
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11622
-#EXTINF:-1 tvg-id="" tvg-name="TV 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfT3QM_0h9h0SxL6WUjuwbZWg.png" group-title="HOME TV",TV 1
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="TV 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfT3QM_0h9h0SxL6WUjuwbZWg.png" group-title="✅ HOME TV",TV 1
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11623
-#EXTINF:-1 tvg-id="" tvg-name="TV 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfT3QKhCgjAODgLlthVHFLQcw.png" group-title="HOME TV",TV 2
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-id="" tvg-name="TV 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfT3QKhCgjAODgLlthVHFLQcw.png" group-title="✅ HOME TV",TV 2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11624
-#EXTINF:-1 tvg-id="" tvg-name="TV 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgPjN945VQC0lHyYA_H6MfTicKHRwS26kitZ6JWQ5IGzQ.png" group-title="HOME TV",TV 3
