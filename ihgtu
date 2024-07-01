@@ -6282,1120 +6282,1120 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 #EXTM3U
 #EXTINF:-1 tvg-id="Trans7" tvg-name="TRANS 7 HD" tvg-logo="https://hometv.pw/logo/lokal2/trans7.png" group-title="IPTV KITA",TRANS 7 HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3515
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3515
 #EXTINF:-1 tvg-id="TransTV" tvg-name="TRANS TV HD" tvg-logo="https://hometv.pw/logo/lokal2/transtv.png" group-title="IPTV KITA",TRANS TV HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3516
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3516
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR HD" tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="IPTV KITA",INDOSIAR HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3517
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3517
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV HD" tvg-logo="https://hometv.pw/logo/lokal2/sctv.png" group-title="IPTV KITA",SCTV HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3518
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3518
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI HD" tvg-logo="https://hometv.pw/logo/lokal2/rcti.png" group-title="IPTV KITA",RCTI HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3519
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3519
 #EXTINF:-1 tvg-id="MNC" tvg-name="MNC TV HD" tvg-logo="https://hometv.pw/logo/lokal2/mnctv.png" group-title="IPTV KITA",MNC TV HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3520
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3520
 #EXTINF:-1 tvg-id="GTV" tvg-name="GTV HD" tvg-logo="https://hometv.pw/logo/lokal2/gtv.png" group-title="IPTV KITA",GTV HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3521
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3521
 #EXTINF:-1 tvg-id="iNews" tvg-name="iNEWS TV" tvg-logo="https://hometv.pw/logo/lokal2/inews.png" group-title="IPTV KITA",iNEWS TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3522
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3522
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV HD" tvg-logo="https://hometv.pw/logo/lokal2/antv.png" group-title="IPTV KITA",ANTV HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3523
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3523
 #EXTINF:-1 tvg-id="TV One" tvg-name="TV ONE HD" tvg-logo="https://hometv.pw/logo/lokal2/tvone.png" group-title="IPTV KITA",TV ONE HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3524
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3524
 #EXTINF:-1 tvg-id="Net." tvg-name="NET TV HD" tvg-logo="https://hometv.pw/logo/lokal2/nettv.png" group-title="IPTV KITA",NET TV HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/11
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/11
 #EXTINF:-1 tvg-id="Metro TV" tvg-name="METRO TV HD" tvg-logo="https://hometv.pw/logo/lokal2/metrotv.png" group-title="IPTV KITA",METRO TV HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/12
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/12
 #EXTINF:-1 tvg-id="Kompas TV" tvg-name="KOMPAS TV HD" tvg-logo="https://hometv.pw/logo/lokal2/kompastv.png" group-title="IPTV KITA",KOMPAS TV HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/13
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/13
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-name="RTV HD" tvg-logo="https://hometv.pw/logo/lokal2/rtv.png" group-title="IPTV KITA",RTV HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/14
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/14
 #EXTINF:-1 tvg-id="" tvg-name="TVRI HD" tvg-logo="https://hometv.pw/logo/lokal2/tvri.png" group-title="IPTV KITA",TVRI HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/19
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/19
 #EXTINF:-1 tvg-id="" tvg-name="BERITA SATU HD" tvg-logo="https://hometv.pw/logo/lokal2/beritasatu.png" group-title="IPTV KITA",BERITA SATU HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/16
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/16
 #EXTINF:-1 tvg-id="" tvg-name="CNN INDONESIA" tvg-logo="https://hometv.pw/logo/lokal2/cnn_indonesia.png" group-title="IPTV KITA",CNN INDONESIA
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/17
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/17
 #EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="https://hometv.pw/logo/lokal2/cnbc_indonesia.png" group-title="IPTV KITA",CNBC INDONESIA
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/18
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/18
 #EXTINF:-1 tvg-id="" tvg-name="Bioskop Action" tvg-logo="https://hometv.pw/logo/movies/bioskop247.png" group-title="IPTV KITA",Bioskop Action
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/20
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/20
 #EXTINF:-1 tvg-id="" tvg-name="Bioskop Thriller" tvg-logo="https://hometv.pw/logo/movies/bioskop247.png" group-title="IPTV KITA",Bioskop Thriller
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/21
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/21
 #EXTINF:-1 tvg-id="" tvg-name="Bioskop China" tvg-logo="https://hometv.pw/logo/movies/bioskop247.png" group-title="IPTV KITA",Bioskop China
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/22
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/22
 #EXTINF:-1 tvg-id="" tvg-name="Bioskop Bollywood" tvg-logo="https://hometv.pw/logo/movies/bioskop247.png" group-title="IPTV KITA",Bioskop Bollywood
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/23
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/23
 #EXTINF:-1 tvg-id="" tvg-name="Bioskop Drama & Family" tvg-logo="https://hometv.pw/logo/movies/bioskop247.png" group-title="IPTV KITA",Bioskop Drama & Family
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/24
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/24
 #EXTINF:-1 tvg-id="" tvg-name="Bioskop Horror" tvg-logo="https://hometv.pw/logo/movies/bioskop247.png" group-title="IPTV KITA",Bioskop Horror
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/25
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/25
 #EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="https://hometv.pw/logo/movies/bioskop247.png" group-title="IPTV KITA",Bioskop Indonesia
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/26
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/26
 #EXTINF:-1 tvg-id="" tvg-name="Bioskop Warkop DKI" tvg-logo="https://hometv.pw/logo/movies/bioskop247.png" group-title="IPTV KITA",Bioskop Warkop DKI
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/27
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/27
 #EXTINF:-1 tvg-id="" tvg-name="Just For Laughs" tvg-logo="https://hometv.pw/logo/campur/jfl.png" group-title="IPTV KITA",Just For Laughs
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/28
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/28
 #EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY" tvg-logo="https://hometv.pw/logo/kids2/tom_jerry.png" group-title="IPTV KITA",TOM & JERRY
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/29
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/29
 #EXTINF:-1 tvg-id="" tvg-name="MR. BEAN" tvg-logo="https://hometv.pw/logo/kids2/bean.png" group-title="IPTV KITA",MR. BEAN
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/30
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/30
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title="IPTV KITA",HBO HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/31
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/31
 #EXTINF:-1 tvg-id="" tvg-name="HBO SIGN HD" tvg-logo="https://hometv.pw/logo/movies2/hbo_sign.png" group-title="IPTV KITA",HBO SIGN HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/32
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/32
 #EXTINF:-1 tvg-id="" tvg-name="HBO HITS HD" tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title="IPTV KITA",HBO HITS HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/33
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/33
 #EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="https://hometv.pw/logo/movies2/hbo_family.png" group-title="IPTV KITA",HBO FAMILY HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/34
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/34
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="https://hometv.pw/logo/movies2/cinemax.png" group-title="IPTV KITA",CINEMAX HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/35
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/35
 #EXTINF:-1 tvg-id="" tvg-name="BIOSKOP INDONESIA HD" tvg-logo="https://hometv.pw/logo/movies2/bioskop_indonesia.png" group-title="IPTV KITA",BIOSKOP INDONESIA HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/36
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/36
 #EXTINF:-1 tvg-id="" tvg-name="FLIK HD" tvg-logo="https://hometv.pw/logo/movies2/flik.png" group-title="IPTV KITA",FLIK HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/37
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/37
 #EXTINF:-1 tvg-id="" tvg-name="IMC HD" tvg-logo="https://hometv.pw/logo/movies2/imc.png" group-title="IPTV KITA",IMC HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/38
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/38
 #EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="https://hometv.pw/logo/movies2/warner.png" group-title="IPTV KITA",WARNER HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/40
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/40
 #EXTINF:-1 tvg-id="" tvg-name="CCM HD" tvg-logo="https://hometv.pw/logo/movies2/ccm.png" group-title="IPTV KITA",CCM HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/42
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/42
 #EXTINF:-1 tvg-id="" tvg-name="CELESTIAL MOVIES HD" tvg-logo="https://hometv.pw/logo/movies2/celestial_movies.png" group-title="IPTV KITA",CELESTIAL MOVIES HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/43
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/43
 #EXTINF:-1 tvg-id="" tvg-name="ROCK ACTION HD" tvg-logo="https://hometv.pw/logo/movies2/rock_action.png" group-title="IPTV KITA",ROCK ACTION HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/45
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/45
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://hometv.pw/logo/movies2/axn.png" group-title="IPTV KITA",AXN HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/46
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/46
 #EXTINF:-1 tvg-id="" tvg-name="KIX HD" tvg-logo="https://hometv.pw/logo/movies2/kix.png" group-title="IPTV KITA",KIX HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/47
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/47
 #EXTINF:-1 tvg-id="" tvg-name="THRILL HD" tvg-logo="https://hometv.pw/logo/movies2/thrill.png" group-title="IPTV KITA",THRILL HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/48
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/48
 #EXTINF:-1 tvg-id="" tvg-name="TVN Movies HD" tvg-logo="https://hometv.pw/logo/movies2/tvn_movies.png" group-title="IPTV KITA",TVN Movies HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/49
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/49
 #EXTINF:-1 tvg-id="" tvg-name="GALAXY HD" tvg-logo="https://hometv.pw/logo/movies2/galaxy.png" group-title="IPTV KITA",GALAXY HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/50
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/50
 #EXTINF:-1 tvg-id="" tvg-name="GALAXY PREMIUM HD" tvg-logo="https://hometv.pw/logo/movies2/galaxy_premium.png" group-title="IPTV KITA",GALAXY PREMIUM HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/51
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/51
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA WORLD HD" tvg-logo="https://hometv.pw/logo/movies2/cinema_world.png" group-title="IPTV KITA",CINEMA WORLD HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/52
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/52
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BIOSKOP" tvg-logo="https://hometv.pw/logo/movies2/zee_bioskop.png" group-title="IPTV KITA",ZEE BIOSKOP
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/4105
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4105
 #EXTINF:-1 tvg-id="" tvg-name="HITS HD" tvg-logo="https://hometv.pw/logo/movies2/hits.png" group-title="IPTV KITA",HITS HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/53
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/53
 #EXTINF:-1 tvg-id="" tvg-name="HITS MOVIES HD" tvg-logo="https://hometv.pw/logo/movies2/hits_movies.png" group-title="IPTV KITA",HITS MOVIES HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/54
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/54
 #EXTINF:-1 tvg-id="" tvg-name="CINEMACHI" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa4P-1Dp4Hh1lcdNQl-8ozYmzNqkL7zGKyUHlFyycMgWt.png" group-title="IPTV KITA",CINEMACHI
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3272
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3272
 #EXTINF:-1 tvg-id="" tvg-name="CINEMACHI ACTION" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa4P-1Dp4Hh1lcdNQl-8ozYnSrMApelhyQnoQ5XBm22XcQKlQKZBZW7iny48iS1DWcw.png" group-title="IPTV KITA",CINEMACHI ACTION
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3273
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3273
 #EXTINF:-1 tvg-id="" tvg-name="CINEMACHI MAX" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa4P-1Dp4Hh1lcdNQl-8ozYm4uOTmFYH5Sq8G4B9gkV6-hZzV1WswQPnyiTGqWNxyvA.png" group-title="IPTV KITA",CINEMACHI MAX
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3274
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3274
 #EXTINF:-1 tvg-id="" tvg-name="CINEMACHI EXTRA" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa4P-1Dp4Hh1lcdNQl-8ozYlVJEM8HplTy0r1ke0vFQY_yuR3d1DH8VjdzA7jOH16cA.png" group-title="IPTV KITA",CINEMACHI EXTRA
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3275
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3275
 #EXTINF:-1 tvg-id="" tvg-name="My CINEMA HD" tvg-logo="https://hometv.pw/logo/movies2/my_cinema.png" group-title="IPTV KITA",My CINEMA HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/55
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/55
 #EXTINF:-1 tvg-id="" tvg-name="My CINEMA Asia HD" tvg-logo="https://hometv.pw/logo/movies2/my_cinema_asia.png" group-title="IPTV KITA",My CINEMA Asia HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/56
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/56
 #EXTINF:-1 tvg-id="" tvg-name="My FAMILY Channel HD" tvg-logo="https://hometv.pw/logo/movies2/my_family_channel.png" group-title="IPTV KITA",My FAMILY Channel HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/57
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/57
 #EXTINF:-1 tvg-id="" tvg-name="DUNIA LAIN" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6I2XVy8bDI2T_adWDJtLRYZA2VEl_bV6RDY6_gJa9s3jMVYUyZvIYIbK8kiCr5qHw.png" group-title="IPTV KITA",DUNIA LAIN
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3277
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3277
 #EXTINF:-1 tvg-id="" tvg-name="K PLUS" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6I2XVy8bDI2T_adWDJtLRbv0kk51nv3oDSsLf9qRjjK.png" group-title="IPTV KITA",K PLUS
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3278
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3278
 #EXTINF:-1 tvg-id="" tvg-name="CHINESE DRAMA" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6I2XVy8bDI2T_adWDJtLRZLrDvuiiqnws6o5EunYCsZKC0QrDtN2JxTOwET1KFwKg.png" group-title="IPTV KITA",CHINESE DRAMA
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3279
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3279
 #EXTINF:-1 tvg-id="" tvg-name="SONY ONE" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6I2XVy8bDI2T_adWDJtLRbc1vvqntS7vViViRopK4sh.png" group-title="IPTV KITA",SONY ONE
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3280
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3280
 #EXTINF:-1 tvg-id="" tvg-name="SONY GEM" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6I2XVy8bDI2T_adWDJtLRbs7qmJD499sVcU3CwwU2y8.png" group-title="IPTV KITA",SONY GEM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3281
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3281
 #EXTINF:-1 tvg-id="" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6I2XVy8bDI2T_adWDJtLRYJy-QI83UWKBIkqYeP0kQAfhHnfD1AwGJDBZWI4ZiS0w.png" group-title="IPTV KITA",ROCK ENTERTAINMENT
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3282
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3282
 #EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6I2XVy8bDI2T_adWDJtLRYY2n9bUVgTjs5d9cJCRPdH.png" group-title="IPTV KITA",TVN
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3283
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3283
 #EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6I2XVy8bDI2T_adWDJtLRbH3QWMYvkkcJNBB2kG0IngknIymokt4BvxCbUP6FFLYw.png" group-title="IPTV KITA",VISION PRIME
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3285
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3285
 #EXTINF:-1 tvg-id="" tvg-name="OK TV" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6I2XVy8bDI2T_adWDJtLRbb3QUAfaBBmgeJ2FK9pIkN.png" group-title="IPTV KITA",OK TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3286
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3286
 #EXTINF:-1 tvg-id="" tvg-name="FMN" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6I2XVy8bDI2T_adWDJtLRZDmGO0ciaMNkxgX7J0fUMn.png" group-title="IPTV KITA",FMN
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3287
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3287
 #EXTINF:-1 tvg-id="" tvg-name="TV 5 MONDE" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6I2XVy8bDI2T_adWDJtLRabAQqr-Tg3eVleJyJRGGyD-uYexUJamJ4Y0YQAMCcvrg.png" group-title="IPTV KITA",TV 5 MONDE
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3289
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3289
 #EXTINF:-1 tvg-id="" tvg-name="ABC AUSTRALIA" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6I2XVy8bDI2T_adWDJtLRakZo9YQj4edoUi77ghifnzWZ6WmSF4QPEAkVsDD7k7mg.png" group-title="IPTV KITA",ABC AUSTRALIA
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3290
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3290
 #EXTINF:-1 tvg-id="" tvg-name="NHK WORLD" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6I2XVy8bDI2T_adWDJtLRb6aR3cAkDURO0bz8-rJt--Y7LES9m-kVOI-HVXoangJw.png" group-title="IPTV KITA",NHK WORLD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3291
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3291
 #EXTINF:-1 tvg-id="" tvg-name="NHK WORLD PREMIUM" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6I2XVy8bDI2T_adWDJtLRYcZsv_SN1ife2K3dgiebg3LUgk7wBuxyVRdchQhL76qA.png" group-title="IPTV KITA",NHK WORLD PREMIUM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3292
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3292
 #EXTINF:-1 tvg-id="" tvg-name="KBS WORLD" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6I2XVy8bDI2T_adWDJtLRa4jhNtMDPlM8OTiJVUcFXJi8MabF8zsO6O8csRsIx6cA.png" group-title="IPTV KITA",KBS WORLD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3293
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3293
 #EXTINF:-1 tvg-id="" tvg-name="ARIRANG" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6I2XVy8bDI2T_adWDJtLRZT8U26Myai4DOeeTqLjyY83vZ8ehgjhOG4BAmWIxFutg.png" group-title="IPTV KITA",ARIRANG
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3294
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3294
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa3EByPUu2Xz04JOjDA96WkOOroE4NaJE79IX1BSx4s58.png" group-title="IPTV KITA",DISCOVERY CHANNEL
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3295
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3295
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa3EByPUu2Xz04JOjDA96WkOit2OgkVFgELNw1Y0B7suh.png" group-title="IPTV KITA",NAT GEO
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3296
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3296
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa3EByPUu2Xz04JOjDA96WkPwiDiIAVw5TF3jteoJUcR2aKRFvl4jP_yba-H5tZ4TCg.png" group-title="IPTV KITA",NAT GEO WILD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3297
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3297
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa3EByPUu2Xz04JOjDA96WkOHY7zfjiR3fKzg2oNA8-sB9JBlRKiubo9XVZ0xSMXtEQ.png" group-title="IPTV KITA",ANIMAL PLANET
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3298
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3298
 #EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa3EByPUu2Xz04JOjDA96WkNRRCLiMdU5j5Jiy7M621zT.png" group-title="IPTV KITA",BBC EARTH
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3299
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3299
 #EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa3EByPUu2Xz04JOjDA96WkONzD1OFOBoOVhI2iIAJ-bq_1rKfhVwhukoNUDTys38fQ.png" group-title="IPTV KITA",LOVE NATURE
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3300
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3300
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa3EByPUu2Xz04JOjDA96WkOjKva1GyHvuUHp5Og9uDlB.png" group-title="IPTV KITA",HISTORY
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3301
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3301
 #EXTINF:-1 tvg-id="" tvg-name="CRIME INVESTIGATION" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa3EByPUu2Xz04JOjDA96WkNy124A0YbI5rcNNj2fjwlQs4kVu3xzFl3nxoFB7QP4og.png" group-title="IPTV KITA",CRIME INVESTIGATION
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3302
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3302
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geVw6j1SMeu_vi4ba99Vbrqquk1qRlfZyRO2EXw5yKCg-oKjo_ptLnoNuCoG1aBv1stA.png" group-title="IPTV KITA",Discovery Asia
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3303
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3303
 #EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa3EByPUu2Xz04JOjDA96WkMB5fwvCirFbZ_SKIoW1Z2R.png" group-title="IPTV KITA",CGTN DOCUMENTARY
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3304
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3304
 #EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1spU510i4_D9xxHnFiyiz4SK.png" group-title="IPTV KITA",DMAX
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3305
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3305
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://hometv.pw/logo/lifestyle2/hgtv.png" group-title="IPTV KITA",HGTV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1782
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1782
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://hometv.pw/logo/lifestyle2/tlc.png" group-title="IPTV KITA",TLC
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1783
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1783
 #EXTINF:-1 tvg-id="" tvg-name="AFN" tvg-logo="https://hometv.pw/logo/lifestyle2/afn.png" group-title="IPTV KITA",AFN
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1784
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1784
 #EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://hometv.pw/logo/lifestyle2/lifetime.png" group-title="IPTV KITA",LIFETIME
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1785
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1785
 #EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://hometv.pw/logo/lifestyle2/fashiontv.png" group-title="IPTV KITA",FASHION TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1786
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1786
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV Midnight" tvg-logo="https://hometv.pw/logo/lifestyle2/ftv_midnight.png" group-title="IPTV KITA",Fashion TV Midnight
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1787
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1787
 #EXTINF:-1 tvg-id="" tvg-name="MASHA & BEAR" tvg-logo="https://hometv.pw/logo/kids2/masha_bear.png" group-title="IPTV KITA",MASHA & BEAR
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1788
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1788
 #EXTINF:-1 tvg-id="" tvg-name="LARVA" tvg-logo="https://hometv.pw/logo/kids2/larva.png" group-title="IPTV KITA",LARVA
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1789
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1789
 #EXTINF:-1 tvg-id="" tvg-name="DORAEMAON" tvg-logo="https://hometv.pw/logo/kids2/doraemon.png" group-title="IPTV KITA",DORAEMAON
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1790
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1790
 #EXTINF:-1 tvg-id="" tvg-name="UPIN IPIN" tvg-logo="https://hometv.pw/logo/kids2/upin_ipin.png" group-title="IPTV KITA",UPIN IPIN
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1791
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1791
 #EXTINF:-1 tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5EoawD2NM9vXb2TRCGgFt2bvqSuSBJ82MDja4alTqXE_b6d.png" group-title="IPTV KITA",MENTARI TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3306
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3306
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CERIA" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa66LFGCmXZvf_-8NCqMKXUU43QxqnITrK8JU5KR8AGO7.png" group-title="IPTV KITA",ASTRO CERIA
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3307
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3307
 #EXTINF:-1 tvg-id="" tvg-name="HOREE" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa_9lI1d6vSNrLIz-ylFn85xrTbqmLe68ytDYI7QUPAr7.png" group-title="IPTV KITA",HOREE
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3308
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3308
 #EXTINF:-1 tvg-id="" tvg-name="DREAMWORS" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoayui-l6HyBmjUYzTy6fhfhGuhTP5CCzMq712pJz6xTRb.png" group-title="IPTV KITA",DREAMWORS
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3309
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3309
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa1lY7zbA99bboeZdZbS0hmHUXbbYSHQ8w_x-iaVEespwujIfCVVy5QV7S5qKUioj_w.png" group-title="IPTV KITA",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3310
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3310
 #EXTINF:-1 tvg-id="" tvg-name="MY KIDZ" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa_c9m7lo1hT5Jh__fmBViw-9DvLeAu1-WTreRR8VYBt6.png" group-title="IPTV KITA",MY KIDZ
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3311
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3311
 #EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa1lUMPH3qrf24odI8P8aT5q8ueL0wobLbOdKgnPed1hF.png" group-title="IPTV KITA",NICK JR
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3312
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3312
 #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa1lUMPH3qrf24odI8P8aT5ouBw7FFnPINlSVmLs6GhLB.png" group-title="IPTV KITA",NICKELODEON
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3313
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3313
 #EXTINF:-1 tvg-id="" tvg-name="KIDS TV" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa1oSF4855Tu5NqB7fbqBWCufYSqy9-J6w5X86ka2032D.png" group-title="IPTV KITA",KIDS TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3314
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3314
 #EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5EoaxQ_5HcDUxBy4ZpXwih5VJ9LDAlM9x-OJyoeLqY-YiUS.png" group-title="IPTV KITA",ANIPLUS
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3315
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3315
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAX" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5EoaxQ_5HcDUxBy4ZpXwih5VJ-pEQI3Dgm8kbbAA7yc40Mu.png" group-title="IPTV KITA",ANIMAX
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3316
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3316
 #EXTINF:-1 tvg-id="" tvg-name="CBEBIES" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa9FOHzpidl8zaZ3JkwizpaOr1CilEV0ex-RCghyVFjIH.png" group-title="IPTV KITA",CBEBIES
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3317
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3317
 #EXTINF:-1 tvg-id="" tvg-name="ZOO MOO" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa9Kun1xZomrOaUMeiFredPhRoTxMxrHBtouc0N8U0lrn.png" group-title="IPTV KITA",ZOO MOO
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3318
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3318
 #EXTINF:-1 tvg-id="" tvg-name="SINDO NEWS" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6lrh1gt2pitkZ_E9H3yTGIHP5tdr73apuWwcDR406Wg.png" group-title="IPTV KITA",SINDO NEWS
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3319
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3319
 #EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6jUdm0BMZKoLeTBHyAuCxvU7e3Ke3zt07sUj3ObAnFSGMJYkif8l1XzfB0_xkcmDg.png" group-title="IPTV KITA",CNN INTERNATIONAL
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3320
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3320
 #EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa-2V-czApyXQCPdtt1Y83hhWfguHFj5bCAPNOb7OriDb.png" group-title="IPTV KITA",ALJAZEERA
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3321
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3321
 #EXTINF:-1 tvg-id="" tvg-name="BBC WORLD" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa1j2a4hqrJrDfpAzfC2qJqpYOft5pmxK0jL3xT4am32e.png" group-title="IPTV KITA",BBC WORLD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3322
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3322
 #EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5EoazLNNxbpJLcx9UnFoD_TWZl4mCAJRhbfGHsGZGFJEHQv.png" group-title="IPTV KITA",FOX NEWS
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3323
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3323
 #EXTINF:-1 tvg-id="" tvg-name="RT ENGLISH" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa4JxBRlKSjFL6IwkjKIjgyEduNebHhUTi2cByIet0Q0X.png" group-title="IPTV KITA",RT ENGLISH
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3324
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3324
 #EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa4k6gQQrqCgv72LlpLPnF4G4b9bCY79GYewL22Hr3pgc.png" group-title="IPTV KITA",EURO NEWS
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3325
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3325
 #EXTINF:-1 tvg-id="" tvg-name="DW ENGLISH" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa3D3Vc1jshTO_Lcb0axEw46CY18_AK23rnG27-7nPzlH.png" group-title="IPTV KITA",DW ENGLISH
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3326
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3326
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa9iCzoKv1WwpMIwT6WvopI0CSHD1wvAlL9xJSlbDMqPv.png" group-title="IPTV KITA",FRANCE 24
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3327
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3327
 #EXTINF:-1 tvg-id="" tvg-name="CNBC ASIA" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6904V6PQiGaF_Tf6lE8uTDvR_VveG4VV31lXL3U4Pua.png" group-title="IPTV KITA",CNBC ASIA
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3328
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3328
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa7jonGm7MARVB6SWZnxEu3RfWen1NId3CZTnOlicJ3iy.png" group-title="IPTV KITA",BLOOMBERG
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3329
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3329
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5EoawcDAHCmU2diaxPsaO_V_ddU_YnewBAgLwwTxnbFi_aG.png" group-title="IPTV KITA",CGTN
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3330
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3330
 #EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa2GbUuyIITKgTlpTQc9l26VhIYfmU-7UkfFIKpysBnIG.png" group-title="IPTV KITA",CNA
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3331
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3331
 #EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa21hKUaE_fOq34x1smhqsrfmlO3W1EqFAE2ejfCxuOOp.png" group-title="IPTV KITA",IDX
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3332
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3332
 #EXTINF:-1 tvg-id="" tvg-name="SEA TODAY" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa-ugEFEbzigRH4sccTiki_fHmXmfYYGM2hg1FDsjcHNH.png" group-title="IPTV KITA",SEA TODAY
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3333
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3333
 #EXTINF:-1 tvg-id="" tvg-name="RODJA TV" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5EoazW2q3DhdSbiGswrGGb51vdMJ612nMfJUMTzYyA5hRIE.png" group-title="IPTV KITA",RODJA TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3334
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3334
 #EXTINF:-1 tvg-id="" tvg-name="MUSLIM TV" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa7R4vHB3aYmjTI-smXBlYlS3jAcBylxsnZ1YtZ1L8tQL.png" group-title="IPTV KITA",MUSLIM TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3335
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3335
 #EXTINF:-1 tvg-id="" tvg-name="MAKKAH TV" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa08pxHh3d0fyeM5EU0FgKX2Nfo7kDCuSE9P1-BpD1vf3.png" group-title="IPTV KITA",MAKKAH TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3336
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3336
 #EXTINF:-1 tvg-id="" tvg-name="TAWAF TV" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa86S_NHvRt1JnkpJkLUCPMDbj1xr439Q0LrqvrAUniuJ.png" group-title="IPTV KITA",TAWAF TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3337
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3337
 #EXTINF:-1 tvg-id="" tvg-name="MUHAMMADIYAH TV" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa7R4vHB3aYmjTI-smXBlYlTraEzFdLUs_MQCyg9XuyF4.png" group-title="IPTV KITA",MUHAMMADIYAH TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3338
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3338
 #EXTINF:-1 tvg-id="" tvg-name="REFORMED 21" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5EoazW2q3DhdSbiGswrGGb51veG26iC1coRePbeuHAzBpxi.png" group-title="IPTV KITA",REFORMED 21
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3339
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3339
 #EXTINF:-1 tvg-id="" tvg-name="LIFE" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5EoayQa6DZOq9_YvAq7ZTSLJF38cnNHx3T_h37UhqBifSUB.png" group-title="IPTV KITA",LIFE
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3340
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3340
 #EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa2CEg9wlMMMZnTrMC2kj8z8MxrMT1BIGdSKr1OFmqUTW.png" group-title="IPTV KITA",EWTN
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3341
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3341
 #EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa9EactcQtZDVjWPtCYp72a-nt26ps-TGJMqGeEEvXnTF.png" group-title="IPTV KITA",MTV LIVE
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3342
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3342
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC TV" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa7ddiWZgxe5pT-FpzXroepNIa6L0MjtAvrtEk0S-sJnN.png" group-title="IPTV KITA",MUSIC TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3343
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3343
 #EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa0m3qPS0dO2hFshm0O0MZp-03ZjKOZosXW1aAvSVFAco.png" group-title="IPTV KITA",TRACE URBAN
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3344
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3344
 #EXTINF:-1 tvg-id="" tvg-name="RETRO MUSIC" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa4TLhOFLiIo2cAqVOmTG8B29JknlrI9BRuiXIohObBnS.png" group-title="IPTV KITA",RETRO MUSIC
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3345
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3345
 #EXTINF:-1 tvg-id="" tvg-name="KPOP" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa7Vm_o7ohb9mzp6XdY6x64Pielkyy0VtfYIae6_kq7qq.png" group-title="IPTV KITA",KPOP
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3346
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3346
 #EXTINF:-1 tvg-id="" tvg-name="XITE 80s FLASHBLACK" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa_W9H1AZVN6Iy_FcVgRw2Qhhcy4HuUGjkLQVMQTMaxeb.png" group-title="IPTV KITA",XITE 80s FLASHBLACK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3347
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3347
 #EXTINF:-1 tvg-id="" tvg-name="XITE 90s THROWBACK" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa_W9H1AZVN6Iy_FcVgRw2Qhhcy4HuUGjkLQVMQTMaxeb.png" group-title="IPTV KITA",XITE 90s THROWBACK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3348
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3348
 #EXTINF:-1 tvg-id="" tvg-name="XITE ROCK ON" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa_W9H1AZVN6Iy_FcVgRw2Qhhcy4HuUGjkLQVMQTMaxeb.png" group-title="IPTV KITA",XITE ROCK ON
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3349
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3349
 #EXTINF:-1 tvg-id="" tvg-name="XITE Hits" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa_W9H1AZVN6Iy_FcVgRw2Qhhcy4HuUGjkLQVMQTMaxeb.png" group-title="IPTV KITA",XITE Hits
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3350
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3350
 #EXTINF:-1 tvg-id="" tvg-name="XITE Only Love" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa_W9H1AZVN6Iy_FcVgRw2Qhhcy4HuUGjkLQVMQTMaxeb.png" group-title="IPTV KITA",XITE Only Love
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3351
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3351
 #EXTINF:-1 tvg-id="" tvg-name="Vevo '80s" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5EoaxAluep9hnICyF4RrXMaI9ScgASQDanFIJBcCQNJBBnt.png" group-title="IPTV KITA",Vevo '80s
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3352
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3352
 #EXTINF:-1 tvg-id="" tvg-name="Vevo '90s" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5EoaxAluep9hnICyF4RrXMaI9ScgASQDanFIJBcCQNJBBnt.png" group-title="IPTV KITA",Vevo '90s
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3353
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3353
 #EXTINF:-1 tvg-id="" tvg-name="Vevo 2K" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5EoaxAluep9hnICyF4RrXMaI9ScgASQDanFIJBcCQNJBBnt.png" group-title="IPTV KITA",Vevo 2K
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3354
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3354
 #EXTINF:-1 tvg-id="" tvg-name="Vevo 2010s" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5EoaxAluep9hnICyF4RrXMaI9ScgASQDanFIJBcCQNJBBnt.png" group-title="IPTV KITA",Vevo 2010s
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3355
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3355
 #EXTINF:-1 tvg-id="" tvg-name="Vevo Retro Rock" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5EoaxAluep9hnICyF4RrXMaI9ScgASQDanFIJBcCQNJBBnt.png" group-title="IPTV KITA",Vevo Retro Rock
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3356
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3356
 #EXTINF:-1 tvg-id="" tvg-name="Vevo Pop" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5EoaxAluep9hnICyF4RrXMaI9ScgASQDanFIJBcCQNJBBnt.png" group-title="IPTV KITA",Vevo Pop
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3357
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3357
 #EXTINF:-1 tvg-id="" tvg-name="NOW 90s" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa3p5v9kMvl5xR3oqg3sLAmPzf4g71QLi2xxShMpJglOf.png" group-title="IPTV KITA",NOW 90s
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3358
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3358
 #EXTINF:-1 tvg-id="" tvg-name="NOW 80s" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa3p5v9kMvl5xR3oqg3sLAmMu4WfQg6Zvqct79uVxWJa0.png" group-title="IPTV KITA",NOW 80s
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3359
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3359
 #EXTINF:-1 tvg-id="" tvg-name="NOW 70s" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa3p5v9kMvl5xR3oqg3sLAmOdfckQSaUyF0zZTPQQaHqP.png" group-title="IPTV KITA",NOW 70s
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3360
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3360
 #EXTINF:-1 tvg-id="" tvg-name="Rock & Roll" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa7ddiWZgxe5pT-FpzXroepN2KW_4kHEH8SnNDMlkjYqj.png" group-title="IPTV KITA",Rock & Roll
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3361
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3361
 #EXTINF:-1 tvg-id="" tvg-name="mOBA" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa7ddiWZgxe5pT-FpzXroepN2KW_4kHEH8SnNDMlkjYqj.png" group-title="IPTV KITA",mOBA
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3362
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3362
 #EXTINF:-1 tvg-id="" tvg-name="POP STAR" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa7ddiWZgxe5pT-FpzXroepN2KW_4kHEH8SnNDMlkjYqj.png" group-title="IPTV KITA",POP STAR
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3363
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3363
 #EXTINF:-1 tvg-id="" tvg-name="JEKA" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa7ddiWZgxe5pT-FpzXroepN2KW_4kHEH8SnNDMlkjYqj.png" group-title="IPTV KITA",JEKA
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3364
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3364
 #EXTINF:-1 tvg-id="" tvg-name="WWM" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa7ddiWZgxe5pT-FpzXroepN2KW_4kHEH8SnNDMlkjYqj.png" group-title="IPTV KITA",WWM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3365
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3365
 #EXTINF:-1 tvg-id="" tvg-name="MUZZIK" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa7ddiWZgxe5pT-FpzXroepN2KW_4kHEH8SnNDMlkjYqj.png" group-title="IPTV KITA",MUZZIK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3366
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3366
 #EXTINF:-1 tvg-id="" tvg-name="SENSE" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa7ddiWZgxe5pT-FpzXroepN2KW_4kHEH8SnNDMlkjYqj.png" group-title="IPTV KITA",SENSE
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3367
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3367
 #EXTINF:-1 tvg-id="" tvg-name="FLASH BACK" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa7ddiWZgxe5pT-FpzXroepN2KW_4kHEH8SnNDMlkjYqj.png" group-title="IPTV KITA",FLASH BACK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3368
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3368
 #EXTINF:-1 tvg-id="" tvg-name="ELECTRO" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa7ddiWZgxe5pT-FpzXroepN2KW_4kHEH8SnNDMlkjYqj.png" group-title="IPTV KITA",ELECTRO
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3369
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3369
 #EXTINF:-1 tvg-id="" tvg-name="Tembang Kenangan" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Tembang Kenangan
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3370
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3370
 #EXTINF:-1 tvg-id="" tvg-name="Dangdut Online" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Dangdut Online
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3371
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3371
 #EXTINF:-1 tvg-id="" tvg-name="Mustang FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Mustang FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3372
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3372
 #EXTINF:-1 tvg-id="" tvg-name="Hot FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Hot FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3373
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3373
 #EXTINF:-1 tvg-id="" tvg-name="Kis FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Kis FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3374
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3374
 #EXTINF:-1 tvg-id="" tvg-name="Gen FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Gen FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3375
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3375
 #EXTINF:-1 tvg-id="" tvg-name="Most Radio" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Most Radio
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3376
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3376
 #EXTINF:-1 tvg-id="" tvg-name="JAK FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",JAK FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3377
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3377
 #EXTINF:-1 tvg-id="" tvg-name="Gen FM SBY" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Gen FM SBY
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3378
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3378
 #EXTINF:-1 tvg-id="" tvg-name="MOST RADIO" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",MOST RADIO
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3379
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3379
 #EXTINF:-1 tvg-id="" tvg-name="MUSTANG" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",MUSTANG
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3380
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3380
 #EXTINF:-1 tvg-id="" tvg-name="Kis FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Kis FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3381
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3381
 #EXTINF:-1 tvg-id="" tvg-name="Swara FM Semarang" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Swara FM Semarang
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3382
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3382
 #EXTINF:-1 tvg-id="" tvg-name="Radio Muara" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Radio Muara
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3383
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3383
 #EXTINF:-1 tvg-id="" tvg-name="RadioQu Bogor" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",RadioQu Bogor
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3384
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3384
 #EXTINF:-1 tvg-id="" tvg-name="Ges Radio" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Ges Radio
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3385
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3385
 #EXTINF:-1 tvg-id="" tvg-name="Hard Rock FM  Jakarta" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Hard Rock FM  Jakarta
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3386
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3386
 #EXTINF:-1 tvg-id="" tvg-name="Global Radio Jakarta OK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Global Radio Jakarta OK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3387
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3387
 #EXTINF:-1 tvg-id="" tvg-name="I-Radio FM Jakarta" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",I-Radio FM Jakarta
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3388
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3388
 #EXTINF:-1 tvg-id="" tvg-name="Cosmopolitan FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Cosmopolitan FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3389
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3389
 #EXTINF:-1 tvg-id="" tvg-name="Mersi FM OK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Mersi FM OK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3390
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3390
 #EXTINF:-1 tvg-id="" tvg-name="Smart FM Jakarta" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Smart FM Jakarta
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3391
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3391
 #EXTINF:-1 tvg-id="" tvg-name="RDI Jakarta OK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",RDI Jakarta OK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3392
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3392
 #EXTINF:-1 tvg-id="" tvg-name="Motion Radio" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Motion Radio
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3393
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3393
 #EXTINF:-1 tvg-id="" tvg-name="Smooth" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Smooth
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3394
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3394
 #EXTINF:-1 tvg-id="" tvg-name="ZFM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",ZFM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3395
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3395
 #EXTINF:-1 tvg-id="" tvg-name="Rodja Bogor" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Rodja Bogor
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3396
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3396
 #EXTINF:-1 tvg-id="" tvg-name="Heartline OK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Heartline OK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3397
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3397
 #EXTINF:-1 tvg-id="" tvg-name="DFM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",DFM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3398
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3398
 #EXTINF:-1 tvg-id="" tvg-name="Brava Radio" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Brava Radio
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3399
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3399
 #EXTINF:-1 tvg-id="" tvg-name="MNC Trijaya Jakarta OK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",MNC Trijaya Jakarta OK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3400
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3400
 #EXTINF:-1 tvg-id="" tvg-name="V Radio OK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",V Radio OK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3401
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3401
 #EXTINF:-1 tvg-id="" tvg-name="Radio Idola Semarang" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Radio Idola Semarang
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3402
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3402
 #EXTINF:-1 tvg-id="" tvg-name="POP FM Semarang" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",POP FM Semarang
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3403
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3403
 #EXTINF:-1 tvg-id="" tvg-name="Smart FM Surabaya" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Smart FM Surabaya
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3404
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3404
 #EXTINF:-1 tvg-id="" tvg-name="Smart FM Medan" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Smart FM Medan
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3405
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3405
 #EXTINF:-1 tvg-id="" tvg-name="Smart FM Balikpapan" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Smart FM Balikpapan
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3406
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3406
 #EXTINF:-1 tvg-id="" tvg-name="Smart FM Banjarmasin" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Smart FM Banjarmasin
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3407
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3407
 #EXTINF:-1 tvg-id="" tvg-name="Smart FM Palembang" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Smart FM Palembang
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3408
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3408
 #EXTINF:-1 tvg-id="" tvg-name="Smart FM Makassar" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Smart FM Makassar
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3409
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3409
 #EXTINF:-1 tvg-id="" tvg-name="Smart FM Manado" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Smart FM Manado
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3410
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3410
 #EXTINF:-1 tvg-id="" tvg-name="Smart FM Pekanbaru" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Smart FM Pekanbaru
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3411
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3411
 #EXTINF:-1 tvg-id="" tvg-name="Classy FM Padang" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Classy FM Padang
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3412
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3412
 #EXTINF:-1 tvg-id="" tvg-name="Jiz FM Yogyakarta" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Jiz FM Yogyakarta
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3413
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3413
 #EXTINF:-1 tvg-id="" tvg-name="Sushi FM Padang" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Sushi FM Padang
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3414
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3414
 #EXTINF:-1 tvg-id="" tvg-name="Elmitra FM Sukabumi" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Elmitra FM Sukabumi
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3415
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3415
 #EXTINF:-1 tvg-id="" tvg-name="Imelda FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Imelda FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3416
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3416
 #EXTINF:-1 tvg-id="" tvg-name="Gajahmada FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Gajahmada FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3417
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3417
 #EXTINF:-1 tvg-id="" tvg-name="Sonora FM Bandung" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Sonora FM Bandung
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3418
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3418
 #EXTINF:-1 tvg-id="" tvg-name="Swaragama FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Swaragama FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3419
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3419
 #EXTINF:-1 tvg-id="" tvg-name="Radio Cakra Bandung" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Radio Cakra Bandung
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3420
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3420
 #EXTINF:-1 tvg-id="" tvg-name="B Radio Bandung" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",B Radio Bandung
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3421
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3421
 #EXTINF:-1 tvg-id="" tvg-name="Suara Surabaya FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Suara Surabaya FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3422
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3422
 #EXTINF:-1 tvg-id="" tvg-name="RRI PRO 1 Banda Aceh FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",RRI PRO 1 Banda Aceh FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3423
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3423
 #EXTINF:-1 tvg-id="" tvg-name="Cosmopolitan FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Cosmopolitan FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3424
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3424
 #EXTINF:-1 tvg-id="" tvg-name="V RADIO" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",V RADIO
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3425
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3425
 #EXTINF:-1 tvg-id="" tvg-name="Brava FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Brava FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3426
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3426
 #EXTINF:-1 tvg-id="" tvg-name="Hard Rock FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Hard Rock FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3427
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3427
 #EXTINF:-1 tvg-id="" tvg-name="Hard Rock FM Surabaya" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Hard Rock FM Surabaya
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3428
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3428
 #EXTINF:-1 tvg-id="" tvg-name="Hard Rock FM Bali" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Hard Rock FM Bali
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3429
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3429
 #EXTINF:-1 tvg-id="" tvg-name="Heartline Bali" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Heartline Bali
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3430
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3430
 #EXTINF:-1 tvg-id="" tvg-name="Heartline Jakarta" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Heartline Jakarta
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3431
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3431
 #EXTINF:-1 tvg-id="" tvg-name="Motion Radio Jakarta" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Motion Radio Jakarta
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3432
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3432
 #EXTINF:-1 tvg-id="" tvg-name="Female FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Female FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3433
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3433
 #EXTINF:-1 tvg-id="" tvg-name="EBS FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",EBS FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3434
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3434
 #EXTINF:-1 tvg-id="" tvg-name="Elgangga FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Elgangga FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3435
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3435
 #EXTINF:-1 tvg-id="" tvg-name="SLOW FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",SLOW FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3436
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3436
 #EXTINF:-1 tvg-id="" tvg-name="KIS ROCK" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",KIS ROCK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3437
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3437
 #EXTINF:-1 tvg-id="" tvg-name="Trax FM Palembang" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Trax FM Palembang
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3438
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3438
 #EXTINF:-1 tvg-id="" tvg-name="Female Radio" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Female Radio
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3439
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3439
 #EXTINF:-1 tvg-id="" tvg-name="Hard Rock Jakarta" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Hard Rock Jakarta
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3440
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3440
 #EXTINF:-1 tvg-id="" tvg-name="Motion Jakarta" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Motion Jakarta
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3441
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3441
 #EXTINF:-1 tvg-id="" tvg-name="KKFI FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",KKFI FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3442
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3442
 #EXTINF:-1 tvg-id="" tvg-name="Mentari FM Solo" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Mentari FM Solo
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3443
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3443
 #EXTINF:-1 tvg-id="" tvg-name="Indika FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Indika FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3444
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3444
 #EXTINF:-1 tvg-id="" tvg-name="Hitz FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Hitz FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3445
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3445
 #EXTINF:-1 tvg-id="" tvg-name="Hot FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Hot FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3446
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3446
 #EXTINF:-1 tvg-id="" tvg-name="Prambors" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Prambors
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3447
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3447
 #EXTINF:-1 tvg-id="" tvg-name="Ardan FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Ardan FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3448
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3448
 #EXTINF:-1 tvg-id="" tvg-name="Phoenix Radio Bali" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Phoenix Radio Bali
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3449
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3449
 #EXTINF:-1 tvg-id="" tvg-name="MGTRADIO" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",MGTRADIO
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3450
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3450
 #EXTINF:-1 tvg-id="" tvg-name="Elshinta FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Elshinta FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3451
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3451
 #EXTINF:-1 tvg-id="" tvg-name="I Radio" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",I Radio
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3452
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3452
 #EXTINF:-1 tvg-id="" tvg-name="Trax FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Trax FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3453
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3453
 #EXTINF:-1 tvg-id="" tvg-name="Radio Rodja" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Radio Rodja
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3454
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3454
 #EXTINF:-1 tvg-id="" tvg-name="SOLOPOS FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",SOLOPOS FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3455
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3455
 #EXTINF:-1 tvg-id="" tvg-name="EBS - Surabaya" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",EBS - Surabaya
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3456
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3456
 #EXTINF:-1 tvg-id="" tvg-name="TRAX DKI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",TRAX DKI
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3457
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3457
 #EXTINF:-1 tvg-id="" tvg-name="HITZ BANDUNG" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",HITZ BANDUNG
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3458
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3458
 #EXTINF:-1 tvg-id="" tvg-name="I-RADIO" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",I-RADIO
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3459
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3459
 #EXTINF:-1 tvg-id="" tvg-name="Hitz FM" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",Hitz FM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3460
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3460
 #EXTINF:-1 tvg-id="" tvg-name="RRI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",RRI
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3461
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3461
 #EXTINF:-1 tvg-id="" tvg-name="PRAMBORS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV3GOIKzqcEtAbQbXOf6C3W-1YwNNm5oOyivn_MUp6gQGuBxI8T_clagAqGit1YSuPw.png" group-title="IPTV KITA",PRAMBORS
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3462
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3462
 #EXTINF:-1 tvg-id="" tvg-name="JOWO CHANNEL" tvg-logo="https://hometv.pw/logo/tv_daerah2/jowo_channel.png" group-title="IPTV KITA",JOWO CHANNEL
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2007
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2007
 #EXTINF:-1 tvg-id="" tvg-name="SAKTI TV" tvg-logo="https://hometv.pw/logo/tv_daerah2/saktitv.png" group-title="IPTV KITA",SAKTI TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2008
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2008
 #EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://hometv.pw/logo/tv_daerah/jtv.png" group-title="IPTV KITA",JTV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2009
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2009
 #EXTINF:-1 tvg-id="" tvg-name="GARUDA TV" tvg-logo="https://hometv.pw/logo/tv_daerah2/garudatv.png" group-title="IPTV KITA",GARUDA TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2010
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2010
 #EXTINF:-1 tvg-id="" tvg-name="SMTV" tvg-logo="https://hometv.pw/logo/tv_daerah2/smtv.png" group-title="IPTV KITA",SMTV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2011
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2011
 #EXTINF:-1 tvg-id="" tvg-name="BALI TV" tvg-logo="https://hometv.pw/logo/tv_daerah2/bali_tv.png" group-title="IPTV KITA",BALI TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2012
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2012
 #EXTINF:-1 tvg-id="" tvg-name="BANDUNG TV" tvg-logo="https://hometv.pw/logo/tv_daerah2/bandung_tv.png" group-title="IPTV KITA",BANDUNG TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2013
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2013
 #EXTINF:-1 tvg-id="" tvg-name="PADANG TV" tvg-logo="https://hometv.pw/logo/tv_daerah2/padang_tv.png" group-title="IPTV KITA",PADANG TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2014
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2014
 #EXTINF:-1 tvg-id="" tvg-name="TABALONG TV" tvg-logo="https://hometv.pw/logo/tv_daerah2/tabalong.png" group-title="IPTV KITA",TABALONG TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2015
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2015
 #EXTINF:-1 tvg-id="" tvg-name="DUTA TV" tvg-logo="https://hometv.pw/logo/tv_daerah2/duta.png" group-title="IPTV KITA",DUTA TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2016
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2016
 #EXTINF:-1 tvg-id="" tvg-name="KAWANUA TV" tvg-logo="https://hometv.pw/logo/tv_daerah2/kawanua.png" group-title="IPTV KITA",KAWANUA TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2017
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2017
 #EXTINF:-1 tvg-id="" tvg-name="JITV" tvg-logo="https://hometv.pw/logo/tv_daerah2/jitv.png" group-title="IPTV KITA",JITV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2018
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2018
 #EXTINF:-1 tvg-id="" tvg-name="SIMPANG 5 TV" tvg-logo="https://hometv.pw/logo/tv_daerah2/simpang5.png" group-title="IPTV KITA",SIMPANG 5 TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2019
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2019
 #EXTINF:-1 tvg-id="" tvg-name="ADITV" tvg-logo="https://hometv.pw/logo/tv_daerah2/aditv.png" group-title="IPTV KITA",ADITV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2020
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2020
 #EXTINF:-1 tvg-id="" tvg-name="TATV" tvg-logo="https://hometv.pw/logo/tv_daerah2/tatv.png" group-title="IPTV KITA",TATV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2021
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2021
 #EXTINF:-1 tvg-id="" tvg-name="TVKU" tvg-logo="https://hometv.pw/logo/tv_daerah2/tvku.png" group-title="IPTV KITA",TVKU
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2022
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2022
 #EXTINF:-1 tvg-id="" tvg-name="BTV BALIKPAPAN" tvg-logo="https://hometv.pw/logo/tv_daerah2/btv.png" group-title="IPTV KITA",BTV BALIKPAPAN
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2023
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2023
 #EXTINF:-1 tvg-id="" tvg-name="JAMBI TV" tvg-logo="https://hometv.pw/logo/tv_daerah2/jambitv.png" group-title="IPTV KITA",JAMBI TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2024
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2024
 #EXTINF:-1 tvg-id="" tvg-name="BADAR TV" tvg-logo="https://hometv.pw/logo/tv_daerah2/brtv.png" group-title="IPTV KITA",BADAR TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2025
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2025
 #EXTINF:-1 tvg-id="" tvg-name="INSPIRA TV" tvg-logo="https://hometv.pw/logo/tv_daerah2/inspiratv.png" group-title="IPTV KITA",INSPIRA TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2026
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2026
 #EXTINF:-1 tvg-id="" tvg-name="PKTV" tvg-logo="https://hometv.pw/logo/tv_daerah2/pktv.png" group-title="IPTV KITA",PKTV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2027
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2027
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO BOO" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa66LFGCmXZvf_-8NCqMKXUXJah50u0jY5WZb24K_Qmfu.png" group-title="IPTV KITA",ASTRO BOO
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3463
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3463
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO PREMIER" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV7k3HuA1NtMq4Jo1az0z0gmh8oYCyuchicsf2dI-0X2_9QSfj7vw-zyb_QZ3_b_urg.png" group-title="IPTV KITA",ASTRO PREMIER
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3464
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3464
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO OASIS" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa66LFGCmXZvf_-8NCqMKXUXtX7C8x_7MqOeE33Qe1p3w.png" group-title="IPTV KITA",ASTRO OASIS
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3465
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3465
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO RANIA" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa66LFGCmXZvf_-8NCqMKXUXw55UyRIChiaU3TDySxOXg.png" group-title="IPTV KITA",ASTRO RANIA
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3466
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3466
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO AURA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV7k3HuA1NtMq4Jo1az0z0gnxYk2L0tn3fCY62Cgkrt5B.png" group-title="IPTV KITA",ASTRO AURA
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3467
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3467
 #EXTINF:-1 tvg-id="" tvg-name="AWESOME" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa66LFGCmXZvf_-8NCqMKXUXy830lf6YyzV0-K6hpjlKu.png" group-title="IPTV KITA",AWESOME
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3468
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3468
 #EXTINF:-1 tvg-id="" tvg-name="SHOWCASE MOVIE" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV7k3HuA1NtMq4Jo1az0z0gmxWcRIKUeW9t1A_hMmC4gr5xO2J8acIn2B35b-AtKq8w.png" group-title="IPTV KITA",SHOWCASE MOVIE
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3469
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3469
 #EXTINF:-1 tvg-id="" tvg-name="DUNIA SINEMA" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV7k3HuA1NtMq4Jo1az0z0gmlXB3gNeWnUAn_ofkJ7d0ZDu6vk74yaxZWs6WWv4NFOg.png" group-title="IPTV KITA",DUNIA SINEMA
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3470
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3470
 #EXTINF:-1 tvg-id="" tvg-name="TV 1" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa66LFGCmXZvf_-8NCqMKXUUvp3-JKwmiqAOm2wyVFLgn.png" group-title="IPTV KITA",TV 1
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3471
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3471
 #EXTINF:-1 tvg-id="" tvg-name="TV 2" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa66LFGCmXZvf_-8NCqMKXUX-aj0U-aWoZssDdaxiYT0J.png" group-title="IPTV KITA",TV 2
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3472
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3472
 #EXTINF:-1 tvg-id="" tvg-name="TV 3" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa66LFGCmXZvf_-8NCqMKXUWVhvq8sf0s9jU_aTt2I90y.png" group-title="IPTV KITA",TV 3
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3473
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3473
 #EXTINF:-1 tvg-id="" tvg-name="TV 6" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa66LFGCmXZvf_-8NCqMKXUVRdk9NPmXEujdDr8uBxhl6.png" group-title="IPTV KITA",TV 6
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3474
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3474
 #EXTINF:-1 tvg-id="" tvg-name="TV 8" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa66LFGCmXZvf_-8NCqMKXUXaztwqs3mDIJG4boyBWIoq.png" group-title="IPTV KITA",TV 8
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3475
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3475
 #EXTINF:-1 tvg-id="" tvg-name="TV 9" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa66LFGCmXZvf_-8NCqMKXUW5xw9cD6E3Ba724J41Nozb.png" group-title="IPTV KITA",TV 9
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3476
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3476
 #EXTINF:-1 tvg-id="" tvg-name="OKEY" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa66LFGCmXZvf_-8NCqMKXUWIzkc136ePBiaO29LuqE1V.png" group-title="IPTV KITA",OKEY
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3477
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3477
 #EXTINF:-1 tvg-id="" tvg-name="RTB Aneka" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa66LFGCmXZvf_-8NCqMKXUUN9z_lQadbRa-ks77evX9C.png" group-title="IPTV KITA",RTB Aneka
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3478
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3478
 #EXTINF:-1 tvg-id="" tvg-name="RTB GO LIVE" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa66LFGCmXZvf_-8NCqMKXUWlKvKQzdo4X3COuz6fQe8H.png" group-title="IPTV KITA",RTB GO LIVE
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3479
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3479
 #EXTINF:-1 tvg-id="" tvg-name="RTB Sukmaindera" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa66LFGCmXZvf_-8NCqMKXUWHnbfimA3DJhMMhf7u3vK0ZsaWr0ZYIAAw7-bdSbt81Q.png" group-title="IPTV KITA",RTB Sukmaindera
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3480
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3480
 #EXTINF:-1 tvg-id="" tvg-name="CH 5" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa5YTSUINuOzExCO8kfEXpaAouV05TPvpxbMrPf1_iNEL.png" group-title="IPTV KITA",CH 5
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3481
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3481
 #EXTINF:-1 tvg-id="" tvg-name="CH 8" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa5YTSUINuOzExCO8kfEXpaCtW-8C5Ak6xphHW8B8PKaj.png" group-title="IPTV KITA",CH 8
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3482
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3482
 #EXTINF:-1 tvg-id="" tvg-name="CH U" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa5YTSUINuOzExCO8kfEXpaCa57aBsQHn6DeggOuX_EOr.png" group-title="IPTV KITA",CH U
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3483
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3483
 #EXTINF:-1 tvg-id="" tvg-name="SURIA" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa5YTSUINuOzExCO8kfEXpaD-Ham3xNgxrFKunFJZhNqF.png" group-title="IPTV KITA",SURIA
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3484
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3484
 #EXTINF:-1 tvg-id="" tvg-name="VASATHAM" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa5YTSUINuOzExCO8kfEXpaDCElOIO2Ly894weZqo5RNb.png" group-title="IPTV KITA",VASATHAM
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3485
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3485
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://hometv.pw/logo/sports2/live_event.png" group-title="IPTV KITA EVENTS",LIVE 1
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1838
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1838
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 2" tvg-logo="https://hometv.pw/logo/sports2/live_event.png" group-title="IPTV KITA EVENTS",LIVE 2
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1839
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1839
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 3" tvg-logo="https://hometv.pw/logo/sports2/live_event.png" group-title="IPTV KITA EVENTS",LIVE 3
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1840
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1840
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENT 1" tvg-logo="https://hometv.pw/logo/sports/optus_sports2.png" group-title="IPTV KITA SPORTS",LIVE EVENT 1
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1842
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1842
 #EXTINF:-1 tvg-id="" tvg-name="MOJI HD" tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="IPTV KITA SPORTS",MOJI HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1803
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1803
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 1 ID" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoawho83V1O6cgNRz0mY90UIvmUC3zT3soHOhMU_5rLYpi.png" group-title="IPTV KITA SPORTS",BEIN 1 ID
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3486
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3486
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 3 ID" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoawho83V1O6cgNRz0mY90UIvmUC3zT3soHOhMU_5rLYpi.png" group-title="IPTV KITA SPORTS",BEIN 3 ID
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3487
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3487
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV 1" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6XE7bkutaZsQzRwiKfmjrUUloMlLu6_ySWcYbIS662Y.png" group-title="IPTV KITA SPORTS",SPOTV 1
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3488
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3488
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6XE7bkutaZsQzRwiKfmjrWLwkelAww9swbJKXQ-Mw-n.png" group-title="IPTV KITA SPORTS",SPOTV 2
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3489
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3489
 #EXTINF:-1 tvg-id="" tvg-name="SPORTSTARS 1" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6XE7bkutaZsQzRwiKfmjrXPr6WZcC1xzc1bIiH5RrfI.png" group-title="IPTV KITA SPORTS",SPORTSTARS 1
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3490
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3490
 #EXTINF:-1 tvg-id="" tvg-name="SPORTSTARS 2" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6XE7bkutaZsQzRwiKfmjrXPr6WZcC1xzc1bIiH5RrfI.png" group-title="IPTV KITA SPORTS",SPORTSTARS 2
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3491
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3491
 #EXTINF:-1 tvg-id="" tvg-name="SPORTSTARS 3" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6XE7bkutaZsQzRwiKfmjrXPr6WZcC1xzc1bIiH5RrfI.png" group-title="IPTV KITA SPORTS",SPORTSTARS 3
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3492
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3492
 #EXTINF:-1 tvg-id="" tvg-name="SPORTSTARS 4" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6XE7bkutaZsQzRwiKfmjrXPr6WZcC1xzc1bIiH5RrfI.png" group-title="IPTV KITA SPORTS",SPORTSTARS 4
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3493
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3493
 #EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa6XE7bkutaZsQzRwiKfmjrVycYaccs9L9ua6g2ybgqu41_UrvomixGCqWhFssXq3Yw.png" group-title="IPTV KITA SPORTS",SOCCER CHANNEL
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3494
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3494
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 1 FHD" tvg-logo="https://hometv.pw/logo/sports/assp1.png" group-title="IPTV KITA SPORTS",ASSP 1 FHD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1812
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1812
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 2 FHD" tvg-logo="https://hometv.pw/logo/sports/assp2.png" group-title="IPTV KITA SPORTS",ASSP 2 FHD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1813
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1813
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 3 FHD" tvg-logo="https://hometv.pw/logo/sports/assp3.png" group-title="IPTV KITA SPORTS",ASSP 3 FHD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1814
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1814
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 4 FHD" tvg-logo="https://hometv.pw/logo/sports/assp4.png" group-title="IPTV KITA SPORTS",ASSP 4 FHD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1815
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1815
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1sqNvMnOAU4YBxDcuvUj6EFwc_qzimmXulzw7R9vZpDjBg.png" group-title="IPTV KITA SPORTS",ASTRO ARENA 1
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3495
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3495
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1sqNvMnOAU4YBxDcuvUj6EFwc_qzimmXulzw7R9vZpDjBg.png" group-title="IPTV KITA SPORTS",ASTRO ARENA 2
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3496
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3496
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHwMp8C7IU8iv5HrBS6t0zda.png" group-title="IPTV KITA SPORTS",ASTRO CRICKET
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3497
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3497
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 MY" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1soQjAf-_H6yjnmydMX27Y9m.png" group-title="IPTV KITA SPORTS",beIN SPORTS 1 MY
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3498
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3498
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 MY" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1soQjAf-_H6yjnmydMX27Y9m.png" group-title="IPTV KITA SPORTS",beIN SPORTS 2 MY
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3499
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3499
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 MY" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1soQjAf-_H6yjnmydMX27Y9m.png" group-title="IPTV KITA SPORTS",beIN SPORTS 3 MY
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3500
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3500
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1 UK" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoaz_KVJEg15ySH8PZq4GdSzY0vjFkaOg-MECBlUitEcoE.png" group-title="IPTV KITA SPORTS",Sky Sports F1 UK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3501
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3501
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier UK" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoaz_KVJEg15ySH8PZq4GdSzY0vjFkaOg-MECBlUitEcoE.png" group-title="IPTV KITA SPORTS",Sky Sports Premier UK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3502
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3502
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football UK" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoaz_KVJEg15ySH8PZq4GdSzY0vjFkaOg-MECBlUitEcoE.png" group-title="IPTV KITA SPORTS",Sky Sports Football UK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3503
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3503
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Tennis UK" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoaz_KVJEg15ySH8PZq4GdSzY0vjFkaOg-MECBlUitEcoE.png" group-title="IPTV KITA SPORTS",Sky Sports Tennis UK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3504
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3504
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Events UK" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoaz_KVJEg15ySH8PZq4GdSzY0vjFkaOg-MECBlUitEcoE.png" group-title="IPTV KITA SPORTS",Sky Sports Main Events UK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3505
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3505
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action UK" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoaz_KVJEg15ySH8PZq4GdSzY0vjFkaOg-MECBlUitEcoE.png" group-title="IPTV KITA SPORTS",Sky Sports Action UK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3506
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3506
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena UK" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoaz_KVJEg15ySH8PZq4GdSzY0vjFkaOg-MECBlUitEcoE.png" group-title="IPTV KITA SPORTS",Sky Sports Arena UK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3507
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3507
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports News UK" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoaz_KVJEg15ySH8PZq4GdSzY0vjFkaOg-MECBlUitEcoE.png" group-title="IPTV KITA SPORTS",Sky Sports News UK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3508
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3508
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket UK" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoaz_KVJEg15ySH8PZq4GdSzY0vjFkaOg-MECBlUitEcoE.png" group-title="IPTV KITA SPORTS",Sky Sports Cricket UK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3509
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3509
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Golf UK" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoaz_KVJEg15ySH8PZq4GdSzY0vjFkaOg-MECBlUitEcoE.png" group-title="IPTV KITA SPORTS",Sky Sports Golf UK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3510
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3510
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 1 UK" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa7lVX8ZI2zhI6XXFbZbQq9qIMGJbl6jNamArp0f1KP0J.png" group-title="IPTV KITA SPORTS",EUROSPORTS 1 UK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3511
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3511
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 2 UK" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa7lVX8ZI2zhI6XXFbZbQq9qIMGJbl6jNamArp0f1KP0J.png" group-title="IPTV KITA SPORTS",EUROSPORTS 2 UK
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3512
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3512
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN 1 HD" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png" group-title="IPTV KITA",ELEVEN 1 HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1817
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1817
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN 2 HD" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png" group-title="IPTV KITA",ELEVEN 2 HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1818
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1818
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN 3 HD" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png" group-title="IPTV KITA",ELEVEN 3 HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1819
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1819
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="IPTV KITA SPORTS",BEIN SPORTS 1 HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1826
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1826
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="IPTV KITA SPORTS",BEIN SPORTS 2 HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1827
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1827
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="IPTV KITA SPORTS",BEIN SPORTS 3 HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1828
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1828
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="IPTV KITA SPORTS",BEIN SPORTS 4 HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1829
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1829
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="IPTV KITA SPORTS",BEIN SPORTS 5 HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1830
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1830
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="IPTV KITA SPORTS",BEIN SPORTS 6 HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1831
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1831
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 HD" tvg-logo="https://hometv.pw/logo/sports2/bein_ar.png" group-title="IPTV KITA SPORTS",BEIN SPORTS 7 HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/1832
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/1832
 #EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport HD" tvg-logo="https://hometv.pw/logo/sports/ziggo.png" group-title="IPTV KITA SPORTS",Ziggo Sport HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2041
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2041
 #EXTINF:-1 tvg-id="" tvg-name="Ziggo Tennis HD" tvg-logo="https://hometv.pw/logo/sports/ziggo.png" group-title="IPTV KITA SPORTS",Ziggo Tennis HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2042
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2042
 #EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Voetbal HD" tvg-logo="https://hometv.pw/logo/sports/ziggo.png" group-title="IPTV KITA SPORTS",Ziggo Sport Voetbal HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2043
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2043
 #EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Select HD" tvg-logo="https://hometv.pw/logo/sports/ziggo.png" group-title="IPTV KITA SPORTS",Ziggo Sport Select HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2044
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2044
 #EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Golf HD" tvg-logo="https://hometv.pw/logo/sports/ziggo.png" group-title="IPTV KITA SPORTS",Ziggo Sport Golf HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2045
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2045
 #EXTINF:-1 tvg-id="" tvg-name="TNT 1 HD" tvg-logo="https://hometv.pw/logo/sports/tnt_sports2.png" group-title="IPTV KITA SPORTS",TNT 1 HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2056
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2056
 #EXTINF:-1 tvg-id="" tvg-name="TNT 2 HD" tvg-logo="https://hometv.pw/logo/sports/tnt_sports2.png" group-title="IPTV KITA SPORTS",TNT 2 HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2057
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2057
 #EXTINF:-1 tvg-id="" tvg-name="TNT 3 HD" tvg-logo="https://hometv.pw/logo/sports/tnt_sports2.png" group-title="IPTV KITA SPORTS",TNT 3 HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2058
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2058
 #EXTINF:-1 tvg-id="" tvg-name="TNT 4 HD" tvg-logo="https://hometv.pw/logo/sports/tnt_sports2.png" group-title="IPTV KITA SPORTS",TNT 4 HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2059
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2059
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN 4 HD" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png" group-title="IPTV KITA",ELEVEN 4 HD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2067
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2067
 #EXTINF:-1 tvg-id="" tvg-name="TEN 1" tvg-logo="https://hometv.pw/logo/sports/ten1.png" group-title="IPTV KITA SPORTS",TEN 1
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3673
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3673
 #EXTINF:-1 tvg-id="" tvg-name="TEN 2" tvg-logo="https://hometv.pw/logo/sports/ten2.png" group-title="IPTV KITA SPORTS",TEN 2
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3674
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3674
 #EXTINF:-1 tvg-id="" tvg-name="TEN 3" tvg-logo="https://hometv.pw/logo/sports/ten3.png" group-title="IPTV KITA SPORTS",TEN 3
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3675
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3675
 #EXTINF:-1 tvg-id="" tvg-name="SPORTTV 1" tvg-logo="" group-title="IPTV KITA",SPORTTV 1
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3678
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3678
 #EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="" group-title="IPTV KITA",SPORTTV 2
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3679
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3679
 #EXTINF:-1 tvg-id="" tvg-name="SPORTTV 3" tvg-logo="" group-title="IPTV KITA",SPORTTV 3
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/3680
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3680
 #EXTINF:-1 tvg-id="" tvg-name="CANAL + MOTOGP" tvg-logo="" group-title="IPTV KITA SPORTS",CANAL + MOTOGP
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/2065
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/2065
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 4" tvg-logo="https://hometv.pw/logo/sports2/live_event.png" group-title="IPTV KITA EVENTS",LIVE 4
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/4076
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4076
 #EXTINF:-1 tvg-id="" tvg-name="SURAU TV" tvg-logo="https://i.imgur.com/rkQExU6.jpg" group-title="IPTV KITA",SURAU TV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/4077
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4077
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 5" tvg-logo="https://hometv.pw/logo/sports2/live_event.png" group-title="IPTV KITA EVENTS",LIVE 5
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/4078
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4078
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 6" tvg-logo="https://hometv.pw/logo/sports2/live_event.png" group-title="IPTV KITA EVENTS",LIVE 6
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/4079
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4079
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 7" tvg-logo="https://hometv.pw/logo/sports2/live_event.png" group-title="IPTV KITA EVENTS",LIVE 7
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/4080
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4080
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 8" tvg-logo="https://hometv.pw/logo/sports2/live_event.png" group-title="IPTV KITA EVENTS",LIVE 8
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/4081
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4081
 #EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 1" tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="IPTV KITA EVENTS",EURO 2024 - 1
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/4098
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4098
 #EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 2" tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="IPTV KITA EVENTS",EURO 2024 - 2
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/4099
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4099
 #EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 3" tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="IPTV KITA EVENTS",EURO 2024 - 3
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/4100
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4100
 #EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 4" tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="IPTV KITA EVENTS",EURO 2024 - 4
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/4101
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4101
 #EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 5" tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="IPTV KITA EVENTS",EURO 2024 - 5
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/4102
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4102
 #EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 6" tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="IPTV KITA EVENTS",EURO 2024 - 6
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/4103
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4103
 #EXTINF:-1 tvg-id="" tvg-name="EURO 2024 - 7" tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="IPTV KITA EVENTS",EURO 2024 - 7
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/dirga/dirga/4104
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4104
 
 
 
