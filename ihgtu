@@ -3117,6 +3117,164 @@ http://202.21.104.6:88/sps-action/index.m3u8
 http://202.21.104.6:88/sps-plus/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nk44Tdd.png" group-title=" " group-title="BEIN TV",BEIN SPORTS NEWS HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=369&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WwH58EE.png" group-title=" " group-title="BEIN TV",BEIN SPORTS 4K HDR NATIVE EXCLUSIVE (LIVE MATCH ONLY)
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=104974&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" " group-title="BEIN TV",BEIN SPORTS MAX 1 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112542&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" " group-title="BEIN TV",BEIN SPORTS MAX 1 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112541&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" " group-title="BEIN TV",BEIN SPORTS MAX 1 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112539&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" " group-title="BEIN TV",BEIN SPORTS MAX 1 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112538&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" " group-title="BEIN TV",BEIN SPORTS MAX 2 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112511&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" " group-title="BEIN TV",BEIN SPORTS MAX 2 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112512&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" " group-title="BEIN TV",BEIN SPORTS MAX 2 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112509&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" " group-title="BEIN TV",BEIN SPORTS MAX 2 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112489&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png" " group-title="BEIN TV",|CHAMPIONS LEAGUE| BEIN SPORTS 1 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105104&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png" " group-title="BEIN TV",BEIN SPORTS 1 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45706&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png" " group-title="BEIN TV",|CHAMPIONS LEAGUE| BEIN SPORTS 1 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105103&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png" " group-title="BEIN TV",BEIN SPORTS 1 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45705&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png" " group-title="BEIN TV",|CHAMPIONS LEAGUE| BEIN SPORTS 1 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105102&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png" " group-title="BEIN TV",BEIN SPORTS 1 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45704&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN SPORTS 1 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=583&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png" " group-title="BEIN TV",|CHAMPIONS LEAGUE| BEIN SPORTS 2 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105107&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png" " group-title="BEIN TV",BEIN SPORTS 2 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45709&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png" " group-title="BEIN TV",|CHAMPIONS LEAGUE| BEIN SPORTS 2 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105106&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png" " group-title="BEIN TV",BEIN SPORTS 2 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45708&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png" " group-title="BEIN TV",|CHAMPIONS LEAGUE| BEIN SPORTS 2 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105105&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png" " group-title="BEIN TV",BEIN SPORTS 2 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45707&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN SPORTS 2 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=683&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png" " group-title="BEIN TV",BEIN SPORTS_3 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2600&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png" " group-title="BEIN TV",BEIN SPORTS_3 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=788&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png" " group-title="BEIN TV",BEIN SPORTS 3 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10081&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN SPORTS 3 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22392&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png" " group-title="BEIN TV",BEIN SPORTS_4 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2601&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png" " group-title="BEIN TV",BEIN SPORTS_4 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=789&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png" " group-title="BEIN TV",BEIN SPORTS 4 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10080&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN SPORTS 4 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22391&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png" " group-title="BEIN TV",BEIN SPORTS_5 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2602&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png" " group-title="BEIN TV",BEIN SPORTS_5 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=790&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png" " group-title="BEIN TV",BEIN SPORTS 5 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10079&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN SPORTS 5 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22390&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png" " group-title="BEIN TV",BEIN SPORTS_6 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2603&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png" " group-title="BEIN TV",BEIN SPORTS_6 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=791&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png" " group-title="BEIN TV",BEIN SPORTS 6 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10078&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN SPORTS 4 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22389&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png" " group-title="BEIN TV",BEIN SPORTS_7 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2604&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png" " group-title="BEIN TV",BEIN SPORTS_7 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=792&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png" " group-title="BEIN TV",BEIN SPORTS 7 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10077&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN SPORTS 7 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22388&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png" " group-title="BEIN TV",BEIN SPORTS_8 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2605&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png" " group-title="BEIN TV",BEIN SPORTS_8 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=793&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png" " group-title="BEIN TV",BEIN SPORTS 8 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10076&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN SPORTS 8 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22387&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png" " group-title="BEIN TV",BEIN SPORTS_9 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2606&extension=ts
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png" " group-title="BEIN TV",BEIN SPORTS_9 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=794&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png" " group-title="BEIN TV",BEIN SPORTS 9 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=10075&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN SPORTS 9 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=22386&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png" " group-title="BEIN TV",BEIN SPORTS HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=1454&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCv82hS.png" " group-title="BEIN TV",BEIN SPORTS FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=4412&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN SPORTS 1 ENGLISH FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=26511&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN SPORTS 2 ENGLISH FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=3032&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN SPORTS 3 ENGLISH FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=89275&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN SPORTS AFC 2 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=89260&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN SPORTS AFC 2 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=89269&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN SPORTS AFC 2 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=89266&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN BOX OFFICE 1 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2612&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN BOX OFFICE 2 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2839&extension=ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png" " group-title="BEIN TV",BEIN MOVIES 4 FHD (EXCLUS)
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=43852&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN SERIES 2 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=3147&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN FATAFEAT HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=37234&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BeIN GOURMET HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=5239&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN FOX HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=3602&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN FOX CRIME HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=3644&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN NAT GEO HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=4391&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BEIN HGTV HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=5221&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",SHARJAH SPORT SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=42850&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",AL KASS ONE HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=90323&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",AL KASS ONE FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=1763&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",AL KASS TWO FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=1764&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",AL KASS THREE FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=19726&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",AL KASS FOUR FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=1765&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BAHRAIN SPORT 1 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=7085&extension=ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEispzM6t7DQ2b0N5WemYqLyldnfa5Ygj9KMb7Fq2B7v3ysfc4uHWw7vLqvayS0aCtJ-B7WNePbnhcv1txEmDl9GqHIBNXpq7g2XOUHGIZ1DcJhLdNgMgL2agCjZfsQRSLfOq3GezgtYSAqaPjcbXqYAyQymg6dHa0MUkZwGYwra-ntuECULfx7ZJELOsQI/s320/WhatsApp%20Image%202024-06-24%20at%2021.01.11.jpeg" " group-title="BEIN TV",BAHRAIN SPORT 2 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=7084&extension=ts
+
+
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
