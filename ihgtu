@@ -2,7 +2,24 @@
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
 
 
-
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/07/film-beverly-hills-cop-axel-f-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",BEVERLY HILLS COP: AXEL F (2024) 
+https://stream.hownetwork.xyz/yyy/beverly-hills-cop-axel-f-2024-webdl_X_f2bcfc06/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/07/film-the-legend-of-lake-hollow-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",THE LEGEND OF LAKE HOLLOW (2024)
+https://stream.hownetwork.xyz/yyy/the-legend-of-lake-hollow-2024-webdl_X_1598e643/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/05/film-founders-day-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",FOUNDERS DAY (2024)
+https://stream.hownetwork.xyz/yyy/founders-day-2024-bluray_X_6e4474fd/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/07/film-ngesot-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",NGESOT (2024)
+https://stream.hownetwork.xyz/yyy/ngesot-2024-webdl_X_5e381e4a/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/07/film-heartless-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",HEARTLESS (2024)
+https://stream.hownetwork.xyz/yyy/heartless-2024-webdl_X_e5d80f23/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/07/film-in-a-violent-nature-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",IN A VIOLENT NATURE (2024)
+https://stream.hownetwork.xyz/yyy/in-a-violent-nature-2024-webdl_X_16250306/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/07/film-a-quiet-place-day-one-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",A QUIET PLACE: DAY ONE (2024)
+https://stream.hownetwork.xyz/yyy/a-quiet-place-day-one-2024-hdcam_X_872943de/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/07/film-hard-home-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",HARD HOME (2024)
+https://stream.hownetwork.xyz/yyy/hard-home-2024-webdl_X_f4b41f6c/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/07/film-the-devils-bath-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",THE DEVIL’S BATH (2024)
+https://stream.hownetwork.xyz/yyy/the-devils-bath-2024-bluray_X_dd142fab/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/07/film-the-sin-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",THE SIN (2024)
 https://stream.hownetwork.xyz/yyy/the-sin-2024-webdl_X_1566a3d1/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/07/film-the-watchers-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",THE WATCHERS (2024)
@@ -15,8 +32,6 @@ https://stream.hownetwork.xyz/yyy/drawing-closer-2024-webdl_X_4b31b7b8/22/480.m3
 https://stream.hownetwork.xyz/yyy/unsung-hero-2024-webdl_X_fdc12927/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-cinderellas-curse-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",CINDERELLA’S CURSE (2024)
 https://stream.hownetwork.xyz/yyy/cinderellas-curse-2024-webdl_X_f850d681/22/480.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-sheriff-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",SHERIFF (2024)
 https://stream.hownetwork.xyz/yyy/sheriff-2024-webdl_X_dc3be529/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-bisikan-setan-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",BISIKAN SETAN (2024)
