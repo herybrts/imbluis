@@ -1,6 +1,11 @@
 #EXTM3U
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
 
+
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/07/film-inside-out-2-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",INSIDE OUT 2 (2024) 
+https://stream.hownetwork.xyz/yyy/inside-out-2-2024-hdcam_X_0750e18a/22/480.m3u8
+
 #EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/07/film-maidaan-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",MAIDAAN (2024)
 https://stream.hownetwork.xyz/yyy/maidaan-2024-webdl_X_1cf34db4/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/07/film-parshawan-punjabi-movie-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",PARSHAWAN – PUNJABI MOVIE (2024)
