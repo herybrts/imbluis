@@ -9545,353 +9545,573 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/166
 
 
 
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
-#EXTM3U url-tvg="http://trada.info/epg.xml"
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-#EXTM3U url-tvg="http://192.168.1.245:9981/xmltv/channels"
-
-#-------------------VTV-------------------#
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nfkmvAY.png" tvg-id="0b3760146f2d46e37dc32c32bf9aea97" group-title="VIETH PREMIUM TV" tvg-chno="1",VTV1 HD
-http://192.168.1.245:9981/stream/channelid/341849867?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BVwi3K3.png" tvg-id="9cc3275a27b2bdb8e65fdcf07b76401a" group-title="VIETH PREMIUM TV" tvg-chno="2",VTV2 HD
-http://192.168.1.245:9981/stream/channelid/1512555420?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7rLCvgS.png" tvg-id="fac47881345b7c7ab0d3ee50fd1c9fc8" group-title="VIETH PREMIUM TV" tvg-chno="3",VTV3 HD
-http://192.168.1.245:9981/stream/channelid/24691962?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9zVTtsA.png" tvg-id="45cf032004dc1c12a897fec3bc2645be" group-title="VIETH PREMIUM TV" tvg-chno="4",VTV4 HD
-http://192.168.1.245:9981/stream/channelid/537120581?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7qPKNFU.png" tvg-id="ca1eb2679515a90a789f338f97c9bdc3" group-title="VIETH PREMIUM TV" tvg-chno="5",VTV5 HD
-http://192.168.1.245:9981/stream/channelid/1739726538?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HCpqatZ.png" tvg-id="0b7f807f94b4d68a65b3c1d58ccd834a" group-title="VIETH PREMIUM TV" tvg-chno="6",VTV Cần Thơ HD
-http://192.168.1.245:9981/stream/channelid/2139127563?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AgamSNe.png" tvg-id="3ac80c884071dcdc848cd57ec0c1fd67" group-title="VIETH PREMIUM TV" tvg-chno="7",VTV7 HD
-http://192.168.1.245:9981/stream/channelid/135055418?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lpcltL9.png" tvg-id="44713999b1b94245e0b1d15695e0a828" group-title="VIETH PREMIUM TV" tvg-chno="8",VTV8 HD
-http://192.168.1.245:9981/stream/channelid/423194948?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ex1VkGQ.png" tvg-id="f4e4e686f8844ad394f08a6825d0c8b5" group-title="VIETH PREMIUM TV" tvg-chno="9",VTV9 HD
-http://192.168.1.245:9981/stream/channelid/115795188?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mIUWkDx.png" tvg-id="96abbb1a8083ff902a515dfdd14aa548" group-title="VIETH PREMIUM TV" tvg-chno="10",VTV5 HD - Tây Nam Bộ
-http://192.168.1.245:9981/stream/channelid/448506774?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R8c2swd.png" tvg-id="5483231bb19689e1cdf273ffcd4fabff" group-title="VIETH PREMIUM TV" tvg-chno="11",VTV5 HD - Tây Nguyên
-http://192.168.1.245:9981/stream/channelid/455312212?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eGkFbAh.png" tvg-id="dcd8a9b747197b417f9d7674dc6983be" group-title="VIETH PREMIUM TV" tvg-chno="12",ANTV HD
-http://192.168.1.245:9981/stream/channelid/933877980?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ud78FHF.png" tvg-id="d084d2953ddfdd5d366ef0b4c58ca8fc" group-title="VIETH PREMIUM TV" tvg-chno="13",Nhân Dân
-http://192.168.1.245:9981/stream/channelid/366118096?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YtZGuSy.png" tvg-id="f6fc5b19312bf0239647782ea2d149dc" group-title="VIETH PREMIUM TV" tvg-chno="14",Quốc Hội
-http://192.168.1.245:9981/stream/channelid/425458934?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UIGZw0y.png" tvg-id="cf64af83a427803cf80b8a9236b80772" group-title="VIETH PREMIUM TV" tvg-chno="15",QPVN HD
-http://192.168.1.245:9981/stream/channelid/61826255?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmefCpv.png" tvg-id="625b9213c41be5a42b8d4106fd1a43ad" group-title="VIETH PREMIUM TV" tvg-chno="16",TTXVN HD
-http://192.168.1.245:9981/stream/channelid/328358754?profile=pass
-
-#-------------------HTV/HTVC-------------------#
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oLm4dbV.png" tvg-id="f9cbaf21fb871d0047ff0c59b5d1f29c" group-title="VIETH PREMIUM TV" tvg-chno="17",HTV1
-http://192.168.1.245:9981/stream/channelid/565169145?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f3KlwDX.png" tvg-id="e303235128609d43377f7dfbc62e98c5" group-title="VIETH PREMIUM TV" tvg-chno="18",HTV2 HD
-http://192.168.1.245:9981/stream/channelid/1361249251?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2iE01Ca.png" tvg-id="f84bdd711112b220bd59b85193ebdd44" group-title="VIETH PREMIUM TV" tvg-chno="19",HTV3
-http://192.168.1.245:9981/stream/channelid/1910328312?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RSlvzAs.png" tvg-id="9b9d016aa21b7b83ef5c8995cfcfa607" group-title="VIETH PREMIUM TV" tvg-chno="20",HTV7 HD
-http://192.168.1.245:9981/stream/channelid/1778490779?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wdS7Cr9.png" tvg-id="e4401d926568891f5109384471e0efa6" group-title="VIETH PREMIUM TV" tvg-chno="21",HTV9 HD
-http://192.168.1.245:9981/stream/channelid/303907044?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z7NOxJ3.png" tvg-id="76775bd7832473b28e431bcee8412383" group-title="VIETH PREMIUM TV" tvg-chno="22",HTV Thể Thao HD
-http://192.168.1.245:9981/stream/channelid/1465612150?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHVkEIC.png" tvg-id="f0124dbab830e6a88e69116a35694939" group-title="VIETH PREMIUM TV" tvg-chno="23",HTVC Ca Nhạc HD
-http://192.168.1.245:9981/stream/channelid/978129648?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XxIO0E0.png" tvg-id="b2ee8f63afbb7872fce1ed17ed08bd5f" group-title="VIETH PREMIUM TV" tvg-chno="24",HTVC Du Lịch HD
-http://192.168.1.245:9981/stream/channelid/1670377138?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KxWRNH6.png" tvg-id="e4f8d189c6e10e00202e5d4e1f918abe" group-title="VIETH PREMIUM TV" tvg-chno="25",HTVC Gia Đình HD
-http://192.168.1.245:9981/stream/channelid/164755684?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SXV3ya9.png" tvg-id="d175b7bf817c3fa7bc52eb2d46a095c1" group-title="VIETH PREMIUM TV" tvg-chno="26",HTVC Phim HD
-http://192.168.1.245:9981/stream/channelid/1068987857?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PLliKL6.png" tvg-id="69abcd05fc3cbfa0ee95129bcb4d0af9" group-title="VIETH PREMIUM TV" tvg-chno="27",HTVC Phụ Nữ HD
-http://192.168.1.245:9981/stream/channelid/97364841?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xmISDWo.png" tvg-id="262177e32d869d483bf600f9af0c5a5a" group-title="VIETH PREMIUM TV" tvg-chno="28",HTVC Thuần Việt
-http://192.168.1.245:9981/stream/channelid/1668751654?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SQ9cLJj.png" tvg-id="1b81488366bab5f2fe90b543f2b29c71" group-title="VIETH PREMIUM TV" tvg-chno="29",HTVC Plus HD
-http://192.168.1.245:9981/stream/channelid/55083291?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wrH7U0X.png" tvg-id="2149c4847dea0c3f68439ea390547e78" group-title="VIETH PREMIUM TV" tvg-chno="30",HTV Key
-http://192.168.1.245:9981/stream/channelid/79972641?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gvPtTR2.png" tvg-id="63eaeddd993e15669d8a6f6fb508b18e" group-title="VIETH PREMIUM TV" tvg-chno="31",THVL1 _ TH Vinh Long
-http://192.168.1.245:9981/stream/channelid/1575873123?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYadDFn.png" tvg-id="2288da73fd8078064b150a00f5560a0b" group-title="VIETH PREMIUM TV" tvg-chno="32",THVL2 _ TH Vinh Long
-http://192.168.1.245:9981/stream/channelid/1943701538?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B8S0dyG.png" tvg-id="ae55e7e115652bd3bb563942678980e4" group-title="VIETH PREMIUM TV" tvg-chno="33",THVL3 _ TH Vinh Long
-http://192.168.1.245:9981/stream/channelid/1642550702?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xYalJzh.png" tvg-id="1be7049cc663a79ac89baf36bf04f448" group-title="VIETH PREMIUM TV" tvg-chno="34",THVL4 _ TH Vinh Long
-http://192.168.1.245:9981/stream/channelid/470083355?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pSIvTkZ.png" tvg-id="sctv6hd" group-title="VIETH PREMIUM TV" tvg-chno="35",SCTV6 HD
-http://192.168.1.245:9981/stream/channelid/274355176?profile=pass
-
-
-#-------------------VTC/VOV-------------------#
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7HD60aD.png" tvg-id="2eb6f224ea2871503e9980b69fe347c" group-title="VIETH PREMIUM TV" tvg-chno="36",VTC1 HD
-https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
-#http://192.168.1.245:9981/stream/channelid/577760162?profile=pass
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WUUXS6T.png" tvg-id="2af309ee9db6867821a2566e23944917" group-title="VIETH PREMIUM TV" tvg-chno="37",VTC2
-http://192.168.1.245:9981/stream/channelid/1846145834?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hS4bgHe.png" tvg-id="09076bacade8a960ea1dc9d7fb22d613" group-title="VIETH PREMIUM TV" tvg-chno="38",VTC3 HD
-http://192.168.1.245:9981/stream/channelid/745211657?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5cwYPTt.png" tvg-id="44236b5571f09ef19fcc5a3efff86f80" group-title="VIETH PREMIUM TV" tvg-chno="39",VTC4
-http://192.168.1.245:9981/stream/channelid/1433084740?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VvfiwPJ.png" tvg-id="68d8e7e25ea010d4e2fbbd62c6650c4d" group-title="VIETH PREMIUM TV" tvg-chno="40",VTC5
-http://192.168.1.245:9981/stream/channelid/1659361384?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LPdjM0z.png" tvg-id="ca8a370e2661ab9e07982d1925fafbf1" group-title="VIETH PREMIUM TV" tvg-chno="41",VTC6
-http://192.168.1.245:9981/stream/channelid/238521034?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y5FUbsY.png" tvg-id="0776b5437d12a81a2ee5a4a4455fc323" group-title="VIETH PREMIUM TV" tvg-chno="42",VTC7
-http://192.168.1.245:9981/stream/channelid/1135965703?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4k57giG.png" tvg-id="1dcde26ec5e00c747251472227507d1e" group-title="VIETH PREMIUM TV" tvg-chno="43",VTC8
-http://192.168.1.245:9981/stream/channelid/1860357405?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cnAht7i.png" tvg-id="5a4269e3e2f18128693aea01d1395d24" group-title="VIETH PREMIUM TV" tvg-chno="44",VTC9
-http://192.168.1.245:9981/stream/channelid/1667842650?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PaVbyxg.png" tvg-id="9e0f7147cd840ec2270a2e50602d5af2" group-title="VIETH PREMIUM TV" tvg-chno="45",VTC10
-http://192.168.1.245:9981/stream/channelid/1198591902?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ovZkYb.png" tvg-id="a3f3cb6668fd4dd0c7ab0a4b1d6cac3f" group-title="VIETH PREMIUM TV" tvg-chno="46",VTC11
-http://192.168.1.245:9981/stream/channelid/1724642211?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/phXvB0t.png" tvg-id="cda0383fd5fd18c1df13c5e91a94701e" group-title="VIETH PREMIUM TV" tvg-chno="47",VTC14
-http://192.168.1.245:9981/stream/channelid/1060675789?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rltq2Dy.png" tvg-id="1fe0ea9359d611fbb2ad948e82444799" group-title="VIETH PREMIUM TV" tvg-chno="48",VTC16
-http://192.168.1.245:9981/stream/channelid/334159903?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lARtNRO.png" tvg-id="91d6022d66ced5196f317195c8b4f8de" group-title="VIETH PREMIUM TV" tvg-chno="49",VOVTV HD
-http://192.168.1.245:9981/stream/channelid/755160721?profile=pass
- 
-#-------------------------VTVcab---------------------------#
-#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
-https://api.wintv.me/360/180/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab2hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
-https://api.wintv.me/360/175/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies
-https://api.wintv.me/360/181/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel
-https://api.wintv.me/360/182/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
-https://api.wintv.me/360/178/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab9hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
-https://api.wintv.me/360/189/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
-https://api.wintv.me/360/176/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab12hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
-https://api.wintv.me/360/184/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab15hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
-https://api.wintv.me/360/185/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab17hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
-https://api.wintv.me/360/186/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Sport News
-https://api.wintv.me/360/170/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
-https://api.wintv.me/360/177/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab20hd" group-title="VIETH PREMIUM TV" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
-https://api.wintv.me/360/187/index.m3u8
-#EXTINF:-1 group-title="VIETH PREMIUM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png",ON Kids
-https://api.wintv.me/360/179/index.m3u8
-#EXTINF:-1 group-title="VIETH PREMIUM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png",ON Life
-https://api.wintv.me/360/169/index.m3u8
-#EXTINF:-1 group-title="VIETH PREMIUM TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png",ON Golf
-
-#-------------------Quốc tế-------------------#
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UI80qhw.png" tvg-id="de5cb1af2401d25ed644ede2ededae54" group-title="VIETH PREMIUM TV" tvg-chno="50",ABC Australia
-http://192.168.1.245:9981/stream/channelid/800152798?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TBgGuJy.png" tvg-id="1ac71d756294f904b0b066bffb5c4c39" group-title="VIETH PREMIUM TV" tvg-chno="51",Animal Planet
-http://192.168.1.245:9981/stream/channelid/1964885786?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bLjwPFU.png" tvg-id="5ff05de520339ef91199644563d73d82" group-title="VIETH PREMIUM TV" tvg-chno="52",Animax
-http://192.168.1.245:9981/stream/channelid/1700655199?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KL9oaqc.png" tvg-id="4e0054d11e59021ebdcf2d17268fb848" group-title="VIETH PREMIUM TV" tvg-chno="53",Asian Food Network
-http://192.168.1.245:9981/stream/channelid/1364459598?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rwm7Lod.png" tvg-id="666538392197d1bd835b11d7cc6f6771" group-title="VIETH PREMIUM TV" tvg-chno="54",AXN
-http://192.168.1.245:9981/stream/channelid/959997286?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0t99xJZ.png" tvg-id="afa49ed01b67ad96113b65fb6e063cf8" group-title="VIETH PREMIUM TV" tvg-chno="55",BBC CbeeBies
-http://192.168.1.245:9981/stream/channelid/1352574127?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qUiM77S.png" tvg-id="9533ec7146ac84d060b021454658a012" group-title="VIETH PREMIUM TV" tvg-chno="56",BBC Earth
-http://192.168.1.245:9981/stream/channelid/1911305109?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i7aYwdZ.png" tvg-id="d51936ea26a62b9f5ad58b05de43696d" group-title="VIETH PREMIUM TV" tvg-chno="57",BBC Lifestyle
-http://192.168.1.245:9981/stream/channelid/1781930453?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hsByQfe.png" tvg-id="336b193211e206d959d5899d178c5057" group-title="VIETH PREMIUM TV" tvg-chno="58",BBC News
-http://192.168.1.245:9981/stream/channelid/840526643?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rxFZgIK.png" tvg-id="1ceb1671a9e8a284704f962822b978f9" group-title="VIETH PREMIUM TV" tvg-chno="59",Bloomberg
-http://192.168.1.245:9981/stream/channelid/1897327388?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6oXQdBZ.png" tvg-id="58642607ad541bd7a01f2bb52be33504" group-title="VIETH PREMIUM TV" tvg-chno="60",Cartoon Network
-http://192.168.1.245:9981/stream/channelid/119956568?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RIQE8kA.png" tvg-id="d8e0ca484338ca8e7d347f6bfbd4528a" group-title="VIETH PREMIUM TV" tvg-chno="61",CNA
-http://192.168.1.245:9981/stream/channelid/1221255384?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RCd9AM9.png" tvg-id="7143a99870011616fd19bec7555820a6" group-title="VIETH PREMIUM TV" tvg-chno="62",CNN
-http://192.168.1.245:9981/stream/channelid/413746033?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t9fzARL.png" tvg-id="a1ba22ded3261a88bea169b6705ff451" group-title="VIETH PREMIUM TV" tvg-chno="63",Da Vinci
-http://192.168.1.245:9981/stream/channelid/1579334305?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/STCTI1F.png" tvg-id="5cc3a074eeb351d53a694fb28f4c1dad" group-title="VIETH PREMIUM TV" tvg-chno="64",Discovery Asia
-http://192.168.1.245:9981/stream/channelid/1956692828?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2JR5vSZ.png" tvg-id="21fd913bc84c0d7e7d8bd9714f890ba4" group-title="VIETH PREMIUM TV" tvg-chno="65",Discovery Channel
-http://192.168.1.245:9981/stream/channelid/999423265?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N69Cori.png" tvg-id="86383a96c38400815087319c7446401c" group-title="VIETH PREMIUM TV" tvg-chno="66",Dreamworks
-http://192.168.1.245:9981/stream/channelid/372914310?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ppi36a4.png" tvg-id="4ab508ac072f3a849895d254389f39ac" group-title="VIETH PREMIUM TV" tvg-chno="67",DW (English)
-http://192.168.1.245:9981/stream/channelid/738768202?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ALDt1JX.png" tvg-id="96f187447b3d6e2754dc07a35aa5a889" group-title="VIETH PREMIUM TV" tvg-chno="68",Fashion TV
-http://192.168.1.245:9981/stream/channelid/1149759894?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YF2zMTz.png" tvg-id="13c483974f4b22a2d5879ff134ca601e" group-title="VIETH PREMIUM TV" tvg-chno="69",France 24 (English)
-http://192.168.1.245:9981/stream/channelid/394511379?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7nIUtCU.png" tvg-id="c74653b1f17b6f2c419129e15ecdfcc9" group-title="VIETH PREMIUM TV" tvg-chno="70",HBO
-http://192.168.1.245:9981/stream/channelid/827541191?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vylHBC8.png" tvg-id="56aa77086f004ae306823ff3051fa621" group-title="VIETH PREMIUM TV" tvg-chno="71",KBS World
-http://192.168.1.245:9981/stream/channelid/142060118?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Et3vExm.png" tvg-id="7db81ab08ee260c23917590a54744a79" group-title="VIETH PREMIUM TV" tvg-chno="72",NHK World Japan
-http://192.168.1.245:9981/stream/channelid/807057533?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x4zXtYX.png" tvg-id="c022a19ab9337649ca0fa1aa901b0051" group-title="VIETH PREMIUM TV" tvg-chno="73",Outdoor Channel
-http://192.168.1.245:9981/stream/channelid/446767808?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZStxdQI.png" tvg-id="48a754f7afde4f6d4a525a5c663490ab" group-title="VIETH PREMIUM TV" tvg-chno="74",TLC
-http://192.168.1.245:9981/stream/channelid/2002036552?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D8zXF7p.png" tvg-id="1c3dc713d11f8cb3a1b0b6b0721084fc" group-title="VIETH PREMIUM TV" tvg-chno="75",TV5 Monde Asie
-http://192.168.1.245:9981/stream/channelid/331824412?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B9AVT2i.png" tvg-id="49b29b879e9157a78d401c1e5636d64d" group-title="VIETH PREMIUM TV" tvg-chno="76",WBTV
-http://192.168.1.245:9981/stream/channelid/127644233?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DZNTBjC.png" tvg-id="7e33488d6c52a2e5ed82d52afe976d4b" group-title="VIETH PREMIUM TV" tvg-chno="77",Arirang
-http://192.168.1.245:9981/stream/channelid/222835582?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H0hAm72.png" tvg-id="1cfdd5e3f78dc0e63d858037cdcabd46" group-title="VIETH PREMIUM TV" tvg-chno="78",CNBC
-http://192.168.1.245:9981/stream/channelid/1674968348?profile=pass
-
-
-#-------------------Địa phương-------------------#
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QAVSUBu.png" tvg-id="c6c8841942c649e8d83e49db4fdd5614" group-title="VIETH PREMIUM TV" tvg-chno="79",THLC _ TH Lào Cai
-http://192.168.1.245:9981/stream/channelid/428132550?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AELRXuX.png" tvg-id="3f9ffa38895ab1dcc8308643e5061051" group-title="VIETH PREMIUM TV" tvg-chno="80",YTV _ TH Yên Bái
-http://192.168.1.245:9981/stream/channelid/955948863?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rky1N5S.png" tvg-id="89e19899703a59fff2eeffde605b1ce0" group-title="VIETH PREMIUM TV" tvg-chno="81",ĐTV _ TH Điện Biên
-http://192.168.1.245:9981/stream/channelid/429449609?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cgKnwnX.png" tvg-id="658c40f49128677ca1daa7d265c81f52" group-title="VIETH PREMIUM TV" tvg-chno="82",HBTV _ TH Hòa Bình
-http://192.168.1.245:9981/stream/channelid/1950387301?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/we3GCjr.png" tvg-id="dbf984a0b50bc430b37a447b377a4991" group-title="VIETH PREMIUM TV" tvg-chno="83",LTV _ TH Lai Châu
-http://192.168.1.245:9981/stream/channelid/545585627?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h7uPIEP.png" tvg-id="692fc6a3503ad6e98d87ff4aee01b115" group-title="VIETH PREMIUM TV" tvg-chno="84",HGTV _ TH Hà Giang
-http://192.168.1.245:9981/stream/channelid/600190825?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YCrYT2p.png" tvg-id="d82b034c381393f072a99d01e879ba5f" group-title="VIETH PREMIUM TV" tvg-chno="85",CRTV _ TH Cao Bằng
-http://192.168.1.245:9981/stream/channelid/1275276248?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/msjevyp.png" tvg-id="c845eb304cfb9fafebb8080fee9a5a9c" group-title="VIETH PREMIUM TV" tvg-chno="86",TBK _ TH Bắc Kạn
-http://192.168.1.245:9981/stream/channelid/820725192?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6FCXyrr.png" tvg-id="6f155502b17774f2d1ec5621cdbd98ae" group-title="VIETH PREMIUM TV" tvg-chno="87",LSTV _ TH Lạng Sơn
-http://192.168.1.245:9981/stream/channelid/39130479?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6RPgRE7.png" tvg-id="45f0fb89af4da4a8daa2df9cbdfdcb6a" group-title="VIETH PREMIUM TV" tvg-chno="88",TTV _ TH Tuyên Quang
-http://192.168.1.245:9981/stream/channelid/167505989?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UBcqMiY.png" tvg-id="1b4106d53ee777cf3a5919972dc98534" group-title="VIETH PREMIUM TV" tvg-chno="89",TN1 _ TH Thái Nguyên
-http://192.168.1.245:9981/stream/channelid/1426473243?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5OZ2hAB.png" tvg-id="5bf7d1eae575ad19999b4bc4533b5393" group-title="VIETH PREMIUM TV" tvg-chno="90",PTV _ TH Phú Thọ
-http://192.168.1.245:9981/stream/channelid/1792145243?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/05t6W7v.png" tvg-id="19dfa3d9e9c030503f48c654a582c1cf" group-title="VIETH PREMIUM TV" tvg-chno="91",BGTV _ TH Bắc Giang
-http://192.168.1.245:9981/stream/channelid/1503911705?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sGcRJVP.png" tvg-id="f6247b28fb91af873df3b3dbb473cd8e" group-title="VIETH PREMIUM TV" tvg-chno="92",QTV1 _ TH Quảng Ninh
-http://192.168.1.245:9981/stream/channelid/679159030?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4hadYbw.png" tvg-id="0d4129b21a185a060a2d65c363b848fd" group-title="VIETH PREMIUM TV" tvg-chno="93",QTV3 _ TH Quảng Ninh
-http://192.168.1.245:9981/stream/channelid/841564429?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zUFSFCV.png" tvg-id="09dc64b2e20b92c6e1a1910616be178b" group-title="VIETH PREMIUM TV" tvg-chno="94",BTV _ TH Bắc Ninh
-http://192.168.1.245:9981/stream/channelid/845470729?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mwCTDMj.png" tvg-id="31c960d3ae67e6eba06ecc621777abf1" group-title="VIETH PREMIUM TV" tvg-chno="95",H1 _ TH Hà Nội
-http://192.168.1.245:9981/stream/channelid/1398851889?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HyiwlZV.png" tvg-id="123abd766abb03e10849a726b088e369" group-title="VIETH PREMIUM TV" tvg-chno="96",H2 _ TH Hà Nội
-http://192.168.1.245:9981/stream/channelid/1992112658?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QmzXd4R.png" tvg-id="c9947fd1d70444411fa4d22a9d7e2852" group-title="VIETH PREMIUM TV" tvg-chno="97",THD _ TH Hải Dương
-http://192.168.1.245:9981/stream/channelid/1367315657?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/StFk4PA.png" tvg-id="85fffc7523fbba4e53ee5a1ce632c1c7" group-title="VIETH PREMIUM TV" tvg-chno="98",THP _ TH TP. Hải Phòng
-http://192.168.1.245:9981/stream/channelid/1979514757?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s3yq8AW.png" tvg-id="464ef817fc3abe7502281588e606a2c0" group-title="VIETH PREMIUM TV" tvg-chno="99",THP+ _ TH TP. Hải Phòng
-http://192.168.1.245:9981/stream/channelid/402148934?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XuYnZWe.png" tvg-id="3c23f5a1b1ddfda13aacf4dd3b8271da" group-title="VIETH PREMIUM TV" tvg-chno="100",NTV _ TH Ninh Bình
-http://192.168.1.245:9981/stream/channelid/569713468?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fP7B6A4.png" tvg-id="62137f648c1a7951872f2e63af59fa89" group-title="VIETH PREMIUM TV" tvg-chno="101",TBTV _ TH Thái Bình
-http://192.168.1.245:9981/stream/channelid/1686049634?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rrxDn5n.png" tvg-id="61b10ae5672c50bea1f4ba83e949d132" group-title="VIETH PREMIUM TV" tvg-chno="102",VP _ TH Vĩnh Phúc
-http://192.168.1.245:9981/stream/channelid/1695199585?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5HEfwZz.png" tvg-id="911182338eb4619be2180c12fc11777b" group-title="VIETH PREMIUM TV" tvg-chno="103",NTV _ TH Nghệ An
-http://192.168.1.245:9981/stream/channelid/864162193?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R4uthe7.png" tvg-id="14cbaefa99f1a6afa866491e8541b3eb" group-title="VIETH PREMIUM TV" tvg-chno="104",HTTV _ TH Hà Tĩnh
-http://192.168.1.245:9981/stream/channelid/2058275604?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yIHs2sI.png" tvg-id="e3f9307f6d14e6291546271e2fe0caf7" group-title="VIETH PREMIUM TV" tvg-chno="105",QRTV _ TH Quảng Trị
-http://192.168.1.245:9981/stream/channelid/2133916131?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6OWQ8lU.png" tvg-id="ecb9b1fd0f06ac6cb07a87a193e81325" group-title="VIETH PREMIUM TV" tvg-chno="106",DaNangTV1 _ TH TP. Đà Nẵng
-http://192.168.1.245:9981/stream/channelid/2108799468?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hkzIqEV.png" tvg-id="debd278e687006058af79b5ba2b151ad" group-title="VIETH PREMIUM TV" tvg-chno="107",DaNangTV2 _ TH TP. Đà Nẵng
-http://192.168.1.245:9981/stream/channelid/237485534?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uWHWxZB.png" tvg-id="cab21f538f107591d45a2e7522c62e0d" group-title="VIETH PREMIUM TV" tvg-chno="108",QRT _ TH Quảng Nam
-http://192.168.1.245:9981/stream/channelid/1394586314?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/McmKwa8.png" tvg-id="bb0ea67ea603968111c428933856a97e" group-title="VIETH PREMIUM TV" tvg-chno="109",PTQ _ TH Quảng Ngãi
-http://192.168.1.245:9981/stream/channelid/2124811963?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/APCkufv.png" tvg-id="0971706960027b5393cb5a9414af126d" group-title="VIETH PREMIUM TV" tvg-chno="110",BTV _ TH Bình Định
-http://192.168.1.245:9981/stream/channelid/1768976649?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2xMHkT.png" tvg-id="84d46ca39705778a6bc230a7f814e8af" group-title="VIETH PREMIUM TV" tvg-chno="111",PTP _ TH Phú Yên
-http://192.168.1.245:9981/stream/channelid/594334852?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kPu3rSN.png" tvg-id="02c4cb66ec2b9f70777d2c65e64c4751" group-title="VIETH PREMIUM TV" tvg-chno="112",KTV _ TH Khánh Hòa
-http://192.168.1.245:9981/stream/channelid/1724630018?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cx5AaTV.png" tvg-id="abc821dfec9f0e9a2d72216911c6124b" group-title="VIETH PREMIUM TV" tvg-chno="113",NTV _ TH Ninh Thuận
-http://192.168.1.245:9981/stream/channelid/1596049579?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bu1xsiJ.png" tvg-id="16dbf1edfd8b4894b377021383fde4f5" group-title="VIETH PREMIUM TV" tvg-chno="114",BTV _ TH Bình Thuận
-http://192.168.1.245:9981/stream/channelid/1844566806?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C4yYbbi.png" tvg-id="60bcfd8905c04f31c18d949ddb684920" group-title="VIETH PREMIUM TV" tvg-chno="115",KRT _ TH Kon Tum
-http://192.168.1.245:9981/stream/channelid/167623776?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/csqFzvA.png" tvg-id="0d21e70551c4488c76357497ad1eb9d2" group-title="VIETH PREMIUM TV" tvg-chno="116",THGL _ TH Gia Lai
-http://192.168.1.245:9981/stream/channelid/99033357?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H2LOZ2A.png" tvg-id="b3e000ef609a6679238f86d7420c90f4" group-title="VIETH PREMIUM TV" tvg-chno="117",DRT _ TH Đắk Lắk
-http://192.168.1.245:9981/stream/channelid/1862328499?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tv0fNk3.png" tvg-id="bb3138fec6248712e49b951c0304e9de" group-title="VIETH PREMIUM TV" tvg-chno="118",LTV _ TH Lâm Đồng
-http://192.168.1.245:9981/stream/channelid/2117611963?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DHWoGfP.png" tvg-id="c5ba9f0438fd83965ae05727abcf2fe3" group-title="VIETH PREMIUM TV" tvg-chno="119",BPTV1 _ TH Bình Phước
-http://192.168.1.245:9981/stream/channelid/77576901?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CyhvaPs.png" tvg-id="046130c337b722f16ebba6af171d37d2" group-title="VIETH PREMIUM TV" tvg-chno="120",BPTV2 _ TH Bình Phước
-http://192.168.1.245:9981/stream/channelid/1127244036?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YPQCtHY.png" tvg-id="7e63b4403ab458722615e3e569767a13" group-title="VIETH PREMIUM TV" tvg-chno="121",BTV1 _ TH Bình Dương
-http://192.168.1.245:9981/stream/channelid/1085563774?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LpV0d3Q.png" tvg-id="aa59cad89251cf3a28aadbe35ee13927" group-title="VIETH PREMIUM TV" tvg-chno="122",BTV2 _ TH Bình Dương
-http://192.168.1.245:9981/stream/channelid/1489656234?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jeunb3Y.png" tvg-id="87e34cf1ee667355e59ac923188607ec" group-title="VIETH PREMIUM TV" tvg-chno="123",BTV9 B Channel
-http://192.168.1.245:9981/stream/channelid/1900864391?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/blOZQPI.png" tvg-id="29b5041dbe14c6382f480d6a02bb63da" group-title="VIETH PREMIUM TV" tvg-chno="124",ĐNRTV1 _ TH Đồng Nai
-http://192.168.1.245:9981/stream/channelid/486847785?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tIvmaaX.png" tvg-id="74673a112702cd4a0087eb6e1a45daa7" group-title="VIETH PREMIUM TV" tvg-chno="125",ĐNRTV2 _ TH Đồng Nai
-http://192.168.1.245:9981/stream/channelid/289040244?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0DU4cyg.png" tvg-id="dbe9b42138327b499d18dbb8d9c84e36" group-title="VIETH PREMIUM TV" tvg-chno="126",TTV11 _ TH Tây Ninh
-http://192.168.1.245:9981/stream/channelid/565504475?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KX2RMXR.png" tvg-id="2313434a540ad5dcacab45cd02dafb1f" group-title="VIETH PREMIUM TV" tvg-chno="127",BRT _ TH Bà Rịa Vũng Tàu
-http://192.168.1.245:9981/stream/channelid/1245909795?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UfOw13y.png" tvg-id="ba972475dc4ab0f03c90ef12a6646b8f" group-title="VIETH PREMIUM TV" tvg-chno="128",THĐT1 _ TH Đồng Tháp
-http://192.168.1.245:9981/stream/channelid/1965332410?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WXebESa.png" tvg-id="66b9cb6f245af1c7e2a501be5895e1ff" group-title="VIETH PREMIUM TV" tvg-chno="129",THĐT2 Miền Tây
-http://192.168.1.245:9981/stream/channelid/1875622246?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NkHFZ0D.png" tvg-id="b58109f2004ac812ddf5d17c75bc5694" group-title="VIETH PREMIUM TV" tvg-chno="130",THTG _ TH Tiền Giang
-http://192.168.1.245:9981/stream/channelid/1913225653?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2On2R0G.png" tvg-id="4cb3346db518cc89dcc4e8758319e12c" group-title="VIETH PREMIUM TV" tvg-chno="131",ATV _ TH An Giang
-http://192.168.1.245:9981/stream/channelid/1832170316?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9UZtJvv.png" tvg-id="a6ed8a12a0042b0dcf5b44abebf7a8b1" group-title="VIETH PREMIUM TV" tvg-chno="132",THBT _ TH Bến Tre
-http://192.168.1.245:9981/stream/channelid/311094694?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dHOm6Ll.png" tvg-id="331f98c5efbebf5761c31d2c48e1ba50" group-title="VIETH PREMIUM TV" tvg-chno="133",THTV _ TH Trà Vinh
-http://192.168.1.245:9981/stream/channelid/1167597363?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a3joZFM.png" tvg-id="7a47e5e7b8c11672696c84af90d2207f" group-title="VIETH PREMIUM TV" tvg-chno="134",HGTV _ TH Hậu Giang
-http://192.168.1.245:9981/stream/channelid/1743079290?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jCTogPb.png" tvg-id="137d2369b8608d18c0fd370d666799c3" group-title="VIETH PREMIUM TV" tvg-chno="135",KG _ TH Kiên Giang
-http://192.168.1.245:9981/stream/channelid/1763933459?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FoAzh3R.png" tvg-id="d759219768abccebc714e7afa26b788b" group-title="VIETH PREMIUM TV" tvg-chno="136",BLTV _ TH Bạc Liêu
-http://192.168.1.245:9981/stream/channelid/388061655?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cYqXh3i.png" tvg-id="688863577db84a3a31c8d07bf4895be0" group-title="VIETH PREMIUM TV" tvg-chno="137",CTV _ TH Cà Mau
-http://192.168.1.245:9981/stream/channelid/1466140776?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NyrxzES.png" tvg-id="b11e81e99ab9c50ca807945ad1298270" group-title="VIETH PREMIUM TV" tvg-chno="138",THTPCT _ TH TP. Cần Thơ
-http://192.168.1.245:9981/stream/channelid/1770069681?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QZT6GIh.png" tvg-id="83ecf33a8daf9b02807976311fa2eac4" group-title="VIETH PREMIUM TV" tvg-chno="139",STV _ TH Sơn La
-http://192.168.1.245:9981/stream/channelid/989064323?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DCSPntI.png" tvg-id="ae96b9e7c84fcad1a4941c9b5a200b2c" group-title="VIETH PREMIUM TV" tvg-chno="140",THHN _ TH Hà Nam
-http://192.168.1.245:9981/stream/channelid/1740215982?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/deNnP9h.png" tvg-id="2ecac54d3f90a3ed42fde0afca633071" group-title="VIETH PREMIUM TV" tvg-chno="141",HY _ TH Hưng Yên
-http://192.168.1.245:9981/stream/channelid/1304807982?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qW62XEm.png" tvg-id="1ccb0321c13d9fd68514611861561152" group-title="VIETH PREMIUM TV" tvg-chno="142",NTV _ TH Nam Định
-http://192.168.1.245:9981/stream/channelid/553896732?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NlOwltd.png" tvg-id="1b68484ba58bb3832ad1e79d984cf3c8" group-title="VIETH PREMIUM TV" tvg-chno="143",TTV _ TH Thanh Hóa
-http://192.168.1.245:9981/stream/channelid/1263036443?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8yOdFDx.png" tvg-id="414b8308da4e525b66b79fadc757cbfc" group-title="VIETH PREMIUM TV" tvg-chno="144",QBTV _ TH Quảng Bình
-http://192.168.1.245:9981/stream/channelid/142822209?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/29px2Qy.png" tvg-id="a73b012fa517f4e210447922a33cc210" group-title="VIETH PREMIUM TV" tvg-chno="145",TRT _ TH Thừa Thiên Huế
-http://192.168.1.245:9981/stream/channelid/788609959?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jBWD3It.png" tvg-id="575e4c15f06a99a8aeee3ff3eb09a693" group-title="VIETH PREMIUM TV" tvg-chno="146",LA34 _ TH Long An
-http://192.168.1.245:9981/stream/channelid/357326423?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5KQJoBg.png" tvg-id="43b3e2ef1ef16d0ea59343d1c9c21fea" group-title="VIETH PREMIUM TV" tvg-chno="147",STV1 _ TH Sóc Trăng
-http://192.168.1.245:9981/stream/channelid/1877128003?profile=pass
-
-
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="146" tvg-logo="http://epg.it999.ru/img/983.png" tvg-rec="7",Первый канал FHD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2402/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="146" tvg-logo="http://epg.it999.ru/img/983.png" tvg-rec="0",Первый канал HD 50
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/15131/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="146" tvg-logo="http://epg.it999.ru/img/983.png" tvg-rec="0",Первый канал HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/7253/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="146" tvg-logo="http://epg.it999.ru/img/983.png" tvg-rec="7",Первый канал HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/204/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="146" tvg-logo="http://epg.it999.ru/img/146.png" tvg-rec="3",Первый канал orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9201/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="146" tvg-logo="http://epg.it999.ru/img/146.png" tvg-rec="7",Первый канал
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/127/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2034" tvg-logo="http://epg.it999.ru/img/2034.png" tvg-rec="3",Первый канал (+2)
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/714/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-rec="0",Первый канал HD +4
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/15117/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3025" tvg-logo="http://epg.it999.ru/img/3025.png" tvg-rec="0",Первый канал +4
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6021/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3026" tvg-logo="http://epg.it999.ru/img/3026.png" tvg-rec="0",Первый канал +6
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6037/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3027" tvg-logo="http://epg.it999.ru/img/3027.png" tvg-rec="0",Первый канал +8
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6050/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="711" tvg-logo="http://epg.it999.ru/img/984.png" tvg-rec="3",Россия 1 FHD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2409/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="711" tvg-logo="http://epg.it999.ru/img/984.png" tvg-rec="0",Россия 1 HD 50
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/15133/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="711" tvg-logo="http://epg.it999.ru/img/984.png" tvg-rec="0",Россия 1 HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/7252/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="711" tvg-logo="http://epg.it999.ru/img/984.png" tvg-rec="7",Россия 1 HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/205/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="711" tvg-logo="http://epg.it999.ru/img/711.png" tvg-rec="3",Россия 1 orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9202/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="711" tvg-logo="http://epg.it999.ru/img/711.png" tvg-rec="7",Россия 1
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/504/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2547" tvg-logo="http://epg.it999.ru/img/2547.png" tvg-rec="0",Россия РТР
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/18042/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="6772" tvg-logo="http://epg.it999.ru/img/6772.png" tvg-rec="0",РТР Планета Европа
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/19370/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="6770" tvg-logo="http://epg.it999.ru/img/6770.png" tvg-rec="0",РТР Планета Северная Америка
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/19368/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3000" tvg-logo="http://epg.it999.ru/img/3000.png" tvg-rec="0",Россия-1 +2
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6011/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3001" tvg-logo="http://epg.it999.ru/img/3001.png" tvg-rec="0",Россия-1 +4
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6022/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3002" tvg-logo="http://epg.it999.ru/img/3002.png" tvg-rec="0",Россия-1 +6
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6038/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3003" tvg-logo="http://epg.it999.ru/img/3003.png" tvg-rec="0",Россия-1 +8
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6051/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="162" tvg-logo="http://epg.it999.ru/img/2001.png" tvg-rec="7",НТВ HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/213/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="162" tvg-logo="http://epg.it999.ru/img/2001.png" tvg-rec="3",НТВ HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9028/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="162" tvg-logo="http://epg.it999.ru/img/162.png" tvg-rec="3",НТВ orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9203/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="162" tvg-logo="http://epg.it999.ru/img/162.png" tvg-rec="7",НТВ
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/501/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="7258" tvg-logo="http://epg.it999.ru/img/7258.png" tvg-rec="0",НТВ Мир
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/14035/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2036" tvg-logo="http://epg.it999.ru/img/2036.png" tvg-rec="3",НТВ (+2)
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/713/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2964" tvg-logo="http://epg.it999.ru/img/2964.png" tvg-rec="0",НТВ +4
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6024/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3028" tvg-logo="http://epg.it999.ru/img/3028.png" tvg-rec="0",НТВ +7
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6039/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3029" tvg-logo="http://epg.it999.ru/img/3029.png" tvg-rec="0",НТВ +8
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6053/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="649" tvg-logo="http://epg.it999.ru/img/649.png" tvg-rec="0",ТВЦ HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/19222/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="649" tvg-logo="http://epg.it999.ru/img/649.png" tvg-rec="7",ТВЦ
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/520/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="649" tvg-logo="http://epg.it999.ru/img/649.png" tvg-rec="3",ТВЦ orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9095/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2038" tvg-logo="http://epg.it999.ru/img/2038.png" tvg-rec="3",ТВЦ (+2)
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/716/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3037" tvg-logo="http://epg.it999.ru/img/3037.png" tvg-rec="0",ТВЦ +4
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6027/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3038" tvg-logo="http://epg.it999.ru/img/3038.png" tvg-rec="0",ТВЦ +7
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6041/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3039" tvg-logo="http://epg.it999.ru/img/3039.png" tvg-rec="0",ТВЦ +8
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6056/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="5691" tvg-logo="http://epg.it999.ru/img/5691.png" tvg-rec="0",ТВЦ International
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/15229/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="427" tvg-logo="http://epg.it999.ru/img/427.png" tvg-rec="7",Пятый канал
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/112/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="427" tvg-logo="http://epg.it999.ru/img/427.png" tvg-rec="3",Пятый канал orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9096/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2035" tvg-logo="http://epg.it999.ru/img/2035.png" tvg-rec="3",Пятый Канал (+2)
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/746/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3030" tvg-logo="http://epg.it999.ru/img/3030.png" tvg-rec="0",5 канал +4
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6025/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3031" tvg-logo="http://epg.it999.ru/img/3031.png" tvg-rec="0",5 канал +7
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6040/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3032" tvg-logo="http://epg.it999.ru/img/3032.png" tvg-rec="0",5 канал +8
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6054/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="353" tvg-logo="http://epg.it999.ru/img/1767.png" tvg-rec="3",ТНТ FHD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2417/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="353" tvg-logo="http://epg.it999.ru/img/1767.png" tvg-rec="0",ТНТ HD Orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/7251/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="353" tvg-logo="http://epg.it999.ru/img/1767.png" tvg-rec="7",ТНТ HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/237/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="353" tvg-logo="http://epg.it999.ru/img/1767.png" tvg-rec="0",ТНТ HD 50
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/10024/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="353" tvg-logo="http://epg.it999.ru/img/353.png" tvg-rec="7",ТНТ
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/502/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="353" tvg-logo="http://epg.it999.ru/img/353.png" tvg-rec="3",ТНТ orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9204/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3022" tvg-logo="http://epg.it999.ru/img/3022.png" tvg-rec="3",ТНТ (+2)
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/717/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3022" tvg-logo="http://epg.it999.ru/img/3022.png" tvg-rec="0",ТНТ +2
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6020/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3023" tvg-logo="http://epg.it999.ru/img/3023.png" tvg-rec="0",ТНТ +4
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6035/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3024" tvg-logo="http://epg.it999.ru/img/3024.png" tvg-rec="0",ТНТ +7
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6049/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="5692" tvg-logo="http://epg.it999.ru/img/5692.png" tvg-rec="0",ТНТ International
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/15230/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="79" tvg-logo="http://epg.it999.ru/img/79.png" tvg-rec="3",СТС HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6303/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="79" tvg-logo="http://epg.it999.ru/img/79.png" tvg-rec="3",СТС HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9000/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="79" tvg-logo="http://epg.it999.ru/img/79.png" tvg-rec="7",СТС
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/506/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3007" tvg-logo="http://epg.it999.ru/img/3007.png" tvg-rec="0",СТС +2
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6015/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3008" tvg-logo="http://epg.it999.ru/img/3008.png" tvg-rec="0",СТС +4
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6029/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3009" tvg-logo="http://epg.it999.ru/img/3009.png" tvg-rec="0",СТС +7
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6043/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="5652" tvg-logo="http://epg.it999.ru/img/5652.png" tvg-rec="0",СТС International
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/15228/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="18" tvg-logo="http://epg.it999.ru/img/2487.png" tvg-rec="7",Рен ТВ HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2024/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="18" tvg-logo="http://epg.it999.ru/img/2487.png" tvg-rec="3",Рен ТВ HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9002/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="18" tvg-logo="http://epg.it999.ru/img/18.png" tvg-rec="3",Рен ТВ orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9205/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="18" tvg-logo="http://epg.it999.ru/img/18.png" tvg-rec="7",Рен ТВ
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/128/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2037" tvg-logo="http://epg.it999.ru/img/2037.png" tvg-rec="3",РЕН ТВ (+2)
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/747/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3033" tvg-logo="http://epg.it999.ru/img/3033.png" tvg-rec="0",Рен ТВ +4
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6028/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3034" tvg-logo="http://epg.it999.ru/img/3034.png" tvg-rec="0",Рен ТВ +7
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6042/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="726" tvg-logo="http://epg.it999.ru/img/726.png" tvg-rec="0",Мир HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/18037/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="726" tvg-logo="http://epg.it999.ru/img/726.png" tvg-rec="0",Мир HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/15119/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="726" tvg-logo="http://epg.it999.ru/img/726.png" tvg-rec="7",Мир
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/113/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="726" tvg-logo="http://epg.it999.ru/img/726.png" tvg-rec="7",Мир
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/214/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="726" tvg-logo="http://epg.it999.ru/img/726.png" tvg-rec="3",Мир orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9211/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3019" tvg-logo="http://epg.it999.ru/img/3019.png" tvg-rec="0",Мир +2
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6019/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3020" tvg-logo="http://epg.it999.ru/img/3020.png" tvg-rec="0",Мир +4
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6034/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3021" tvg-logo="http://epg.it999.ru/img/3021.png" tvg-rec="0",Мир +7
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6048/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1000" tvg-logo="http://epg.it999.ru/img/1000.png" tvg-rec="7",ОТР
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/705/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1000" tvg-logo="http://epg.it999.ru/img/1000.png" tvg-rec="3",ОТР orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9100/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3004" tvg-logo="http://epg.it999.ru/img/3004.png" tvg-rec="0",ОТР +2
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6014/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3005" tvg-logo="http://epg.it999.ru/img/3005.png" tvg-rec="0",ОТР +4
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6026/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="405" tvg-logo="http://epg.it999.ru/img/405.png" tvg-rec="0",Звезда HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/15115/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="405" tvg-logo="http://epg.it999.ru/img/405.png" tvg-rec="7",Звезда
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/544/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="405" tvg-logo="http://epg.it999.ru/img/405.png" tvg-rec="3",Звезда orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9098/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="4661" tvg-logo="http://epg.it999.ru/img/4661.png" tvg-rec="7",Звезда Плюс
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/10059/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2039" tvg-logo="http://epg.it999.ru/img/2039.png" tvg-rec="3",Звезда (+2)
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/739/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3035" tvg-logo="http://epg.it999.ru/img/3035.png" tvg-rec="0",Звезда +4
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6033/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3036" tvg-logo="http://epg.it999.ru/img/3036.png" tvg-rec="0",Звезда +7
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6047/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="6669" tvg-logo="http://epg.it999.ru/img/6669.png" tvg-rec="0",Звезда Плюс HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/19230/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1598" tvg-logo="http://epg.it999.ru/img/1598.png" tvg-rec="3",Че orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9101/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="5651" tvg-logo="http://epg.it999.ru/img/5651.png" tvg-rec="0",Перец International
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/15227/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="698" tvg-logo="http://epg.it999.ru/img/698.png" tvg-rec="3",ТВ3 HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/5033/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="698" tvg-logo="http://epg.it999.ru/img/698.png" tvg-rec="3",ТВ3 orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9206/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="698" tvg-logo="http://epg.it999.ru/img/698.png" tvg-rec="7",ТВ3
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/508/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3013" tvg-logo="http://epg.it999.ru/img/3013.png" tvg-rec="0",ТВ3 +2
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6017/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3014" tvg-logo="http://epg.it999.ru/img/3014.png" tvg-rec="0",ТВ3 +4
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6031/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3015" tvg-logo="http://epg.it999.ru/img/3015.png" tvg-rec="0",ТВ3 +7
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6045/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1003" tvg-logo="http://epg.it999.ru/img/2765.png" tvg-rec="3",Пятница! HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/5031/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1003" tvg-logo="http://epg.it999.ru/img/1003.png" tvg-rec="3",Пятница! orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9207/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1003" tvg-logo="http://epg.it999.ru/img/1003.png" tvg-rec="7",Пятница!
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/503/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3016" tvg-logo="http://epg.it999.ru/img/3016.png" tvg-rec="0",Пятница +2
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6018/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3017" tvg-logo="http://epg.it999.ru/img/3017.png" tvg-rec="0",Пятница +4
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6032/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3018" tvg-logo="http://epg.it999.ru/img/3018.png" tvg-rec="0",Пятница +7
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6046/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="304" tvg-logo="http://epg.it999.ru/img/304.png" tvg-rec="0",Домашний HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/15116/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="304" tvg-logo="http://epg.it999.ru/img/304.png" tvg-rec="3",Домашний orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9104/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="304" tvg-logo="http://epg.it999.ru/img/304.png" tvg-rec="7",Домашний
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/514/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3010" tvg-logo="http://epg.it999.ru/img/3010.png" tvg-rec="0",Домашний +2
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6016/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3011" tvg-logo="http://epg.it999.ru/img/3011.png" tvg-rec="0",Домашний +4
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6030/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3012" tvg-logo="http://epg.it999.ru/img/3012.png" tvg-rec="0",Домашний +7
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6044/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="187" tvg-logo="http://epg.it999.ru/img/187.png" tvg-rec="7",Россия-Культура
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/505/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2142" tvg-logo="http://epg.it999.ru/img/2142.png" tvg-rec="3",Настоящее время
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/986/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2265" tvg-logo="http://epg.it999.ru/img/2265.png" tvg-rec="3",360 HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2065/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2265" tvg-logo="http://epg.it999.ru/img/2265.png" tvg-rec="3",360 orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9209/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2265" tvg-logo="http://epg.it999.ru/img/2265.png" tvg-rec="7",360
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/825/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2265" tvg-logo="http://epg.it999.ru/img/2265.png" tvg-rec="3",360 HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9036/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2471" tvg-logo="http://epg.it999.ru/img/2471.png" tvg-rec="3",РЖД ТВ
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2120/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2471" tvg-logo="http://epg.it999.ru/img/2471.png" tvg-rec="3",РЖД ТВ orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9118/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2476" tvg-logo="http://epg.it999.ru/img/2476.png" tvg-rec="3",Красная линия
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2147/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2476" tvg-logo="http://epg.it999.ru/img/2476.png" tvg-rec="3",Красная линия orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9119/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-rec="3",Про Бизнес
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/5043/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2401" tvg-logo="http://epg.it999.ru/img/2401.png" tvg-rec="3",RTVi orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9102/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2401" tvg-logo="http://epg.it999.ru/img/2401.png" tvg-rec="3",RTVi
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2086/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2465" tvg-logo="http://epg.it999.ru/img/2465.png" tvg-rec="3",ЛДПР ТВ
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2110/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2465" tvg-logo="http://epg.it999.ru/img/2465.png" tvg-rec="3",ЛДПР ТВ orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9120/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2398" tvg-logo="http://epg.it999.ru/img/2398.png" tvg-rec="3",Вместе-РФ
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2073/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2398" tvg-logo="http://epg.it999.ru/img/2398.png" tvg-rec="3",Вместе-РФ orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9124/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="6028" tvg-logo="http://epg.it999.ru/img/6028.png" tvg-rec="0",Новый Мир
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/16022/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="6029" tvg-logo="http://epg.it999.ru/img/6029.png" tvg-rec="0",Первый российский национальный канал HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/16023/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="6031" tvg-logo="http://epg.it999.ru/img/6031.png" tvg-rec="0",Министерство идей HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/16025/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="566" tvg-logo="http://epg.it999.ru/img/566.png" tvg-rec="7",Кинопремьера HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/224/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="566" tvg-logo="http://epg.it999.ru/img/566.png" tvg-rec="3",Кинопремьера HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9020/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="542" tvg-logo="http://epg.it999.ru/img/542.png" tvg-rec="0",Кинохит HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/7250/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="542" tvg-logo="http://epg.it999.ru/img/542.png" tvg-rec="7",Кинохит
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/516/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="542" tvg-logo="http://epg.it999.ru/img/542.png" tvg-rec="3",Кинохит orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9128/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="644" tvg-logo="http://epg.it999.ru/img/644.png" tvg-rec="0",Киномикс HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/7249/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="644" tvg-logo="http://epg.it999.ru/img/644.png" tvg-rec="7",Киномикс
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/509/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="644" tvg-logo="http://epg.it999.ru/img/644.png" tvg-rec="3",Киномикс orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9126/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1584" tvg-logo="http://epg.it999.ru/img/1584.png" tvg-rec="0",Мужское Кино HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/10045/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1584" tvg-logo="http://epg.it999.ru/img/1584.png" tvg-rec="3",Мужское Кино HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9138/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1584" tvg-logo="http://epg.it999.ru/img/1584.png" tvg-rec="7",Мужское Кино
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/164/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="987" tvg-logo="http://epg.it999.ru/img/987.png" tvg-rec="0",Киносемья HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/7244/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-rec="3",Киносемья orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9228/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="987" tvg-logo="http://epg.it999.ru/img/987.png" tvg-rec="7",Киносемья
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/125/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="821" tvg-logo="http://epg.it999.ru/img/821.png" tvg-rec="0",Кинокомедия HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/7248/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="821" tvg-logo="http://epg.it999.ru/img/821.png" tvg-rec="3",Кинокомедия orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9231/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="821" tvg-logo="http://epg.it999.ru/img/821.png" tvg-rec="7",Кинокомедия
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/145/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="462" tvg-logo="http://epg.it999.ru/img/462.png" tvg-rec="0",Киносвидание HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/7245/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="462" tvg-logo="http://epg.it999.ru/img/462.png" tvg-rec="3",Киносвидание orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9238/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="462" tvg-logo="http://epg.it999.ru/img/462.png" tvg-rec="7",Киносвидание
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/728/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="485" tvg-logo="http://epg.it999.ru/img/485.png" tvg-rec="0",Наше Новое Кино HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/19231/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="485" tvg-logo="http://epg.it999.ru/img/485.png" tvg-rec="3",Наше Новое Кино orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9230/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="485" tvg-logo="http://epg.it999.ru/img/485.png" tvg-rec="7",Наше Новое Кино
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/517/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="799" tvg-logo="http://epg.it999.ru/img/799.png" tvg-rec="0",Киносерия HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/19229/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="799" tvg-logo="http://epg.it999.ru/img/799.png" tvg-rec="7",Киносерия
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/148/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="799" tvg-logo="http://epg.it999.ru/img/799.png" tvg-rec="3",Киносерия orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9132/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2493" tvg-logo="http://epg.it999.ru/img/2493.png" tvg-rec="3",Киноужас HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2056/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2493" tvg-logo="http://epg.it999.ru/img/2493.png" tvg-rec="3",Киноужас HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9033/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2309" tvg-logo="http://epg.it999.ru/img/2309.png" tvg-rec="3",Шокирующее HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6299/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2309" tvg-logo="http://epg.it999.ru/img/2309.png" tvg-rec="3",Шокирующее HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9004/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2857" tvg-logo="http://epg.it999.ru/img/2857.png" tvg-rec="0",Страшное HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/7247/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="518" tvg-logo="http://epg.it999.ru/img/518.png" tvg-rec="7",НСТ
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/726/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="518" tvg-logo="http://epg.it999.ru/img/518.png" tvg-rec="3",НСТ orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9148/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1588" tvg-logo="http://epg.it999.ru/img/1588.png" tvg-rec="7",Остросюжетное HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/904/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1588" tvg-logo="http://epg.it999.ru/img/1588.png" tvg-rec="3",Остросюжетное HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9044/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2732" tvg-logo="http://epg.it999.ru/img/2732.png" tvg-rec="3",Премиальное FHD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2410/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2732" tvg-logo="http://epg.it999.ru/img/2732.png" tvg-rec="0",Премиальное HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/7222/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2732" tvg-logo="http://epg.it999.ru/img/2732.png" tvg-rec="0",Премиальное HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/10044/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2732" tvg-logo="http://epg.it999.ru/img/2732.png" tvg-rec="0",Премиальное HD 50
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/10017/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2832" tvg-logo="http://epg.it999.ru/img/2832.png" tvg-rec="3",Блокбастер HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2436/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2832" tvg-logo="http://epg.it999.ru/img/2832.png" tvg-rec="3",Блокбастер HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9087/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="7844" tvg-logo="http://epg.it999.ru/img/7844.png" tvg-rec="0",Криминальное HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/14033/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2833" tvg-logo="http://epg.it999.ru/img/2833.png" tvg-rec="3",Хит HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2438/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2833" tvg-logo="http://epg.it999.ru/img/2833.png" tvg-rec="3",Хит HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9090/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1037" tvg-logo="http://epg.it999.ru/img/1037.png" tvg-rec="3",Кино ТВ HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2097/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1037" tvg-logo="http://epg.it999.ru/img/1037.png" tvg-rec="3",Кино ТВ HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9051/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1037" tvg-logo="http://epg.it999.ru/img/1037.png" tvg-rec="7",Кино ТВ
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/732/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1037" tvg-logo="http://epg.it999.ru/img/1037.png" tvg-rec="3",Кино ТВ orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9244/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1013" tvg-logo="http://epg.it999.ru/img/1013.png" tvg-rec="7",Viju+ Premiere HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/202/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1013" tvg-logo="http://epg.it999.ru/img/1013.png" tvg-rec="3",Viju+ Premiere HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/5079/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1012" tvg-logo="http://epg.it999.ru/img/1012.png" tvg-rec="7",Viju+ Megahit HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/201/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1012" tvg-logo="http://epg.it999.ru/img/1012.png" tvg-rec="3",Viju+ Megahit HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/5081/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1011" tvg-logo="http://epg.it999.ru/img/1011.png" tvg-rec="7",Viju+ Comedy HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/200/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1011" tvg-logo="http://epg.it999.ru/img/1011.png" tvg-rec="3",Viju+ Comedy HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/5080/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2838" tvg-logo="http://epg.it999.ru/img/2838.png" tvg-rec="3",Viju+ Serial HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2443/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2838" tvg-logo="http://epg.it999.ru/img/2838.png" tvg-rec="3",Viju+ Serial HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9245/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="127" tvg-logo="http://epg.it999.ru/img/127.png" tvg-rec="3",Viju TV1000 HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6387/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="127" tvg-logo="http://epg.it999.ru/img/127.png" tvg-rec="3",Viju TV1000 HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9058/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="127" tvg-logo="http://epg.it999.ru/img/127.png" tvg-rec="7",Viju TV1000
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/132/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="127" tvg-logo="http://epg.it999.ru/img/127.png" tvg-rec="3",Viju TV1000 orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9235/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="125" tvg-logo="http://epg.it999.ru/img/125.png" tvg-rec="3",Viju TV1000 Action HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6386/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="125" tvg-logo="http://epg.it999.ru/img/125.png" tvg-rec="3",Viju TV1000 Action HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9057/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="125" tvg-logo="http://epg.it999.ru/img/125.png" tvg-rec="3",Viju TV1000 Action orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9229/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="125" tvg-logo="http://epg.it999.ru/img/125.png" tvg-rec="7",Viju TV1000 Action
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/131/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="267" tvg-logo="http://epg.it999.ru/img/267.png" tvg-rec="0",Viju TV1000 Русское HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6388/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="267" tvg-logo="http://epg.it999.ru/img/267.png" tvg-rec="0",Viju TV1000 Русское HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9059/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="267" tvg-logo="http://epg.it999.ru/img/267.png" tvg-rec="7",Viju TV1000 Русское
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/101/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="267" tvg-logo="http://epg.it999.ru/img/267.png" tvg-rec="0",Viju TV1000 Русское orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9227/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2274" tvg-logo="http://epg.it999.ru/img/2274.png" tvg-rec="3",Viasat Kino World
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/1065/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2834" tvg-logo="http://epg.it999.ru/img/2834.png" tvg-rec="3",Кинопоказ HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2439/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2834" tvg-logo="http://epg.it999.ru/img/2834.png" tvg-rec="3",Кинопоказ HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9092/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2831" tvg-logo="http://epg.it999.ru/img/2831.png" tvg-rec="3",Наш Кинопоказ HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2434/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2831" tvg-logo="http://epg.it999.ru/img/2831.png" tvg-rec="3",Наш Кинопоказ HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9086/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2019" tvg-logo="http://epg.it999.ru/img/2019.png" tvg-rec="7",Душевное кино HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/914/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2019" tvg-logo="http://epg.it999.ru/img/2019.png" tvg-rec="0",Душевное кино HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/10042/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2018" tvg-logo="http://epg.it999.ru/img/2018.png" tvg-rec="7",Наше HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/915/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2018" tvg-logo="http://epg.it999.ru/img/2018.png" tvg-rec="3",Наше HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9046/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2835" tvg-logo="http://epg.it999.ru/img/2835.png" tvg-rec="3",Наше Мужское HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2440/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2835" tvg-logo="http://epg.it999.ru/img/2835.png" tvg-rec="3",Наше Мужское HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9088/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="4466" tvg-logo="http://epg.it999.ru/img/4466.png" tvg-rec="0",KinoJam 1 HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/7260/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="4467" tvg-logo="http://epg.it999.ru/img/4467.png" tvg-rec="0",KinoJam 2 HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/7261/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="3361" tvg-logo="http://epg.it999.ru/img/3361.png" tvg-rec="3",Trash HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6396/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2743" tvg-logo="http://epg.it999.ru/img/2743.png" tvg-rec="3",Ultra HD Cinema 4K
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/4000/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2804" tvg-logo="http://epg.it999.ru/img/2804.png" tvg-rec="3",Кино UHD 4K
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/5004/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2749" tvg-logo="http://epg.it999.ru/img/2749.png" tvg-rec="3",Сериал UHD 4K
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/5005/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2020" tvg-logo="http://epg.it999.ru/img/2020.png" tvg-rec="7",Дом Кино Премиум HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/911/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2020" tvg-logo="http://epg.it999.ru/img/2020.png" tvg-rec="3",Дом Кино Премиум HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/5082/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2829" tvg-logo="http://epg.it999.ru/img/2829.png" tvg-rec="3",Про Любовь HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2430/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2829" tvg-logo="http://epg.it999.ru/img/2829.png" tvg-rec="3",Про Любовь HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9089/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2836" tvg-logo="http://epg.it999.ru/img/2836.png" tvg-rec="3",Камеди HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2441/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2836" tvg-logo="http://epg.it999.ru/img/2836.png" tvg-rec="3",Камеди HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9091/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="138" tvg-logo="http://epg.it999.ru/img/138.png" tvg-rec="7",Комедийное HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/912/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="138" tvg-logo="http://epg.it999.ru/img/138.png" tvg-rec="3",Комедийное HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9005/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2772" tvg-logo="http://epg.it999.ru/img/2772.png" tvg-rec="3",Романтичное HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/5053/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="401" tvg-logo="http://epg.it999.ru/img/401.png" tvg-rec="3",Русский роман HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2076/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="401" tvg-logo="http://epg.it999.ru/img/401.png" tvg-rec="3",Русский роман HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9041/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="401" tvg-logo="http://epg.it999.ru/img/401.png" tvg-rec="7",Русский роман
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/906/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="401" tvg-logo="http://epg.it999.ru/img/401.png" tvg-rec="3",Русский роман orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9240/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1570" tvg-logo="http://epg.it999.ru/img/1570.png" tvg-rec="7",Русский детектив
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/907/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1570" tvg-logo="http://epg.it999.ru/img/1570.png" tvg-rec="3",Русский детектив orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9142/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="994" tvg-logo="http://epg.it999.ru/img/994.png" tvg-rec="3",Русский бестселлер orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9141/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="994" tvg-logo="http://epg.it999.ru/img/994.png" tvg-rec="7",Русский бестселлер
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/905/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1620" tvg-logo="http://epg.it999.ru/img/1620.png" tvg-rec="7",Русская Комедия
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/733/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1620" tvg-logo="http://epg.it999.ru/img/1620.png" tvg-rec="3",Русская Комедия orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9144/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="53" tvg-logo="http://epg.it999.ru/img/53.png" tvg-rec="3",Русский Иллюзион HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2114/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="53" tvg-logo="http://epg.it999.ru/img/53.png" tvg-rec="3",Русский Иллюзион HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9080/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="53" tvg-logo="http://epg.it999.ru/img/53.png" tvg-rec="7",Русский Иллюзион
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/547/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="53" tvg-logo="http://epg.it999.ru/img/53.png" tvg-rec="3",Русский Иллюзион orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9133/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2403" tvg-logo="http://epg.it999.ru/img/2403.png" tvg-rec="3",Иллюзион+ HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9079/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2403" tvg-logo="http://epg.it999.ru/img/2403.png" tvg-rec="7",Иллюзион +
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2038/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2403" tvg-logo="http://epg.it999.ru/img/2403.png" tvg-rec="3",Иллюзион+ orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9241/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="7271" tvg-logo="http://epg.it999.ru/img/7271.png" tvg-rec="3",VF Счастливы Вместе
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9242/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="920" tvg-logo="http://epg.it999.ru/img/920.png" tvg-rec="3",Comedy Central HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6000/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="920" tvg-logo="http://epg.it999.ru/img/920.png" tvg-rec="7",Comedy Central
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/157/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="920" tvg-logo="http://epg.it999.ru/img/920.png" tvg-rec="3",Comedy Central orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9155/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="311" tvg-logo="http://epg.it999.ru/img/311.png" tvg-rec="3",.red HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2062/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="311" tvg-logo="http://epg.it999.ru/img/311.png" tvg-rec="3",.red HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9035/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="311" tvg-logo="http://epg.it999.ru/img/311.png" tvg-rec="7",.red
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/559/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="311" tvg-logo="http://epg.it999.ru/img/311.png" tvg-rec="3",.red orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9237/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="935" tvg-logo="http://epg.it999.ru/img/935.png" tvg-rec="7",.black
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/708/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="935" tvg-logo="http://epg.it999.ru/img/935.png" tvg-rec="3",.black orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9140/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="516" tvg-logo="http://epg.it999.ru/img/516.png" tvg-rec="3",.sci-fi orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9125/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="516" tvg-logo="http://epg.it999.ru/img/516.png" tvg-rec="7",.sci-fi
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/110/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1372" tvg-logo="http://epg.it999.ru/img/1372.png" tvg-rec="7",Amedia Premium HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/229/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1372" tvg-logo="http://epg.it999.ru/img/1372.png" tvg-rec="3",Amedia Premium HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9022/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1372" tvg-logo="http://epg.it999.ru/img/1372.png" tvg-rec="7",Amedia Premium
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/555/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1372" tvg-logo="http://epg.it999.ru/img/1372.png" tvg-rec="3",Amedia Premium orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9233/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2007" tvg-logo="http://epg.it999.ru/img/2007.png" tvg-rec="3",Amedia Hit HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6010/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2007" tvg-logo="http://epg.it999.ru/img/2007.png" tvg-rec="3",Amedia Hit HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9070/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2007" tvg-logo="http://epg.it999.ru/img/2007.png" tvg-rec="7",Amedia Hit
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/556/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2007" tvg-logo="http://epg.it999.ru/img/2007.png" tvg-rec="0",Amedia Hit
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/19218/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2007" tvg-logo="http://epg.it999.ru/img/2007.png" tvg-rec="3",Amedia Hit orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9234/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1371" tvg-logo="http://epg.it999.ru/img/1371.png" tvg-rec="3",Amedia 1 HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9069/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1371" tvg-logo="http://epg.it999.ru/img/1371.png" tvg-rec="7",Amedia 1
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/554/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1371" tvg-logo="http://epg.it999.ru/img/1371.png" tvg-rec="3",Amedia 1 orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9137/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2492" tvg-logo="http://epg.it999.ru/img/2492.png" tvg-rec="7",Amedia 2 HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/2046/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2492" tvg-logo="http://epg.it999.ru/img/2492.png" tvg-rec="3",Amedia 2 HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9029/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2492" tvg-logo="http://epg.it999.ru/img/2492.png" tvg-rec="7",Amedia 2
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/510/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="2492" tvg-logo="http://epg.it999.ru/img/2492.png" tvg-rec="0",Amedia 2 orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9129/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1031" tvg-logo="http://epg.it999.ru/img/1031.png" tvg-rec="7",Fox HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/219/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="1031" tvg-logo="http://epg.it999.ru/img/1031.png" tvg-rec="3",Fox HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9018/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="7281" tvg-logo="http://epg.it999.ru/img2/7281.png" tvg-rec="0",Fox
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6516/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="615" tvg-logo="http://epg.it999.ru/img/615.png" tvg-rec="0",Fox Life HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/14003/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="615" tvg-logo="http://epg.it999.ru/img/615.png" tvg-rec="3",Fox Life
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9232/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="7314" tvg-rec="7",Кинеко
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/550/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="7314" tvg-rec="3",Кинеко HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9135/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="7315" tvg-logo="http://epg.it999.ru/img/7315.png" tvg-rec="3",Сапфир HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/6389/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="7315" tvg-logo="http://epg.it999.ru/img/7315.png" tvg-rec="7",Сапфир 
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/553/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="934" tvg-logo="http://epg.it999.ru/img/934.png" tvg-rec="7",Hollywood HD
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/209/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="934" tvg-logo="http://epg.it999.ru/img/934.png" tvg-rec="3",Hollywood HD orig
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/9017/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="608" tvg-logo="http://epg.it999.ru/img/608.png" tvg-rec="7",Hollywood
+http://hyqzethr.megatv.fun/iptv/GSCVZVQ37Z3Y3S/557/index.m3u8
+#EXTINF:0 group-title="MEGAFUN TV" tvg-id="608" tvg-logo="http://epg.it999.ru/img/608.png" tvg-rec="3",Hollywood orig
 
 
 
