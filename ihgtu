@@ -2,6 +2,13 @@
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
 
 
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/07/film-the-inheritance-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",THE INHERITANCE (2024)
+https://stream.hownetwork.xyz/yyy/the-inheritance-2024-webdl_X_0eda98e6/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/05/film-mothers-instinct-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",MOTHERS’ INSTINCT (2024)
+https://stream.hownetwork.xyz/yyy/mothers-instinct-2024-bluray_X_2d4486c6/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/07/film-its-raining-in-the-house-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",IT’S RAINING IN THE HOUSE (2024)
+https://stream.hownetwork.xyz/yyy/its-raining-in-the-house-2024-webdl_X_42eeabdc/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/07/film-the-champion-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",THE CHAMPION (2024)
 https://stream.hownetwork.xyz/yyy/the-champion-2024-webdl_X_b815870d/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/07/film-lobola-man-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",LOBOLA MAN (2024)
