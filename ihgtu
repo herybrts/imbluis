@@ -2205,7 +2205,9 @@ https://www.googleapis.com/drive/v3/files/1mZrB2XpZJiC_kQLuzMwXxlDciiIltbFT?alt=
 
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://nonton168.bio/wp-content/uploads/2024/07/veLIxyQJyXq8Lf6qSbXQl0ckHzC.jpg" group-title="VIVAMAX CINEMA",Kaskasero (2024)
+#EXTVLCOPT:sub-file=https://nontoncdn.com/Kaskasero.2024.1080p.WEB-DL.AAC2.0.x264.vtt
+https://nontoncdn.com/Kaskasero.2024.1080p.WEB-DL.AAC2.0.x264.mp4
 #EXTINF:-1 tvg-logo="https://nonton168.bio/wp-content/uploads/2024/07/eEoC3zUu6qvCnSdFlNYyqQnYQAU.jpg" group-title="VIVAMAX CINEMA",Maharot (2024)
 #EXTVLCOPT:sub-file=https://www.nonton168.com/movies/desember2022/TAMING.vtt
 https://nontoncdn.com/Maharot.2024.1080p.VMAX.Eng.Sub.WEB-DL.AAC2.0.x264.mp4
