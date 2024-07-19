@@ -24,7 +24,7 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="SCTV GRUP" tvg-id="SCTV.id",SCTV 6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
-https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c68587f789fe018804f4bbb52813/manifest.mpd
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c68587f789fe018804f4bbb52813/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/07/film-space-sharks-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",SPACE SHARKS (2024)
