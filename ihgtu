@@ -1,6 +1,17 @@
 #EXTM3U
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
 
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fb/SCTV_Logo.svg.png/revision/latest?cb=20121226014247" group-title="SCTV GRUP" tvg-id="SCTV.id",SCTV 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fb/SCTV_Logo.svg.png/revision/latest?cb=20121226014247" group-title="SCTV GRUP" tvg-id="SCTV.id",SCTV 2
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://png.pngtree.com/png-vector/20220521/ourmid/pngtree-icon-live-streaming-vector-png-image_4643886.png" group-title="SCTV GRUP",SCTV 3 
+http://filex.tv:8080/paramjeetsingh/002818/302301
 
 
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/07/film-a-sacrifice-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",A SACRIFICE (2024)
