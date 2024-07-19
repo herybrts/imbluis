@@ -1,28 +1,28 @@
 #EXTM3U
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fb/SCTV_Logo.svg.png/revision/latest?cb=20121226014247" group-title="SCTV GRUP" tvg-id="SCTV.id",SCTV 1
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="SCTV GRUP" tvg-id="SCTV.id",SCTV 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c68587f789fe018804f4bbb52813/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fb/SCTV_Logo.svg.png/revision/latest?cb=20121226014247" group-title="SCTV GRUP" tvg-id="SCTV.id",SCTV 2
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="SCTV GRUP" tvg-id="SCTV.id",SCTV 2
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-id="" tvg-name="SCTV LOKAL 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhPoybscXHQQGc7TxdwIKdrMMvazJ_yMxLbREqNSe04qg.png" group-title="SCTV GRUP",SCTV 3
+#EXTINF:-1 tvg-id="" tvg-name="SCTV LOKAL 1" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="SCTV GRUP",SCTV 3
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/9722
 
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhPoybscXHQQGc7TxdwIKdrMMvazJ_yMxLbREqNSe04qg.png" group-title="SCTV GRUP",SCTV 4
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="SCTV GRUP",SCTV 4
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/9
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="SCTV GRUP",SCTV 5
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="SCTV GRUP",SCTV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTINF:0 group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg",SCTV
+#EXTINF:0 group-title="SCTV GRUP" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 
 
