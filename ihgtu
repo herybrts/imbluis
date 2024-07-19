@@ -5702,7 +5702,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df935
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c68587f789fe018804f4bbb52813/manifest.mpd
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c68587f789fe018804f4bbb52813/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0YnHqx7/indosiar.png" group-title="TRANSVISION",Indosiar
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
