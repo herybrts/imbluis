@@ -35,11 +35,21 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c68587f789fe018804f4bbb52813/manifest.mpd
 
 
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/07/film-the-king-tide-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",The King Tide (2024) 
+https://stream.hownetwork.xyz/xxx/the-king-tide-2024-bluray_X_63e15896/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/07/film-non-negotiable-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",Non Negotiable (2024)
+https://stream.hownetwork.xyz/xxx/non-negotiable-2024-webdl_X_1ecd6a35/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/07/film-house-of-gaa-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",House of Ga’a (2024)
+https://stream.hownetwork.xyz/xxx/house-of-gaa-2024-webdl_X_60fb67c3/22/480.m3u8
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/07/film-wonderland-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",Wonderland (2024)
+https://stream.hownetwork.xyz/xxx/wonderland-2024-webdl_X_ed9a8809/22/480.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/07/film-project-silence-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",Project Silence (2024)
 https://stream.hownetwork.xyz/xxx/project-silence-2024-hdcam_X_1d4bf25d/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/06/film-the-strangers-chapter-1-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",The Strangers: Chapter 1 (2024)
 https://stream.hownetwork.xyz/xxx/the-strangers-chapter-1-2024-bluray_X_eb07cb15/22/480.m3u8
-
 #EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/05/film-the-first-omen-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",The First Omen (2024)
 https://stream.hownetwork.xyz/xxx/the-first-omen-2024-bluray_X_d8eb5e27/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/04/film-arcadian-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",Arcadian (2024)
