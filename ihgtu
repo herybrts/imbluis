@@ -1,26 +1,6 @@
 #EXTM3U
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
 
-#EXTINF:-1 tvg-id="(no tvg-id)"  SPOTV 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIe1_TTutQc1_NGNKgcg8zsQ.png" group-title="FEED LIVE EVENT",SPOTV 1 NEW
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/110.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)"  SPOTV 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIpNdoPC-z-ZZnZAyJ74Lg7g.png" group-title="FEED LIVE EVENT",SPOTV 2 NEW
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/111.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)"  SOCCER CHANNEL" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIMhYt1hf7virm9Q--unRFVOdVfqFVfJCsduaxSTR1u0g.png" group-title="FEED LIVE EVENT",SOCCER CHANNEL
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/116.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)"  BEIN 1 ID" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIE41ZfO9j7jBmx_l6FVEvRA.png" group-title="FEED LIVE EVENT",BEIN 1 ID NEW
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/139.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)"  BEIN 3 ID" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIE41ZfO9j7jBmx_l6FVEvRA.png" group-title="FEED LIVE EVENT",BEIN 3 ID NEW
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/140.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)"  SPORTSTARS 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIUNvRaMe8DUNwRaTLsWwn8UAWbaw5pURQLNQuPTC516g.png" group-title="FEED LIVE EVENT",SPORTSTARS 1 NEW
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/112.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)"  SPORTSTARS 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIUNvRaMe8DUNwRaTLsWwn8UAWbaw5pURQLNQuPTC516g.png" group-title="FEED LIVE EVENT",SPORTSTARS 2 NEW
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/113.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)"  SPORTSTARS 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIUNvRaMe8DUNwRaTLsWwn8UAWbaw5pURQLNQuPTC516g.png" group-title="FEED LIVE EVENT",SPORTSTARS 3 NEW
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/114.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-id="(no tvg-id)"  SPORTSTARS 4" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIUNvRaMe8DUNwRaTLsWwn8UAWbaw5pURQLNQuPTC516g.png" group-title="FEED LIVE EVENT",SPORTSTARS 4 NEW
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/115.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-
-
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="SCTV GRUP" tvg-id="SCTV.id",SCTV 1
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
