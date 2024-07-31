@@ -3620,7 +3620,141 @@ http://202.21.104.6:88/sps-action/index.m3u8
 http://202.21.104.6:88/sps-plus/index.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Indosiar
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/74.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",SCTV
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/5.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",RCTI
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/13.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",iNews
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/12.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",MNC TV
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/10.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Moji
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/6.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Mentari
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/7.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Soccer Channel
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/61.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Sportstars 1
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/60.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Sportstars 2
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/57.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Sportstars 3
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/59.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Sportstars 4
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/324553.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",True Premier Football 1
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/436161.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",True Premier Football 2
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/436162.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",True Premier Football 3
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/436160.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",True Sport 1
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/436911.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",True Sport 2
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/436912.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",True Sport 3
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/436910.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Astro Supersport 1
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/126.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Astro Supersport 2
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/125.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Astro Supersport 3
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/123.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Astro Supersport 4
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/124.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Astro Premier Sports
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/543226.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Arena Bola 1
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/543225.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Arena Bola 2
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/543230.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Astro Arena 1
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/543228.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Astro Arena 2
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/543229.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",SPOTV 1 ID
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/66.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",SPOTV 1 MY
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/58442.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",SPOTV 2 ID
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/63.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",SPOTV 2 MY
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/58443.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",SSC 1
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/322232.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",SSC 2
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/322233.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",SSC 3
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/322234.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Star Sports 1
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/418404.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Star Sports 2
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/418400.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Star Sports 3
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/418393.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Star Sports Select 1
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/418395.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Star Sports Select 2
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/418402.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Ten 1
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/418390.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Ten 2
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/418401.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Ten 3
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/418396.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",RMC Sport 1
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/418392.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",RMC Sport 2
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/418399.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",RMC Sport 3
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/418405.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",RMC Sport 4
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/418403.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Optus Sports 1
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/503971.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Optus Sports 2
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/543192.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Play Sport 1
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/165.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Play Sport 2
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/164.ts
+#EXTINF:-1  tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Soccer Live",Play Sport 3
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/163.ts
 
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2022/07/olympic-channel-nbc.jpg" group-title="Olympic Channel",Olympic Channel 1
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582448.ts
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2022/07/olympic-channel-nbc.jpg" group-title="Olympic Channel",Olympic Channel 2
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582459.ts
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2022/07/olympic-channel-nbc.jpg" group-title="Olympic Channel",Olympic Channel 3
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582449.ts
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2022/07/olympic-channel-nbc.jpg" group-title="Olympic Channel",Olympic Channel 4
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582450.ts
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2022/07/olympic-channel-nbc.jpg" group-title="Olympic Channel",Olympic Channel 5
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582451.ts
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2022/07/olympic-channel-nbc.jpg" group-title="Olympic Channel",Olympic Channel 6
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582452.ts
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2022/07/olympic-channel-nbc.jpg" group-title="Olympic Channel",Olympic Channel 7
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582453.ts
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2022/07/olympic-channel-nbc.jpg" group-title="Olympic Channel",Olympic Channel 8
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582445.ts
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2022/07/olympic-channel-nbc.jpg" group-title="Olympic Channel",Olympic Channel 9
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582446.ts
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2022/07/olympic-channel-nbc.jpg" group-title="Olympic Channel",Olympic Channel 10
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582454.ts
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2022/07/olympic-channel-nbc.jpg" group-title="Olympic Channel",Olympic Channel 11
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582455.ts
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2022/07/olympic-channel-nbc.jpg" group-title="Olympic Channel",Olympic Channel 12
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582456.ts
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2022/07/olympic-channel-nbc.jpg" group-title="Olympic Channel",Olympic Channel 13
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582447.ts
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2022/07/olympic-channel-nbc.jpg" group-title="Olympic Channel",Olympic Channel 14
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582457.ts
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2022/07/olympic-channel-nbc.jpg" group-title="Olympic Channel",Olympic Channel 15
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582460.ts
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2022/07/olympic-channel-nbc.jpg" group-title="Olympic Channel",Olympic Channel 16
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582458.ts
 
 
 #EXTINF:-1 group-title="META TV PRO" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/V6VXx1c0/rcti.png",RCTI
