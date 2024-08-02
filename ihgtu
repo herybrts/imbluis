@@ -3585,6 +3585,364 @@ https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 
+#EXTINF:-1 tvg-id="beinmovies1.qa" tvg-name="BEIN MOVIES 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINMOVIES1HD.png" group-title="BEIN MOVIES",BEIN MOVIES 1 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11451
+#EXTINF:-1 tvg-id="beinmovies2.qa" tvg-name="BEIN MOVIES 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINMOVIES2HD.png" group-title="BEIN MOVIES",BEIN MOVIES 2 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11450
+#EXTINF:-1 tvg-id="beinmovies3.qa" tvg-name="BEIN MOVIES 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINMOVIES3HD.png" group-title="BEIN MOVIES",BEIN MOVIES 3 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11449
+#EXTINF:-1 tvg-id="beinmovies4.qa" tvg-name="BEIN MOVIES 4 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINMOVIES4HD.png" group-title="BEIN MOVIES",BEIN MOVIES 4 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11448
+#EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="BEIN SERIES 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINSERIES1HD.png" group-title="BEIN MOVIES",BEIN SERIES 1 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11446
+#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="BEIN SERIES 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINSERIES2HD.png" group-title="BEIN MOVIES",BEIN SERIES 2 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11445
+#EXTINF:-1 tvg-id="beindrama.qa" tvg-name="BEIN DRAMA HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINDRAMAHD.png" group-title="BEIN MOVIES",BEIN DRAMA HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11444
+#EXTINF:-1 tvg-id="foxmoviesaction.qa" tvg-name="BEIN FOX MOVIES ACTION HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINFOXMOVIESACTIONHD.png" group-title="BEIN MOVIES",BEIN FOX MOVIES ACTION HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11442
+#EXTINF:-1 tvg-id="" tvg-name="BEIN BOOMERANG HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINBOOMERANGHD.png" group-title="BEIN MOVIES",BEIN BOOMERANG HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11441
+#EXTINF:-1 tvg-id="gourmet.qa" tvg-name="BEIN GOURMET" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINGOURMET.png" group-title="BEIN MOVIES",BEIN GOURMET
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11440
+#EXTINF:-1 tvg-id="baraem.qa" tvg-name="BEIN BARAEM HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINBARAEMHD.png" group-title="BEIN MOVIES",BEIN BARAEM HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11439
+#EXTINF:-1 tvg-id="bejunior.qa" tvg-name="BEIN BE JUNIOR" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINBEJUNIOR.png" group-title="BEIN MOVIES",BEIN BE JUNIOR
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11438
+#EXTINF:-1 tvg-id="fatafeat.qa" tvg-name="BEIN FATAFEAT" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINFATAFEAT.png" group-title="BEIN MOVIES",BEIN FATAFEAT
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11437
+#EXTINF:-1 tvg-id="foxlife.qa" tvg-name="BEIN FOX LIFE HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINFOXLIFEHD.png" group-title="BEIN MOVIES",BEIN FOX LIFE HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11436
+#EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="BEIN JEEM HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINJEEMHD.png" group-title="BEIN MOVIES",BEIN JEEM HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11435
+#EXTINF:-1 tvg-id="natgeo.qa" tvg-name="BEIN NAT GEO" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINNATGEO.png" group-title="BEIN MOVIES",BEIN NAT GEO
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11434
+#EXTINF:-1 tvg-id="natgeowildhd.qa" tvg-name="BEIN NAT GEO WILD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINNATGEOWILD.png" group-title="BEIN MOVIES",BEIN NAT GEO WILD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11432
+#EXTINF:-1 tvg-id="beinsports4k.qa" tvg-name="BEIN 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports4K.png" group-title="BEIN SPORTS 4K",BEIN 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/922700
+#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="BEIN GLOBAL HEVC " tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsHD.png" group-title="BEIN SPORTS HEVC",BEIN GLOBAL HEVC 
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574594
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="BEIN SPORTS NEWS HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsNewsHD.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS NEWS HEVC
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574593
+#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="BEIN SPORTS NBA HEVC" tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINSPORTSNBA.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS NBA HEVC
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574592
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SPORTS 1 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports1.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 1 HEVC
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618293
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BEIN SPORTS 2 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports2.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 2 HEVC
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618292
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEIN SPORTS 3 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports3.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 3 HEVC
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618291
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEIN SPORTS 4 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports4.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 4 HEVC
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618290
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BEIN SPORTS 5 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports5.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 5 HEVC
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618289
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BEIN SPORTS 6 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports6.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 6 HEVC
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618288
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEIN SPORTS 7 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports7.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 7 HEVC
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618287
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BEIN SPORTS 8 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports8.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 8 HEVC
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618286
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BEIN SPORTS 9 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports9.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 9 HEVC
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618285
+#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="BEIN XTRA 1 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS HEVC",BEIN XTRA 1 HEVC
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574582
+#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="BEIN XTRA 2 HEVC " tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS HEVC",BEIN XTRA 2 HEVC 
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574581
+#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="BEIN XTRA 3 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS HEVC",BEIN XTRA 3 HEVC
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574580
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BEIN SPORTS EN 1 HEVC L " tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish1.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS EN 1 HEVC L 
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574579
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="BEIN SPORTS EN 2 HEVC " tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish2.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS EN 2 HEVC 
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574578
+#EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-name="BEIN SPORTS FR 1 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsFrench1.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS FR 1 HEVC
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574576
+#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="BEIN SPORTS FR 2 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsFrench2.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS FR 2 HEVC
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574577
+#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="BEIN GLOBAL SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsHD.png" group-title="BEIN SPORTS SD",BEIN GLOBAL SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574555
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="BEIN SPORTS NEWS SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsNewsHD.png" group-title="BEIN SPORTS SD",BEIN SPORTS NEWS SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574554
+#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="BEIN SPORTS NBA SD" tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINSPORTSNBA.png" group-title="BEIN SPORTS SD",BEIN SPORTS NBA SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574553
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SPORTS 1 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports1.png" group-title="BEIN SPORTS SD",BEIN SPORTS 1 SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618281
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BEIN SPORTS 2 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports2.png" group-title="BEIN SPORTS SD",BEIN SPORTS 2 SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618280
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEIN SPORTS 3 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports3.png" group-title="BEIN SPORTS SD",BEIN SPORTS 3 SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618279
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEIN SPORTS 4 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports4.png" group-title="BEIN SPORTS SD",BEIN SPORTS 4 SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618278
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BEIN SPORTS 5 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports5.png" group-title="BEIN SPORTS SD",BEIN SPORTS 5 SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618277
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BEIN SPORTS 6 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports6.png" group-title="BEIN SPORTS SD",BEIN SPORTS 6 SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618276
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEIN SPORTS 7 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports7.png" group-title="BEIN SPORTS SD",BEIN SPORTS 7 SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618275
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BEIN SPORTS 8 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports8.png" group-title="BEIN SPORTS SD",BEIN SPORTS 8 SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618274
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BEIN SPORTS 9 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports9.png" group-title="BEIN SPORTS SD",BEIN SPORTS 9 SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618273
+#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="BEIN XTRA 1 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS SD",BEIN XTRA 1 SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618269
+#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="BEIN XTRA 2 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS SD",BEIN XTRA 2 SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618268
+#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="BEIN XTRA 3 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS SD",BEIN XTRA 3 SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618267
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SPORTS EN 1 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish1.png" group-title="BEIN SPORTS SD",BEIN SPORTS EN 1 SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574540
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BEIN SPORTS EN 2 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish2.png" group-title="BEIN SPORTS SD",BEIN SPORTS EN 2 SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574539
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS EN 3 SD " tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish3.png" group-title="BEIN SPORTS SD",BEIN SPORTS EN 3 SD 
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574538
+#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="BEIN SPORTS FR 1 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsFrench1.png" group-title="BEIN SPORTS SD",BEIN SPORTS FR 1 SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574537
+#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="BEIN SPORTS FR 2 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsFrench2.png" group-title="BEIN SPORTS SD",BEIN SPORTS FR 2 SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574536
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="BEIN SPORTS FR 3 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsFrench3.png" group-title="BEIN SPORTS SD",BEIN SPORTS FR 3 SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574535
+#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="BEIN GLOBAL LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsHD.png" group-title="BEIN SPORTS SD",BEIN GLOBAL LQ
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574503
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="BEIN SPORTS NEWS LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsNewsHD.png" group-title="BEIN SPORTS SD",BEIN SPORTS NEWS LQ
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574504
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SPORTS 1 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports1.png" group-title="BEIN SPORTS SD",BEIN SPORTS 1 LQ
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574501
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BEIN SPORTS 2 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports2.png" group-title="BEIN SPORTS SD",BEIN SPORTS 2 LQ
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574500
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEIN SPORTS 3 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports3.png" group-title="BEIN SPORTS SD",BEIN SPORTS 3 LQ
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574499
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEIN SPORTS 4 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports4.png" group-title="BEIN SPORTS SD",BEIN SPORTS 4 LQ
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574498
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BEIN SPORTS 5 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports5.png" group-title="BEIN SPORTS SD",BEIN SPORTS 5 LQ
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574497
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BEIN SPORTS 6 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports6.png" group-title="BEIN SPORTS SD",BEIN SPORTS 6 LQ
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574496
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEIN SPORTS 7 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports7.png" group-title="BEIN SPORTS SD",BEIN SPORTS 7 LQ
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574495
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BEIN SPORTS 8 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports8.png" group-title="BEIN SPORTS SD",BEIN SPORTS 8 LQ
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574494
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BEIN SPORTS 9 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports9.png" group-title="BEIN SPORTS SD",BEIN SPORTS 9 LQ
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574493
+#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="BEIN XTRA 1 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS SD",BEIN XTRA 1 LQ
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574492
+#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="BEIN XTRA 2 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS SD",BEIN XTRA 2 LQ
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574491
+#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="BEIN XTRA 3 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS SD",BEIN XTRA 3 LQ
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574490
+#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="BEIN GLOBAL HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsHD.png" group-title="BEIN SPORTS HD",BEIN GLOBAL HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618265
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsNewsHD.png" group-title="BEIN SPORTS HD",BEIN SPORTS NEWS HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618264
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="BEIN SPORTS NBA HD" tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINSPORTSNBA.png" group-title="BEIN SPORTS HD",BEIN SPORTS NBA HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618263
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports1.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618262
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BEIN SPORTS 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports2.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618261
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEIN SPORTS 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports3.png" group-title="BEIN SPORTS HD",BEIN SPORTS 3 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618260
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEIN SPORTS 4 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports4.png" group-title="BEIN SPORTS HD",BEIN SPORTS 4 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618259
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BEIN SPORTS 5 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports5.png" group-title="BEIN SPORTS HD",BEIN SPORTS 5 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618258
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BEIN SPORTS 6 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports6.png" group-title="BEIN SPORTS HD",BEIN SPORTS 6 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618257
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEIN SPORTS 7 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports7.png" group-title="BEIN SPORTS HD",BEIN SPORTS 7 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618256
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BEIN SPORTS 8 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports8.png" group-title="BEIN SPORTS HD",BEIN SPORTS 8 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618255
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BEIN SPORTS 9 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports9.png" group-title="BEIN SPORTS HD",BEIN SPORTS 9 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618254
+#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="BEIN XTRA 1 HD " tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS HD",BEIN XTRA 1 HD 
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618250
+#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="BEIN XTRA 2 HD " tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS HD",BEIN XTRA 2 HD 
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618249
+#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="BEIN XTRA 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS HD",BEIN XTRA 3 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618248
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BEIN SPORTS EN 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish1.png" group-title="BEIN SPORTS HD",BEIN SPORTS EN 1 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618253
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="BEIN SPORTS EN 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish2.png" group-title="BEIN SPORTS HD",BEIN SPORTS EN 2 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574558
+#EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-name="BEIN SPORTS FR 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsFrench1.png" group-title="BEIN SPORTS HD",BEIN SPORTS FR 1 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618252
+#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="BEIN SPORTS FR 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsFrench2.png" group-title="BEIN SPORTS HD",BEIN SPORTS FR 2 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618251
+#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="BEIN GLOBAL 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsHD.png" group-title="BEIN SPORTS 4K",BEIN GLOBAL 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574467
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="BEIN SPORTS NEWS 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsNewsHD.png" group-title="BEIN SPORTS 4K",BEIN SPORTS NEWS 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574468
+#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="BEIN SPORT NBA 4K" tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINSPORTSNBA.png" group-title="BEIN SPORTS 4K",BEIN SPORT NBA 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618310
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SPORTS 1 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports1.png" group-title="BEIN SPORTS 4K",BEIN SPORTS 1 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618309
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BEIN SPORTS 2 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports2.png" group-title="BEIN SPORTS 4K",BEIN SPORTS 2 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618308
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEIN SPORTS 3 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports3.png" group-title="BEIN SPORTS 4K",BEIN SPORTS 3 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618307
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEIN SPORTS 4 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports4.png" group-title="BEIN SPORTS 4K",BEIN SPORTS 4 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618306
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BEIN SPORTS 5 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports5.png" group-title="BEIN SPORTS 4K",BEIN SPORTS 5 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618305
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BEIN SPORTS 6 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports6.png" group-title="BEIN SPORTS 4K",BEIN SPORTS 6 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618304
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEIN SPORTS 7 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports7.png" group-title="BEIN SPORTS 4K",BEIN SPORTS 7 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618303
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BEIN SPORTS 8 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports8.png" group-title="BEIN SPORTS 4K",BEIN SPORTS 8 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618302
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BEIN SPORTS 9 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports9.png" group-title="BEIN SPORTS 4K",BEIN SPORTS 9 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618301
+#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="BEIN XTRA 1 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS 4K",BEIN XTRA 1 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618300
+#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="BEIN XTRA 2 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS 4K",BEIN XTRA 2 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618299
+#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="BEIN XTRA 3 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS 4K",BEIN XTRA 3 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618298
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BEIN SPORTS EN 1 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish1.png" group-title="BEIN SPORTS 4K",BEIN SPORTS EN 1 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618297
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="BEIN SPORTS EN 2 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish2.png" group-title="BEIN SPORTS 4K",BEIN SPORTS EN 2 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574452
+#EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-name="BEIN SPORTS FR 1 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsFrench1.png" group-title="BEIN SPORTS 4K",BEIN SPORTS FR 1 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618296
+#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="BEIN SPORTS FR 2 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsFrench2.png" group-title="BEIN SPORTS 4K",BEIN SPORTS FR 2 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618295
+#EXTINF:-1 tvg-id="beinsports4k.qa" tvg-name="beIN 4k SS" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports4K.png" group-title="BEIN SPORTS LIVE",beIN 4k SS
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/512983
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SPORTS 1 HD SS" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports1.png" group-title="BEIN SPORTS LIVE",BEIN SPORTS 1 HD SS
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/512982
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BEIN SPORTS 2 HD SS" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports2.png" group-title="BEIN SPORTS LIVE",BEIN SPORTS 2 HD SS
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/512981
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEIN SPORTS 3 HD SS" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports3.png" group-title="BEIN SPORTS LIVE",BEIN SPORTS 3 HD SS
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/512980
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEIN SPORTS 4 HD SS" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports4.png" group-title="BEIN SPORTS LIVE",BEIN SPORTS 4 HD SS
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/512979
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BEIN SPORTS 5 HD SS" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports5.png" group-title="BEIN SPORTS LIVE",BEIN SPORTS 5 HD SS
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/512978
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BEIN SPORTS 6 HD SS" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports6.png" group-title="BEIN SPORTS LIVE",BEIN SPORTS 6 HD SS
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/512977
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEIN SPORTS 7 HD SS" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports7.png" group-title="BEIN SPORTS LIVE",BEIN SPORTS 7 HD SS
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/512976
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BEIN SPORTS 8 HD SS" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports8.png" group-title="BEIN SPORTS LIVE",BEIN SPORTS 8 HD SS
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/512975
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BEIN SPORTS 9 HD SS" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports9.png" group-title="BEIN SPORTS LIVE",BEIN SPORTS 9 HD SS
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/512974
+#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="|VIP| beIN SPORTS 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsHD.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572120
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="|VIP| beIN SPORTS News 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsNewsHD.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS News 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572119
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="|VIP| beIN SPORTS 4K 1" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports1.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 4K 1
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572134
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="|VIP| beIN SPORTS 4K 2" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports2.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 4K 2
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572132
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="|VIP| beIN SPORTS 4K 3" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports3.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 4K 3
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572133
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="|VIP| beIN SPORTS 4K 4" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports4.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 4K 4
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572131
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="|VIP| beIN SPORTS 4K 5" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports5.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 4K 5
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572130
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="|VIP| beIN SPORTS 4K 6" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports6.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 4K 6
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572129
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="|VIP| beIN SPORTS 4K 7" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports7.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 4K 7
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572128
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="|VIP| beIN SPORTS 4K 8" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports8.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 4K 8
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572127
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="|VIP| beIN SPORTS 4K 9" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports9.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 4K 9
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572126
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="|VIP| beIN Sport English 4k 1" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish1.png" group-title="BEIN SPORT VIP",|VIP| beIN Sport English 4k 1
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572125
+#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="|VIP| beIN SPORTS 1 Xtra 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 1 Xtra 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572122
+#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="|VIP| beIN SPORTS 2 Xtra 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 2 Xtra 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572121
+#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="|VIP| beIN SPORTS FHD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsHD.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS FHD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572106
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="|VIP| beIN SPORTS News FHD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsNewsHD.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS News FHD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572105
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="|VIP| beIN SPORTS FHD 1" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports1.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS FHD 1
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572118
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="|VIP| beIN SPORTS FHD 2" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports2.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS FHD 2
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572117
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="|VIP| beIN SPORTS FHD 3" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports3.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS FHD 3
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572116
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="|VIP| beIN SPORTS FHD 4" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports4.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS FHD 4
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572115
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="|VIP| beIN SPORTS FHD 5" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports5.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS FHD 5
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572114
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="|VIP| beIN SPORTS FHD 6" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports6.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS FHD 6
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572113
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="|VIP| beIN SPORTS FHD 7" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports7.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS FHD 7
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572112
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="|VIP| beIN SPORTS FHD 8" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports8.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS FHD 8
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572111
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="|VIP| beIN SPORTS FHD 9" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports9.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS FHD 9
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572110
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="|VIP| beIN Sport English FHD 1" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish1.png" group-title="BEIN SPORT VIP",|VIP| beIN Sport English FHD 1
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572109
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="|VIP| BEIN SPORTS HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsHD.png" group-title="BEIN SPORT VIP",|VIP| BEIN SPORTS HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572090
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="|VIP| beIN SPORTS HD 1" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports1.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS HD 1
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572104
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="|VIP| beIN SPORTS HD 2" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports2.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS HD 2
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572103
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="|VIP| beIN SPORTS HD 3" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports3.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS HD 3
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572102
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="|VIP| beIN SPORTS HD 4" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports4.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS HD 4
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572101
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="|VIP| beIN SPORTS HD 5" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports5.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS HD 5
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572100
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="|VIP| beIN SPORTS HD 6" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports6.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS HD 6
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572099
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="|VIP| beIN SPORTS HD 7" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports7.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS HD 7
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572098
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="|VIP| beIN SPORTS HD 8" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports8.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS HD 8
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572097
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="|VIP| beIN SPORTS HD 9" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports9.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS HD 9
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572096
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="|VIP| beIN Sport English HD 1" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish1.png" group-title="BEIN SPORT VIP",|VIP| beIN Sport English HD 1
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572095
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="|VIP| BEIN SPORT NEWS 2" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsNewsHD.png" group-title="BEIN SPORT VIP",|VIP| BEIN SPORT NEWS 2
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572094
+#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="|VIP| beIN SPORTS 1 Xtra HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 1 Xtra HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572092
+#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="|VIP| beIN SPORTS 2 Xtra HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 2 Xtra HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572091
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833905
+#EXTINF:-1 tvg-id="beinsportsafc.qa" tvg-name="BEIN SPORTS AFC HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833901
+#EXTINF:-1 tvg-id="beinsportsafc.qa" tvg-name="BEIN SPORTS AFC SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833900
+#EXTINF:-1 tvg-id="beinsportsafc1.qa" tvg-name="BEIN SPORTS AFC 1 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC1.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 1 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833917
+#EXTINF:-1 tvg-id="beinsportsafc1.qa" tvg-name="BEIN SPORTS AFC 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC1.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 1 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833916
+#EXTINF:-1 tvg-id="beinsportsafc1.qa" tvg-name="BEIN SPORTS AFC 1 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC1.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 1 SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833915
+#EXTINF:-1 tvg-id="beinsportsafc2.qa" tvg-name="BEIN SPORTS AFC 2 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC2.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 2 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833914
+#EXTINF:-1 tvg-id="beinsportsafc2.qa" tvg-name="BEIN SPORTS AFC 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC2.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 2 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833913
+#EXTINF:-1 tvg-id="beinsportsafc2.qa" tvg-name="BEIN SPORTS AFC 2 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC2.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 2 SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833912
+#EXTINF:-1 tvg-id="beinsportsafc3.qa" tvg-name="BEIN SPORTS AFC 3 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC3.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 3 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833911
+#EXTINF:-1 tvg-id="beinsportsafc3.qa" tvg-name="BEIN SPORTS AFC 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC3.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 3 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833910
+#EXTINF:-1 tvg-id="beinsportsafc3.qa" tvg-name="BEIN SPORTS AFC 3 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC3.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 3 SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833909
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 4 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC3.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 4 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833908
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 4 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC3.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 4 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833907
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 4 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC3.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 4 SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833906
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 5 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC3.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 5 4K
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833904
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 5 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC3.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 5 HD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833903
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 5 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC3.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 5 SD
+http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833902
+
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="https://i.ibb.co/7JY39jm/ZSW.png" group-title="ZOZO PREMIUM TV",TV1-HD
@@ -17323,362 +17681,7 @@ http://179302246232644027.ofd0718.xyz:80/live/9YK7JYKF5U/XHebxYPSPd/644027.ts
 #EXTINF:-1 tvg-logo="https://about.att.com/ecms/dam/snr/2019/July2019/SocialShare/AT&T%20TV%20Blog11200x630.jpg" group-title="AT&T TV",CAZAVISION SD
 http://179302246232644676.ofd0718.xyz:80/live/9YK7JYKF5U/XHebxYPSPd/644676.ts
 
-#EXTINF:-1 tvg-id="beinmovies1.qa" tvg-name="BEIN MOVIES 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINMOVIES1HD.png" group-title="BEIN MOVIES",BEIN MOVIES 1 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11451
-#EXTINF:-1 tvg-id="beinmovies2.qa" tvg-name="BEIN MOVIES 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINMOVIES2HD.png" group-title="BEIN MOVIES",BEIN MOVIES 2 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11450
-#EXTINF:-1 tvg-id="beinmovies3.qa" tvg-name="BEIN MOVIES 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINMOVIES3HD.png" group-title="BEIN MOVIES",BEIN MOVIES 3 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11449
-#EXTINF:-1 tvg-id="beinmovies4.qa" tvg-name="BEIN MOVIES 4 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINMOVIES4HD.png" group-title="BEIN MOVIES",BEIN MOVIES 4 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11448
-#EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="BEIN SERIES 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINSERIES1HD.png" group-title="BEIN MOVIES",BEIN SERIES 1 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11446
-#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="BEIN SERIES 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINSERIES2HD.png" group-title="BEIN MOVIES",BEIN SERIES 2 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11445
-#EXTINF:-1 tvg-id="beindrama.qa" tvg-name="BEIN DRAMA HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINDRAMAHD.png" group-title="BEIN MOVIES",BEIN DRAMA HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11444
-#EXTINF:-1 tvg-id="foxmoviesaction.qa" tvg-name="BEIN FOX MOVIES ACTION HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINFOXMOVIESACTIONHD.png" group-title="BEIN MOVIES",BEIN FOX MOVIES ACTION HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11442
-#EXTINF:-1 tvg-id="" tvg-name="BEIN BOOMERANG HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINBOOMERANGHD.png" group-title="BEIN MOVIES",BEIN BOOMERANG HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11441
-#EXTINF:-1 tvg-id="gourmet.qa" tvg-name="BEIN GOURMET" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINGOURMET.png" group-title="BEIN MOVIES",BEIN GOURMET
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11440
-#EXTINF:-1 tvg-id="baraem.qa" tvg-name="BEIN BARAEM HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINBARAEMHD.png" group-title="BEIN MOVIES",BEIN BARAEM HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11439
-#EXTINF:-1 tvg-id="bejunior.qa" tvg-name="BEIN BE JUNIOR" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINBEJUNIOR.png" group-title="BEIN MOVIES",BEIN BE JUNIOR
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11438
-#EXTINF:-1 tvg-id="fatafeat.qa" tvg-name="BEIN FATAFEAT" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINFATAFEAT.png" group-title="BEIN MOVIES",BEIN FATAFEAT
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11437
-#EXTINF:-1 tvg-id="foxlife.qa" tvg-name="BEIN FOX LIFE HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINFOXLIFEHD.png" group-title="BEIN MOVIES",BEIN FOX LIFE HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11436
-#EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="BEIN JEEM HD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINJEEMHD.png" group-title="BEIN MOVIES",BEIN JEEM HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11435
-#EXTINF:-1 tvg-id="natgeo.qa" tvg-name="BEIN NAT GEO" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINNATGEO.png" group-title="BEIN MOVIES",BEIN NAT GEO
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11434
-#EXTINF:-1 tvg-id="natgeowildhd.qa" tvg-name="BEIN NAT GEO WILD" tvg-logo="http://logo.ottc.pro:8080/logos/ARABBEINMOVIES/BEINNATGEOWILD.png" group-title="BEIN MOVIES",BEIN NAT GEO WILD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/11432
-#EXTINF:-1 tvg-id="beinsports4k.qa" tvg-name="BEIN 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports4K.png" group-title="BEIN SPORTS 4K",BEIN 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/922700
-#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="BEIN GLOBAL HEVC " tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsHD.png" group-title="BEIN SPORTS HEVC",BEIN GLOBAL HEVC 
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574594
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="BEIN SPORTS NEWS HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsNewsHD.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS NEWS HEVC
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574593
-#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="BEIN SPORTS NBA HEVC" tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINSPORTSNBA.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS NBA HEVC
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574592
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SPORTS 1 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports1.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 1 HEVC
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618293
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BEIN SPORTS 2 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports2.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 2 HEVC
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618292
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEIN SPORTS 3 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports3.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 3 HEVC
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618291
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEIN SPORTS 4 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports4.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 4 HEVC
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618290
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BEIN SPORTS 5 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports5.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 5 HEVC
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618289
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BEIN SPORTS 6 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports6.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 6 HEVC
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618288
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEIN SPORTS 7 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports7.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 7 HEVC
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618287
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BEIN SPORTS 8 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports8.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 8 HEVC
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618286
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BEIN SPORTS 9 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports9.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 9 HEVC
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618285
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="BEIN XTRA 1 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS HEVC",BEIN XTRA 1 HEVC
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574582
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="BEIN XTRA 2 HEVC " tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS HEVC",BEIN XTRA 2 HEVC 
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574581
-#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="BEIN XTRA 3 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS HEVC",BEIN XTRA 3 HEVC
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574580
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BEIN SPORTS EN 1 HEVC L " tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish1.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS EN 1 HEVC L 
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574579
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="BEIN SPORTS EN 2 HEVC " tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish2.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS EN 2 HEVC 
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574578
-#EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-name="BEIN SPORTS FR 1 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsFrench1.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS FR 1 HEVC
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574576
-#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="BEIN SPORTS FR 2 HEVC" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsFrench2.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS FR 2 HEVC
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574577
-#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="BEIN GLOBAL SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsHD.png" group-title="BEIN SPORTS SD",BEIN GLOBAL SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574555
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="BEIN SPORTS NEWS SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsNewsHD.png" group-title="BEIN SPORTS SD",BEIN SPORTS NEWS SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574554
-#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="BEIN SPORTS NBA SD" tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINSPORTSNBA.png" group-title="BEIN SPORTS SD",BEIN SPORTS NBA SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574553
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SPORTS 1 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports1.png" group-title="BEIN SPORTS SD",BEIN SPORTS 1 SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618281
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BEIN SPORTS 2 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports2.png" group-title="BEIN SPORTS SD",BEIN SPORTS 2 SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618280
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEIN SPORTS 3 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports3.png" group-title="BEIN SPORTS SD",BEIN SPORTS 3 SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618279
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEIN SPORTS 4 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports4.png" group-title="BEIN SPORTS SD",BEIN SPORTS 4 SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618278
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BEIN SPORTS 5 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports5.png" group-title="BEIN SPORTS SD",BEIN SPORTS 5 SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618277
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BEIN SPORTS 6 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports6.png" group-title="BEIN SPORTS SD",BEIN SPORTS 6 SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618276
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEIN SPORTS 7 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports7.png" group-title="BEIN SPORTS SD",BEIN SPORTS 7 SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618275
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BEIN SPORTS 8 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports8.png" group-title="BEIN SPORTS SD",BEIN SPORTS 8 SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618274
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BEIN SPORTS 9 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports9.png" group-title="BEIN SPORTS SD",BEIN SPORTS 9 SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618273
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="BEIN XTRA 1 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS SD",BEIN XTRA 1 SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618269
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="BEIN XTRA 2 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS SD",BEIN XTRA 2 SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618268
-#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="BEIN XTRA 3 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS SD",BEIN XTRA 3 SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618267
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SPORTS EN 1 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish1.png" group-title="BEIN SPORTS SD",BEIN SPORTS EN 1 SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574540
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BEIN SPORTS EN 2 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish2.png" group-title="BEIN SPORTS SD",BEIN SPORTS EN 2 SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574539
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS EN 3 SD " tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish3.png" group-title="BEIN SPORTS SD",BEIN SPORTS EN 3 SD 
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574538
-#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="BEIN SPORTS FR 1 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsFrench1.png" group-title="BEIN SPORTS SD",BEIN SPORTS FR 1 SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574537
-#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="BEIN SPORTS FR 2 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsFrench2.png" group-title="BEIN SPORTS SD",BEIN SPORTS FR 2 SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574536
-#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="BEIN SPORTS FR 3 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsFrench3.png" group-title="BEIN SPORTS SD",BEIN SPORTS FR 3 SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574535
-#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="BEIN GLOBAL LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsHD.png" group-title="BEIN SPORTS SD",BEIN GLOBAL LQ
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574503
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="BEIN SPORTS NEWS LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsNewsHD.png" group-title="BEIN SPORTS SD",BEIN SPORTS NEWS LQ
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574504
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SPORTS 1 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports1.png" group-title="BEIN SPORTS SD",BEIN SPORTS 1 LQ
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574501
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BEIN SPORTS 2 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports2.png" group-title="BEIN SPORTS SD",BEIN SPORTS 2 LQ
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574500
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEIN SPORTS 3 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports3.png" group-title="BEIN SPORTS SD",BEIN SPORTS 3 LQ
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574499
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEIN SPORTS 4 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports4.png" group-title="BEIN SPORTS SD",BEIN SPORTS 4 LQ
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574498
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BEIN SPORTS 5 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports5.png" group-title="BEIN SPORTS SD",BEIN SPORTS 5 LQ
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574497
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BEIN SPORTS 6 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports6.png" group-title="BEIN SPORTS SD",BEIN SPORTS 6 LQ
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574496
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEIN SPORTS 7 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports7.png" group-title="BEIN SPORTS SD",BEIN SPORTS 7 LQ
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574495
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BEIN SPORTS 8 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports8.png" group-title="BEIN SPORTS SD",BEIN SPORTS 8 LQ
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574494
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BEIN SPORTS 9 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports9.png" group-title="BEIN SPORTS SD",BEIN SPORTS 9 LQ
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574493
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="BEIN XTRA 1 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS SD",BEIN XTRA 1 LQ
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574492
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="BEIN XTRA 2 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS SD",BEIN XTRA 2 LQ
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574491
-#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="BEIN XTRA 3 LQ" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS SD",BEIN XTRA 3 LQ
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574490
-#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="BEIN GLOBAL HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsHD.png" group-title="BEIN SPORTS HD",BEIN GLOBAL HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618265
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsNewsHD.png" group-title="BEIN SPORTS HD",BEIN SPORTS NEWS HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618264
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="BEIN SPORTS NBA HD" tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINSPORTSNBA.png" group-title="BEIN SPORTS HD",BEIN SPORTS NBA HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618263
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports1.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618262
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BEIN SPORTS 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports2.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618261
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEIN SPORTS 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports3.png" group-title="BEIN SPORTS HD",BEIN SPORTS 3 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618260
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEIN SPORTS 4 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports4.png" group-title="BEIN SPORTS HD",BEIN SPORTS 4 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618259
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BEIN SPORTS 5 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports5.png" group-title="BEIN SPORTS HD",BEIN SPORTS 5 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618258
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BEIN SPORTS 6 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports6.png" group-title="BEIN SPORTS HD",BEIN SPORTS 6 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618257
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEIN SPORTS 7 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports7.png" group-title="BEIN SPORTS HD",BEIN SPORTS 7 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618256
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BEIN SPORTS 8 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports8.png" group-title="BEIN SPORTS HD",BEIN SPORTS 8 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618255
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BEIN SPORTS 9 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports9.png" group-title="BEIN SPORTS HD",BEIN SPORTS 9 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618254
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="BEIN XTRA 1 HD " tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS HD",BEIN XTRA 1 HD 
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618250
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="BEIN XTRA 2 HD " tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS HD",BEIN XTRA 2 HD 
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618249
-#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="BEIN XTRA 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS HD",BEIN XTRA 3 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618248
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BEIN SPORTS EN 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish1.png" group-title="BEIN SPORTS HD",BEIN SPORTS EN 1 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618253
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="BEIN SPORTS EN 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish2.png" group-title="BEIN SPORTS HD",BEIN SPORTS EN 2 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574558
-#EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-name="BEIN SPORTS FR 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsFrench1.png" group-title="BEIN SPORTS HD",BEIN SPORTS FR 1 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618252
-#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="BEIN SPORTS FR 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsFrench2.png" group-title="BEIN SPORTS HD",BEIN SPORTS FR 2 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618251
-#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="BEIN GLOBAL 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsHD.png" group-title="BEIN SPORTS 4K",BEIN GLOBAL 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574467
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="BEIN SPORTS NEWS 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsNewsHD.png" group-title="BEIN SPORTS 4K",BEIN SPORTS NEWS 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574468
-#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="BEIN SPORT NBA 4K" tvg-logo="http://logo.ottc.pro:8080/logos/BEINSPORTS/BEINSPORTSNBA.png" group-title="BEIN SPORTS 4K",BEIN SPORT NBA 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618310
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SPORTS 1 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports1.png" group-title="BEIN SPORTS 4K",BEIN SPORTS 1 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618309
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BEIN SPORTS 2 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports2.png" group-title="BEIN SPORTS 4K",BEIN SPORTS 2 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618308
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEIN SPORTS 3 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports3.png" group-title="BEIN SPORTS 4K",BEIN SPORTS 3 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618307
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEIN SPORTS 4 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports4.png" group-title="BEIN SPORTS 4K",BEIN SPORTS 4 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618306
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BEIN SPORTS 5 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports5.png" group-title="BEIN SPORTS 4K",BEIN SPORTS 5 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618305
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BEIN SPORTS 6 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports6.png" group-title="BEIN SPORTS 4K",BEIN SPORTS 6 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618304
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEIN SPORTS 7 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports7.png" group-title="BEIN SPORTS 4K",BEIN SPORTS 7 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618303
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BEIN SPORTS 8 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports8.png" group-title="BEIN SPORTS 4K",BEIN SPORTS 8 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618302
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BEIN SPORTS 9 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports9.png" group-title="BEIN SPORTS 4K",BEIN SPORTS 9 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618301
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="BEIN XTRA 1 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS 4K",BEIN XTRA 1 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618300
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="BEIN XTRA 2 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS 4K",BEIN XTRA 2 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618299
-#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="BEIN XTRA 3 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORTS 4K",BEIN XTRA 3 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618298
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BEIN SPORTS EN 1 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish1.png" group-title="BEIN SPORTS 4K",BEIN SPORTS EN 1 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618297
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="BEIN SPORTS EN 2 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish2.png" group-title="BEIN SPORTS 4K",BEIN SPORTS EN 2 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/574452
-#EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-name="BEIN SPORTS FR 1 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsFrench1.png" group-title="BEIN SPORTS 4K",BEIN SPORTS FR 1 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618296
-#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="BEIN SPORTS FR 2 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsFrench2.png" group-title="BEIN SPORTS 4K",BEIN SPORTS FR 2 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/618295
-#EXTINF:-1 tvg-id="beinsports4k.qa" tvg-name="beIN 4k SS" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports4K.png" group-title="BEIN SPORTS LIVE",beIN 4k SS
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/512983
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SPORTS 1 HD SS" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports1.png" group-title="BEIN SPORTS LIVE",BEIN SPORTS 1 HD SS
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/512982
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BEIN SPORTS 2 HD SS" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports2.png" group-title="BEIN SPORTS LIVE",BEIN SPORTS 2 HD SS
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/512981
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEIN SPORTS 3 HD SS" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports3.png" group-title="BEIN SPORTS LIVE",BEIN SPORTS 3 HD SS
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/512980
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEIN SPORTS 4 HD SS" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports4.png" group-title="BEIN SPORTS LIVE",BEIN SPORTS 4 HD SS
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/512979
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="BEIN SPORTS 5 HD SS" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports5.png" group-title="BEIN SPORTS LIVE",BEIN SPORTS 5 HD SS
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/512978
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="BEIN SPORTS 6 HD SS" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports6.png" group-title="BEIN SPORTS LIVE",BEIN SPORTS 6 HD SS
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/512977
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEIN SPORTS 7 HD SS" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports7.png" group-title="BEIN SPORTS LIVE",BEIN SPORTS 7 HD SS
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/512976
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="BEIN SPORTS 8 HD SS" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports8.png" group-title="BEIN SPORTS LIVE",BEIN SPORTS 8 HD SS
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/512975
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="BEIN SPORTS 9 HD SS" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports9.png" group-title="BEIN SPORTS LIVE",BEIN SPORTS 9 HD SS
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/512974
-#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="|VIP| beIN SPORTS 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsHD.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572120
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="|VIP| beIN SPORTS News 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsNewsHD.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS News 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572119
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="|VIP| beIN SPORTS 4K 1" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports1.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 4K 1
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572134
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="|VIP| beIN SPORTS 4K 2" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports2.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 4K 2
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572132
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="|VIP| beIN SPORTS 4K 3" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports3.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 4K 3
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572133
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="|VIP| beIN SPORTS 4K 4" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports4.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 4K 4
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572131
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="|VIP| beIN SPORTS 4K 5" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports5.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 4K 5
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572130
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="|VIP| beIN SPORTS 4K 6" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports6.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 4K 6
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572129
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="|VIP| beIN SPORTS 4K 7" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports7.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 4K 7
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572128
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="|VIP| beIN SPORTS 4K 8" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports8.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 4K 8
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572127
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="|VIP| beIN SPORTS 4K 9" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports9.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 4K 9
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572126
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="|VIP| beIN Sport English 4k 1" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish1.png" group-title="BEIN SPORT VIP",|VIP| beIN Sport English 4k 1
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572125
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="|VIP| beIN SPORTS 1 Xtra 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 1 Xtra 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572122
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="|VIP| beIN SPORTS 2 Xtra 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 2 Xtra 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572121
-#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="|VIP| beIN SPORTS FHD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsHD.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS FHD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572106
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="|VIP| beIN SPORTS News FHD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsNewsHD.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS News FHD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572105
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="|VIP| beIN SPORTS FHD 1" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports1.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS FHD 1
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572118
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="|VIP| beIN SPORTS FHD 2" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports2.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS FHD 2
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572117
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="|VIP| beIN SPORTS FHD 3" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports3.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS FHD 3
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572116
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="|VIP| beIN SPORTS FHD 4" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports4.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS FHD 4
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572115
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="|VIP| beIN SPORTS FHD 5" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports5.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS FHD 5
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572114
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="|VIP| beIN SPORTS FHD 6" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports6.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS FHD 6
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572113
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="|VIP| beIN SPORTS FHD 7" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports7.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS FHD 7
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572112
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="|VIP| beIN SPORTS FHD 8" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports8.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS FHD 8
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572111
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="|VIP| beIN SPORTS FHD 9" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports9.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS FHD 9
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572110
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="|VIP| beIN Sport English FHD 1" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish1.png" group-title="BEIN SPORT VIP",|VIP| beIN Sport English FHD 1
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572109
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="|VIP| BEIN SPORTS HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsHD.png" group-title="BEIN SPORT VIP",|VIP| BEIN SPORTS HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572090
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="|VIP| beIN SPORTS HD 1" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports1.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS HD 1
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572104
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="|VIP| beIN SPORTS HD 2" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports2.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS HD 2
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572103
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="|VIP| beIN SPORTS HD 3" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports3.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS HD 3
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572102
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="|VIP| beIN SPORTS HD 4" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports4.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS HD 4
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572101
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="|VIP| beIN SPORTS HD 5" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports5.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS HD 5
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572100
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="|VIP| beIN SPORTS HD 6" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports6.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS HD 6
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572099
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="|VIP| beIN SPORTS HD 7" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports7.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS HD 7
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572098
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="|VIP| beIN SPORTS HD 8" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports8.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS HD 8
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572097
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="|VIP| beIN SPORTS HD 9" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSports9.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS HD 9
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572096
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="|VIP| beIN Sport English HD 1" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsEnglish1.png" group-title="BEIN SPORT VIP",|VIP| beIN Sport English HD 1
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572095
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="|VIP| BEIN SPORT NEWS 2" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsNewsHD.png" group-title="BEIN SPORT VIP",|VIP| BEIN SPORT NEWS 2
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572094
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="|VIP| beIN SPORTS 1 Xtra HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 1 Xtra HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572092
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="|VIP| beIN SPORTS 2 Xtra HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsXtra.png" group-title="BEIN SPORT VIP",|VIP| beIN SPORTS 2 Xtra HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/572091
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833905
-#EXTINF:-1 tvg-id="beinsportsafc.qa" tvg-name="BEIN SPORTS AFC HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833901
-#EXTINF:-1 tvg-id="beinsportsafc.qa" tvg-name="BEIN SPORTS AFC SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833900
-#EXTINF:-1 tvg-id="beinsportsafc1.qa" tvg-name="BEIN SPORTS AFC 1 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC1.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 1 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833917
-#EXTINF:-1 tvg-id="beinsportsafc1.qa" tvg-name="BEIN SPORTS AFC 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC1.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 1 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833916
-#EXTINF:-1 tvg-id="beinsportsafc1.qa" tvg-name="BEIN SPORTS AFC 1 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC1.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 1 SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833915
-#EXTINF:-1 tvg-id="beinsportsafc2.qa" tvg-name="BEIN SPORTS AFC 2 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC2.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 2 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833914
-#EXTINF:-1 tvg-id="beinsportsafc2.qa" tvg-name="BEIN SPORTS AFC 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC2.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 2 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833913
-#EXTINF:-1 tvg-id="beinsportsafc2.qa" tvg-name="BEIN SPORTS AFC 2 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC2.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 2 SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833912
-#EXTINF:-1 tvg-id="beinsportsafc3.qa" tvg-name="BEIN SPORTS AFC 3 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC3.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 3 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833911
-#EXTINF:-1 tvg-id="beinsportsafc3.qa" tvg-name="BEIN SPORTS AFC 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC3.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 3 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833910
-#EXTINF:-1 tvg-id="beinsportsafc3.qa" tvg-name="BEIN SPORTS AFC 3 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC3.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 3 SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833909
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 4 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC3.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 4 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833908
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 4 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC3.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 4 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833907
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 4 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC3.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 4 SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833906
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 5 4K" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC3.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 5 4K
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833904
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 5 HD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC3.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 5 HD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833903
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 5 SD" tvg-logo="http://logo.ottc.pro:8080/logos2/International/beIN/beINSportsAFC3.png" group-title="BEIN SPORTS AFC",BEIN SPORTS AFC 5 SD
-http://elprofessor.otts.pro:80/OUXAQFBUUP/R3XZZFCP9N/833902
+
 
 #EXTINF:-1 group-title="INDONESIA RADIO" tvg-logo="https://heryarts.my.id/night.webp", Most 105.8 FM Jakarta
 https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w405836415.m3u8?n=9daa654aa7c923c52ea1
