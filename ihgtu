@@ -2367,7 +2367,12 @@ https://www.googleapis.com/drive/v3/files/1mZrB2XpZJiC_kQLuzMwXxlDciiIltbFT?alt=
 
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://khflix.com/wp-content/uploads/2024/08/ang-pintor-at-ang-paraluman-khflix.jpg" group-title="VIVAMAX CINEMA",Ang Pintor At Ang Paraluman (2024)
+#EXTVLCOPT:sub-file=https://res.cloudinary.com/dy69zwkri/raw/upload/v1723185533/backrider/Backrider.Indonesian_uhs6dd.srt
+https://ss03.silkanu.cc/data/9/66b5b6e70057a/hls720/66b5b6e70057a720.m3u8
+#EXTINF:-1 tvg-logo="https://khflix.com/wp-content/uploads/2024/08/backrider-khflix.jpg" group-title="VIVAMAX CINEMA",Backrider (2024)
+#EXTVLCOPT:sub-file=https://res.cloudinary.com/dy69zwkri/raw/upload/v1723185533/backrider/Backrider.Indonesian_uhs6dd.srt
+https://ss03.silkanu.cc/data/A/66b5b6cca2709/hls720/66b5b6cca2709720.m3u8
 #EXTINF:-1 tvg-logo="https://nonton168.fun/wp-content/uploads/2024/07/6KTkyfgc69Mss35jbXhU4wpUMkv.jpg" group-title="VIVAMAX CINEMA",Package Deal (2024)
 #EXTVLCOPT:sub-file=https://www.nonton168.com/movies/desember2022/TAMING.vtt
 https://www.nonton168.com/movies/desember2022/Package.Deal.2024.1080p.VMAX.Eng.Sub.WEB-DL.AAC2.0.x264.mp4
