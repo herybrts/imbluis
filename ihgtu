@@ -2611,6 +2611,15 @@ https://www.nonton168.com/movies/desember2022/GGS%20Ganteng-Ganteng%20Sange%20ke
 
 
 
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/500p/91/49/flat-design-korean-drama-lettering-vector-44579149.jpg" group-title="KOREAN DRAMA",K-DRAMA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/500p/91/49/flat-design-korean-drama-lettering-vector-44579149.jpg" group-title="KOREAN DRAMA",K-MOVIES
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/500p/91/49/flat-design-korean-drama-lettering-vector-44579149.jpg" group-title="KOREAN DRAMA",K-CJ&EM
+https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/500p/91/49/flat-design-korean-drama-lettering-vector-44579149.jpg" group-title="KOREAN DRAMA",K-SBS
+https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
 
 
 
