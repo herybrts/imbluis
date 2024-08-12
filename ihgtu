@@ -2619,6 +2619,12 @@ https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/500p/91/49/flat-design-korean-drama-lettering-vector-44579149.jpg" group-title="KOREAN DRAMA",K-SBS
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="KOREAN DRAMA" tvg-logo="https://cdn.vectorstock.com/i/500p/91/49/flat-design-korean-drama-lettering-vector-44579149.jpg",K plus
+http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
+#EXTINF:0 group-title="KOREAN DRAMA" tvg-logo="https://cdn.vectorstock.com/i/500p/91/49/flat-design-korean-drama-lettering-vector-44579149.jpg",tvN MOVIES
+http://op-group1-swiftservehd-1.dens.tv/h/h214/01.m3u8
+#EXTINF:0 group-title="KOREAN DRAMA" tvg-logo="https://cdn.vectorstock.com/i/500p/91/49/flat-design-korean-drama-lettering-vector-44579149.jpg",NaDoo KOREAN
+http://op-group1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 
 
 
