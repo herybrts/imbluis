@@ -2625,6 +2625,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h214/01.m3u8
 #EXTINF:0 group-title="KOREAN DRAMA" tvg-logo="https://cdn.vectorstock.com/i/500p/91/49/flat-design-korean-drama-lettering-vector-44579149.jpg",NaDoo KOREAN
 http://op-group1-swiftservehd-1.dens.tv/h/h125/live.m3u8
+#EXTINF:0 group-title="KOREAN DRAMA" tvg-logo="https://cdn.vectorstock.com/i/500p/91/49/flat-design-korean-drama-lettering-vector-44579149.jpg",KBS DRAMA
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:0 group-title="KOREAN DRAMA" tvg-logo="https://cdn.vectorstock.com/i/500p/91/49/flat-design-korean-drama-lettering-vector-44579149.jpg",MBC 3
+https://d33jr5ezct2aqw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-doq9g5envaarv-prod/Channel_MBC_3.m3u8
 
 
 
