@@ -10,9 +10,6 @@ https://stream.hownetwork.xyz/xxx/gunner-2024-webdl_X_f1b676d6/22/480.m3u8
 https://stream.hownetwork.xyz/xxx/national-anthem-2024-webdl_X_a54f05c2/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/08/film-the-union-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",The Union (2024)
 https://stream.hownetwork.xyz/xxx/the-union-2024-webdl_X_f34382cb/22/480.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/08/film-jackpot-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",Jackpot! (2024)
 https://stream.hownetwork.xyz/xxx/jackpot-2024-webdl_X_bae5cc1d/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/08/film-twilight-of-the-warriors-walled-in-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",Twilight of the Warriors: Walled In (2024) 
@@ -177,7 +174,6 @@ https://stream.hownetwork.xyz/xxx/find-me-falling-2024-webdl_X_2a31c38d/22/480.m
 https://stream.hownetwork.xyz/xxx/race-for-glory-audi-vs-lancia-2024-bluray_X_1a7a35a8/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/07/film-maharaja-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",MAHARAJA (2024)
 https://stream.hownetwork.xyz/xxx/maharaja-2024-webdl_X_503b6ed4/22/480.m3u8
-
 #EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/07/film-space-sharks-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",SPACE SHARKS (2024)
 https://stream.hownetwork.xyz/yyy/space-sharks-2024-webdl_X_642d5957/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/07/film-dead-whisper-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",DEAD WHISPER (2024)
@@ -204,7 +200,6 @@ https://stream.hownetwork.xyz/yyy/despicable-me-4-2024-cam_X_0626cb0e/22/480.m3u
 https://stream.hownetwork.xyz/yyy/descendants-the-rise-of-red-2024-webdl_X_75908c66/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/07/film-the-convert-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",THE CONVERT (2024)
 https://stream.hownetwork.xyz/yyy/the-convert-2024-webdl_X_6756270a/22/480.m3u8
-
 #EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/07/film-the-inheritance-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",THE INHERITANCE (2024)
 https://stream.hownetwork.xyz/yyy/the-inheritance-2024-webdl_X_0eda98e6/22/480.m3u8
 #EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/05/film-mothers-instinct-2024-lk21-d21.jpg.webp" group-title="HOLLYWOOD CINEMA",MOTHERS’ INSTINCT (2024)
@@ -10807,6 +10802,165 @@ https://rashed-almajed-ak.akamaized.net/out/v1/77b0946130344d1388e5cd34afdcb772/
 #EXTINF:-1 tvg-logo="https://www.thefilmcollaborative.org/distripedia/digitaldistributionguide/img/vod/shahid.jpg"  tvg-id="ksport1hd" group-title="SHAHID TV",MUHAMMAD ABDO
 https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/index.m3u8
 
+
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",HakkaTV	
+http://37.27.111.214:8080/live/1/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",TiTV	
+http://37.27.111.214:8080/live/2/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Formosa A	
+http://37.27.111.214:8080/live/4/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Formosa B	
+http://37.27.111.214:8080/live/5/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Formosa C	
+http://37.27.111.214:8080/live/6/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",CTV 1	
+http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",CTS	
+http://37.27.111.214:8080/live/8/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",TV Monde Style	
+http://37.27.111.214:8080/live/9/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Asia Travel	
+http://37.27.111.214:8080/live/10/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",@Classic	
+http://37.27.111.214:8080/live/11/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Nickelodeon	
+http://37.27.111.214:8080/live/12/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Golf	
+http://37.27.111.214:8080/live/13/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",PGA Tour	
+http://37.27.111.214:8080/live/14/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Billiard	
+http://37.27.111.214:8080/live/15/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Tennis	
+http://37.27.111.214:8080/live/16/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",LTV 1	
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",EBC	
+http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Nick Jr.	
+http://37.27.111.214:8080/live/22/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",TVBS A	
+http://37.27.111.214:8080/live/23/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",TVBS B	
+http://37.27.111.214:8080/live/24/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",MTV Now Rock Alt. Indie	
+http://37.27.111.214:8080/live/25/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",TW TV	
+http://37.27.111.214:8080/live/26/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",History	
+http://37.27.111.214:8080/live/27/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",HITS	
+http://37.27.111.214:8080/live/28/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Crime Investigation	
+http://37.27.111.214:8080/live/29/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",CinemaWorld	
+http://37.27.111.214:8080/live/30/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",SET	
+http://37.27.111.214:8080/live/31/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Bloomberg	
+http://37.27.111.214:8080/live/34/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",TV Shows	
+http://37.27.111.214:8080/live/35/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",rollor	
+http://37.27.111.214:8080/live/40/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",LTV 2	
+http://37.27.111.214:8080/live/41/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",LTV 3	
+http://37.27.111.214:8080/live/42/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Al Jazeera English	
+http://37.27.111.214:8080/live/44/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",VOA	
+http://37.27.111.214:8080/live/45/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",DW	
+http://37.27.111.214:8080/live/46/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",CTV 2	
+http://37.27.111.214:8080/live/47/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Bravo	
+http://37.27.111.214:8080/live/48/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Arirang	
+http://37.27.111.214:8080/live/52/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Global Trekker	
+http://37.27.111.214:8080/live/53/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Learn English	
+http://37.27.111.214:8080/live/54/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",ELTV	
+http://37.27.111.214:8080/live/56/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",DreamWorks	
+http://37.27.111.214:8080/live/57/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",TV Shows	
+http://37.27.111.214:8080/live/61/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",mnews	
+http://37.27.111.214:8080/live/62/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",TV Shows	
+http://37.27.111.214:8080/live/63/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",TV Shows	
+http://37.27.111.214:8080/live/64/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",TV Shows	
+http://37.27.111.214:8080/live/65/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",TV Shows	
+http://37.27.111.214:8080/live/66/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",CN FTV 1	
+http://37.27.111.214:8080/live/67/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Rock Entertainment	
+http://37.27.111.214:8080/live/70/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Lifetime	
+http://37.27.111.214:8080/live/71/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Stingray cmusic	
+http://37.27.111.214:8080/live/72/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Our Sport	
+http://37.27.111.214:8080/live/77/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",TV Shows	
+http://37.27.111.214:8080/live/78/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",TechStorm	
+http://37.27.111.214:8080/live/80/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Pet Club	
+http://37.27.111.214:8080/live/81/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",CN FTV 2
+http://37.27.111.214:8080/live/82/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Stingray Festival	
+http://37.27.111.214:8080/live/83/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Love Nature	
+http://37.27.111.214:8080/live/84/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",ELTA	
+http://37.27.111.214:8080/live/85/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",LUXE	
+http://37.27.111.214:8080/live/86/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",TV Shows	
+http://37.27.111.214:8080/live/87/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",CN FTV 3	
+http://37.27.111.214:8080/live/88/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Doc DigiChannel	
+http://37.27.111.214:8080/live/92/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",TV Shows	
+http://37.27.111.214:8080/live/93/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Rock Action	TV	
+http://37.27.111.214:8080/live/94/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",MCE	
+http://37.27.111.214:8080/live/98/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",Good 2	
+http://37.27.111.214:8080/live/99/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",BLTV	
+http://37.27.111.214:8080/live/101/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",CNBC	
+http://37.27.111.214:8080/live/102/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",TV Shows	
+http://37.27.111.214:8080/live/103/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",TV Shows
+http://37.27.111.214:8080/live/104/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",@Cartoon	
+http://37.27.111.214:8080/live/105/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",@Animation	
+http://37.27.111.214:8080/live/106/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",@Cartoon	
+http://37.27.111.214:8080/live/107/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",@TV Shows	
+http://37.27.111.214:8080/live/108/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",@TV Shows	
+http://37.27.111.214:8080/live/109/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",@KidsTV	
+http://37.27.111.214:8080/live/110/hls.m3u8
+#EXTINF:0 group-title="iTALK TV" tvg-logo="https://akcdn.detik.net.id/visual/2022/06/09/cover-italk_34.jpeg",@TV Shows	
+http://37.27.111.214:8080/live/111/hls.m3u8
 
 
 
