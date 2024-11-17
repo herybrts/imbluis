@@ -2,34 +2,357 @@
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
 
 
-#EXTINF:-1 tvg-id="803.astro" ch-number="803" group-logo="https://iili.io/2Agidua.png" group-title="ASTRO SPORTS" tvg-id="AstroArenaBola" ch-number="803" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png",Astro Arena Bola
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://d1w72er2qn2fg9.cloudfront.net/bola1.mpd
 
-#EXTINF:-1 tvg-id="804.astro" ch-number="804" group-title="ASTRO SPORTS" tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png",Astro Arena Bola 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
-http://d1w72er2qn2fg9.cloudfront.net/bola2.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
-#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-id="AstroPremierLeague" tvg-name="APL HD" ch-number="AstroPremierLeague" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="ASTRO SPORTS",Astro Premier League
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://d1w72er2qn2fg9.cloudfront.net/premier1.mpd
+#EXTM3U
+#EXTINF:-1 tvg-id="235.astro" tvg-name="Arena" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena.png" group-title="KING TV",Arena
+http://31.42.187.37:25461/watchpad13158/1234/286
+#EXTINF:-1 tvg-id="824" tvg-name="ASTRO CRICKET HD" tvg-logo="http://kingtv.dynu.com/tvlogo/cricket.png" group-title="KING TV",ASTRO CRICKET HD
+http://31.42.187.37:25461/watchpad13158/1234/328
+#EXTINF:-1 tvg-id="487.astro" tvg-name="Arena Bola 2" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola2.png" group-title="KING TV",Arena Bola 2
+http://31.42.187.37:25461/watchpad13158/1234/332
+#EXTINF:-1 tvg-id="457.astro" tvg-name="Arena 2" tvg-logo="http://kingtv.dynu.com/tvlogo/AstroArena2.png" group-title="KING TV",Arena 2
+http://31.42.187.37:25461/watchpad13158/1234/336
+#EXTINF:-1 tvg-id="TV1" tvg-name="NBA TV" tvg-logo="http://kingtv.dynu.com/tvlogo/nba.png" group-title="KING TV",NBA TV
+http://31.42.187.37:25461/watchpad13158/1234/2291
+#EXTINF:-1 tvg-id="503.astro" tvg-name="W-Sport" tvg-logo="http://kingtv.dynu.com/tvlogo/W-Sport.png" group-title="KING TV",W-Sport
+http://31.42.187.37:25461/watchpad13158/1234/2314
+#EXTINF:-1 tvg-name="RTM Sports" tvg-logo="http://kingtv.dynu.com/tvlogo/Rtmhdsports.png" group-title="KING TV",RTM Sports
+http://31.42.187.37:25461/watchpad13158/1234/2465
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://kingtv.dynu.com/tvlogo/CCTV5.png" group-title="KING TV",CCTV5
+http://31.42.187.37:25461/watchpad13158/1234/2526
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://kingtv.dynu.com/tvlogo/CCTV5p.png" group-title="KING TV",CCTV5+
+http://31.42.187.37:25461/watchpad13158/1234/2527
+#EXTINF:-1 tvg-name="PREMIER LEAGUE" tvg-logo="http://kingtv.dynu.com/tvlogo/skysportEPL.png" group-title="KING TV",PREMIER LEAGUE
+http://31.42.187.37:25461/watchpad13158/1234/3115
+#EXTINF:-1 tvg-id="393.astro" tvg-name="Premier Sports" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierSports.png" group-title="KING TV",Premier Sports
+http://31.42.187.37:25461/watchpad13158/1234/4030
+#EXTINF:-1 tvg-name="ELTA Sports 3 TW" tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="KING TV",ELTA Sports 3 TW
+http://31.42.187.37:25461/watchpad13158/1234/4078
+#EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="http://kingtv.dynu.com/tvlogo/BeinSports2.png" group-title="KING TV",BEIN SPORTS 2
+http://31.42.187.37:25461/watchpad13158/1234/4096
+#EXTINF:-1 tvg-id="486.astro" tvg-name="Arena Bola 1" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola.png" group-title="KING TV",Arena Bola 1
+http://31.42.187.37:25461/watchpad13158/1234/4648
+#EXTINF:-1 tvg-id="474.astro" tvg-name="SPO TV2" tvg-logo="http://kingtv.dynu.com/tvlogo/SPOTV2.png" group-title="KING TV",SPO TV2
+http://31.42.187.37:25461/watchpad13158/1234/15
+#EXTINF:-1 tvg-name="beIN SPORTS" tvg-logo="http://kingtv.dynu.com/tvlogo/Bein_sports.png" group-title="KING TV",beIN SPORTS
+http://31.42.187.37:25461/watchpad13158/1234/18
+#EXTINF:-1 tvg-id="189.astro" tvg-name="Golf Channel HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Golf_Channel.png" group-title="KING TV",Golf Channel HD
+http://31.42.187.37:25461/watchpad13158/1234/46
+#EXTINF:-1 tvg-id="194.astro" tvg-name="MY WWE NETWORK" tvg-logo="http://kingtv.dynu.com/tvlogo/WWE.png" group-title="KING TV",MY WWE NETWORK
+http://31.42.187.37:25461/watchpad13158/1234/88
+#EXTINF:-1 tvg-id="456.astro" tvg-name="SPO TV" tvg-logo="http://kingtv.dynu.com/tvlogo/SPOTV.png" group-title="KING TV",SPO TV
+http://31.42.187.37:25461/watchpad13158/1234/110
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro Football HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Football.png" group-title="KING TV",Astro Football HD
+http://31.42.187.37:25461/watchpad13158/1234/111
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro Grandstand HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Grandstand.png" group-title="KING TV",Astro Grandstand HD
+http://31.42.187.37:25461/watchpad13158/1234/112
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro Premier League 2 HD" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague2.png" group-title="KING TV",Astro Premier League 2 HD
+http://31.42.187.37:25461/watchpad13158/1234/113
+#EXTINF:-1 tvg-id="154.astro" tvg-name="Astro Premier League 1 HD" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague.png" group-title="KING TV",Astro Premier League 1 HD
+http://31.42.187.37:25461/watchpad13158/1234/114
+#EXTINF:-1 tvg-id="241.astro" tvg-name="Astro Football(Backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/Football.png" group-title="KING TV",Astro Football(Backup)
+http://31.42.187.37:25461/watchpad13158/1234/7909
+#EXTINF:-1 tvg-name="BEIN SPORTS 3" tvg-logo="http://kingtv.dynu.com/tvlogo/Bein_sports.png" group-title="KING TV",BEIN SPORTS 3
+http://31.42.187.37:25461/watchpad13158/1234/8956
+#EXTINF:-1 tvg-name="Arena Bola 1 (backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola.png" group-title="KING TV",Arena Bola 1 (backup)
+http://31.42.187.37:25461/watchpad13158/1234/11483
+#EXTINF:-1 tvg-name="Astro Grandstand (Backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/Grandstand.png" group-title="KING TV",Astro Grandstand (Backup)
+http://31.42.187.37:25461/watchpad13158/1234/15472
+#EXTINF:-1 tvg-name="Astro Premier League 2 (Backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague2.png" group-title="KING TV",Astro Premier League 2 (Backup)
+http://31.42.187.37:25461/watchpad13158/1234/15473
+#EXTINF:-1 tvg-name="Astro Premier League 1 (Backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague.png" group-title="KING TV",Astro Premier League 1 (Backup)
+http://31.42.187.37:25461/watchpad13158/1234/15474
+#EXTINF:-1 tvg-name="ELTA Sports 2 TW" tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="KING TV",ELTA Sports 2 TW
+http://31.42.187.37:25461/watchpad13158/1234/17273
+#EXTINF:-1 tvg-name="Astro Badminton" tvg-logo="http://kingtv.dynu.com/tvlogo/badminton.png" group-title="KING TV",Astro Badminton
+http://31.42.187.37:25461/watchpad13158/1234/19047
+#EXTINF:-1 tvg-name="Astro Badminton 2" tvg-logo="http://kingtv.dynu.com/tvlogo/badminton.png" group-title="KING TV",Astro Badminton 2
+http://31.42.187.37:25461/watchpad13158/1234/19048
+#EXTINF:-1 tvg-name="Astro Premier League 3" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague3_2024.png" group-title="KING TV",Astro Premier League 3
+http://31.42.187.37:25461/watchpad13158/1234/19049
+#EXTINF:-1 tvg-id="7135" tvg-name="FTV 民视" tvg-logo="http://kingtv.dynu.com/tvlogo/twFTV.png" group-title="KING TV",FTV 民视
+http://31.42.187.37:25461/watchpad13158/1234/208
+#EXTINF:-1 tvg-name="VIU" tvg-logo="http://kingtv.dynu.com/tvlogo/viu.png" group-title="KING TV",VIU
+http://31.42.187.37:25461/watchpad13158/1234/4079
+#EXTINF:-1 tvg-name="CTI ASIA" tvg-logo="http://kingtv.dynu.com/tvlogo/CTI_ASIA.png" group-title="KING TV",CTI ASIA
+http://31.42.187.37:25461/watchpad13158/1234/32
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://e7.pngegg.com/pngimages/195/929/png-clipart-taiwan-logo-tvbs-wikipedia-logos-blue-text.png" group-title="KING TV",TVBS
+http://31.42.187.37:25461/watchpad13158/1234/82
+#EXTINF:-1 tvg-id="145" tvg-name="Mei Ah Movies Movies" tvg-logo="http://kingtv.dynu.com/tvlogo/MeiAhMovie.png" group-title="KING TV",Mei Ah Movies Movies
+http://31.42.187.37:25461/watchpad13158/1234/106
+#EXTINF:-1 tvg-name="PHOENIX TV 风凰卫视" tvg-logo="https://p1.ssl.qhimg.com/dr/270_500_/t01f121055f8875836e.png" group-title="KING TV",PHOENIX TV 风凰卫视
+http://31.42.187.37:25461/watchpad13158/1234/317
+#EXTINF:-1 tvg-name="TVB NEWS 无线新闻台" tvg-logo="http://kingtv.dynu.com/tvlogo/TVBnews.png" group-title="KING TV",TVB NEWS 无线新闻台
+http://31.42.187.37:25461/watchpad13158/1234/318
+#EXTINF:-1 tvg-id="416" tvg-name="TVB PLUS (J2)" tvg-logo="http://kingtv.dynu.com/tvlogo/TVBJ2.png" group-title="KING TV",TVB PLUS (J2)
+http://31.42.187.37:25461/watchpad13158/1234/2528
+#EXTINF:-1 tvg-id="308" tvg-name="Phoenix InfoNews" tvg-logo="http://kingtv.dynu.com/tvlogo/PhoenixInfoNews.png" group-title="KING TV",Phoenix InfoNews
+http://31.42.187.37:25461/watchpad13158/1234/66
+#EXTINF:-1 tvg-id="126" tvg-name="TVB Jade" tvg-logo="http://kingtv.dynu.com/tvlogo/tvb_jade.png" group-title="KING TV",TVB Jade
+http://31.42.187.37:25461/watchpad13158/1234/86
+#EXTINF:-1 tvg-id="711" tvg-name="TV ALHIJRAH" tvg-logo="http://kingtv.dynu.com/tvlogo/TV_Alhijrah.png" group-title="KING TV",TV ALHIJRAH
+http://31.42.187.37:25461/watchpad13158/1234/327
+#EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" tvg-logo="http://kingtv.dynu.com/tvlogo/Awesome_TV_Malaysia.png" group-title="KING TV",Awesome TV
+http://31.42.187.37:25461/watchpad13158/1234/340
+#EXTINF:-1 tvg-id="502" tvg-name="BERNAMA" tvg-logo="http://kingtv.dynu.com/tvlogo/bernama.png" group-title="KING TV",BERNAMA
+http://31.42.187.37:25461/watchpad13158/1234/341
+#EXTINF:-1 tvg-id="251.astro" tvg-name="MY BOO HD" tvg-logo="http://kingtv.dynu.com/tvlogo/BOO.png" group-title="KING TV",MY BOO HD
+http://31.42.187.37:25461/watchpad13158/1234/1572
+#EXTINF:-1 tvg-id="301.astro" tvg-name="ASTRO AURA HD" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_AURA.png" group-title="KING TV",ASTRO AURA HD
+http://31.42.187.37:25461/watchpad13158/1234/1845
+#EXTINF:-1 tvg-id="106.astro" tvg-name="TV3 (backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/103.png" group-title="KING TV",TV3 (backup)
+http://31.42.187.37:25461/watchpad13158/1234/2308
+#EXTINF:-1 tvg-name="Madinah HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Madina.png" group-title="KING TV",Madinah HD
+http://31.42.187.37:25461/watchpad13158/1234/2995
+#EXTINF:-1 tvg-name="DUNIA SINEMA" tvg-logo="http://kingtv.dynu.com/tvlogo/DuniaSinema.png" group-title="KING TV",DUNIA SINEMA
+http://31.42.187.37:25461/watchpad13158/1234/3279
+#EXTINF:-1 tvg-id="Okey" tvg-name="Okey" tvg-logo="http://kingtv.dynu.com/tvlogo/TV_Okey_RTM.png" group-title="KING TV",Okey
+http://31.42.187.37:25461/watchpad13158/1234/3282
+#EXTINF:-1 tvg-name="ASTRO RANIA HD" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_RANIA.png" group-title="KING TV",ASTRO RANIA HD
+http://31.42.187.37:25461/watchpad13158/1234/4082
+#EXTINF:-1 tvg-id="711" tvg-name="TV6" tvg-logo="http://kingtv.dynu.com/tvlogo/tv6.png" group-title="KING TV",TV6
+http://31.42.187.37:25461/watchpad13158/1234/3280
+#EXTINF:-1 tvg-name=" Berita RTM" tvg-logo="http://kingtv.dynu.com/tvlogo/BeritaRTM.png" group-title="KING TV", Berita RTM
+http://31.42.187.37:25461/watchpad13158/1234/4130
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="http://kingtv.dynu.com/tvlogo/101.png" group-title="KING TV",TV1
+http://31.42.187.37:25461/watchpad13158/1234/1
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="http://kingtv.dynu.com/tvlogo/102.png" group-title="KING TV",TV2
+http://31.42.187.37:25461/watchpad13158/1234/2
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="http://kingtv.dynu.com/tvlogo/103.png" group-title="KING TV",TV3
+http://31.42.187.37:25461/watchpad13158/1234/3
+#EXTINF:-1 tvg-id="465.astro" tvg-name="TVS" tvg-logo="http://kingtv.dynu.com/tvlogo/TVS.png" group-title="KING TV",TVS
+http://31.42.187.37:25461/watchpad13158/1234/14
+#EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani" tvg-logo="http://kingtv.dynu.com/tvlogo/awani.png" group-title="KING TV",Astro Awani
+http://31.42.187.37:25461/watchpad13158/1234/16
+#EXTINF:-1 tvg-id="508.astro" tvg-name="Astro Premier" tvg-logo="http://kingtv.dynu.com/tvlogo/AstroPremier.png" group-title="KING TV",Astro Premier
+http://31.42.187.37:25461/watchpad13158/1234/41
+#EXTINF:-1 tvg-id="TV3" tvg-name="Drama Sangat" tvg-logo="http://kingtv.dynu.com/tvlogo/DramaSangat.png" group-title="KING TV",Drama Sangat
+http://31.42.187.37:25461/watchpad13158/1234/60
+#EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro OASIS HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Oasis.png" group-title="KING TV",Astro OASIS HD
+http://31.42.187.37:25461/watchpad13158/1234/62
+#EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Prima.png" group-title="KING TV",Astro Prima HD
+http://31.42.187.37:25461/watchpad13158/1234/65
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Ria_HD.png" group-title="KING TV",Astro Ria HD
+http://31.42.187.37:25461/watchpad13158/1234/68
+#EXTINF:-1 tvg-id="AstroCeria" tvg-name="Ceria" tvg-logo="http://kingtv.dynu.com/tvlogo/611.png" group-title="KING TV",Ceria
+http://31.42.187.37:25461/watchpad13158/1234/84
+#EXTINF:-1 tvg-id="107.astro" tvg-name="Astro WARNA HD" tvg-logo="http://kingtv.dynu.com/tvlogo/warna.png" group-title="KING TV",Astro WARNA HD
+http://31.42.187.37:25461/watchpad13158/1234/87
+#EXTINF:-1 tvg-id="93.astro" tvg-name="DIDIK TV (NTV7)" tvg-logo="http://kingtv.dynu.com/tvlogo/DidikTV.png" group-title="KING TV",DIDIK TV (NTV7)
+http://31.42.187.37:25461/watchpad13158/1234/115
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="http://kingtv.dynu.com/tvlogo/TV9.png" group-title="KING TV",TV9
+http://31.42.187.37:25461/watchpad13158/1234/116
+#EXTINF:-1 tvg-name="Astro RIA (backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Ria_HD.png" group-title="KING TV",Astro RIA (backup)
+http://31.42.187.37:25461/watchpad13158/1234/11485
+#EXTINF:-1 tvg-name="Prima (backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Prima.png" group-title="KING TV",Prima (backup)
+http://31.42.187.37:25461/watchpad13158/1234/11486
+#EXTINF:-1 tvg-name="WARNA (backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/warna.png" group-title="KING TV",WARNA (backup)
+http://31.42.187.37:25461/watchpad13158/1234/11487
+#EXTINF:-1 tvg-name="TV3 (backup2)" tvg-logo="http://kingtv.dynu.com/tvlogo/103.png" group-title="KING TV",TV3 (backup2)
+http://31.42.187.37:25461/watchpad13158/1234/11488
+#EXTINF:-1 tvg-name="INSPIRASI" tvg-logo="http://kingtv.dynu.com/tvlogo/Inspirasi.png" group-title="KING TV",INSPIRASI
+http://31.42.187.37:25461/watchpad13158/1234/15684
+#EXTINF:-1 tvg-name="CITRA " tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Citra.png" group-title="KING TV",CITRA 
+http://31.42.187.37:25461/watchpad13158/1234/6316
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="http://kingtv.dynu.com/tvlogo/CGTN.png" group-title="KING TV",CGTN
+http://31.42.187.37:25461/watchpad13158/1234/330
+#EXTINF:-1 tvg-name="BLOOMBERG TV" tvg-logo="http://kingtv.dynu.com/tvlogo/Bloomberg.png" group-title="KING TV",BLOOMBERG TV
+http://31.42.187.37:25461/watchpad13158/1234/331
+#EXTINF:-1 tvg-name="tvN HD" tvg-logo="http://kingtv.dynu.com/tvlogo/tvn_hd.png" group-title="KING TV",tvN HD
+http://31.42.187.37:25461/watchpad13158/1234/334
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="http://kingtv.dynu.com/tvlogo/AustABC.png" group-title="KING TV",ABC News
+http://31.42.187.37:25461/watchpad13158/1234/4131
+#EXTINF:-1 tvg-name="NBC News" tvg-logo="http://kingtv.dynu.com/tvlogo/nbcnews.png" group-title="KING TV",NBC News
+http://31.42.187.37:25461/watchpad13158/1234/4129
+#EXTINF:-1 tvg-id="374.astro" tvg-name="AL JAZEERA HD" tvg-logo="http://kingtv.dynu.com/tvlogo/AL_JAZEERA.png" group-title="KING TV",AL JAZEERA HD
+http://31.42.187.37:25461/watchpad13158/1234/8
+#EXTINF:-1 tvg-id="CNN.News" tvg-name="CNN" tvg-logo="http://kingtv.dynu.com/tvlogo/CNN.png" group-title="KING TV",CNN
+http://31.42.187.37:25461/watchpad13158/1234/30
+#EXTINF:-1 tvg-name="MY KBS WORLD" tvg-logo="http://kingtv.dynu.com/tvlogo/KBS_world.png" group-title="KING TV",MY KBS WORLD
+http://31.42.187.37:25461/watchpad13158/1234/56
+#EXTINF:-1 tvg-name="KPLUS HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Kplus.png" group-title="KING TV",KPLUS HD
+http://31.42.187.37:25461/watchpad13158/1234/58
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="http://kingtv.dynu.com/tvlogo/CNBC.png" group-title="KING TV",CNBC
+http://31.42.187.37:25461/watchpad13158/1234/63
+#EXTINF:-1 tvg-name="MY ONE HD" tvg-logo="http://kingtv.dynu.com/tvlogo/ONE_HD.png" group-title="KING TV",MY ONE HD
+http://31.42.187.37:25461/watchpad13158/1234/64
+#EXTINF:-1 tvg-name="BBC WORLD NEWS" tvg-logo="http://kingtv.dynu.com/tvlogo/bbcnews.png" group-title="KING TV",BBC WORLD NEWS
+http://31.42.187.37:25461/watchpad13158/1234/93
+#EXTINF:-1 tvg-name="CNA HD" tvg-logo="http://kingtv.dynu.com/tvlogo/CNA.png" group-title="KING TV",CNA HD
+http://31.42.187.37:25461/watchpad13158/1234/94
+#EXTINF:-1 tvg-id="711" tvg-name="NICK JR" tvg-logo="http://kingtv.dynu.com/tvlogo/Nick_Jr.png" group-title="KING TV",NICK JR
+http://31.42.187.37:25461/watchpad13158/1234/333
+#EXTINF:-1 tvg-id="101" tvg-name="BOOMERANG" tvg-logo="http://kingtv.dynu.com/tvlogo/Boomerang.png" group-title="KING TV",BOOMERANG
+http://31.42.187.37:25461/watchpad13158/1234/1573
+#EXTINF:-1 tvg-id="711" tvg-name="Dreamworks" tvg-logo="http://kingtv.dynu.com/tvlogo/dreamworks.png" group-title="KING TV",Dreamworks
+http://31.42.187.37:25461/watchpad13158/1234/2307
+#EXTINF:-1 tvg-id="481.astro" tvg-name="CBeebies" tvg-logo="http://kingtv.dynu.com/tvlogo/cbeebies.png" group-title="KING TV",CBeebies
+http://31.42.187.37:25461/watchpad13158/1234/10
+#EXTINF:-1 tvg-id="astroceria.my" tvg-name="Angry Bird" tvg-logo="https://static.wikia.nocookie.net/angrybirds/images/e/eb/Angry_Birds_New_Logo_Alt.png" group-title="KING TV",Angry Bird
+http://31.42.187.37:25461/watchpad13158/1234/25
+#EXTINF:-1 tvg-name="Moonbug" tvg-logo="http://kingtv.dynu.com/tvlogo/Moonbug.png" group-title="KING TV",Moonbug
+http://31.42.187.37:25461/watchpad13158/1234/38
+#EXTINF:-1 tvg-id="711" tvg-name="MY NICKELODEON" tvg-logo="http://kingtv.dynu.com/tvlogo/Nick_HD.png" group-title="KING TV",MY NICKELODEON
+http://31.42.187.37:25461/watchpad13158/1234/61
+#EXTINF:-1 tvg-name="Baby TV" tvg-logo="http://kingtv.dynu.com/tvlogo/babytv.png" group-title="KING TV",Baby TV
+http://31.42.187.37:25461/watchpad13158/1234/83
+#EXTINF:-1 tvg-name="MY ANIMAX" tvg-logo="http://kingtv.dynu.com/tvlogo/Animax.png" group-title="KING TV",MY ANIMAX
+http://31.42.187.37:25461/watchpad13158/1234/92
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="http://kingtv.dynu.com/tvlogo/Cartoon_Network.png" group-title="KING TV",Cartoon Network
+http://31.42.187.37:25461/watchpad13158/1234/15608
+#EXTINF:-1 tvg-name="Rock Entertainment" tvg-logo="http://kingtv.dynu.com/tvlogo/RockEntertainment.png" group-title="KING TV",Rock Entertainment
+http://31.42.187.37:25461/watchpad13158/1234/335
+#EXTINF:-1 tvg-id="112" tvg-name="Global Trekker" tvg-logo="http://kingtv.dynu.com/tvlogo/globaltrekker.png" group-title="KING TV",Global Trekker
+http://31.42.187.37:25461/watchpad13158/1234/342
+#EXTINF:-1 tvg-id="450.astro" tvg-name="HBO Family" tvg-logo="http://kingtv.dynu.com/tvlogo/HBO_Family.png" group-title="KING TV",HBO Family
+http://31.42.187.37:25461/watchpad13158/1234/2442
+#EXTINF:-1 tvg-name="Paramount Channel" tvg-logo="http://kingtv.dynu.com/tvlogo/Paramount.png" group-title="KING TV",Paramount Channel
+http://31.42.187.37:25461/watchpad13158/1234/3041
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="http://kingtv.dynu.com/tvlogo/HBOHits.png" group-title="KING TV",HBO Hits
+http://31.42.187.37:25461/watchpad13158/1234/3042
+#EXTINF:-1 tvg-id="454.astro" tvg-name="SHOWCASE MOVIES" tvg-logo="http://kingtv.dynu.com/tvlogo/showcase-movies.png" group-title="KING TV",SHOWCASE MOVIES
+http://31.42.187.37:25461/watchpad13158/1234/4314
+#EXTINF:-1 tvg-name="AOD: Marvel Movies Films " tvg-logo="http://kingtv.dynu.com/tvlogo/AOD.png" group-title="KING TV",AOD: Marvel Movies Films 
+http://31.42.187.37:25461/watchpad13158/1234/4327
+#EXTINF:-1 tvg-id="131.astro" tvg-name="MY AXN HD" tvg-logo="http://kingtv.dynu.com/tvlogo/AXN.png" group-title="KING TV",MY AXN HD
+http://31.42.187.37:25461/watchpad13158/1234/17
+#EXTINF:-1 tvg-name="Rock Actions" tvg-logo="http://kingtv.dynu.com/tvlogo/RockActions.png" group-title="KING TV",Rock Actions
+http://31.42.187.37:25461/watchpad13158/1234/27
+#EXTINF:-1 tvg-id="337.astro" tvg-name="MY CINEMAX HD" tvg-logo="http://kingtv.dynu.com/tvlogo/cinemax.png" group-title="KING TV",MY CINEMAX HD
+http://31.42.187.37:25461/watchpad13158/1234/28
+#EXTINF:-1 tvg-id="143.astro" tvg-name="MY HBO HD" tvg-logo="http://kingtv.dynu.com/tvlogo/HBO.png" group-title="KING TV",MY HBO HD
+http://31.42.187.37:25461/watchpad13158/1234/47
+#EXTINF:-1 tvg-name="MY HITS HD" tvg-logo="http://kingtv.dynu.com/tvlogo/HitsHD.png" group-title="KING TV",MY HITS HD
+http://31.42.187.37:25461/watchpad13158/1234/51
+#EXTINF:-1 tvg-id="201" tvg-name="Hits Movies" tvg-logo="http://kingtv.dynu.com/tvlogo/HitsMovies.png" group-title="KING TV",Hits Movies
+http://31.42.187.37:25461/watchpad13158/1234/85
+#EXTINF:-1 tvg-name="MY tvN Movies" tvg-logo="http://kingtv.dynu.com/tvlogo/tvN_Movies.png" group-title="KING TV",MY tvN Movies
+http://31.42.187.37:25461/watchpad13158/1234/103
+#EXTINF:-1 tvg-id="WAR.Asia" tvg-name="MY WARNER TV" tvg-logo="http://kingtv.dynu.com/tvlogo/Warner.png" group-title="KING TV",MY WARNER TV
+http://31.42.187.37:25461/watchpad13158/1234/104
+#EXTINF:-1 tvg-name="AFN HD" tvg-logo="http://kingtv.dynu.com/tvlogo/AFN.png" group-title="KING TV",AFN HD
+http://31.42.187.37:25461/watchpad13158/1234/337
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="http://kingtv.dynu.com/tvlogo/BBC_Earth.png" group-title="KING TV",BBC Earth
+http://31.42.187.37:25461/watchpad13158/1234/338
+#EXTINF:-1 tvg-name="Lifetime" tvg-logo="http://kingtv.dynu.com/tvlogo/lifetime.png" group-title="KING TV",Lifetime
+http://31.42.187.37:25461/watchpad13158/1234/339
+#EXTINF:-1 tvg-id="377.astro" tvg-name="MY Animal Planet HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Animal_Planet.png" group-title="KING TV",MY Animal Planet HD
+http://31.42.187.37:25461/watchpad13158/1234/9
+#EXTINF:-1 tvg-name="LOVE NATURE" tvg-logo="http://kingtv.dynu.com/tvlogo/LoveNature.png" group-title="KING TV",LOVE NATURE
+http://31.42.187.37:25461/watchpad13158/1234/33
+#EXTINF:-1 tvg-name="MY Discovery Asia" tvg-logo="http://kingtv.dynu.com/tvlogo/Discovery_Asia.png" group-title="KING TV",MY Discovery Asia
+http://31.42.187.37:25461/watchpad13158/1234/34
+#EXTINF:-1 tvg-name="MY Discovery HD" tvg-logo="http://kingtv.dynu.com/tvlogo/DiscoveryHD.png" group-title="KING TV",MY Discovery HD
+http://31.42.187.37:25461/watchpad13158/1234/35
+#EXTINF:-1 tvg-name="MY DMAX HD" tvg-logo="http://kingtv.dynu.com/tvlogo/DMAX_HD.png" group-title="KING TV",MY DMAX HD
+http://31.42.187.37:25461/watchpad13158/1234/39
+#EXTINF:-1 tvg-name="MY Food Network HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Food_Network.png" group-title="KING TV",MY Food Network HD
+http://31.42.187.37:25461/watchpad13158/1234/42
+#EXTINF:-1 tvg-name="MY HGTV HD" tvg-logo="http://kingtv.dynu.com/tvlogo/HGTV.png" group-title="KING TV",MY HGTV HD
+http://31.42.187.37:25461/watchpad13158/1234/49
+#EXTINF:-1 tvg-name="MY HISTORY HD" tvg-logo="http://kingtv.dynu.com/tvlogo/History.png" group-title="KING TV",MY HISTORY HD
+http://31.42.187.37:25461/watchpad13158/1234/50
+#EXTINF:-1 tvg-name="MTV" tvg-logo="http://kingtv.dynu.com/tvlogo/MTV.png" group-title="KING TV",MTV
+http://31.42.187.37:25461/watchpad13158/1234/57
+#EXTINF:-1 tvg-name="MY TLC HD" tvg-logo="http://kingtv.dynu.com/tvlogo/tlc.png" group-title="KING TV",MY TLC HD
+http://31.42.187.37:25461/watchpad13158/1234/74
+#EXTINF:-1 tvg-name="MY Nat Geo Wild HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Nat_Geo_Wild.png" group-title="KING TV",MY Nat Geo Wild HD
+http://31.42.187.37:25461/watchpad13158/1234/102
+#EXTINF:-1 tvg-id="297.astro" tvg-name="ZEE TAMIL HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Zee-Tamil.png" group-title="KING TV",ZEE TAMIL HD
+http://31.42.187.37:25461/watchpad13158/1234/343
+#EXTINF:-1 tvg-name="VELLITHIRAI" tvg-logo="http://kingtv.dynu.com/tvlogo/Vellithirai.png" group-title="KING TV",VELLITHIRAI
+http://31.42.187.37:25461/watchpad13158/1234/2290
+#EXTINF:-1 tvg-name="Zee Action" tvg-logo="http://kingtv.dynu.com/tvlogo/ZeeAction.png" group-title="KING TV",Zee Action
+http://31.42.187.37:25461/watchpad13158/1234/2994
+#EXTINF:-1 tvg-name="Sun Life" tvg-logo="http://kingtv.dynu.com/tvlogo/SunLife.png" group-title="KING TV",Sun Life
+http://31.42.187.37:25461/watchpad13158/1234/4026
+#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Zee_CinemaHD.png" group-title="KING TV",Zee Cinema HD
+http://31.42.187.37:25461/watchpad13158/1234/2555
+#EXTINF:-1 tvg-name="Pictures" tvg-logo="http://kingtv.dynu.com/tvlogo/picture.png" group-title="KING TV",Pictures
+http://31.42.187.37:25461/watchpad13158/1234/26
+#EXTINF:-1 tvg-name="Astro Vaanavil" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Vaanavil.png" group-title="KING TV",Astro Vaanavil
+http://31.42.187.37:25461/watchpad13158/1234/31
+#EXTINF:-1 tvg-id="357.astro" tvg-name="STAR VIJAY" tvg-logo="http://kingtv.dynu.com/tvlogo/starvijay.png" group-title="KING TV",STAR VIJAY
+http://31.42.187.37:25461/watchpad13158/1234/71
+#EXTINF:-1 tvg-id="212" tvg-name="MY SUN MUSIC" tvg-logo="https://i.pinimg.com/originals/99/9a/24/999a242ede00cf57a920fb833cfc5bf7.png" group-title="KING TV",MY SUN MUSIC
+http://31.42.187.37:25461/watchpad13158/1234/72
+#EXTINF:-1 tvg-id="358.astro" tvg-name="MY SUN TV HD" tvg-logo="https://i.pinimg.com/originals/38/f1/2b/38f12b49871e9e0d38c0c82dd232c0e6.png" group-title="KING TV",MY SUN TV HD
+http://31.42.187.37:25461/watchpad13158/1234/73
+#EXTINF:-1 tvg-name="MY COLORS TAMIL" tvg-logo="http://kingtv.dynu.com/tvlogo/Colors_Tamil.png" group-title="KING TV",MY COLORS TAMIL
+http://31.42.187.37:25461/watchpad13158/1234/95
+#EXTINF:-1 tvg-id="KAI.HK" tvg-name="Colors Hindi HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Colors.Hindi.png" group-title="KING TV",Colors Hindi HD
+http://31.42.187.37:25461/watchpad13158/1234/188
+#EXTINF:-1 tvg-name="ASTRO Adithya" tvg-logo="http://kingtv.dynu.com/tvlogo/Adithya.png" group-title="KING TV",ASTRO Adithya
+http://31.42.187.37:25461/watchpad13158/1234/15607
+#EXTINF:-1 tvg-name="216 KTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/477_144.png" group-title="KING TV",216 KTV
+http://31.42.187.37:25461/watchpad13158/1234/18085
+#EXTINF:-1 tvg-id="182.astro" tvg-name="Astro AEC (backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/AEC.png" group-title="KING TV",Astro AEC (backup)
+http://31.42.187.37:25461/watchpad13158/1234/359
+#EXTINF:-1 tvg-name="AOD The Queen of News 新聞女王" tvg-logo="http://kingtv.dynu.com/tvlogo/AOD.png" group-title="KING TV",AOD The Queen of News 新聞女王
+http://31.42.187.37:25461/watchpad13158/1234/4329
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV TV8" tvg-logo="http://kingtv.dynu.com/tvlogo/8TV_my.png" group-title="KING TV",8TV TV8
+http://31.42.187.37:25461/watchpad13158/1234/4
+#EXTINF:-1 tvg-id="AstroAEC" tvg-name="Astro AEC HD" tvg-logo="http://kingtv.dynu.com/tvlogo/AEC.png" group-title="KING TV",Astro AEC HD
+http://31.42.187.37:25461/watchpad13158/1234/7
+#EXTINF:-1 tvg-name="AOD311华语" tvg-logo="http://kingtv.dynu.com/tvlogo/AOD.png" group-title="KING TV",AOD311华语
+http://31.42.187.37:25461/watchpad13158/1234/12
+#EXTINF:-1 tvg-name="AOD311粤语" tvg-logo="http://kingtv.dynu.com/tvlogo/AOD.png" group-title="KING TV",AOD311粤语
+http://31.42.187.37:25461/watchpad13158/1234/13
+#EXTINF:-1 tvg-id="711" tvg-name="MY CCM" tvg-logo="http://kingtv.dynu.com/tvlogo/CCM.png" group-title="KING TV",MY CCM
+http://31.42.187.37:25461/watchpad13158/1234/22
+#EXTINF:-1 tvg-id="335" tvg-name="CCTV4" tvg-logo="http://kingtv.dynu.com/tvlogo/cctv4.png" group-title="KING TV",CCTV4
+http://31.42.187.37:25461/watchpad13158/1234/23
+#EXTINF:-1 tvg-id="309" tvg-name="MY CELESTIAL HD" tvg-logo="http://kingtv.dynu.com/tvlogo/CELESTIAL.png" group-title="KING TV",MY CELESTIAL HD
+http://31.42.187.37:25461/watchpad13158/1234/24
+#EXTINF:-1 tvg-id="162.astro" tvg-name="Astro HUA HEE DAI HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_HHD.png" group-title="KING TV",Astro HUA HEE DAI HD
+http://31.42.187.37:25461/watchpad13158/1234/52
+#EXTINF:-1 tvg-id="300" tvg-name="MY iQIYI HD" tvg-logo="http://kingtv.dynu.com/tvlogo/iqiyicom.png" group-title="KING TV",MY iQIYI HD
+http://31.42.187.37:25461/watchpad13158/1234/53
+#EXTINF:-1 tvg-id="425.astro" tvg-name="MY TVB CLASSIC" tvg-logo="http://kingtv.dynu.com/tvlogo/TVB_HK.png" group-title="KING TV",MY TVB CLASSIC
+http://31.42.187.37:25461/watchpad13158/1234/78
+#EXTINF:-1 tvg-id="711" tvg-name="MY TVB JADE" tvg-logo="http://kingtv.dynu.com/tvlogo/tvb_jade.png" group-title="KING TV",MY TVB JADE
+http://31.42.187.37:25461/watchpad13158/1234/80
+#EXTINF:-1 tvg-id="383.astro" tvg-name="MY TVB XING HE" tvg-logo="http://kingtv.dynu.com/tvlogo/xinghe.png" group-title="KING TV",MY TVB XING HE
+http://31.42.187.37:25461/watchpad13158/1234/81
+#EXTINF:-1 tvg-name="8TV TV8 (backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/8TV_my.png" group-title="KING TV",8TV TV8 (backup)
+http://31.42.187.37:25461/watchpad13158/1234/11484
+#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="http://kingtv.dynu.com/tvlogo/QJ.png" group-title="KING TV",Astro QJ
+http://31.42.187.37:25461/watchpad13158/1234/12290
+#EXTINF:-1 tvg-name="AOD Sinister Beings 2 逆天奇案2" tvg-logo="http://kingtv.dynu.com/tvlogo/AOD.png" group-title="KING TV",AOD Sinister Beings 2 逆天奇案2
+http://31.42.187.37:25461/watchpad13158/1234/14788
+#EXTINF:-1 tvg-id="TV1" tvg-name="Channel 5" tvg-logo="http://kingtv.dynu.com/tvlogo/SG_Ch5.png" group-title="KING TV",Channel 5
+http://31.42.187.37:25461/watchpad13158/1234/1855
+#EXTINF:-1 tvg-id="TV1" tvg-name="Channel 8" tvg-logo="http://kingtv.dynu.com/tvlogo/SG_Ch8.png" group-title="KING TV",Channel 8
+http://31.42.187.37:25461/watchpad13158/1234/1856
+#EXTINF:-1 tvg-id="TV1" tvg-name="Channel U" tvg-logo="http://kingtv.dynu.com/tvlogo/SG_ChU.png" group-title="KING TV",Channel U
+http://31.42.187.37:25461/watchpad13158/1234/1857
+#EXTINF:-1 tvg-id="TV1" tvg-name="VASANTHAM" tvg-logo="http://kingtv.dynu.com/tvlogo/Vasantham.png" group-title="KING TV",VASANTHAM
+http://31.42.187.37:25461/watchpad13158/1234/2302
+#EXTINF:-1 tvg-id="TV1" tvg-name="Suria" tvg-logo="http://kingtv.dynu.com/tvlogo/Mediacorp_Suria.png" group-title="KING TV",Suria
+http://31.42.187.37:25461/watchpad13158/1234/2554
+#EXTINF:-1 tvg-name="Trans 7" tvg-logo="http://kingtv.dynu.com/tvlogo/Trans7.png" group-title="KING TV",Trans 7
+http://31.42.187.37:25461/watchpad13158/1234/2008
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="http://kingtv.dynu.com/tvlogo/sctv.png" group-title="KING TV",SCTV
+http://31.42.187.37:25461/watchpad13158/1234/4159
+#EXTINF:-1 tvg-name="TVRI National" tvg-logo="http://kingtv.dynu.com/tvlogo/TVRI.png" group-title="KING TV",TVRI National
+http://31.42.187.37:25461/watchpad13158/1234/19
+#EXTINF:-1 tvg-name="TransTV" tvg-logo="http://kingtv.dynu.com/tvlogo/Trans7.png" group-title="KING TV",TransTV
+http://31.42.187.37:25461/watchpad13158/1234/29
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="http://kingtv.dynu.com/tvlogo/RCTI.png" group-title="KING TV",RCTI
+http://31.42.187.37:25461/watchpad13158/1234/91
+#EXTINF:-1 tvg-name="Metro TV" tvg-logo="http://kingtv.dynu.com/tvlogo/metrotv.png" group-title="KING TV",Metro TV
+http://31.42.187.37:25461/watchpad13158/1234/101
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://kingtv.dynu.com/tvlogo/cctv1.png" group-title="KING TV",CCTV-1
+http://31.42.187.37:25461/watchpad13158/1234/97
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://kingtv.dynu.com/tvlogo/JSTV.png" group-title="KING TV",江苏卫视
+http://31.42.187.37:25461/watchpad13158/1234/181
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://kingtv.dynu.com/tvlogo/CN_ZTV.png" group-title="KING TV",浙江卫视
+http://31.42.187.37:25461/watchpad13158/1234/182
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://kingtv.dynu.com/tvlogo/HNSTV.png" group-title="KING TV",湖南卫视
+http://31.42.187.37:25461/watchpad13158/1234/183
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
-#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="AstroPremierLeague2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="ASTRO SPORTS",Astro Premier League 2
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://d1w72er2qn2fg9.cloudfront.net/premier2.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
-#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="AstroGrandstand" ch-number="813" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="ASTRO SPORTS",Astro Grandstand
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://d1w72er2qn2fg9.cloudfront.net/grand.mpd
 
 
 #EXTINF:0 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/articles/sport/tiles/TNTSports.jpg/_jcr_content/renditions/landscape-mobile.570.321.jpg" group-title="SPORT",TNT Sport 1
@@ -3571,353 +3894,7 @@ https://pbmtvlive-19a58.kxcdn.com/pbmtv/live_abr/playlist.m3u8
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="235.astro" tvg-name="Arena" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena.png" group-title="KING TV",Arena
-http://31.42.187.37:25461/watchpad13158/1234/286
-#EXTINF:-1 tvg-id="824" tvg-name="ASTRO CRICKET HD" tvg-logo="http://kingtv.dynu.com/tvlogo/cricket.png" group-title="KING TV",ASTRO CRICKET HD
-http://31.42.187.37:25461/watchpad13158/1234/328
-#EXTINF:-1 tvg-id="487.astro" tvg-name="Arena Bola 2" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola2.png" group-title="KING TV",Arena Bola 2
-http://31.42.187.37:25461/watchpad13158/1234/332
-#EXTINF:-1 tvg-id="457.astro" tvg-name="Arena 2" tvg-logo="http://kingtv.dynu.com/tvlogo/AstroArena2.png" group-title="KING TV",Arena 2
-http://31.42.187.37:25461/watchpad13158/1234/336
-#EXTINF:-1 tvg-id="TV1" tvg-name="NBA TV" tvg-logo="http://kingtv.dynu.com/tvlogo/nba.png" group-title="KING TV",NBA TV
-http://31.42.187.37:25461/watchpad13158/1234/2291
-#EXTINF:-1 tvg-id="503.astro" tvg-name="W-Sport" tvg-logo="http://kingtv.dynu.com/tvlogo/W-Sport.png" group-title="KING TV",W-Sport
-http://31.42.187.37:25461/watchpad13158/1234/2314
-#EXTINF:-1 tvg-name="RTM Sports" tvg-logo="http://kingtv.dynu.com/tvlogo/Rtmhdsports.png" group-title="KING TV",RTM Sports
-http://31.42.187.37:25461/watchpad13158/1234/2465
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://kingtv.dynu.com/tvlogo/CCTV5.png" group-title="KING TV",CCTV5
-http://31.42.187.37:25461/watchpad13158/1234/2526
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://kingtv.dynu.com/tvlogo/CCTV5p.png" group-title="KING TV",CCTV5+
-http://31.42.187.37:25461/watchpad13158/1234/2527
-#EXTINF:-1 tvg-name="PREMIER LEAGUE" tvg-logo="http://kingtv.dynu.com/tvlogo/skysportEPL.png" group-title="KING TV",PREMIER LEAGUE
-http://31.42.187.37:25461/watchpad13158/1234/3115
-#EXTINF:-1 tvg-id="393.astro" tvg-name="Premier Sports" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierSports.png" group-title="KING TV",Premier Sports
-http://31.42.187.37:25461/watchpad13158/1234/4030
-#EXTINF:-1 tvg-name="ELTA Sports 3 TW" tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="KING TV",ELTA Sports 3 TW
-http://31.42.187.37:25461/watchpad13158/1234/4078
-#EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="http://kingtv.dynu.com/tvlogo/BeinSports2.png" group-title="KING TV",BEIN SPORTS 2
-http://31.42.187.37:25461/watchpad13158/1234/4096
-#EXTINF:-1 tvg-id="486.astro" tvg-name="Arena Bola 1" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola.png" group-title="KING TV",Arena Bola 1
-http://31.42.187.37:25461/watchpad13158/1234/4648
-#EXTINF:-1 tvg-id="474.astro" tvg-name="SPO TV2" tvg-logo="http://kingtv.dynu.com/tvlogo/SPOTV2.png" group-title="KING TV",SPO TV2
-http://31.42.187.37:25461/watchpad13158/1234/15
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-logo="http://kingtv.dynu.com/tvlogo/Bein_sports.png" group-title="KING TV",beIN SPORTS
-http://31.42.187.37:25461/watchpad13158/1234/18
-#EXTINF:-1 tvg-id="189.astro" tvg-name="Golf Channel HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Golf_Channel.png" group-title="KING TV",Golf Channel HD
-http://31.42.187.37:25461/watchpad13158/1234/46
-#EXTINF:-1 tvg-id="194.astro" tvg-name="MY WWE NETWORK" tvg-logo="http://kingtv.dynu.com/tvlogo/WWE.png" group-title="KING TV",MY WWE NETWORK
-http://31.42.187.37:25461/watchpad13158/1234/88
-#EXTINF:-1 tvg-id="456.astro" tvg-name="SPO TV" tvg-logo="http://kingtv.dynu.com/tvlogo/SPOTV.png" group-title="KING TV",SPO TV
-http://31.42.187.37:25461/watchpad13158/1234/110
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro Football HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Football.png" group-title="KING TV",Astro Football HD
-http://31.42.187.37:25461/watchpad13158/1234/111
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro Grandstand HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Grandstand.png" group-title="KING TV",Astro Grandstand HD
-http://31.42.187.37:25461/watchpad13158/1234/112
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro Premier League 2 HD" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague2.png" group-title="KING TV",Astro Premier League 2 HD
-http://31.42.187.37:25461/watchpad13158/1234/113
-#EXTINF:-1 tvg-id="154.astro" tvg-name="Astro Premier League 1 HD" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague.png" group-title="KING TV",Astro Premier League 1 HD
-http://31.42.187.37:25461/watchpad13158/1234/114
-#EXTINF:-1 tvg-id="241.astro" tvg-name="Astro Football(Backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/Football.png" group-title="KING TV",Astro Football(Backup)
-http://31.42.187.37:25461/watchpad13158/1234/7909
-#EXTINF:-1 tvg-name="BEIN SPORTS 3" tvg-logo="http://kingtv.dynu.com/tvlogo/Bein_sports.png" group-title="KING TV",BEIN SPORTS 3
-http://31.42.187.37:25461/watchpad13158/1234/8956
-#EXTINF:-1 tvg-name="Arena Bola 1 (backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola.png" group-title="KING TV",Arena Bola 1 (backup)
-http://31.42.187.37:25461/watchpad13158/1234/11483
-#EXTINF:-1 tvg-name="Astro Grandstand (Backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/Grandstand.png" group-title="KING TV",Astro Grandstand (Backup)
-http://31.42.187.37:25461/watchpad13158/1234/15472
-#EXTINF:-1 tvg-name="Astro Premier League 2 (Backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague2.png" group-title="KING TV",Astro Premier League 2 (Backup)
-http://31.42.187.37:25461/watchpad13158/1234/15473
-#EXTINF:-1 tvg-name="Astro Premier League 1 (Backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague.png" group-title="KING TV",Astro Premier League 1 (Backup)
-http://31.42.187.37:25461/watchpad13158/1234/15474
-#EXTINF:-1 tvg-name="ELTA Sports 2 TW" tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="KING TV",ELTA Sports 2 TW
-http://31.42.187.37:25461/watchpad13158/1234/17273
-#EXTINF:-1 tvg-name="Astro Badminton" tvg-logo="http://kingtv.dynu.com/tvlogo/badminton.png" group-title="KING TV",Astro Badminton
-http://31.42.187.37:25461/watchpad13158/1234/19047
-#EXTINF:-1 tvg-name="Astro Badminton 2" tvg-logo="http://kingtv.dynu.com/tvlogo/badminton.png" group-title="KING TV",Astro Badminton 2
-http://31.42.187.37:25461/watchpad13158/1234/19048
-#EXTINF:-1 tvg-name="Astro Premier League 3" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague3_2024.png" group-title="KING TV",Astro Premier League 3
-http://31.42.187.37:25461/watchpad13158/1234/19049
-#EXTINF:-1 tvg-id="7135" tvg-name="FTV 民视" tvg-logo="http://kingtv.dynu.com/tvlogo/twFTV.png" group-title="KING TV",FTV 民视
-http://31.42.187.37:25461/watchpad13158/1234/208
-#EXTINF:-1 tvg-name="VIU" tvg-logo="http://kingtv.dynu.com/tvlogo/viu.png" group-title="KING TV",VIU
-http://31.42.187.37:25461/watchpad13158/1234/4079
-#EXTINF:-1 tvg-name="CTI ASIA" tvg-logo="http://kingtv.dynu.com/tvlogo/CTI_ASIA.png" group-title="KING TV",CTI ASIA
-http://31.42.187.37:25461/watchpad13158/1234/32
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://e7.pngegg.com/pngimages/195/929/png-clipart-taiwan-logo-tvbs-wikipedia-logos-blue-text.png" group-title="KING TV",TVBS
-http://31.42.187.37:25461/watchpad13158/1234/82
-#EXTINF:-1 tvg-id="145" tvg-name="Mei Ah Movies Movies" tvg-logo="http://kingtv.dynu.com/tvlogo/MeiAhMovie.png" group-title="KING TV",Mei Ah Movies Movies
-http://31.42.187.37:25461/watchpad13158/1234/106
-#EXTINF:-1 tvg-name="PHOENIX TV 风凰卫视" tvg-logo="https://p1.ssl.qhimg.com/dr/270_500_/t01f121055f8875836e.png" group-title="KING TV",PHOENIX TV 风凰卫视
-http://31.42.187.37:25461/watchpad13158/1234/317
-#EXTINF:-1 tvg-name="TVB NEWS 无线新闻台" tvg-logo="http://kingtv.dynu.com/tvlogo/TVBnews.png" group-title="KING TV",TVB NEWS 无线新闻台
-http://31.42.187.37:25461/watchpad13158/1234/318
-#EXTINF:-1 tvg-id="416" tvg-name="TVB PLUS (J2)" tvg-logo="http://kingtv.dynu.com/tvlogo/TVBJ2.png" group-title="KING TV",TVB PLUS (J2)
-http://31.42.187.37:25461/watchpad13158/1234/2528
-#EXTINF:-1 tvg-id="308" tvg-name="Phoenix InfoNews" tvg-logo="http://kingtv.dynu.com/tvlogo/PhoenixInfoNews.png" group-title="KING TV",Phoenix InfoNews
-http://31.42.187.37:25461/watchpad13158/1234/66
-#EXTINF:-1 tvg-id="126" tvg-name="TVB Jade" tvg-logo="http://kingtv.dynu.com/tvlogo/tvb_jade.png" group-title="KING TV",TVB Jade
-http://31.42.187.37:25461/watchpad13158/1234/86
-#EXTINF:-1 tvg-id="711" tvg-name="TV ALHIJRAH" tvg-logo="http://kingtv.dynu.com/tvlogo/TV_Alhijrah.png" group-title="KING TV",TV ALHIJRAH
-http://31.42.187.37:25461/watchpad13158/1234/327
-#EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" tvg-logo="http://kingtv.dynu.com/tvlogo/Awesome_TV_Malaysia.png" group-title="KING TV",Awesome TV
-http://31.42.187.37:25461/watchpad13158/1234/340
-#EXTINF:-1 tvg-id="502" tvg-name="BERNAMA" tvg-logo="http://kingtv.dynu.com/tvlogo/bernama.png" group-title="KING TV",BERNAMA
-http://31.42.187.37:25461/watchpad13158/1234/341
-#EXTINF:-1 tvg-id="251.astro" tvg-name="MY BOO HD" tvg-logo="http://kingtv.dynu.com/tvlogo/BOO.png" group-title="KING TV",MY BOO HD
-http://31.42.187.37:25461/watchpad13158/1234/1572
-#EXTINF:-1 tvg-id="301.astro" tvg-name="ASTRO AURA HD" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_AURA.png" group-title="KING TV",ASTRO AURA HD
-http://31.42.187.37:25461/watchpad13158/1234/1845
-#EXTINF:-1 tvg-id="106.astro" tvg-name="TV3 (backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/103.png" group-title="KING TV",TV3 (backup)
-http://31.42.187.37:25461/watchpad13158/1234/2308
-#EXTINF:-1 tvg-name="Madinah HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Madina.png" group-title="KING TV",Madinah HD
-http://31.42.187.37:25461/watchpad13158/1234/2995
-#EXTINF:-1 tvg-name="DUNIA SINEMA" tvg-logo="http://kingtv.dynu.com/tvlogo/DuniaSinema.png" group-title="KING TV",DUNIA SINEMA
-http://31.42.187.37:25461/watchpad13158/1234/3279
-#EXTINF:-1 tvg-id="Okey" tvg-name="Okey" tvg-logo="http://kingtv.dynu.com/tvlogo/TV_Okey_RTM.png" group-title="KING TV",Okey
-http://31.42.187.37:25461/watchpad13158/1234/3282
-#EXTINF:-1 tvg-name="ASTRO RANIA HD" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_RANIA.png" group-title="KING TV",ASTRO RANIA HD
-http://31.42.187.37:25461/watchpad13158/1234/4082
-#EXTINF:-1 tvg-id="711" tvg-name="TV6" tvg-logo="http://kingtv.dynu.com/tvlogo/tv6.png" group-title="KING TV",TV6
-http://31.42.187.37:25461/watchpad13158/1234/3280
-#EXTINF:-1 tvg-name=" Berita RTM" tvg-logo="http://kingtv.dynu.com/tvlogo/BeritaRTM.png" group-title="KING TV", Berita RTM
-http://31.42.187.37:25461/watchpad13158/1234/4130
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="http://kingtv.dynu.com/tvlogo/101.png" group-title="KING TV",TV1
-http://31.42.187.37:25461/watchpad13158/1234/1
-#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="http://kingtv.dynu.com/tvlogo/102.png" group-title="KING TV",TV2
-http://31.42.187.37:25461/watchpad13158/1234/2
-#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="http://kingtv.dynu.com/tvlogo/103.png" group-title="KING TV",TV3
-http://31.42.187.37:25461/watchpad13158/1234/3
-#EXTINF:-1 tvg-id="465.astro" tvg-name="TVS" tvg-logo="http://kingtv.dynu.com/tvlogo/TVS.png" group-title="KING TV",TVS
-http://31.42.187.37:25461/watchpad13158/1234/14
-#EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani" tvg-logo="http://kingtv.dynu.com/tvlogo/awani.png" group-title="KING TV",Astro Awani
-http://31.42.187.37:25461/watchpad13158/1234/16
-#EXTINF:-1 tvg-id="508.astro" tvg-name="Astro Premier" tvg-logo="http://kingtv.dynu.com/tvlogo/AstroPremier.png" group-title="KING TV",Astro Premier
-http://31.42.187.37:25461/watchpad13158/1234/41
-#EXTINF:-1 tvg-id="TV3" tvg-name="Drama Sangat" tvg-logo="http://kingtv.dynu.com/tvlogo/DramaSangat.png" group-title="KING TV",Drama Sangat
-http://31.42.187.37:25461/watchpad13158/1234/60
-#EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro OASIS HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Oasis.png" group-title="KING TV",Astro OASIS HD
-http://31.42.187.37:25461/watchpad13158/1234/62
-#EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Prima.png" group-title="KING TV",Astro Prima HD
-http://31.42.187.37:25461/watchpad13158/1234/65
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Ria_HD.png" group-title="KING TV",Astro Ria HD
-http://31.42.187.37:25461/watchpad13158/1234/68
-#EXTINF:-1 tvg-id="AstroCeria" tvg-name="Ceria" tvg-logo="http://kingtv.dynu.com/tvlogo/611.png" group-title="KING TV",Ceria
-http://31.42.187.37:25461/watchpad13158/1234/84
-#EXTINF:-1 tvg-id="107.astro" tvg-name="Astro WARNA HD" tvg-logo="http://kingtv.dynu.com/tvlogo/warna.png" group-title="KING TV",Astro WARNA HD
-http://31.42.187.37:25461/watchpad13158/1234/87
-#EXTINF:-1 tvg-id="93.astro" tvg-name="DIDIK TV (NTV7)" tvg-logo="http://kingtv.dynu.com/tvlogo/DidikTV.png" group-title="KING TV",DIDIK TV (NTV7)
-http://31.42.187.37:25461/watchpad13158/1234/115
-#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="http://kingtv.dynu.com/tvlogo/TV9.png" group-title="KING TV",TV9
-http://31.42.187.37:25461/watchpad13158/1234/116
-#EXTINF:-1 tvg-name="Astro RIA (backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Ria_HD.png" group-title="KING TV",Astro RIA (backup)
-http://31.42.187.37:25461/watchpad13158/1234/11485
-#EXTINF:-1 tvg-name="Prima (backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Prima.png" group-title="KING TV",Prima (backup)
-http://31.42.187.37:25461/watchpad13158/1234/11486
-#EXTINF:-1 tvg-name="WARNA (backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/warna.png" group-title="KING TV",WARNA (backup)
-http://31.42.187.37:25461/watchpad13158/1234/11487
-#EXTINF:-1 tvg-name="TV3 (backup2)" tvg-logo="http://kingtv.dynu.com/tvlogo/103.png" group-title="KING TV",TV3 (backup2)
-http://31.42.187.37:25461/watchpad13158/1234/11488
-#EXTINF:-1 tvg-name="INSPIRASI" tvg-logo="http://kingtv.dynu.com/tvlogo/Inspirasi.png" group-title="KING TV",INSPIRASI
-http://31.42.187.37:25461/watchpad13158/1234/15684
-#EXTINF:-1 tvg-name="CITRA " tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Citra.png" group-title="KING TV",CITRA 
-http://31.42.187.37:25461/watchpad13158/1234/6316
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="http://kingtv.dynu.com/tvlogo/CGTN.png" group-title="KING TV",CGTN
-http://31.42.187.37:25461/watchpad13158/1234/330
-#EXTINF:-1 tvg-name="BLOOMBERG TV" tvg-logo="http://kingtv.dynu.com/tvlogo/Bloomberg.png" group-title="KING TV",BLOOMBERG TV
-http://31.42.187.37:25461/watchpad13158/1234/331
-#EXTINF:-1 tvg-name="tvN HD" tvg-logo="http://kingtv.dynu.com/tvlogo/tvn_hd.png" group-title="KING TV",tvN HD
-http://31.42.187.37:25461/watchpad13158/1234/334
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="http://kingtv.dynu.com/tvlogo/AustABC.png" group-title="KING TV",ABC News
-http://31.42.187.37:25461/watchpad13158/1234/4131
-#EXTINF:-1 tvg-name="NBC News" tvg-logo="http://kingtv.dynu.com/tvlogo/nbcnews.png" group-title="KING TV",NBC News
-http://31.42.187.37:25461/watchpad13158/1234/4129
-#EXTINF:-1 tvg-id="374.astro" tvg-name="AL JAZEERA HD" tvg-logo="http://kingtv.dynu.com/tvlogo/AL_JAZEERA.png" group-title="KING TV",AL JAZEERA HD
-http://31.42.187.37:25461/watchpad13158/1234/8
-#EXTINF:-1 tvg-id="CNN.News" tvg-name="CNN" tvg-logo="http://kingtv.dynu.com/tvlogo/CNN.png" group-title="KING TV",CNN
-http://31.42.187.37:25461/watchpad13158/1234/30
-#EXTINF:-1 tvg-name="MY KBS WORLD" tvg-logo="http://kingtv.dynu.com/tvlogo/KBS_world.png" group-title="KING TV",MY KBS WORLD
-http://31.42.187.37:25461/watchpad13158/1234/56
-#EXTINF:-1 tvg-name="KPLUS HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Kplus.png" group-title="KING TV",KPLUS HD
-http://31.42.187.37:25461/watchpad13158/1234/58
-#EXTINF:-1 tvg-name="CNBC" tvg-logo="http://kingtv.dynu.com/tvlogo/CNBC.png" group-title="KING TV",CNBC
-http://31.42.187.37:25461/watchpad13158/1234/63
-#EXTINF:-1 tvg-name="MY ONE HD" tvg-logo="http://kingtv.dynu.com/tvlogo/ONE_HD.png" group-title="KING TV",MY ONE HD
-http://31.42.187.37:25461/watchpad13158/1234/64
-#EXTINF:-1 tvg-name="BBC WORLD NEWS" tvg-logo="http://kingtv.dynu.com/tvlogo/bbcnews.png" group-title="KING TV",BBC WORLD NEWS
-http://31.42.187.37:25461/watchpad13158/1234/93
-#EXTINF:-1 tvg-name="CNA HD" tvg-logo="http://kingtv.dynu.com/tvlogo/CNA.png" group-title="KING TV",CNA HD
-http://31.42.187.37:25461/watchpad13158/1234/94
-#EXTINF:-1 tvg-id="711" tvg-name="NICK JR" tvg-logo="http://kingtv.dynu.com/tvlogo/Nick_Jr.png" group-title="KING TV",NICK JR
-http://31.42.187.37:25461/watchpad13158/1234/333
-#EXTINF:-1 tvg-id="101" tvg-name="BOOMERANG" tvg-logo="http://kingtv.dynu.com/tvlogo/Boomerang.png" group-title="KING TV",BOOMERANG
-http://31.42.187.37:25461/watchpad13158/1234/1573
-#EXTINF:-1 tvg-id="711" tvg-name="Dreamworks" tvg-logo="http://kingtv.dynu.com/tvlogo/dreamworks.png" group-title="KING TV",Dreamworks
-http://31.42.187.37:25461/watchpad13158/1234/2307
-#EXTINF:-1 tvg-id="481.astro" tvg-name="CBeebies" tvg-logo="http://kingtv.dynu.com/tvlogo/cbeebies.png" group-title="KING TV",CBeebies
-http://31.42.187.37:25461/watchpad13158/1234/10
-#EXTINF:-1 tvg-id="astroceria.my" tvg-name="Angry Bird" tvg-logo="https://static.wikia.nocookie.net/angrybirds/images/e/eb/Angry_Birds_New_Logo_Alt.png" group-title="KING TV",Angry Bird
-http://31.42.187.37:25461/watchpad13158/1234/25
-#EXTINF:-1 tvg-name="Moonbug" tvg-logo="http://kingtv.dynu.com/tvlogo/Moonbug.png" group-title="KING TV",Moonbug
-http://31.42.187.37:25461/watchpad13158/1234/38
-#EXTINF:-1 tvg-id="711" tvg-name="MY NICKELODEON" tvg-logo="http://kingtv.dynu.com/tvlogo/Nick_HD.png" group-title="KING TV",MY NICKELODEON
-http://31.42.187.37:25461/watchpad13158/1234/61
-#EXTINF:-1 tvg-name="Baby TV" tvg-logo="http://kingtv.dynu.com/tvlogo/babytv.png" group-title="KING TV",Baby TV
-http://31.42.187.37:25461/watchpad13158/1234/83
-#EXTINF:-1 tvg-name="MY ANIMAX" tvg-logo="http://kingtv.dynu.com/tvlogo/Animax.png" group-title="KING TV",MY ANIMAX
-http://31.42.187.37:25461/watchpad13158/1234/92
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="http://kingtv.dynu.com/tvlogo/Cartoon_Network.png" group-title="KING TV",Cartoon Network
-http://31.42.187.37:25461/watchpad13158/1234/15608
-#EXTINF:-1 tvg-name="Rock Entertainment" tvg-logo="http://kingtv.dynu.com/tvlogo/RockEntertainment.png" group-title="KING TV",Rock Entertainment
-http://31.42.187.37:25461/watchpad13158/1234/335
-#EXTINF:-1 tvg-id="112" tvg-name="Global Trekker" tvg-logo="http://kingtv.dynu.com/tvlogo/globaltrekker.png" group-title="KING TV",Global Trekker
-http://31.42.187.37:25461/watchpad13158/1234/342
-#EXTINF:-1 tvg-id="450.astro" tvg-name="HBO Family" tvg-logo="http://kingtv.dynu.com/tvlogo/HBO_Family.png" group-title="KING TV",HBO Family
-http://31.42.187.37:25461/watchpad13158/1234/2442
-#EXTINF:-1 tvg-name="Paramount Channel" tvg-logo="http://kingtv.dynu.com/tvlogo/Paramount.png" group-title="KING TV",Paramount Channel
-http://31.42.187.37:25461/watchpad13158/1234/3041
-#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="http://kingtv.dynu.com/tvlogo/HBOHits.png" group-title="KING TV",HBO Hits
-http://31.42.187.37:25461/watchpad13158/1234/3042
-#EXTINF:-1 tvg-id="454.astro" tvg-name="SHOWCASE MOVIES" tvg-logo="http://kingtv.dynu.com/tvlogo/showcase-movies.png" group-title="KING TV",SHOWCASE MOVIES
-http://31.42.187.37:25461/watchpad13158/1234/4314
-#EXTINF:-1 tvg-name="AOD: Marvel Movies Films " tvg-logo="http://kingtv.dynu.com/tvlogo/AOD.png" group-title="KING TV",AOD: Marvel Movies Films 
-http://31.42.187.37:25461/watchpad13158/1234/4327
-#EXTINF:-1 tvg-id="131.astro" tvg-name="MY AXN HD" tvg-logo="http://kingtv.dynu.com/tvlogo/AXN.png" group-title="KING TV",MY AXN HD
-http://31.42.187.37:25461/watchpad13158/1234/17
-#EXTINF:-1 tvg-name="Rock Actions" tvg-logo="http://kingtv.dynu.com/tvlogo/RockActions.png" group-title="KING TV",Rock Actions
-http://31.42.187.37:25461/watchpad13158/1234/27
-#EXTINF:-1 tvg-id="337.astro" tvg-name="MY CINEMAX HD" tvg-logo="http://kingtv.dynu.com/tvlogo/cinemax.png" group-title="KING TV",MY CINEMAX HD
-http://31.42.187.37:25461/watchpad13158/1234/28
-#EXTINF:-1 tvg-id="143.astro" tvg-name="MY HBO HD" tvg-logo="http://kingtv.dynu.com/tvlogo/HBO.png" group-title="KING TV",MY HBO HD
-http://31.42.187.37:25461/watchpad13158/1234/47
-#EXTINF:-1 tvg-name="MY HITS HD" tvg-logo="http://kingtv.dynu.com/tvlogo/HitsHD.png" group-title="KING TV",MY HITS HD
-http://31.42.187.37:25461/watchpad13158/1234/51
-#EXTINF:-1 tvg-id="201" tvg-name="Hits Movies" tvg-logo="http://kingtv.dynu.com/tvlogo/HitsMovies.png" group-title="KING TV",Hits Movies
-http://31.42.187.37:25461/watchpad13158/1234/85
-#EXTINF:-1 tvg-name="MY tvN Movies" tvg-logo="http://kingtv.dynu.com/tvlogo/tvN_Movies.png" group-title="KING TV",MY tvN Movies
-http://31.42.187.37:25461/watchpad13158/1234/103
-#EXTINF:-1 tvg-id="WAR.Asia" tvg-name="MY WARNER TV" tvg-logo="http://kingtv.dynu.com/tvlogo/Warner.png" group-title="KING TV",MY WARNER TV
-http://31.42.187.37:25461/watchpad13158/1234/104
-#EXTINF:-1 tvg-name="AFN HD" tvg-logo="http://kingtv.dynu.com/tvlogo/AFN.png" group-title="KING TV",AFN HD
-http://31.42.187.37:25461/watchpad13158/1234/337
-#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="http://kingtv.dynu.com/tvlogo/BBC_Earth.png" group-title="KING TV",BBC Earth
-http://31.42.187.37:25461/watchpad13158/1234/338
-#EXTINF:-1 tvg-name="Lifetime" tvg-logo="http://kingtv.dynu.com/tvlogo/lifetime.png" group-title="KING TV",Lifetime
-http://31.42.187.37:25461/watchpad13158/1234/339
-#EXTINF:-1 tvg-id="377.astro" tvg-name="MY Animal Planet HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Animal_Planet.png" group-title="KING TV",MY Animal Planet HD
-http://31.42.187.37:25461/watchpad13158/1234/9
-#EXTINF:-1 tvg-name="LOVE NATURE" tvg-logo="http://kingtv.dynu.com/tvlogo/LoveNature.png" group-title="KING TV",LOVE NATURE
-http://31.42.187.37:25461/watchpad13158/1234/33
-#EXTINF:-1 tvg-name="MY Discovery Asia" tvg-logo="http://kingtv.dynu.com/tvlogo/Discovery_Asia.png" group-title="KING TV",MY Discovery Asia
-http://31.42.187.37:25461/watchpad13158/1234/34
-#EXTINF:-1 tvg-name="MY Discovery HD" tvg-logo="http://kingtv.dynu.com/tvlogo/DiscoveryHD.png" group-title="KING TV",MY Discovery HD
-http://31.42.187.37:25461/watchpad13158/1234/35
-#EXTINF:-1 tvg-name="MY DMAX HD" tvg-logo="http://kingtv.dynu.com/tvlogo/DMAX_HD.png" group-title="KING TV",MY DMAX HD
-http://31.42.187.37:25461/watchpad13158/1234/39
-#EXTINF:-1 tvg-name="MY Food Network HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Food_Network.png" group-title="KING TV",MY Food Network HD
-http://31.42.187.37:25461/watchpad13158/1234/42
-#EXTINF:-1 tvg-name="MY HGTV HD" tvg-logo="http://kingtv.dynu.com/tvlogo/HGTV.png" group-title="KING TV",MY HGTV HD
-http://31.42.187.37:25461/watchpad13158/1234/49
-#EXTINF:-1 tvg-name="MY HISTORY HD" tvg-logo="http://kingtv.dynu.com/tvlogo/History.png" group-title="KING TV",MY HISTORY HD
-http://31.42.187.37:25461/watchpad13158/1234/50
-#EXTINF:-1 tvg-name="MTV" tvg-logo="http://kingtv.dynu.com/tvlogo/MTV.png" group-title="KING TV",MTV
-http://31.42.187.37:25461/watchpad13158/1234/57
-#EXTINF:-1 tvg-name="MY TLC HD" tvg-logo="http://kingtv.dynu.com/tvlogo/tlc.png" group-title="KING TV",MY TLC HD
-http://31.42.187.37:25461/watchpad13158/1234/74
-#EXTINF:-1 tvg-name="MY Nat Geo Wild HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Nat_Geo_Wild.png" group-title="KING TV",MY Nat Geo Wild HD
-http://31.42.187.37:25461/watchpad13158/1234/102
-#EXTINF:-1 tvg-id="297.astro" tvg-name="ZEE TAMIL HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Zee-Tamil.png" group-title="KING TV",ZEE TAMIL HD
-http://31.42.187.37:25461/watchpad13158/1234/343
-#EXTINF:-1 tvg-name="VELLITHIRAI" tvg-logo="http://kingtv.dynu.com/tvlogo/Vellithirai.png" group-title="KING TV",VELLITHIRAI
-http://31.42.187.37:25461/watchpad13158/1234/2290
-#EXTINF:-1 tvg-name="Zee Action" tvg-logo="http://kingtv.dynu.com/tvlogo/ZeeAction.png" group-title="KING TV",Zee Action
-http://31.42.187.37:25461/watchpad13158/1234/2994
-#EXTINF:-1 tvg-name="Sun Life" tvg-logo="http://kingtv.dynu.com/tvlogo/SunLife.png" group-title="KING TV",Sun Life
-http://31.42.187.37:25461/watchpad13158/1234/4026
-#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Zee_CinemaHD.png" group-title="KING TV",Zee Cinema HD
-http://31.42.187.37:25461/watchpad13158/1234/2555
-#EXTINF:-1 tvg-name="Pictures" tvg-logo="http://kingtv.dynu.com/tvlogo/picture.png" group-title="KING TV",Pictures
-http://31.42.187.37:25461/watchpad13158/1234/26
-#EXTINF:-1 tvg-name="Astro Vaanavil" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Vaanavil.png" group-title="KING TV",Astro Vaanavil
-http://31.42.187.37:25461/watchpad13158/1234/31
-#EXTINF:-1 tvg-id="357.astro" tvg-name="STAR VIJAY" tvg-logo="http://kingtv.dynu.com/tvlogo/starvijay.png" group-title="KING TV",STAR VIJAY
-http://31.42.187.37:25461/watchpad13158/1234/71
-#EXTINF:-1 tvg-id="212" tvg-name="MY SUN MUSIC" tvg-logo="https://i.pinimg.com/originals/99/9a/24/999a242ede00cf57a920fb833cfc5bf7.png" group-title="KING TV",MY SUN MUSIC
-http://31.42.187.37:25461/watchpad13158/1234/72
-#EXTINF:-1 tvg-id="358.astro" tvg-name="MY SUN TV HD" tvg-logo="https://i.pinimg.com/originals/38/f1/2b/38f12b49871e9e0d38c0c82dd232c0e6.png" group-title="KING TV",MY SUN TV HD
-http://31.42.187.37:25461/watchpad13158/1234/73
-#EXTINF:-1 tvg-name="MY COLORS TAMIL" tvg-logo="http://kingtv.dynu.com/tvlogo/Colors_Tamil.png" group-title="KING TV",MY COLORS TAMIL
-http://31.42.187.37:25461/watchpad13158/1234/95
-#EXTINF:-1 tvg-id="KAI.HK" tvg-name="Colors Hindi HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Colors.Hindi.png" group-title="KING TV",Colors Hindi HD
-http://31.42.187.37:25461/watchpad13158/1234/188
-#EXTINF:-1 tvg-name="ASTRO Adithya" tvg-logo="http://kingtv.dynu.com/tvlogo/Adithya.png" group-title="KING TV",ASTRO Adithya
-http://31.42.187.37:25461/watchpad13158/1234/15607
-#EXTINF:-1 tvg-name="216 KTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/477_144.png" group-title="KING TV",216 KTV
-http://31.42.187.37:25461/watchpad13158/1234/18085
-#EXTINF:-1 tvg-id="182.astro" tvg-name="Astro AEC (backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/AEC.png" group-title="KING TV",Astro AEC (backup)
-http://31.42.187.37:25461/watchpad13158/1234/359
-#EXTINF:-1 tvg-name="AOD The Queen of News 新聞女王" tvg-logo="http://kingtv.dynu.com/tvlogo/AOD.png" group-title="KING TV",AOD The Queen of News 新聞女王
-http://31.42.187.37:25461/watchpad13158/1234/4329
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV TV8" tvg-logo="http://kingtv.dynu.com/tvlogo/8TV_my.png" group-title="KING TV",8TV TV8
-http://31.42.187.37:25461/watchpad13158/1234/4
-#EXTINF:-1 tvg-id="AstroAEC" tvg-name="Astro AEC HD" tvg-logo="http://kingtv.dynu.com/tvlogo/AEC.png" group-title="KING TV",Astro AEC HD
-http://31.42.187.37:25461/watchpad13158/1234/7
-#EXTINF:-1 tvg-name="AOD311华语" tvg-logo="http://kingtv.dynu.com/tvlogo/AOD.png" group-title="KING TV",AOD311华语
-http://31.42.187.37:25461/watchpad13158/1234/12
-#EXTINF:-1 tvg-name="AOD311粤语" tvg-logo="http://kingtv.dynu.com/tvlogo/AOD.png" group-title="KING TV",AOD311粤语
-http://31.42.187.37:25461/watchpad13158/1234/13
-#EXTINF:-1 tvg-id="711" tvg-name="MY CCM" tvg-logo="http://kingtv.dynu.com/tvlogo/CCM.png" group-title="KING TV",MY CCM
-http://31.42.187.37:25461/watchpad13158/1234/22
-#EXTINF:-1 tvg-id="335" tvg-name="CCTV4" tvg-logo="http://kingtv.dynu.com/tvlogo/cctv4.png" group-title="KING TV",CCTV4
-http://31.42.187.37:25461/watchpad13158/1234/23
-#EXTINF:-1 tvg-id="309" tvg-name="MY CELESTIAL HD" tvg-logo="http://kingtv.dynu.com/tvlogo/CELESTIAL.png" group-title="KING TV",MY CELESTIAL HD
-http://31.42.187.37:25461/watchpad13158/1234/24
-#EXTINF:-1 tvg-id="162.astro" tvg-name="Astro HUA HEE DAI HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_HHD.png" group-title="KING TV",Astro HUA HEE DAI HD
-http://31.42.187.37:25461/watchpad13158/1234/52
-#EXTINF:-1 tvg-id="300" tvg-name="MY iQIYI HD" tvg-logo="http://kingtv.dynu.com/tvlogo/iqiyicom.png" group-title="KING TV",MY iQIYI HD
-http://31.42.187.37:25461/watchpad13158/1234/53
-#EXTINF:-1 tvg-id="425.astro" tvg-name="MY TVB CLASSIC" tvg-logo="http://kingtv.dynu.com/tvlogo/TVB_HK.png" group-title="KING TV",MY TVB CLASSIC
-http://31.42.187.37:25461/watchpad13158/1234/78
-#EXTINF:-1 tvg-id="711" tvg-name="MY TVB JADE" tvg-logo="http://kingtv.dynu.com/tvlogo/tvb_jade.png" group-title="KING TV",MY TVB JADE
-http://31.42.187.37:25461/watchpad13158/1234/80
-#EXTINF:-1 tvg-id="383.astro" tvg-name="MY TVB XING HE" tvg-logo="http://kingtv.dynu.com/tvlogo/xinghe.png" group-title="KING TV",MY TVB XING HE
-http://31.42.187.37:25461/watchpad13158/1234/81
-#EXTINF:-1 tvg-name="8TV TV8 (backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/8TV_my.png" group-title="KING TV",8TV TV8 (backup)
-http://31.42.187.37:25461/watchpad13158/1234/11484
-#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="http://kingtv.dynu.com/tvlogo/QJ.png" group-title="KING TV",Astro QJ
-http://31.42.187.37:25461/watchpad13158/1234/12290
-#EXTINF:-1 tvg-name="AOD Sinister Beings 2 逆天奇案2" tvg-logo="http://kingtv.dynu.com/tvlogo/AOD.png" group-title="KING TV",AOD Sinister Beings 2 逆天奇案2
-http://31.42.187.37:25461/watchpad13158/1234/14788
-#EXTINF:-1 tvg-id="TV1" tvg-name="Channel 5" tvg-logo="http://kingtv.dynu.com/tvlogo/SG_Ch5.png" group-title="KING TV",Channel 5
-http://31.42.187.37:25461/watchpad13158/1234/1855
-#EXTINF:-1 tvg-id="TV1" tvg-name="Channel 8" tvg-logo="http://kingtv.dynu.com/tvlogo/SG_Ch8.png" group-title="KING TV",Channel 8
-http://31.42.187.37:25461/watchpad13158/1234/1856
-#EXTINF:-1 tvg-id="TV1" tvg-name="Channel U" tvg-logo="http://kingtv.dynu.com/tvlogo/SG_ChU.png" group-title="KING TV",Channel U
-http://31.42.187.37:25461/watchpad13158/1234/1857
-#EXTINF:-1 tvg-id="TV1" tvg-name="VASANTHAM" tvg-logo="http://kingtv.dynu.com/tvlogo/Vasantham.png" group-title="KING TV",VASANTHAM
-http://31.42.187.37:25461/watchpad13158/1234/2302
-#EXTINF:-1 tvg-id="TV1" tvg-name="Suria" tvg-logo="http://kingtv.dynu.com/tvlogo/Mediacorp_Suria.png" group-title="KING TV",Suria
-http://31.42.187.37:25461/watchpad13158/1234/2554
-#EXTINF:-1 tvg-name="Trans 7" tvg-logo="http://kingtv.dynu.com/tvlogo/Trans7.png" group-title="KING TV",Trans 7
-http://31.42.187.37:25461/watchpad13158/1234/2008
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="http://kingtv.dynu.com/tvlogo/sctv.png" group-title="KING TV",SCTV
-http://31.42.187.37:25461/watchpad13158/1234/4159
-#EXTINF:-1 tvg-name="TVRI National" tvg-logo="http://kingtv.dynu.com/tvlogo/TVRI.png" group-title="KING TV",TVRI National
-http://31.42.187.37:25461/watchpad13158/1234/19
-#EXTINF:-1 tvg-name="TransTV" tvg-logo="http://kingtv.dynu.com/tvlogo/Trans7.png" group-title="KING TV",TransTV
-http://31.42.187.37:25461/watchpad13158/1234/29
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="http://kingtv.dynu.com/tvlogo/RCTI.png" group-title="KING TV",RCTI
-http://31.42.187.37:25461/watchpad13158/1234/91
-#EXTINF:-1 tvg-name="Metro TV" tvg-logo="http://kingtv.dynu.com/tvlogo/metrotv.png" group-title="KING TV",Metro TV
-http://31.42.187.37:25461/watchpad13158/1234/101
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://kingtv.dynu.com/tvlogo/cctv1.png" group-title="KING TV",CCTV-1
-http://31.42.187.37:25461/watchpad13158/1234/97
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://kingtv.dynu.com/tvlogo/JSTV.png" group-title="KING TV",江苏卫视
-http://31.42.187.37:25461/watchpad13158/1234/181
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://kingtv.dynu.com/tvlogo/CN_ZTV.png" group-title="KING TV",浙江卫视
-http://31.42.187.37:25461/watchpad13158/1234/182
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://kingtv.dynu.com/tvlogo/HNSTV.png" group-title="KING TV",湖南卫视
-http://31.42.187.37:25461/watchpad13158/1234/183
+
 
 
 
