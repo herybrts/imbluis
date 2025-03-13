@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTM3U billed-msg="HERYARTS PLAYLIST - NOT FOR SALE"
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjMdp1LGyMemail3SzBwJz3SnF4wQLjkZ3Jp1nnuqRDM_d2VR6H1NhnNNNMu4XRKAPMTEmsgtbGJUEnBZD-TTfaiA4V59ZAMg3r-dQHHn62_xI72ToOJgAFFfzrXi9IuEU3rZ4nMDDiLSrPb0kmJ-lFB1y5zyjKpVH1oDNW7keYy_i-aRHvUngk1qmCsOl/s700/RASYAAD%20TV.png" group-title="BULTANG" ,BWF TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UChh-akEbUM8_6ghGVnJd6cQ
+
 #EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png" group-title="LIVE TEST",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 https://elitestreamid.xyz/scripts/vidio/hls.php/stream.m3u8?id=204
